@@ -2,6 +2,7 @@ const Parser = require('rss-parser');
 const fs = require('fs');
 
 const parser = new Parser({
+    timeout: 10000,
     customFields: {
         item: [
             ['description', 'description'],
