@@ -77,11 +77,17 @@ async function fetchAllFeeds() {
                 let pubDate = item.pubDate || item.isoDate || new Date().toISOString();
                 let dateObj = new Date(pubDate);
 
+                let link = item.link || '#';
+                // Fix MSRC broken routing
+                if (link.includes('msrc.microsoft.com/update-guide/vulnerability/')) {
+                    link = link.replace('update-guide/vulnerability/', 'update-guide/en-US/vulnerability/');
+                }
+
                 return {
                     source: source.name,
                     icon: source.icon,
                     title: escapeHtml(item.title || 'No Title'),
-                    link: item.link || '#',
+                    link: link,
                     date: dateObj.toISOString(),
                     snippet: escapeHtml(snippet || 'No description available.'),
                     tags: source.tags || []
