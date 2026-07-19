@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft CoE Intelligence Dashboard</title>
+    <!-- Tailwind CSS (Play CDN) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Tailwind Config -->
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        msBlue: '#0078D4',
+                        darkBg: '#0f172a', /* slate-900 */
+                        darkCard: '#1e293b', /* slate-800 */
+                        darkBorder: '#334155', /* slate-700 */
+                        critical: '#dc2626', /* red-600 */
+                        high: '#ea580c', /* orange-600 */
+                        medium: '#eab308', /* yellow-500 */
+                        low: '#22c55e', /* green-500 */
+                    },
+                    fontFamily: {
+                        sans: ['Segoe UI', 'Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+                    },
+                    animation: {
+                        'spin-slow': 'spin 3s linear infinite',
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        /* Custom Scrollbar for a premium feel */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+        .dark ::-webkit-scrollbar-thumb {
+            background: #475569;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+        .dark ::-webkit-scrollbar-thumb:hover {
+            background: #64748b;
+        }
+
+        /* Micro-animations */
+        .hover-lift {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        .hover-lift:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .dark .hover-lift:hover {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Clamp lines for descriptions */
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .line-clamp-1 {
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        /* Hide elements by default if they shouldn't be seen initially */
+        .hidden-default { display: none; }
+    </style>
+</head>
+<body class="bg-gray-50 dark:bg-darkBg text-gray-900 dark:text-gray-100 min-h-screen flex flex-col transition-colors duration-300 antialiased">
+    
+    <!-- Header -->
+    <header class="sticky top-0 z-40 w-full backdrop-blur-lg bg-white/80 dark:bg-darkBg/80 border-b border-gray-200 dark:border-darkBorder shadow-sm">
+        <div class="max-w-none mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <i class="ph ph-microsoft-logo text-3xl text-msBlue"></i>
+                <h1 class="text-xl font-semibold tracking-tight hidden sm:block">Microsoft Intelligence Dashboard (MCoE)</h1>
+                <h1 class="text-xl font-semibold tracking-tight sm:hidden">MCoE Dashboard</h1>
+            </div>
+            
+            <div class="flex items-center gap-2 sm:gap-4">
+                <div class="text-xs text-gray-500 dark:text-gray-400 hidden md:block">
+                    Last sync: <span id="last-sync-time">Never</span>
+                </div>
+                
+                <button id="btn-refresh" class="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-darkBorder transition-colors flex items-center gap-2 text-sm font-medium" title="Refresh Data">
+                    <i class="ph ph-arrows-clockwise text-lg" id="refresh-icon"></i>
+                    <span class="hidden sm:inline">Refresh</span>
+                </button>
+                
+                <button id="btn-export" class="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-darkBorder transition-colors flex items-center gap-2 text-sm font-medium" title="Export Current View">
+                    <i class="ph ph-download-simple text-lg"></i>
+                    <span class="hidden sm:inline">Export</span>
+                </button>
+
+                <div class="h-6 w-px bg-gray-300 dark:bg-darkBorder mx-1"></div>
+
+                <button id="btn-theme" class="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-darkBorder transition-colors" title="Toggle Theme">
+                    <i class="ph ph-moon text-lg" id="theme-icon"></i>
+                </button>
+
+                <button id="btn-settings" class="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-darkBorder transition-colors" title="Settings">
+                    <i class="ph ph-gear text-lg"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sub-Header/Product Filter Menu Bar -->
+    <div class="bg-gray-100 dark:bg-darkCard border-b border-gray-200 dark:border-darkBorder py-3">
+        <div class="max-w-none mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-start md:items-center gap-3">
+            <span class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider md:pt-1">Product Filter:</span>
+            <div class="flex flex-wrap gap-2" id="filter-product">
+                <button class="filter-btn-prod active px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="all">All Products</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Windows">Windows</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Azure">Azure</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="SharePoint">SharePoint</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="OneDrive">OneDrive</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Intune">Intune</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Defender">Defender</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Exchange">Exchange</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Teams">Teams</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Microsoft 365 Apps">M365 Apps</button>
+                <button class="filter-btn-prod px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-sm data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="Edge">Edge</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-none w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col gap-6">
+        
+        <!-- KPI Cards -->
+        <section id="kpis" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <!-- Critical Vulnerabilities -->
+            <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder p-4 shadow-sm hover-lift flex items-center justify-between">
+                <div>
+                    <p class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 tracking-wider">Critical Vulnerabilities</p>
+                    <p class="text-3xl font-bold text-critical mt-1" id="kpi-critical">-</p>
+                </div>
+                <div class="p-3 bg-red-100 dark:bg-red-900/30 rounded-full text-critical">
+                    <i class="ph ph-warning-octagon text-2xl"></i>
+                </div>
+            </div>
+            <!-- High Vulnerabilities -->
+            <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder p-4 shadow-sm hover-lift flex items-center justify-between">
+                <div>
+                    <p class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 tracking-wider">High Vulnerabilities</p>
+                    <p class="text-3xl font-bold text-high mt-1" id="kpi-high">-</p>
+                </div>
+                <div class="p-3 bg-orange-100 dark:bg-orange-900/30 rounded-full text-high">
+                    <i class="ph ph-warning text-2xl"></i>
+                </div>
+            </div>
+            <!-- Total Tracked -->
+            <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder p-4 shadow-sm hover-lift flex items-center justify-between">
+                <div>
+                    <p class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 tracking-wider">Tracked Vulnerabilities</p>
+                    <p class="text-3xl font-bold text-msBlue mt-1" id="kpi-total">-</p>
+                </div>
+                <div class="p-3 bg-blue-100 dark:bg-blue-900/30 rounded-full text-msBlue">
+                    <i class="ph ph-shield-check text-2xl"></i>
+                </div>
+            </div>
+            <!-- News Items -->
+            <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder p-4 shadow-sm hover-lift flex items-center justify-between">
+                <div>
+                    <p class="text-xs font-semibold uppercase text-gray-500 dark:text-gray-400 tracking-wider">Recent News Items</p>
+                    <p class="text-3xl font-bold text-gray-700 dark:text-gray-200 mt-1" id="kpi-news">-</p>
+                </div>
+                <div class="p-3 bg-gray-100 dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300">
+                    <i class="ph ph-newspaper text-2xl"></i>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Access / Health Cards -->
+        <section class="w-full">
+            <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder shadow-sm p-4">
+                <h2 class="text-lg font-semibold flex items-center gap-2 mb-4 border-b border-gray-200 dark:border-darkBorder pb-2">
+                    <i class="ph ph-heartbeat text-msBlue"></i> Service & Release Health
+                </h2>
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+                    <a href="https://status.azure.com/" target="_blank" class="flex items-center gap-3 p-3 rounded-md border border-gray-200 dark:border-darkBorder hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors group">
+                        <div class="p-2 bg-blue-100 dark:bg-blue-900/30 rounded text-msBlue group-hover:scale-110 transition-transform"><i class="ph ph-cloud text-xl"></i></div>
+                        <div>
+                            <h3 class="font-medium text-sm">Azure Status</h3>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">Global service health</p>
+                        </div>
+                    </a>
+                    <a href="https://admin.microsoft.com/Adminportal/Home?#/servicehealth" target="_blank" class="flex items-center gap-3 p-3 rounded-md border border-gray-200 dark:border-darkBorder hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors group">
+                        <div class="p-2 bg-purple-100 dark:bg-purple-900/30 rounded text-purple-600 group-hover:scale-110 transition-transform"><i class="ph ph-microsoft-teams text-xl"></i></div>
+                        <div>
+                            <h3 class="font-medium text-sm">M365 Service Health</h3>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">Tenant-specific health</p>
+                        </div>
+                    </a>
+                    <a href="https://admin.microsoft.com/Adminportal/Home?#/MessageCenter" target="_blank" class="flex items-center gap-3 p-3 rounded-md border border-gray-200 dark:border-darkBorder hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors group">
+                        <div class="p-2 bg-green-100 dark:bg-green-900/30 rounded text-green-600 group-hover:scale-110 transition-transform"><i class="ph ph-envelope-open text-xl"></i></div>
+                        <div>
+                            <h3 class="font-medium text-sm">Message Center</h3>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">Upcoming tenant changes</p>
+                        </div>
+                    </a>
+                    <a href="https://learn.microsoft.com/en-us/windows/release-health/" target="_blank" class="flex items-center gap-3 p-3 rounded-md border border-gray-200 dark:border-darkBorder hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors group">
+                        <div class="p-2 bg-teal-100 dark:bg-teal-900/30 rounded text-teal-600 group-hover:scale-110 transition-transform"><i class="ph ph-windows-logo text-xl"></i></div>
+                        <div>
+                            <h3 class="font-medium text-sm">Windows Release Health</h3>
+                            <p class="text-xs text-gray-500 dark:text-gray-400">Known issues & updates</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Grid Layout -->
+        <div class="grid grid-cols-1 xl:grid-cols-2 gap-6">
+            
+            <!-- Left Column (Vulnerabilities) -->
+            <section class="flex flex-col gap-4">
+                <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder shadow-sm flex flex-col h-[800px]">
+                    <!-- Section Header & Controls -->
+                    <div class="p-4 border-b border-gray-200 dark:border-darkBorder flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+                        <h2 class="text-lg font-semibold flex items-center gap-2">
+                            <i class="ph ph-shield-warning text-msBlue"></i> Microsoft Vulnerabilities
+                        </h2>
+                        
+                        <div class="flex items-center gap-2 w-full sm:w-auto">
+                            <!-- Search -->
+                            <div class="relative w-full sm:w-64">
+                                <i class="ph ph-magnifying-glass absolute left-3 top-1/2 -translate-y-1/2 text-gray-400"></i>
+                                <input type="text" id="search-vuln" placeholder="Search CVEs, products..." class="w-full pl-9 pr-4 py-1.5 text-sm rounded-md border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg focus:ring-2 focus:ring-msBlue focus:border-msBlue outline-none transition-shadow text-gray-900 dark:text-gray-100">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Filters -->
+                    <div class="p-4 border-b border-gray-200 dark:border-darkBorder bg-gray-50/50 dark:bg-darkBg/50 flex flex-col gap-3 text-sm">
+                        <div class="flex items-start gap-4">
+                            <span class="font-medium text-gray-500 dark:text-gray-400 w-16 pt-1">Severity:</span>
+                            <div class="flex flex-wrap gap-2" id="filter-severity">
+                                <button class="filter-btn active px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors data-[active=true]:bg-msBlue data-[active=true]:text-white data-[active=true]:border-msBlue" data-val="all">All</button>
+                                <button class="filter-btn px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors data-[active=true]:bg-critical data-[active=true]:text-white data-[active=true]:border-critical" data-val="CRITICAL">Critical</button>
+                                <button class="filter-btn px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors data-[active=true]:bg-high data-[active=true]:text-white data-[active=true]:border-high" data-val="HIGH">High</button>
+                                <button class="filter-btn px-3 py-1 rounded-full border border-gray-300 dark:border-darkBorder bg-white dark:bg-darkCard hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors data-[active=true]:bg-medium data-[active=true]:text-white data-[active=true]:border-medium" data-val="MEDIUM">Medium</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Vuln Data Area -->
+                    <div class="flex-grow overflow-auto relative">
+                        <!-- Loading State -->
+                        <div id="vuln-loader" class="absolute inset-0 bg-white/50 dark:bg-darkCard/50 backdrop-blur-sm flex flex-col items-center justify-center z-10">
+                            <i class="ph ph-spinner-gap text-4xl text-msBlue animate-spin"></i>
+                            <p class="mt-2 text-sm font-medium">Fetching vulnerabilities...</p>
+                        </div>
+                        
+                        <!-- Empty State -->
+                        <div id="vuln-empty" class="hidden absolute inset-0 flex flex-col items-center justify-center text-gray-500 z-0">
+                            <i class="ph ph-magnifying-glass text-4xl mb-2"></i>
+                            <p>No vulnerabilities found matching filters.</p>
+                        </div>
+
+                        <!-- Data Table/List -->
+                        <div class="min-w-full inline-block align-middle">
+                            <table class="min-w-full divide-y divide-gray-200 dark:divide-darkBorder">
+                                <thead class="bg-gray-50 dark:bg-darkBg sticky top-0 z-0 shadow-sm">
+                                    <tr>
+                                        <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700 dark:hover:text-gray-300" onclick="sortVulns('id')">CVE ID <i class="ph ph-caret-up down hidden"></i></th>
+                                        <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Name</th>
+                                        <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700 dark:hover:text-gray-300" onclick="sortVulns('score')">Severity <i class="ph ph-caret-down"></i></th>
+                                        <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Affected Products</th>
+                                        <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700 dark:hover:text-gray-300" onclick="sortVulns('date')">Published <i class="ph ph-caret-up down hidden"></i></th>
+                                        <th scope="col" class="relative px-6 py-3"><span class="sr-only">Details</span></th>
+                                    </tr>
+                                </thead>
+                                <tbody id="vuln-list" class="divide-y divide-gray-200 dark:divide-darkBorder bg-white dark:bg-darkCard">
+                                    <!-- Rows injected via JS -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Column (News) -->
+            <section class="flex flex-col gap-6">
+                
+                <!-- RSS News Feed -->
+                <div class="bg-white dark:bg-darkCard rounded-lg border border-gray-200 dark:border-darkBorder shadow-sm flex flex-col flex-grow h-[800px]">
+                    <div class="p-4 border-b border-gray-200 dark:border-darkBorder flex justify-between items-center">
+                        <h2 class="text-lg font-semibold flex items-center gap-2">
+                            <i class="ph ph-article text-msBlue"></i> Latest News
+                        </h2>
+                        <div id="sync-status" class="text-xs font-medium text-gray-500 dark:text-gray-400 flex items-center gap-1">
+                            <!-- Status updated via JS -->
+                        </div>
+                    </div>
+                    <div class="flex-grow overflow-auto relative p-4" id="news-container">
+                        <!-- Loader -->
+                        <div id="news-loader" class="absolute inset-0 bg-white/80 dark:bg-darkCard/80 flex flex-col items-center justify-center z-10 hidden">
+                            <i class="ph ph-spinner-gap text-3xl text-msBlue animate-spin"></i>
+                            <p id="news-loader-text" class="mt-2 text-sm font-medium text-gray-600 dark:text-gray-300">Initializing cache...</p>
+                        </div>
+                        <!-- List -->
+                        <div id="news-list" class="flex flex-col gap-4">
+                            <!-- Items injected via JS -->
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-200 dark:border-darkBorder py-6 mt-8 text-center text-xs text-gray-500 dark:text-gray-400">
+        <p>Aggregated from public NVD, RSS feeds, and Microsoft documentation. Always verify in official portals.</p>
+        <p class="mt-1">Built for Microsoft Center of Excellence.</p>
+    </footer>
+
+    <!-- Modals -->
+    <!-- Backdrop -->
+    <div id="modal-backdrop" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 hidden opacity-0 transition-opacity duration-300"></div>
+
+    <!-- Settings Modal -->
+    <div id="settings-modal" class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-md bg-white dark:bg-darkCard rounded-xl shadow-2xl z-50 hidden opacity-0 scale-95 transition-all duration-300 flex flex-col overflow-hidden">
+        <div class="flex justify-between items-center p-4 border-b border-gray-200 dark:border-darkBorder">
+            <h2 class="text-lg font-bold flex items-center gap-2"><i class="ph ph-gear"></i> Settings</h2>
+            <button class="settings-close p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full transition-colors">
+                <i class="ph ph-x text-xl"></i>
+            </button>
+        </div>
+        <div class="p-6 overflow-y-auto flex flex-col gap-6">
+            <!-- Time Range -->
+            <div>
+                <label class="block text-sm font-medium mb-2">Vulnerability Lookback Period</label>
+                <select id="setting-days" class="w-full p-2 rounded border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg outline-none">
+                    <option value="7">Last 7 Days</option>
+                    <option value="30">Last 30 Days (Default)</option>
+                    <option value="90">Last 90 Days</option>
+                </select>
+            </div>
+            
+            <!-- API Key -->
+            <div>
+                <label class="block text-sm font-medium mb-1">NVD API Key (Optional)</label>
+                <p class="text-xs text-gray-500 mb-2">Provides higher rate limits (50 req/30s vs 5 req/30s). Saved locally.</p>
+                <input type="password" id="setting-apikey" placeholder="Enter API Key" class="w-full p-2 rounded border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg outline-none font-mono text-sm">
+            </div>
+
+            <!-- RSS Sources -->
+            <div class="max-h-[300px] overflow-y-auto border border-gray-200 dark:border-darkBorder p-3 rounded">
+                <label class="block text-sm font-semibold mb-3 sticky top-0 bg-white dark:bg-darkCard z-10 pb-1 border-b border-gray-100 dark:border-darkBorder">News Sources by Product</label>
+                <div class="flex flex-col gap-4 text-sm">
+                    
+                    <!-- Dynamic RSS Feeds -->
+                    <div class="mb-5">
+                        <div class="flex justify-between items-center mb-2">
+                            <h3 class="text-sm font-bold text-gray-700 dark:text-gray-200">RSS News Sources</h3>
+                            <button id="btn-add-feed" onclick="openFeedModal()" class="text-xs text-msBlue hover:underline flex items-center gap-1"><i class="ph ph-plus"></i> Add Source</button>
+                        </div>
+                        <div id="settings-feed-list" class="flex flex-col gap-2 max-h-64 overflow-y-auto pr-2">
+                            <!-- Rendered via JS -->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Cache -->
+            <div class="pt-4 border-t border-gray-200 dark:border-darkBorder">
+                <button id="btn-clear-cache" class="w-full py-2 bg-red-100 hover:bg-red-200 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-critical font-medium rounded transition-colors text-sm">
+                    Clear Local Cache
+                </button>
+            </div>
+        </div>
+        <div class="p-4 border-t border-gray-200 dark:border-darkBorder flex justify-end gap-2 bg-gray-50 dark:bg-darkBg/50">
+            <button class="settings-close px-4 py-2 rounded text-sm font-medium hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">Cancel</button>
+            <button id="btn-save-settings" class="px-4 py-2 rounded bg-msBlue text-white text-sm font-medium hover:bg-blue-700 transition-colors">Save & Reload</button>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container" class="fixed bottom-4 right-4 z-50 flex flex-col gap-2 pointer-events-none"></div>
+
+    <!-- Add/Edit Feed Modal -->
+    <div id="feed-modal" class="fixed inset-0 bg-black/50 backdrop-blur-sm z-[60] hidden opacity-0 transition-opacity duration-300 flex items-center justify-center">
+        <div class="bg-white dark:bg-darkCard rounded-xl shadow-2xl p-6 w-full max-w-sm flex flex-col gap-4 transform scale-95 transition-all duration-300">
+            <h2 id="feed-modal-title" class="text-lg font-bold">Add RSS Source</h2>
+            <input type="hidden" id="feed-id">
+            
+            <div class="flex flex-col gap-1">
+                <label class="text-xs font-semibold text-gray-500">Name</label>
+                <input type="text" id="feed-name" placeholder="e.g. Contoso Blog" class="w-full px-3 py-2 text-sm rounded border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg focus:ring-2 focus:ring-msBlue outline-none">
+            </div>
+            
+            <div class="flex flex-col gap-1">
+                <label class="text-xs font-semibold text-gray-500">RSS/Atom URL</label>
+                <input type="text" id="feed-url" placeholder="https://..." class="w-full px-3 py-2 text-sm rounded border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg focus:ring-2 focus:ring-msBlue outline-none">
+            </div>
+
+            <div class="flex flex-col gap-1">
+                <label class="text-xs font-semibold text-gray-500">Tags (Comma separated)</label>
+                <input type="text" id="feed-tags" placeholder="e.g. Teams, Intune" class="w-full px-3 py-2 text-sm rounded border border-gray-300 dark:border-darkBorder bg-gray-50 dark:bg-darkBg focus:ring-2 focus:ring-msBlue outline-none">
+            </div>
+
+            <div class="flex justify-end gap-2 mt-2">
+                <button onclick="closeFeedModal()" class="px-4 py-2 rounded text-sm font-medium hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors">Cancel</button>
+                <button onclick="saveFeed()" class="px-4 py-2 rounded bg-msBlue text-white text-sm font-medium hover:bg-blue-700 transition-colors">Save Feed</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Application Script -->
+    <script>
+        /**
+         * State & Configuration
+         */
+        const STATE = {
+            vulns: [],
+            news: [],
+            allNewsCache: [],
+            daemon: {
+                queue: [],
+                isRunning: false,
+                lastRun: 0
+            },
+            filteredVulns: [],
+            sort: { column: 'score', dir: 'desc' }, // default sort by severity desc
+            filters: {
+                search: '',
+                severity: 'all',
+                product: 'all'
+            },
+            settings: {
+                lookbackDays: 30,
+                nvdApiKey: '',
+                theme: 'dark', // match html class default
+                rss: {
+                    winLatest: true, winBlog: true, azure: true, msBlog: true, m365: true, intune: true, defender: true,
+                    crowdstrike: true, anoop: true, andrew: true, msendpoint: true, prajwal: true, joymalya: true,
+                    patchmypc: true, peter: true, onedrive: true, sharepoint: true, defenderatp: true, appel: true,
+                    exchange: true, edgedev: true, aks: true, bacancy: true, azureupdates: true,
+                    teams: true, tomtalks: true, sharegate: true, practical365: true, teamsqueen: true
+                }
+            }
+        };
+
+        const DEFAULT_FEEDS = {
+            winLatest: { name: 'Windows Latest', url: 'https://www.windowslatest.com/feed', icon: 'ph-windows-logo', tags: ['Windows'] },
+            winBlog: { name: 'Windows Blog', url: 'https://blogs.windows.com/feed', icon: 'ph-windows-logo', tags: ['Windows'] },
+            azure: { name: 'Azure Blog', url: 'https://azure.microsoft.com/en-us/feed/', icon: 'ph-cloud', tags: ['Azure'] },
+            msBlog: { name: 'Microsoft Blog', url: 'https://blogs.microsoft.com/feed', icon: 'ph-microsoft-logo', tags: ['Windows', 'Microsoft 365 Apps', 'Azure'] },
+            m365: { name: 'M365 Blog', url: 'https://www.microsoft.com/en-us/microsoft-365/blog/feed/', icon: 'ph-microsoft-teams', tags: ['Microsoft 365 Apps'] },
+            intune: { name: 'Intune Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftIntuneBlog', icon: 'ph-devices', tags: ['Intune'] },
+            defender: { name: 'Security Blog (MS)', url: 'https://www.microsoft.com/en-us/security/blog/feed/', icon: 'ph-shield-check', tags: ['Defender'] },
+            crowdstrike: { name: 'CrowdStrike Blog', url: 'https://www.crowdstrike.com/en-us/blog/feed/', icon: 'ph-shield', tags: ['Defender'] },
+            anoop: { name: 'Anoop C Nair', url: 'https://www.anoopcnair.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            andrew: { name: 'Andrew Taylor', url: 'https://andrewstaylor.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            msendpoint: { name: 'MSEndpointMgr', url: 'https://msendpointmgr.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            prajwal: { name: 'Prajwal Desai', url: 'https://www.prajwaldesai.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            joymalya: { name: 'Joymalya Basu Roy', url: 'https://joymalya.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            patchmypc: { name: 'Patch My PC', url: 'https://patchmypc.com/feed', icon: 'ph-package', tags: ['Intune', 'Windows'] },
+            peter: { name: 'Peter van der Woude', url: 'https://petervanderwoude.nl/feed/', icon: 'ph-devices', tags: ['Intune'] },
+            onedrive: { name: 'OneDrive Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=OneDriveBlog', icon: 'ph-cloud-arrow-up', tags: ['OneDrive'] },
+            sharepoint: { name: 'SharePoint Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SharePointBlog', icon: 'ph-browsers', tags: ['SharePoint'] },
+            defenderatp: { name: 'Defender ATP Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog', icon: 'ph-shield-check', tags: ['Defender'] },
+            appel: { name: 'Jeffrey Appel', url: 'https://jeffreyappel.nl/feed/', icon: 'ph-shield-check', tags: ['Defender'] },
+            exchange: { name: 'Exchange Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=Exchange', icon: 'ph-envelope-simple', tags: ['Exchange'] },
+            edgedev: { name: 'Edge Dev Blog', url: 'https://blogs.windows.com/msedgedev/feed/', icon: 'ph-app-window', tags: ['Edge'] },
+            aks: { name: 'AKS Dev Blog', url: 'https://blog.aks.azure.com/feed/', icon: 'ph-cloud', tags: ['Azure'] },
+            bacancy: { name: 'Bacancy Azure', url: 'https://www.bacancytechnology.com/blog/category/azure/feed/', icon: 'ph-cloud', tags: ['Azure'] },
+            azureupdates: { name: 'Azure Updates', url: 'https://azurecomcdn.azureedge.net/en-us/updates/feed/', icon: 'ph-arrows-clockwise', tags: ['Azure'] },
+            teams: { name: 'Teams Blog (MS)', url: 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog', icon: 'ph-microsoft-teams', tags: ['Teams'] },
+            tomtalks: { name: 'Tom Talks', url: 'https://tomtalks.blog/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
+            sharegate: { name: 'ShareGate (Teams)', url: 'https://sharegate.com/blog/category/microsoft-teams/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
+            practical365: { name: 'Practical 365 (Teams)', url: 'https://practical365.com/category/microsoft-teams/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
+            teamsqueen: { name: 'Teams Queen', url: 'https://teamsqueen.com/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] }
+        };
+
+        let RSS_FEEDS = {};
+        const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
+
+        // Product tagging keywords
+        const PROD_KEYWORDS = {
+            'Windows': ['windows 10', 'windows 11', 'windows server'],
+            'Azure': ['azure', 'entra'],
+            'Microsoft 365 Apps': ['office', 'excel', 'word', 'powerpoint', 'outlook', 'access', 'visio', 'microsoft 365 apps'],
+            'SharePoint': ['sharepoint'],
+            'OneDrive': ['onedrive'],
+            'Intune': ['intune'],
+            'Exchange': ['exchange'],
+            'Teams': ['teams'],
+            'Defender': ['defender'],
+            'Edge': ['edge', 'chromium']
+        };
+
+        /**
+         * Initialization
+         */
+        document.addEventListener('DOMContentLoaded', () => {
+            loadSettings();
+            applyTheme();
+            setupEventListeners();
+            initData();
+        });
+
+        function loadSettings() {
+            const saved = localStorage.getItem('msCoESettings');
+            if (saved) {
+                try {
+                    const parsed = JSON.parse(saved);
+                    if (parsed.customFeeds) {
+                        RSS_FEEDS = parsed.customFeeds;
+                    } else {
+                        RSS_FEEDS = JSON.parse(JSON.stringify(DEFAULT_FEEDS));
+                    }
+                    const mergedRss = { ...STATE.settings.rss, ...(parsed.rss || {}) };
+                    STATE.settings = { ...STATE.settings, ...parsed, rss: mergedRss };
+                } catch(e) { 
+                    console.error("Error parsing settings", e); 
+                    RSS_FEEDS = JSON.parse(JSON.stringify(DEFAULT_FEEDS)); 
+                }
+            } else {
+                RSS_FEEDS = JSON.parse(JSON.stringify(DEFAULT_FEEDS));
+            }
+            
+            // Populate settings modal
+            document.getElementById('setting-days').value = STATE.settings.lookbackDays;
+            document.getElementById('setting-apikey').value = STATE.settings.nvdApiKey || '';
+            
+            renderSettingsFeeds();
+        }
+
+        function renderSettingsFeeds() {
+            const container = document.getElementById('settings-feed-list');
+            if (!container) return;
+            
+            const sortedKeys = Object.keys(RSS_FEEDS).sort((a, b) => RSS_FEEDS[a].name.localeCompare(RSS_FEEDS[b].name));
+            
+            container.innerHTML = sortedKeys.map(key => {
+                const source = RSS_FEEDS[key];
+                const isChecked = STATE.settings.rss[key] !== false; // default true
+                
+                return `
+                <div class="flex items-center justify-between p-2 border border-gray-200 dark:border-darkBorder rounded bg-white dark:bg-darkCard shadow-sm">
+                    <div class="flex items-center gap-3 w-[85%]">
+                        <input type="checkbox" id="rss-cb-${key}" class="rounded text-msBlue focus:ring-msBlue w-4 h-4 flex-shrink-0" ${isChecked ? 'checked' : ''}>
+                        <div class="flex flex-col overflow-hidden w-full">
+                            <span class="text-sm font-semibold truncate">${source.name}</span>
+                            <span class="text-[10px] text-gray-500 truncate" title="${source.url}">${source.url}</span>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-1 flex-shrink-0">
+                        <button onclick="openFeedModal('${key}')" class="p-1.5 text-gray-400 hover:text-msBlue rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors" title="Edit"><i class="ph ph-pencil text-lg"></i></button>
+                        <button onclick="deleteFeed('${key}')" class="p-1.5 text-gray-400 hover:text-critical rounded hover:bg-red-100 dark:hover:bg-red-900/30 transition-colors" title="Delete"><i class="ph ph-trash text-lg"></i></button>
+                    </div>
+                </div>
+                `;
+            }).join('');
+        }
+
+        function openFeedModal(key = '') {
+            const modal = document.getElementById('feed-modal');
+            const title = document.getElementById('feed-modal-title');
+            
+            if (key && RSS_FEEDS[key]) {
+                title.textContent = 'Edit RSS Source';
+                document.getElementById('feed-id').value = key;
+                document.getElementById('feed-name').value = RSS_FEEDS[key].name;
+                document.getElementById('feed-url').value = RSS_FEEDS[key].url;
+                document.getElementById('feed-tags').value = (RSS_FEEDS[key].tags || []).join(', ');
+            } else {
+                title.textContent = 'Add RSS Source';
+                document.getElementById('feed-id').value = '';
+                document.getElementById('feed-name').value = '';
+                document.getElementById('feed-url').value = '';
+                document.getElementById('feed-tags').value = '';
+            }
+            
+            modal.classList.remove('hidden');
+            void modal.offsetWidth; // reflow
+            modal.classList.remove('opacity-0');
+            modal.querySelector('div').classList.remove('scale-95');
+        }
+
+        function closeFeedModal() {
+            const modal = document.getElementById('feed-modal');
+            modal.classList.add('opacity-0');
+            modal.querySelector('div').classList.add('scale-95');
+            setTimeout(() => {
+                modal.classList.add('hidden');
+            }, 300);
+        }
+
+        function saveFeed() {
+            let key = document.getElementById('feed-id').value;
+            const name = document.getElementById('feed-name').value.trim();
+            const url = document.getElementById('feed-url').value.trim();
+            const tagsStr = document.getElementById('feed-tags').value;
+            
+            if (!name || !url) {
+                showToast('Name and URL are required', 'error');
+                return;
+            }
+            
+            if (!key) {
+                // Generate a safe key from the name
+                key = name.toLowerCase().replace(/[^a-z0-9]/g, '');
+                // Handle duplicates
+                let origKey = key;
+                let counter = 1;
+                while (RSS_FEEDS[key]) {
+                    key = origKey + counter;
+                    counter++;
+                }
+            }
+            
+            const tags = tagsStr.split(',').map(t => t.trim()).filter(t => t);
+            
+            RSS_FEEDS[key] = {
+                name: name,
+                url: url,
+                icon: RSS_FEEDS[key]?.icon || 'ph-article',
+                tags: tags
+            };
+            
+            if (STATE.settings.rss[key] === undefined) {
+                STATE.settings.rss[key] = true;
+            }
+            
+            renderSettingsFeeds();
+            closeFeedModal();
+            showToast('Feed saved (remember to Save & Reload)', 'success');
+        }
+
+        function deleteFeed(key) {
+            if (confirm(`Are you sure you want to delete ${RSS_FEEDS[key].name}?`)) {
+                delete RSS_FEEDS[key];
+                renderSettingsFeeds();
+                showToast('Feed deleted (remember to Save & Reload)', 'info');
+            }
+        }
+
+        function saveSettings() {
+            STATE.settings.lookbackDays = parseInt(document.getElementById('setting-days').value);
+            STATE.settings.nvdApiKey = document.getElementById('setting-apikey').value.trim();
+            
+            const newRssSettings = {};
+            Object.keys(RSS_FEEDS).forEach(key => {
+                const cb = document.getElementById(`rss-cb-${key}`);
+                if (cb) newRssSettings[key] = cb.checked;
+            });
+            STATE.settings.rss = newRssSettings;
+            STATE.settings.customFeeds = RSS_FEEDS;
+            
+            localStorage.setItem('msCoESettings', JSON.stringify(STATE.settings));
+        }
+
+        function applyTheme() {
+            const html = document.documentElement;
+            if (STATE.settings.theme === 'dark') {
+                html.classList.add('dark');
+            } else {
+                html.classList.remove('dark');
+            }
+        }
+
+        function toggleTheme() {
+            STATE.settings.theme = STATE.settings.theme === 'dark' ? 'light' : 'dark';
+            applyTheme();
+            localStorage.setItem('msCoESettings', JSON.stringify(STATE.settings));
+        }
+
+        async function initData(forceRefresh = false) {
+            updateLastSyncUI();
+            
+            // Start Daemon if not running, or force restart
+            if (forceRefresh) {
+                localStorage.removeItem('msCoNewsAll');
+                STATE.allNewsCache = [];
+                renderNews();
+                
+                GithubNewsManager.init();
+            } else {
+                const cached = localStorage.getItem('msCoNewsAll');
+                if (cached) {
+                    try { STATE.allNewsCache = JSON.parse(cached); } catch(e){}
+                }
+                renderNews();
+                GithubNewsManager.init();
+            }
+
+            // Fetch Vulns
+            fetchVulnerabilities(forceRefresh).then(() => {
+                if(forceRefresh) showToast('Data refreshed successfully', 'success');
+            }).catch(e => console.error(e));
+        }
+
+        /**
+         * Data Fetching: NVD API
+         */
+        async function fetchVulnerabilities(forceRefresh = false) {
+            const loader = document.getElementById('vuln-loader');
+            loader.classList.remove('hidden');
+            
+            // Check cache
+            if (!forceRefresh) {
+                const cached = localStorage.getItem('msCoVulns');
+                const cacheTime = localStorage.getItem('msCoVulnsTime');
+                if (cached && cacheTime && (Date.now() - parseInt(cacheTime) < CACHE_TTL_MS)) {
+                    processVulnData(JSON.parse(cached));
+                    loader.classList.add('hidden');
+                    return;
+                }
+            }
+
+            try {
+                // Calculate date range
+                const endDate = new Date();
+                const startDate = new Date();
+                startDate.setDate(endDate.getDate() - STATE.settings.lookbackDays);
+                
+                // Format: YYYY-MM-DDTHH:MM:SS.000 (Required by NVD API)
+                const formatIso = d => d.toISOString().split('.')[0] + '.000';
+                
+                const url = new URL('https://services.nvd.nist.gov/rest/json/cves/2.0');
+                url.searchParams.append('pubStartDate', formatIso(startDate));
+                url.searchParams.append('pubEndDate', formatIso(endDate));
+                url.searchParams.append('keywordSearch', 'microsoft');
+                url.searchParams.append('resultsPerPage', '100');
+
+                const headers = {};
+                if (STATE.settings.nvdApiKey) {
+                    headers['apiKey'] = STATE.settings.nvdApiKey;
+                }
+
+                const response = await fetch(url.toString(), { headers });
+                
+                if (!response.ok) {
+                    if (response.status === 403 || response.status === 429) {
+                        throw new Error("NVD API rate limit exceeded. Try adding an API key in settings or wait a moment.");
+                    }
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                // Cache it
+                localStorage.setItem('msCoVulns', JSON.stringify(data.vulnerabilities));
+                localStorage.setItem('msCoVulnsTime', Date.now().toString());
+                
+                processVulnData(data.vulnerabilities);
+            } catch (error) {
+                showToast(error.message, 'error');
+                // Fallback to cache if available
+                const cached = localStorage.getItem('msCoVulns');
+                if(cached) processVulnData(JSON.parse(cached));
+            } finally {
+                loader.classList.add('hidden');
+            }
+        }
+
+        function processVulnData(rawVulns) {
+            if(!rawVulns) rawVulns = [];
+            
+            STATE.vulns = rawVulns.map(item => {
+                const cve = item.cve;
+                const id = cve.id;
+                const published = new Date(cve.published);
+                
+                // Get English description
+                const descObj = cve.descriptions.find(d => d.lang === 'en');
+                const description = descObj ? descObj.value : 'No description available.';
+
+                // Extract CVSS
+                let cvssData = null;
+                if (cve.metrics) {
+                    cvssData = cve.metrics.cvssMetricV31?.[0]?.cvssData || 
+                               cve.metrics.cvssMetricV30?.[0]?.cvssData || 
+                               cve.metrics.cvssMetricV2?.[0]?.cvssData;
+                }
+                
+                const score = cvssData ? cvssData.baseScore : 0;
+                let severity = 'UNKNOWN';
+                
+                // Determine severity based on score or provided baseSeverity
+                if (cve.metrics?.cvssMetricV31?.[0]?.cvssData?.baseSeverity) {
+                    severity = cve.metrics.cvssMetricV31[0].cvssData.baseSeverity.toUpperCase();
+                } else if (score >= 9.0) severity = 'CRITICAL';
+                else if (score >= 7.0) severity = 'HIGH';
+                else if (score >= 4.0) severity = 'MEDIUM';
+                else if (score > 0) severity = 'LOW';
+
+                // Smart Tagging based on description
+                const descLower = description.toLowerCase();
+                const tags = [];
+                for (const [prod, keywords] of Object.entries(PROD_KEYWORDS)) {
+                    if (keywords.some(kw => descLower.includes(kw))) {
+                        tags.push(prod);
+                    }
+                }
+                if(tags.length === 0) tags.push('Other MS Product');
+
+                // NVD URL
+                const url = `https://nvd.nist.gov/vuln/detail/${id}`;
+
+                return { id, published, description, score, severity, tags, url, raw: cve };
+            });
+
+            applyVulnFilters();
+            updateVulnKPIs();
+        }
+
+        /**
+         * Data Fetching: RSS News (GitHub Backend)
+         */
+        const GithubNewsManager = {
+            timerId: null,
+            
+            init: function() {
+                this.fetchData();
+            },
+            
+            fetchData: async function() {
+                if (this.timerId) clearTimeout(this.timerId);
+                
+                const syncStatus = document.getElementById('sync-status');
+                const loader = document.getElementById('news-loader');
+                
+                if (syncStatus) {
+                    syncStatus.innerHTML = `<i class="ph ph-spinner-gap animate-spin text-msBlue"></i> Checking updates...`;
+                }
+
+                try {
+                    // Append timestamp to break browser cache aggressively
+                    const response = await fetch(`https://raw.githubusercontent.com/justwork500/MCoE-Dashboard/main/news.json?_t=${Date.now()}`);
+                    
+                    if (response.ok) {
+                        const data = await response.json();
+                        
+                        const cutoffDate = new Date();
+                        cutoffDate.setDate(cutoffDate.getDate() - STATE.settings.lookbackDays);
+                        
+                        // Backend data is already sorted and formatted
+                        const finalItems = data.items.filter(item => new Date(item.date) >= cutoffDate);
+                        
+                        STATE.allNewsCache = finalItems;
+                        localStorage.setItem('msCoNewsAll', JSON.stringify(STATE.allNewsCache));
+                        
+                        renderNews();
+                        
+                        if (syncStatus) {
+                            syncStatus.innerHTML = `<i class="ph ph-check-circle text-green-500"></i> Up to date`;
+                        }
+                    } else {
+                        throw new Error(`HTTP Error: ${response.status}`);
+                    }
+                } catch (e) {
+                    console.error('Failed to fetch backend news data:', e);
+                    if (syncStatus) {
+                        syncStatus.innerHTML = `<i class="ph ph-warning text-yellow-500"></i> Sync failed (Retrying soon)`;
+                    }
+                }
+
+                if (loader && !loader.classList.contains('hidden')) loader.classList.add('hidden');
+                
+                // Check again in 15 minutes
+                this.timerId = setTimeout(() => this.fetchData(), 15 * 60 * 1000);
+            }
+        };
+
+        /**
+         * Rendering & Logic
+         */
+        
+        function updateLastSyncUI() {
+            const cacheTime = localStorage.getItem('msCoVulnsTime');
+            const el = document.getElementById('last-sync-time');
+            if (cacheTime) {
+                el.textContent = new Date(parseInt(cacheTime)).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+            } else {
+                el.textContent = 'Just now';
+            }
+        }
+
+        function updateVulnKPIs() {
+            // Update to use filtered dataset rather than global state
+            const critical = STATE.filteredVulns.filter(v => v.severity === 'CRITICAL').length;
+            const high = STATE.filteredVulns.filter(v => v.severity === 'HIGH').length;
+            
+            document.getElementById('kpi-critical').textContent = critical;
+            document.getElementById('kpi-high').textContent = high;
+            document.getElementById('kpi-total').textContent = STATE.filteredVulns.length;
+        }
+
+        function applyVulnFilters() {
+            const term = STATE.filters.search.toLowerCase();
+            const sev = STATE.filters.severity;
+            const prod = STATE.filters.product;
+
+            STATE.filteredVulns = STATE.vulns.filter(v => {
+                // Search
+                const matchSearch = term === '' || 
+                                    v.id.toLowerCase().includes(term) || 
+                                    v.description.toLowerCase().includes(term);
+                // Severity
+                const matchSev = sev === 'all' || v.severity === sev;
+                // Product
+                const matchProd = prod === 'all' || v.tags.includes(prod);
+
+                return matchSearch && matchSev && matchProd;
+            });
+
+            doSort();
+            updateVulnKPIs(); // Recalculate KPIs based on new filters
+        }
+
+        function getSeverityColor(sev) {
+            switch(sev) {
+                case 'CRITICAL': return 'bg-red-100 text-critical border-red-200 dark:bg-red-900/30 dark:border-red-800';
+                case 'HIGH': return 'bg-orange-100 text-high border-orange-200 dark:bg-orange-900/30 dark:border-orange-800';
+                case 'MEDIUM': return 'bg-yellow-100 text-yellow-600 border-yellow-200 dark:bg-yellow-900/30 dark:border-yellow-800';
+                case 'LOW': return 'bg-green-100 text-green-600 border-green-200 dark:bg-green-900/30 dark:border-green-800';
+                default: return 'bg-gray-100 text-gray-600 border-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-600';
+            }
+        }
+
+        window.sortVulns = function(column) {
+            if(STATE.sort.column === column) {
+                STATE.sort.dir = STATE.sort.dir === 'asc' ? 'desc' : 'asc';
+            } else {
+                STATE.sort.column = column;
+                STATE.sort.dir = 'desc'; // Default new sort to desc
+            }
+            doSort();
+        };
+
+        function doSort() {
+            const c = STATE.sort.column;
+            const d = STATE.sort.dir === 'asc' ? 1 : -1;
+
+            STATE.filteredVulns.sort((a, b) => {
+                if (c === 'score') return (a.score - b.score) * d;
+                if (c === 'date') return (a.published - b.published) * d;
+                if (c === 'id') return a.id.localeCompare(b.id) * d;
+                return 0;
+            });
+
+            renderVulns();
+            updateSortIcons();
+        }
+
+        function updateSortIcons() {
+            // Simplistic icon logic for table headers
+            const ths = document.querySelectorAll('th');
+            ths.forEach(th => {
+                const icon = th.querySelector('i.ph');
+                if (icon) icon.className = 'ph ph-caret-up hidden';
+            });
+            
+            // Map column name to the specific TH index (fragile, but works for this controlled layout)
+            const map = { 'id': 0, 'score': 2, 'date': 4 };
+            const idx = map[STATE.sort.column];
+            if(idx !== undefined) {
+                const icon = ths[idx].querySelector('i.ph');
+                if (icon) {
+                    icon.className = `ph ph-caret-${STATE.sort.dir === 'asc' ? 'up' : 'down'}`;
+                }
+            }
+        }
+
+        function renderVulns() {
+            const tbody = document.getElementById('vuln-list');
+            const emptyState = document.getElementById('vuln-empty');
+            
+            tbody.innerHTML = '';
+            
+            if (STATE.filteredVulns.length === 0) {
+                emptyState.classList.remove('hidden');
+                return;
+            } else {
+                emptyState.classList.add('hidden');
+            }
+
+            STATE.filteredVulns.forEach(v => {
+                const tr = document.createElement('tr');
+                tr.className = "group hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors cursor-pointer";
+                tr.onclick = () => window.open(v.url, '_blank');
+                tr.title = "View on NVD";
+
+                const dateStr = v.published.toISOString().split('T')[0];
+                const sevColor = getSeverityColor(v.severity);
+                
+                let tagsHtml = v.tags.map(t => `<span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-blue-100 text-blue-800 dark:bg-blue-900/30 dark:text-blue-200">${t}</span>`).join(' ');
+                
+                // Extract Name from description (usually first sentence)
+                const vulnName = v.description.split('. ')[0];
+
+                tr.innerHTML = `
+                    <td class="px-6 py-4 text-sm font-medium text-msBlue whitespace-nowrap align-top">${v.id}</td>
+                    <td class="px-6 py-4 text-sm font-medium text-gray-900 dark:text-gray-100 align-top max-w-[200px] xl:max-w-[300px]">
+                        <div class="line-clamp-2" title="${v.description.replace(/"/g, '&quot;')}">${vulnName}</div>
+                    </td>
+                    <td class="px-6 py-4 whitespace-nowrap align-top">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-bold border ${sevColor}">
+                            ${v.severity} ${v.score > 0 ? `(${v.score})` : ''}
+                        </span>
+                    </td>
+                    <td class="px-6 py-4 text-sm text-gray-500 dark:text-gray-400 align-top">
+                        <div class="flex flex-wrap gap-1 max-w-[200px]">${tagsHtml}</div>
+                    </td>
+                    <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500 dark:text-gray-400 align-top">${dateStr}</td>
+                    <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium align-top">
+                        <i class="ph ph-arrow-square-out text-gray-400 group-hover:text-msBlue transition-colors text-lg"></i>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function renderNews() {
+            const container = document.getElementById('news-list');
+            const prod = STATE.filters.product;
+            
+            // Filter global cache for current product
+            let filteredNews = STATE.allNewsCache;
+            if (prod !== 'all') {
+                filteredNews = filteredNews.filter(item => item.tags && item.tags.includes(prod));
+            }
+            
+            STATE.news = filteredNews.slice(0, 80);
+            
+            document.getElementById('kpi-news').textContent = STATE.news.length;
+            
+            if (STATE.news.length === 0) {
+                container.innerHTML = `<p class="text-sm text-gray-500 text-center py-4">No recent updates or initializing...</p>`;
+                return;
+            }
+
+            container.innerHTML = STATE.news.map(item => {
+                const dateStr = new Date(item.date).toLocaleDateString([], {month: 'short', day: 'numeric'});
+                return `
+                    <a href="${item.link}" target="_blank" class="block p-4 rounded-lg border border-gray-200 dark:border-darkBorder bg-gray-50 dark:bg-darkBg/50 hover:bg-white dark:hover:bg-gray-700 transition-colors group">
+                        <div class="flex items-center gap-2 mb-2">
+                            <i class="ph ${item.icon} text-gray-400 group-hover:text-msBlue transition-colors"></i>
+                            <span class="text-xs font-medium text-gray-500">${item.source} &bull; ${dateStr}</span>
+                        </div>
+                        <h3 class="text-sm font-semibold mb-1 group-hover:text-msBlue transition-colors line-clamp-2">${item.title}</h3>
+                        <p class="text-xs text-gray-600 dark:text-gray-400 line-clamp-3">${item.snippet}</p>
+                    </a>
+                `;
+            }).join('');
+        }
+
+        /**
+         * Modals & Interaction
+         */
+        function toggleModal(id, show) {
+            const modal = document.getElementById(id);
+            const backdrop = document.getElementById('modal-backdrop');
+            
+            if(show) {
+                backdrop.classList.remove('hidden');
+                modal.classList.remove('hidden');
+                // trigger reflow
+                void modal.offsetWidth;
+                backdrop.classList.remove('opacity-0');
+                modal.classList.remove('opacity-0', 'scale-95');
+            } else {
+                backdrop.classList.add('opacity-0');
+                modal.classList.add('opacity-0', 'scale-95');
+                setTimeout(() => {
+                    backdrop.classList.add('hidden');
+                    modal.classList.add('hidden');
+                }, 300);
+            }
+        }
+
+        function showToast(message, type = 'info') {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            
+            const colors = {
+                'success': 'bg-green-500',
+                'error': 'bg-red-500',
+                'info': 'bg-blue-500'
+            };
+            
+            const icons = {
+                'success': 'ph-check-circle',
+                'error': 'ph-warning-circle',
+                'info': 'ph-info'
+            };
+
+            toast.className = `flex items-center gap-2 ${colors[type]} text-white px-4 py-3 rounded shadow-lg transform transition-all duration-300 translate-y-10 opacity-0 pointer-events-auto`;
+            toast.innerHTML = `<i class="ph ${icons[type]} text-xl"></i> <span class="text-sm font-medium">${message}</span>`;
+            
+            container.appendChild(toast);
+            
+            // Animate in
+            requestAnimationFrame(() => {
+                toast.classList.remove('translate-y-10', 'opacity-0');
+            });
+            
+            // Remove after 3s
+            setTimeout(() => {
+                toast.classList.add('opacity-0');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+
+        function exportData() {
+            if(STATE.filteredVulns.length === 0) {
+                showToast('No data to export', 'error');
+                return;
+            }
+            
+            // CSV Export
+            const headers = ['CVE ID', 'Severity', 'Score', 'Published', 'Products', 'Description'];
+            const rows = STATE.filteredVulns.map(v => {
+                return [
+                    v.id,
+                    v.severity,
+                    v.score,
+                    v.published.toISOString().split('T')[0],
+                    `"${v.tags.join(', ')}"`,
+                    `"${v.description.replace(/"/g, '""')}"` // escape quotes
+                ].join(',');
+            });
+            
+            const csv = [headers.join(','), ...rows].join('\n');
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.setAttribute('download', `ms-coe-vulns-${new Date().toISOString().split('T')[0]}.csv`);
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            
+            showToast('Export successful', 'success');
+        }
+
+        /**
+         * Event Listeners setup
+         */
+        function setupEventListeners() {
+            // Header Buttons
+            document.getElementById('btn-theme').addEventListener('click', toggleTheme);
+            
+            document.getElementById('btn-refresh').addEventListener('click', () => {
+                const icon = document.getElementById('refresh-icon');
+                icon.classList.add('animate-spin');
+                initData(true).finally(() => {
+                    setTimeout(() => icon.classList.remove('animate-spin'), 500);
+                });
+            });
+
+            document.getElementById('btn-export').addEventListener('click', exportData);
+
+            document.getElementById('btn-settings').addEventListener('click', () => toggleModal('settings-modal', true));
+            
+            // Modals Close
+            document.querySelectorAll('.settings-close').forEach(btn => {
+                btn.addEventListener('click', () => toggleModal('settings-modal', false));
+            });
+            document.getElementById('modal-backdrop').addEventListener('click', () => {
+                toggleModal('settings-modal', false);
+            });
+
+            // Settings Save
+            document.getElementById('btn-save-settings').addEventListener('click', () => {
+                saveSettings();
+                toggleModal('settings-modal', false);
+                initData(true); // reload with new settings
+            });
+
+            // Settings Clear Cache
+            document.getElementById('btn-clear-cache').addEventListener('click', () => {
+                Object.keys(localStorage).forEach(k => {
+                    if (k.startsWith('msCoNews') || k.startsWith('msCoVulns')) {
+                        localStorage.removeItem(k);
+                    }
+                });
+                showToast('Cache cleared. Reloading...', 'info');
+                setTimeout(() => window.location.reload(), 1000);
+            });
+
+            // Filtering
+            document.getElementById('search-vuln').addEventListener('input', (e) => {
+                STATE.filters.search = e.target.value;
+                applyVulnFilters();
+            });
+
+            // Severity Chips
+            document.querySelectorAll('#filter-severity .filter-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    // visual update
+                    document.querySelectorAll('#filter-severity .filter-btn').forEach(b => b.dataset.active = "false");
+                    e.target.dataset.active = "true";
+                    // logic update
+                    STATE.filters.severity = e.target.dataset.val;
+                    applyVulnFilters();
+                });
+            });
+
+            // Product Chips
+            document.querySelectorAll('#filter-product .filter-btn-prod').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    // visual update
+                    document.querySelectorAll('#filter-product .filter-btn-prod').forEach(b => b.dataset.active = "false");
+                    e.target.dataset.active = "true";
+                    // logic update
+                    STATE.filters.product = e.target.dataset.val;
+                    applyVulnFilters();
+                    // Update News UI instantly from cache
+                    renderNews();
+                });
+            });
+        }
+    </script>
+</body>
+</html>

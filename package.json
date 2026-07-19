@@ -1,0 +1,12 @@
+{
+  "name": "mcoe-dashboard-backend",
+  "version": "1.0.0",
+  "description": "Fetch and merge RSS feeds for the MCoE Dashboard",
+  "main": "fetch-news.js",
+  "scripts": {
+    "start": "node fetch-news.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
