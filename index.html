@@ -860,7 +860,7 @@
 
                 try {
                     // Append timestamp to break browser cache aggressively
-                    const response = await fetch(`https://raw.githubusercontent.com/justwork500/MCoE-Dashboard/main/news.json?_t=${Date.now()}`);
+                    const response = await fetch(`news.json?_t=${Date.now()}`);
                     
                     if (response.ok) {
                         const data = await response.json();
