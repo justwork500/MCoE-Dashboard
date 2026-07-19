@@ -35,7 +35,7 @@ const RSS_FEEDS = {
     appel: { name: 'Jeffrey Appel', url: 'https://jeffreyappel.nl/feed/', icon: 'ph-shield-check', tags: ['Defender'] },
     edgedev: { name: 'Edge Dev Blog', url: 'https://blogs.windows.com/msedgedev/feed/', icon: 'ph-app-window', tags: ['Edge'] },
     aks: { name: 'AKS Dev Blog', url: 'https://aks.engineering/rss.xml', icon: 'ph-cloud', tags: ['Azure'] },
-    azureupdates: { name: 'Azure Updates', url: 'https://azurecomcdn.azureedge.net/en-us/updates/feed/', icon: 'ph-arrows-clockwise', tags: ['Azure'] },
+    azureupdates: { name: 'Azure Updates', url: 'https://www.microsoft.com/releasecommunications/api/v2/azure/rss', icon: 'ph-arrows-clockwise', tags: ['Azure'] },
     tomtalks: { name: 'Tom Talks', url: 'https://tomtalks.blog/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     practical365: { name: 'Practical 365 (Teams)', url: 'https://practical365.com/category/microsoft-teams/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     teamsqueen: { name: 'Teams Queen', url: 'https://teamsqueen.com/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] }
