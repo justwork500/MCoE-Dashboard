@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-19T21:34:51.193Z",
-  "count": 119,
+  "lastUpdated": "2026-07-19T21:46:19.394Z",
+  "count": 134,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
+      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
+      "date": "2026-07-18T10:36:57.000Z",
+      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -353,6 +365,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Required Apps No Longer Need to Wait 60 Minutes",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/",
+      "date": "2026-07-17T07:59:21.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
@@ -639,6 +663,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside the Improved on-demand sync for Windows devices",
+      "link": "https://patchmypc.com/blog/inside-the-improved-on-demand-sync-for-windows-devices/",
+      "date": "2026-07-14T19:15:54.000Z",
+      "snippet": "The new Improved on-demand Sync in Intune is expanding beyond policies to include Win32 apps, PowerShell scripts, and Remediations.\nThe post Inside th...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Windows 11 KB5101650 KB5099414 July 2026 Patch and 3 Zero Day Vulnerabilities and 570 Flaws",
@@ -705,6 +741,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.287 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-287-released/",
+      "date": "2026-07-13T17:32:44.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. New Features and Improvements User Interface Enhancements Intune Improvemen...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
@@ -713,6 +761,30 @@
       "snippet": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting fro...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Deploying Claude Desktop Device-Wide: MSIX as a Custom App in Patch My PC ",
+      "link": "https://patchmypc.com/kb/deploying-claude-desktop-device-wide-msix-as-a-custom-app-in-patch-my-pc/",
+      "date": "2026-07-13T12:38:17.000Z",
+      "snippet": "Anthropic distributes Claude Desktop for Windows as an MSIX package, and like all MSIX&amp;#160;packages&amp;#160;it installs per user.&amp;#160;That’s&amp;#160;fine ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "The Intune MDM Device Certificate KSP Renewal Bug: Why the Bit4id Provider Caused it",
+      "link": "https://patchmypc.com/blog/the-intune-mdm-device-certificate-ksp-renewal-bug-why-23h2-devices-stopped-renewing/",
+      "date": "2026-07-12T08:28:14.000Z",
+      "snippet": "A third party smart card KSP caused the Intune MDM certificate renewal flow in Windows 11 to fail before the actual renewal checks even started, leavi...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -948,6 +1020,53 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.193 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-193-released/",
+      "date": "2026-07-06T20:37:53.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Version 2.3.2.193...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
+      "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
+      "date": "2026-07-06T11:13:29.000Z",
+      "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "ARM64 update may show as Installed on x64 devices",
+      "link": "https://patchmypc.com/kb/arm64-update-may-show-as-installed-on-x64-devices/",
+      "date": "2026-07-03T12:50:40.000Z",
+      "snippet": "Why the Edge ARM64 update can show Installed on x64 devices in Intune, and the recommended filter workaround\nThe post ARM64 update may show as Install...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 3rd July 2026",
@@ -967,6 +1086,17 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1000,6 +1130,18 @@
       "snippet": "By: Carol Burns - Principal Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspec...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot 0x800705b4: App Control Blocks the IME Installation",
+      "link": "https://patchmypc.com/blog/autopilot-0x800705b4-app-control-blocks-the-intune-management-extension/",
+      "date": "2026-07-01T05:09:21.000Z",
+      "snippet": "This blog looks at an Autopilot failure where the device gets stuck at Preparing your device for mobile management and ends with 0x800705b4. The root ...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1054,6 +1196,17 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
       "date": "2026-06-29T18:31:55.000Z",
       "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
       "tags": [
         "Intune"
       ]
@@ -1257,6 +1410,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the account settings in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
+      "date": "2026-06-22T17:45:00.000Z",
+      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
@@ -1265,6 +1429,17 @@
       "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
+      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
+      "date": "2026-06-22T14:59:03.000Z",
+      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
+      "tags": [
+        "Defender"
       ]
     },
     {
