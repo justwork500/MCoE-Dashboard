@@ -236,14 +236,15 @@ async function fetchAllFeeds() {
     allItems.forEach(i => uniqueMap.set(i.link, i));
     const finalItems = Array.from(uniqueMap.values());
 
-    const output = {
+    const finalData = {
         lastUpdated: new Date().toISOString(),
         count: finalItems.length,
         items: finalItems
     };
 
-    fs.writeFileSync('news.json', JSON.stringify(output, null, 2));
-    console.log(`\nSuccessfully wrote ${finalItems.length} items to news.json`);
+    fs.writeFileSync('news.json', JSON.stringify(finalData, null, 2));
+    fs.writeFileSync('news-data.js', `window.NEWS_DATA = ${JSON.stringify(finalData, null, 2)};`);
+    console.log(`Saved ${allItems.length} news items to news.json and news-data.js`);
 }
 
 fetchAllFeeds();

@@ -855,45 +855,61 @@
                 }
 
                 try {
-                    // Append timestamp to break browser cache aggressively
-                    const response = await fetch(`news.json?_t=${Date.now()}`);
-                    
-                    if (response.ok) {
-                        const data = await response.json();
-                        
-                        const cutoffDate = new Date();
-                        cutoffDate.setDate(cutoffDate.getDate() - STATE.settings.lookbackDays);
-                        
-                        // Backend data is already sorted and formatted
-                        const finalItems = data.items.filter(item => new Date(item.date) >= cutoffDate);
-                        
-                        STATE.allNewsCache = finalItems;
-                        localStorage.setItem('msCoNewsAll', JSON.stringify(STATE.allNewsCache));
-                        
-                        renderNews();
-                        
-                        if (syncStatus) {
-                            syncStatus.innerHTML = `<i class="ph ph-check-circle text-green-500"></i> Up to date`;
-                        }
-                    } else {
-                        throw new Error(`HTTP Error: ${response.status}`);
-                    }
-                } catch (e) {
-                    console.error('Failed to fetch backend news data:', e);
-                    if (syncStatus) {
-                        let errMsg = e.message;
-                        if (window.location.protocol === 'file:') errMsg = 'Cannot fetch local files (CORS)';
-                        syncStatus.innerHTML = `<i class="ph ph-warning text-yellow-500"></i> Sync failed: ${errMsg}`;
-                    }
-                    
-                    // Fallback to cache if available
-                    const cached = localStorage.getItem('msCoNewsAll');
-                    if (cached) {
-                        try {
-                            STATE.allNewsCache = JSON.parse(cached);
+                    // Modern approach: Inject a script tag to load news-data.js (works on local file://)
+                    const script = document.createElement('script');
+                    script.src = `news-data.js?_t=${Date.now()}`;
+                    script.onload = () => {
+                        if (window.NEWS_DATA) {
+                            const cutoffDate = new Date();
+                            cutoffDate.setDate(cutoffDate.getDate() - STATE.settings.lookbackDays);
+                            
+                            const finalItems = window.NEWS_DATA.items.filter(item => new Date(item.date) >= cutoffDate);
+                            
+                            STATE.allNewsCache = finalItems;
+                            localStorage.setItem('msCoNewsAll', JSON.stringify(STATE.allNewsCache));
+                            
                             renderNews();
-                        } catch (err) { }
-                    }
+                            
+                            if (syncStatus) {
+                                syncStatus.innerHTML = `<i class="ph ph-check-circle text-green-500"></i> Up to date (Local Mode)`;
+                            }
+                        }
+                    };
+                    script.onerror = () => {
+                        // If it fails to load the local JS, fallback to fetch for backwards compatibility
+                        fetch(`news.json?_t=${Date.now()}`)
+                            .then(res => res.ok ? res.json() : Promise.reject(`HTTP Error: ${res.status}`))
+                            .then(data => {
+                                const cutoffDate = new Date();
+                                cutoffDate.setDate(cutoffDate.getDate() - STATE.settings.lookbackDays);
+                                const finalItems = data.items.filter(item => new Date(item.date) >= cutoffDate);
+                                
+                                STATE.allNewsCache = finalItems;
+                                localStorage.setItem('msCoNewsAll', JSON.stringify(STATE.allNewsCache));
+                                renderNews();
+                                if (syncStatus) syncStatus.innerHTML = `<i class="ph ph-check-circle text-green-500"></i> Up to date`;
+                            })
+                            .catch(e => {
+                                console.error('Failed to fetch backend news data:', e);
+                                if (syncStatus) {
+                                    let errMsg = e;
+                                    if (window.location.protocol === 'file:') errMsg = 'Cannot fetch local files (CORS)';
+                                    syncStatus.innerHTML = `<i class="ph ph-warning text-yellow-500"></i> Sync failed: ${errMsg}`;
+                                }
+                                
+                                // Fallback to cache if available
+                                const cached = localStorage.getItem('msCoNewsAll');
+                                if (cached) {
+                                    try {
+                                        STATE.allNewsCache = JSON.parse(cached);
+                                        renderNews();
+                                    } catch (err) { }
+                                }
+                            });
+                    };
+                    document.body.appendChild(script);
+                } catch (e) {
+                    console.error('Critical sync error:', e);
                 }
 
                 if (loader && !loader.classList.contains('hidden')) loader.classList.add('hidden');
