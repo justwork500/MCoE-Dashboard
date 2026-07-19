@@ -16,6 +16,7 @@ const parser = new Parser({
 const RSS_FEEDS = {
     msrc: { name: 'MSRC Security Updates', url: 'https://api.msrc.microsoft.com/update-guide/rss', icon: 'ph-shield-warning', tags: ['Windows', 'Azure'] },
     intunecust: { name: 'Intune Customer Success', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=IntuneCustomerSuccess', icon: 'ph-devices', tags: ['Intune'] },
+    sharepoint: { name: 'SharePoint Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SPBlog', icon: 'ph-browsers', tags: ['SharePoint'] },
     onedrive: { name: 'OneDrive Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=onedriveblog', icon: 'ph-cloud-arrow-up', tags: ['OneDrive'] },
     defenderatp: { name: 'Defender ATP Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftdefenderatpblog', icon: 'ph-shield-check', tags: ['Defender'] },
     exchange: { name: 'Exchange Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=exchange', icon: 'ph-envelope-simple', tags: ['Exchange'] },
