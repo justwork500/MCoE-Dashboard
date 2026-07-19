@@ -201,11 +201,10 @@ async function fetchAllFeeds() {
                 let dateObj = new Date(pubDate);
 
                 let link = item.link || '#';
-                // Fix MSRC broken routing
-                if (link.includes('msrc.microsoft.com/update-guide/vulnerability/')) {
-                    link = link.replace('update-guide/vulnerability/', 'update-guide/en-US/vulnerability/');
-                }
-
+                
+                // Note: MSRC feed occasionally includes third-party CVEs (e.g., Squid proxy).
+                // Links to these third-party CVEs on msrc.microsoft.com will naturally return 404 
+                // since Microsoft only hosts dedicated pages for Microsoft-specific vulnerabilities.
                 return {
                     source: source.name,
                     icon: source.icon,
