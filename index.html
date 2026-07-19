@@ -881,7 +881,18 @@
                 } catch (e) {
                     console.error('Failed to fetch backend news data:', e);
                     if (syncStatus) {
-                        syncStatus.innerHTML = `<i class="ph ph-warning text-yellow-500"></i> Sync failed (Retrying soon)`;
+                        let errMsg = e.message;
+                        if (window.location.protocol === 'file:') errMsg = 'Cannot fetch local files (CORS)';
+                        syncStatus.innerHTML = `<i class="ph ph-warning text-yellow-500"></i> Sync failed: ${errMsg}`;
+                    }
+                    
+                    // Fallback to cache if available
+                    const cached = localStorage.getItem('msCoNewsAll');
+                    if (cached) {
+                        try {
+                            STATE.allNewsCache = JSON.parse(cached);
+                            renderNews();
+                        } catch (err) { }
                     }
                 }
 
