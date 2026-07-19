@@ -15,10 +15,6 @@ const parser = new Parser({
 
 const RSS_FEEDS = {
     msrc: { name: 'MSRC Security Updates', url: 'https://api.msrc.microsoft.com/update-guide/rss', icon: 'ph-shield-warning', tags: ['Windows', 'Azure'] },
-    o365: { name: 'Microsoft 365 Updates', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Microsoft365Blog', icon: 'ph-microsoft-excel-logo', tags: ['Microsoft 365 Apps'] },
-    winrelease: { name: 'Windows Release Health', url: 'https://learn.microsoft.com/en-us/windows/release-health/windows-message-center.rss', icon: 'ph-windows-logo', tags: ['Windows'] },
-    entramgmt: { name: 'Microsoft Entra', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftEntraBlog', icon: 'ph-shield-check', tags: ['Azure'] },
-    intunecust: { name: 'Intune Customer Success', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=IntuneCustomerSuccess', icon: 'ph-devices', tags: ['Intune'] },
     skable: { name: 'Systems Center Dudes', url: 'https://www.systemcenterdudes.com/feed/', icon: 'ph-desktop', tags: ['Intune', 'Windows'] },
     anoop: { name: 'Anoop C Nair', url: 'https://www.anoopcnair.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
     andrew: { name: 'Andrew Taylor', url: 'https://andrewstaylor.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
@@ -27,18 +23,11 @@ const RSS_FEEDS = {
     joymalya: { name: 'Joymalya Basu Roy', url: 'https://joymalya.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
     patchmypc: { name: 'Patch My PC', url: 'https://patchmypc.com/feed', icon: 'ph-package', tags: ['Intune', 'Windows'] },
     peter: { name: 'Peter van der Woude', url: 'https://petervanderwoude.nl/feed/', icon: 'ph-devices', tags: ['Intune'] },
-    onedrive: { name: 'OneDrive Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=OneDriveBlog', icon: 'ph-cloud-arrow-up', tags: ['OneDrive'] },
-    sharepoint: { name: 'SharePoint Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=SharePointBlog', icon: 'ph-browsers', tags: ['SharePoint'] },
-    defenderatp: { name: 'Defender ATP Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog', icon: 'ph-shield-check', tags: ['Defender'] },
     appel: { name: 'Jeffrey Appel', url: 'https://jeffreyappel.nl/feed/', icon: 'ph-shield-check', tags: ['Defender'] },
-    exchange: { name: 'Exchange Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=Exchange', icon: 'ph-envelope-simple', tags: ['Exchange'] },
     edgedev: { name: 'Edge Dev Blog', url: 'https://blogs.windows.com/msedgedev/feed/', icon: 'ph-app-window', tags: ['Edge'] },
-    aks: { name: 'AKS Dev Blog', url: 'https://blog.aks.azure.com/feed/', icon: 'ph-cloud', tags: ['Azure'] },
-    bacancy: { name: 'Bacancy Azure', url: 'https://www.bacancytechnology.com/blog/category/azure/feed/', icon: 'ph-cloud', tags: ['Azure'] },
+    aks: { name: 'AKS Dev Blog', url: 'https://aks.engineering/rss.xml', icon: 'ph-cloud', tags: ['Azure'] },
     azureupdates: { name: 'Azure Updates', url: 'https://azurecomcdn.azureedge.net/en-us/updates/feed/', icon: 'ph-arrows-clockwise', tags: ['Azure'] },
-    teams: { name: 'Teams Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     tomtalks: { name: 'Tom Talks', url: 'https://tomtalks.blog/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
-    sharegate: { name: 'ShareGate (Teams)', url: 'https://sharegate.com/blog/category/microsoft-teams/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     practical365: { name: 'Practical 365 (Teams)', url: 'https://practical365.com/category/microsoft-teams/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     teamsqueen: { name: 'Teams Queen', url: 'https://teamsqueen.com/feed/', icon: 'ph-microsoft-teams', tags: ['Teams'] }
 };
