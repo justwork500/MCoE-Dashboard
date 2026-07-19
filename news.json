@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-19T06:44:49.117Z",
-  "count": 51,
+  "lastUpdated": "2026-07-19T08:42:05.970Z",
+  "count": 83,
   "items": [
     {
       "source": "Patch My PC",
@@ -278,6 +278,17 @@
       ]
     },
     {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968",
+      "date": "2026-07-16T23:55:02.000Z",
+      "snippet": "Where did the first half of the year go? This edition of What&#039;s New in Teams comes to you on the heels of InfoComm 2026 in Las Vegas, the largest prof...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Renewed as Microsoft MVP for Intune and Windows 365",
@@ -308,6 +319,39 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
+      "date": "2026-07-16T00:15:35.000Z",
+      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Defender ATP Blog (MS)",
+      "icon": "ph-shield-check",
+      "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-privileged-token-context-telemetry-boosts-advanced-hunting/ba-p/4528613",
+      "date": "2026-07-15T16:00:00.000Z",
+      "snippet": "In brief:&amp;nbsp;Defenders can now easily identify logons involving high-privilege identities or special logon flags to better hunt threats and fine-tun...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Defender ATP Blog (MS)",
+      "icon": "ph-shield-check",
+      "title": "Introducing scheduled antivirus scans on Microsoft Defender Linux",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-scheduled-antivirus-scans-on-microsoft-defender/ba-p/4524578",
+      "date": "2026-07-15T14:05:55.000Z",
+      "snippet": "Security teams rely on scheduled scans to ensure consistent coverage across devices, detect dormant or missed threats, and meet compliance requirement...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -342,6 +386,39 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Addressing Exchange Server May 2026 vulnerability CVE-2026-42897",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498",
+      "date": "2026-07-14T17:29:12.000Z",
+      "snippet": "UPDATE July 14, 2026: Please see our release blog post for July 2026 Security Update, which, once installed, removes our recommendation to keep CVE-20...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: June 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491",
+      "date": "2026-07-14T17:23:34.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: July 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146",
+      "date": "2026-07-14T17:18:39.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -392,6 +469,28 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Build a patch strategy for today’s threat pace with Microsoft",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-patch-strategy-for-today-s-threat-pace-with-microsoft/ba-p/4535115",
+      "date": "2026-07-10T17:18:27.000Z",
+      "snippet": "AI-accelerated vulnerability discovery and remediation are changing how organizations manage risk. As discussed in Pavan Davuluri’s recent blog, Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-Tenant Message Recall in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
+      "date": "2026-07-10T15:38:58.000Z",
+      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 10th July 2026",
@@ -412,6 +511,28 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-08T13:08:33.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Office Hours | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-july-2026/ba-p/4531889",
+      "date": "2026-07-07T20:32:58.000Z",
+      "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
+      "tags": [
+        "OneDrive"
       ]
     },
     {
@@ -446,6 +567,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -495,6 +627,28 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Migrating frontline mobile devices: Identity considerations for assigned and shared devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/migrating-frontline-mobile-devices-identity-considerations-for/ba-p/4532671",
+      "date": "2026-07-01T18:00:50.000Z",
+      "snippet": "By: Carol Burns - Principal Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspec...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Autopilot 0x800705b4: App Control Blocks the IME Installation",
@@ -530,12 +684,89 @@
       ]
     },
     {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | May 2026 - Build Edition",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2026-build-edition/ba-p/4524613",
+      "date": "2026-06-30T11:43:37.000Z",
+      "snippet": "It&#039;s hard to believe May is over already! You may have noticed this edition of What&#039;s new in Teams is landing a few days later than usual — that&#039;s int...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Streamlining macOS security: Automatically enable AutoFill after Platform SSO registration",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
+      "date": "2026-06-29T18:31:55.000Z",
+      "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
+      "date": "2026-06-29T15:00:00.000Z",
+      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-06-29T14:57:47.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "How to determine which Resource Mailboxes are being actively used",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/how-to-determine-which-resource-mailboxes-are-being-actively/ba-p/4521577",
+      "date": "2026-06-26T13:57:46.000Z",
+      "snippet": "Today we wanted to take a few minutes to discuss a topic that has come up several times. Consider the scenario where your organization has created Res...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 26th June 2026",
       "link": "https://andrewstaylor.com/2026/06/26/intune-newsletter-26th-june-2026/",
       "date": "2026-06-25T23:23:26.000Z",
       "snippet": "The weather has been wild this week, I&amp;#8217;ve never been more glad to be living further North, hopefully you&amp;#8217;re all keeping cool somehow! The ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune and Apple platform updates: What to expect after WWDC 2026",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-platform-updates-what-to-expect-after/ba-p/4531058",
+      "date": "2026-06-25T18:33:03.000Z",
+      "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
       "tags": [
         "Intune"
       ]
@@ -552,6 +783,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "How to Configure macOS Privacy Preferences Policy Control (PPPC) Using the Intune Settings Catalog",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-configure-macos-privacy-preferences-policy-control-pppc/ba-p/4530406",
+      "date": "2026-06-24T18:14:31.000Z",
+      "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPrivacy Preferences Policy Control (PPPC) settings on macOS are used to pre-approve pr...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "What do I really get with Intune Suite?",
@@ -560,6 +802,17 @@
       "snippet": "With Intune Suite now included in E5 (and partly in E3), I imagine a lot of you are wondering what you are now getting and how much of it you will act...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "NOW ON DEMAND | OneDrive Office Hours | June 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-june-2026/ba-p/4526529",
+      "date": "2026-06-23T16:36:14.000Z",
+      "snippet": "Get ready for the June OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they support...",
+      "tags": [
+        "OneDrive"
       ]
     },
     {
@@ -574,12 +827,111 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Exporting all Microsoft Intune Enterprise App Management catalog apps to CSV using Microsoft Graph",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/exporting-all-microsoft-intune-enterprise-app-management-catalog/ba-p/4529579",
+      "date": "2026-06-22T17:59:40.000Z",
+      "snippet": "By: Joe Lurie, Sr. Product Manager | Microsoft Intune\r\nManaging applications at scale is one of the biggest time-consuming tasks for IT admins. Betwee...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "New Platform SSO with registration during Automated Device Enrollment on macOS",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/new-platform-sso-with-registration-during-automated-device/ba-p/4519846",
+      "date": "2026-06-22T17:49:03.000Z",
+      "snippet": "By Iris Yuning Ye, Product Manager – Microsoft Intune &amp;amp; Justin Ploegert, Principal Product Manager – Microsoft Entra\r\nA new setting ‘Enable Regist...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the account settings in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
+      "date": "2026-06-22T17:45:00.000Z",
+      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
+      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
+      "date": "2026-06-22T14:59:03.000Z",
+      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "EPM Part 2: Before you remove local admin: How to use Intune Endpoint Privilege Management audit mode to understand your environment",
       "link": "https://msendpointmgr.com/2026/06/22/epm-part-2-before-you-remove-local-admin-how-to-use-intune-endpoint-privilege-management-audit-mode-to-understand-your-environment/",
       "date": "2026-06-22T06:00:00.000Z",
       "snippet": "This is the second post in a series on Microsoft Intune Endpoint Privilege Management (EPM). If you haven&amp;#8217;t read the first post, &amp;#8220;The End ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "MDOP is out of support: What to do next with Microsoft Intune",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/mdop-is-out-of-support-what-to-do-next-with-microsoft-intune/ba-p/4526024",
+      "date": "2026-06-19T23:35:18.000Z",
+      "snippet": "By: Joe Lurie – Sr. Product Manager | Microsoft Intune\r\nOn April 14, 2026, the Microsoft Desktop Optimization Pack (MDOP) reached the end of extended ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Triage vulnerabilities with the Vulnerability Remediation Agent, now in public preview",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/triage-vulnerabilities-with-the-vulnerability-remediation-agent/ba-p/4528646",
+      "date": "2026-06-19T23:34:41.000Z",
+      "snippet": "As automation and AI accelerate the pace of vulnerability discovery, the window between disclosure and exploitation continues to shrink. For IT and se...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Deploying Platform SSO for pre macOS 26 with Microsoft Intune: Lessons Learned",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/deploying-platform-sso-for-pre-macos-26-with-microsoft-intune/ba-p/4521368",
+      "date": "2026-06-19T23:33:29.000Z",
+      "snippet": "By: Naveen Akkugari, Sr. Service Engineer and Michael Griswold, Principal Service Engineering Manager | Microsoft Intune\r\nWho we are\r\nOur internal Int...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "How Enterprise App Management secures your App Catalog from ingestion to device",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361",
+      "date": "2026-06-19T23:32:01.000Z",
+      "snippet": "By: Joe Lurie, Sr. Product Manager | Microsoft Intune\r\nOne of the most common questions I get from customers when I talk about Enterprise App Manageme...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
+      "date": "2026-06-19T21:50:02.000Z",
+      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
       "tags": [
         "Intune"
       ]
