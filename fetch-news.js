@@ -187,7 +187,10 @@ async function fetchAllFeeds() {
     for (const [key, source] of Object.entries(RSS_FEEDS)) {
         console.log(`Fetching ${source.name}...`);
         try {
-            const feed = await parser.parseURL(source.url);
+            const feedPromise = parser.parseURL(source.url);
+            const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Feed timeout after 15s')), 15000));
+            const feed = await Promise.race([feedPromise, timeoutPromise]);
+            
             const items = feed.items.slice(0, 20).map(item => {
                 let snippet = item.description || item.summary || item.content || item.contentEncoded || '';
                 if (snippet) {
