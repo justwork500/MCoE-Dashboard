@@ -15,6 +15,11 @@ const parser = new Parser({
 
 const RSS_FEEDS = {
     msrc: { name: 'MSRC Security Updates', url: 'https://api.msrc.microsoft.com/update-guide/rss', icon: 'ph-shield-warning', tags: ['Windows', 'Azure'] },
+    intunecust: { name: 'Intune Customer Success', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=IntuneCustomerSuccess', icon: 'ph-devices', tags: ['Intune'] },
+    onedrive: { name: 'OneDrive Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=onedriveblog', icon: 'ph-cloud-arrow-up', tags: ['OneDrive'] },
+    defenderatp: { name: 'Defender ATP Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftdefenderatpblog', icon: 'ph-shield-check', tags: ['Defender'] },
+    exchange: { name: 'Exchange Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=exchange', icon: 'ph-envelope-simple', tags: ['Exchange'] },
+    teams: { name: 'Teams Blog (MS)', url: 'https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftteamsblog', icon: 'ph-microsoft-teams', tags: ['Teams'] },
     skable: { name: 'Systems Center Dudes', url: 'https://www.systemcenterdudes.com/feed/', icon: 'ph-desktop', tags: ['Intune', 'Windows'] },
     anoop: { name: 'Anoop C Nair', url: 'https://www.anoopcnair.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
     andrew: { name: 'Andrew Taylor', url: 'https://andrewstaylor.com/feed/', icon: 'ph-devices', tags: ['Intune'] },
