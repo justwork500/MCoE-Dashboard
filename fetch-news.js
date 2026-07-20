@@ -191,7 +191,7 @@ async function fetchAllFeeds() {
             const timeoutPromise = new Promise((_, reject) => setTimeout(() => reject(new Error('Feed timeout after 15s')), 15000));
             const feed = await Promise.race([feedPromise, timeoutPromise]);
             
-            const items = feed.items.slice(0, 20).map(item => {
+            const itemsPromises = feed.items.slice(0, 20).map(async item => {
                 let snippet = item.description || item.summary || item.content || item.contentEncoded || '';
                 if (snippet) {
                     // Very basic strip HTML tags for JSON snippet
@@ -208,6 +208,21 @@ async function fetchAllFeeds() {
                 // Note: MSRC feed occasionally includes third-party CVEs (e.g., Squid proxy).
                 // Links to these third-party CVEs on msrc.microsoft.com will naturally return 404 
                 // since Microsoft only hosts dedicated pages for Microsoft-specific vulnerabilities.
+                if (key === 'msrc' && link.includes('msrc.microsoft.com/update-guide/vulnerability/CVE-')) {
+                    const cveIdMatch = link.match(/(CVE-\d{4}-\d{4,7})/i);
+                    if (cveIdMatch) {
+                        const cveId = cveIdMatch[1];
+                        try {
+                            const res = await fetch(`https://api.msrc.microsoft.com/sug/v2.0/en-US/vulnerability/${cveId}`);
+                            if (res.status === 404) {
+                                link = `https://nvd.nist.gov/vuln/detail/${cveId}`;
+                            }
+                        } catch (e) {
+                            console.error(`Failed to check MSRC API for ${cveId}:`, e.message);
+                        }
+                    }
+                }
+
                 return {
                     source: source.name,
                     icon: source.icon,
@@ -218,6 +233,8 @@ async function fetchAllFeeds() {
                     tags: source.tags || []
                 };
             });
+            
+            const items = await Promise.all(itemsPromises);
 
             const validItems = items.filter(i => new Date(i.date) >= cutoffDate);
             allItems = allItems.concat(validItems);
