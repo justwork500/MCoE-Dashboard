@@ -1,0 +1,1512 @@
+window.NEWS_DATA = {
+  "lastUpdated": "2026-07-19T21:46:19.394Z",
+  "count": 134,
+  "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
+      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
+      "date": "2026-07-18T10:36:57.000Z",
+      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50012 Squid: Memory corruption in cache_digest reply handling",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50012",
+      "date": "2026-07-18T08:01:40.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-47729 Squid: Memory disclosure in FTP gateway",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47729",
+      "date": "2026-07-18T08:01:34.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62299 CoreDNS: rewrite-plugin EDNS0 response-revert nil-pointer panic (remote DoS) when a downstream plugin returns a response with no OPT record",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62299",
+      "date": "2026-07-18T08:01:26.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62309 CoreDNS: proxyproto plugin panics on PPv2 datagram with non-UDP transport — single 28-byte packet remote DoS",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62309",
+      "date": "2026-07-18T08:01:20.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15905 Use after free in Aura",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15905",
+      "date": "2026-07-18T00:42:44.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15904 Use after free in Ozone",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15904",
+      "date": "2026-07-18T00:42:43.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15903 Out of bounds read and write in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15903",
+      "date": "2026-07-18T00:42:41.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15902 Use after free in Cast",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15902",
+      "date": "2026-07-18T00:42:40.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15901 Use after free in Network",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15901",
+      "date": "2026-07-18T00:42:39.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15900 Use after free in GPU",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15900",
+      "date": "2026-07-18T00:42:38.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-15899 Use after free in CameraCapture",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15899",
+      "date": "2026-07-18T00:42:35.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Copilot Analytics - Agent 365 dashboard for managers",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567893",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "Managers in organizations can now access their Agent 365 data through the Agent Dashboard in Copilot Analytics (Insights), enabling them to understand...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Information Protection - Auto-labeling scale increase for SharePoint and OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567890",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: All Day events to show up more clearly in the Mail module Calendar Preview",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567888",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "We&#039;re making it easier to tell when receiving meeting invites that conflict with scheduled Out of Office time or Busy All Day events, on Outlook Web a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: External phone call routing (GCC High, DoD)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567884",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "External call routing will provide users the ability to redirect all external phone calls to either voicemail or their unanswered settings. GA date: S...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Use Agent 365 agents within Microsoft 365 Copilot Chat and Declarative Agents",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567670",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "Agents that are published to Agents 365 are already managed in the Microsoft 365 Admin Center. If the agent implements the Agent2Agent protocol, it ca...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
+      "link": "https://azure.microsoft.com/updates?id=567646",
+      "date": "2026-07-17T17:47:00.000Z",
+      "snippet": "You can now develop functions using Python 3.14 locally and\r\ndeploy them to Azure Functions plans on Linux. Upgrade your apps to Python 3.14 to take a...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Public Preview: Azure Functions Support for PowerShell 7.6 ",
+      "link": "https://azure.microsoft.com/updates?id=567651",
+      "date": "2026-07-17T17:44:00.000Z",
+      "snippet": "Azure Functions support for PowerShell 7.6 is now available in preview. You can now develop apps using PowerShell 7.6 locally and deploy them to Azure...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server ",
+      "link": "https://azure.microsoft.com/updates?id=567527",
+      "date": "2026-07-17T14:55:28.000Z",
+      "snippet": "Microsoft Defender Cloud Security Posture Management (CSPM) assessments for Azure Database for PostgreSQL Flexible Server are now generally available....",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS)",
+      "link": "https://azure.microsoft.com/updates?id=567787",
+      "date": "2026-07-17T14:54:09.000Z",
+      "snippet": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56159 DHCP Server Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56159",
+      "date": "2026-07-17T14:00:00.000Z",
+      "snippet": "Added acknowledgements. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Enable Microsoft Defender SmartScreen in Intune to Block Malicious Websites Phishing Unsafe Downloads and Unrecognized Apps",
+      "link": "https://www.anoopcnair.com/microsoft-defender-smartscreen-using-intune/",
+      "date": "2026-07-17T09:33:34.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59884 pyasn1 BER/CER/DER decoder denial of service via unbounded long-form tag IDs",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59884",
+      "date": "2026-07-17T08:02:41.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-60081 DBI::ProfileData versions before 1.651 for Perl do not limit the path index",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-60081",
+      "date": "2026-07-17T08:02:29.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-60082 DBI versions before 1.651 for Perl do not enforce statement handle consistency with the row",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-60082",
+      "date": "2026-07-17T08:02:16.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-15712 Soupclientmessageiohttp2: libsoup3: libsoup: http/2 goaway frame parsing heap buffer over-read via invalid nul-termination assumption",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15712",
+      "date": "2026-07-17T08:01:51.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-15714 Libsoup: soupmultipartinputstream: libsoup: out-of-bounds read in soup_multipart_input_stream_read_headers via an oversized multipart boundary string",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15714",
+      "date": "2026-07-17T08:01:45.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-15713 Libsoup: soupcache: libsoup: http/2 frame window exhaustion remote denial of service via memory leak",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15713",
+      "date": "2026-07-17T08:01:38.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-53366 ipv4: account for fraggap on the paged allocation path",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-53366",
+      "date": "2026-07-17T08:01:26.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-48863 Libsolv: stack-based buffer overflow in libsolv eddsa pgp signature verification allows denial of service",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-48863",
+      "date": "2026-07-17T08:01:19.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Required Apps No Longer Need to Wait 60 Minutes",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/",
+      "date": "2026-07-17T07:59:21.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968",
+      "date": "2026-07-16T23:55:02.000Z",
+      "snippet": "Where did the first half of the year go? This edition of What&#039;s New in Teams comes to you on the heels of InfoComm 2026 in Las Vegas, the largest prof...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Explicit recording and transcription consent for PSTN participants now available in GCC High and DoD",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567304",
+      "date": "2026-07-16T23:08:19.000Z",
+      "snippet": "We are introducing explicit recording and transcription consent support for PSTN participants joining Microsoft Teams meetings in GCC High and DoD env...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Session and Response Sharing in M365 Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=562353",
+      "date": "2026-07-16T23:08:19.000Z",
+      "snippet": "Session and Response Sharing let Microsoft 365 Copilot users share Copilot chat content through a link. Session Sharing shares a full chat session, wh...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "What’s New in Copilot in SharePoint: July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-july-2026/ba-p/4535420",
+      "date": "2026-07-16T16:05:23.000Z",
+      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Renewed as Microsoft MVP for Intune and Windows 365",
+      "link": "https://www.prajwaldesai.com/prajwal-desai-mvp-intune-windows-365/",
+      "date": "2026-07-16T12:54:56.000Z",
+      "snippet": "I am happy to share that I have been awarded as Microsoft MVP for Intune and Windows 365 for year 2026-2027....",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Recall Snapshot Storage to Optimize Device Performance using Intune",
+      "link": "https://www.anoopcnair.com/recall-snapshot-storage-device-using-intune/",
+      "date": "2026-07-16T09:30:39.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Fixes 570 Security Vulnerabilities and 3 Zero-Day Vulnerabilities in July 2026 Patch Tuesday",
+      "link": "https://www.anoopcnair.com/microsoft-fixes-570-security-vulnerabilities/",
+      "date": "2026-07-16T06:46:45.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
+      "date": "2026-07-16T00:15:35.000Z",
+      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563701",
+      "date": "2026-07-15T18:58:30.000Z",
+      "snippet": "Microsoft Agent Framework now ships generally available connectors for GitHub Copilot and Claude Code, so developers can build .NET and Python agents ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563571",
+      "date": "2026-07-15T18:57:24.000Z",
+      "snippet": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 3...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Agent Harness in Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563546",
+      "date": "2026-07-15T18:55:40.000Z",
+      "snippet": "Microsoft Agent Framework reaches general availability for Agent Harness, the production runtime for agents built with the framework. Customers runnin...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python",
+      "link": "https://azure.microsoft.com/updates?id=564312",
+      "date": "2026-07-15T18:53:28.000Z",
+      "snippet": "Microsoft Foundry is now introducing Agent Framework, a unified multi-agent orchestration SDK for C# and Python. This release consolidates patterns pr...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Tracing for Microsoft Agent Framework (Python and .NET)",
+      "link": "https://azure.microsoft.com/updates?id=564071",
+      "date": "2026-07-15T18:51:45.000Z",
+      "snippet": "In public preview, Microsoft Foundry now offers tracing for the Microsoft Agent Framework in both Python and .NET, helping developers observe how agen...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563566",
+      "date": "2026-07-15T18:50:14.000Z",
+      "snippet": "Microsoft Agent Framework adds the CodeAct pattern in public preview, which lets agents collapse a multi-step plan into a single executable code block...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Episodic procedural memory in Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563561",
+      "date": "2026-07-15T18:48:54.000Z",
+      "snippet": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and r...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Agent Channel for Microsoft Agent Framework multi-agent communication",
+      "link": "https://azure.microsoft.com/updates?id=563556",
+      "date": "2026-07-15T18:47:41.000Z",
+      "snippet": "Microsoft Agent Framework introduces Agent Channel in public preview, a built-in primitive that lets agents send structured messages to each other wit...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL updates for mid-July 2026 ",
+      "link": "https://azure.microsoft.com/updates?id=567426",
+      "date": "2026-07-15T17:50:44.000Z",
+      "snippet": "In mid-July 2026, the following updates and enhancements\r\nwere made to Azure SQL: \r\n Shortcut\r\n     Configuration lets you customize keyboard shortcut...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Expanding Azure Arc SQL Migration with SQL Server on Azure Virtual Machines ",
+      "link": "https://azure.microsoft.com/updates?id=567362",
+      "date": "2026-07-15T17:35:31.000Z",
+      "snippet": "The Azure Arc migration solution now supports SQL Server on Azure Virtual Machines as a migration target. Arc-enabled SQL Server instances can now be ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Defender ATP Blog (MS)",
+      "icon": "ph-shield-check",
+      "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/new-privileged-token-context-telemetry-boosts-advanced-hunting/ba-p/4528613",
+      "date": "2026-07-15T16:00:00.000Z",
+      "snippet": "In brief:&amp;nbsp;Defenders can now easily identify logons involving high-privilege identities or special logon flags to better hunt threats and fine-tun...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Advanced platform metrics in Azure Monitor",
+      "link": "https://azure.microsoft.com/updates?id=567726",
+      "date": "2026-07-15T15:30:11.000Z",
+      "snippet": "Starting July 15, 2026, advanced platform metrics are available in Public Preview. This update provides enhanced visibility into platform performance,...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: DevUI Agent Inspector for Microsoft Agent Framework",
+      "link": "https://azure.microsoft.com/updates?id=563551",
+      "date": "2026-07-15T15:15:25.000Z",
+      "snippet": "Microsoft Agent Framework adds DevUI Agent Inspector in public preview, a local debugging surface that shows agent runs as a navigable tree of model c...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Defender ATP Blog (MS)",
+      "icon": "ph-shield-check",
+      "title": "Introducing scheduled antivirus scans on Microsoft Defender Linux",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-scheduled-antivirus-scans-on-microsoft-defender/ba-p/4524578",
+      "date": "2026-07-15T14:05:55.000Z",
+      "snippet": "Security teams rely on scheduled scans to ensure consistent coverage across devices, detect dormant or missed threats, and meet compliance requirement...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Block High-risk Agents Using Identity Protection ",
+      "link": "https://blog.admindroid.com/block-high-risk-agents-using-identity-protection/",
+      "date": "2026-07-15T10:48:52.000Z",
+      "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: PowerPoint Live Light theme support",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567469",
+      "date": "2026-07-14T22:41:38.000Z",
+      "snippet": "Presenting PowerPoint slides in Teams just got better. PowerPoint Live now supports light mode, giving presenters the option to present in light, dark...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Front Door edge actions",
+      "link": "https://azure.microsoft.com/updates?id=567402",
+      "date": "2026-07-14T20:03:32.000Z",
+      "snippet": "Announcing the public preview of Azure Front Door edge actions (serverless compute at the edge).With edge actions, customers can execute lightweight J...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5101650 &amp; KB5099414 Updates Bring Major Stability Boosts and Smarter Features",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5101650-kb5099414-updates/",
+      "date": "2026-07-14T19:28:40.000Z",
+      "snippet": "On July 14, 2026, Microsoft released cumulative updates KB5101650 for Windows 11 versions 25H2 and 24H2 and KB5099414 for version 23H2....",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside the Improved on-demand sync for Windows devices",
+      "link": "https://patchmypc.com/blog/inside-the-improved-on-demand-sync-for-windows-devices/",
+      "date": "2026-07-14T19:15:54.000Z",
+      "snippet": "The new Improved on-demand Sync in Intune is expanding beyond policies to include Win32 apps, PowerShell scripts, and Remediations.\nThe post Inside th...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5101650 KB5099414 July 2026 Patch and 3 Zero Day Vulnerabilities and 570 Flaws",
+      "link": "https://www.anoopcnair.com/windows-11-kb5101650-kb5099414-july-2026-patch/",
+      "date": "2026-07-14T18:04:59.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Addressing Exchange Server May 2026 vulnerability CVE-2026-42897",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498",
+      "date": "2026-07-14T17:29:12.000Z",
+      "snippet": "UPDATE July 14, 2026: Please see our release blog post for July 2026 Security Update, which, once installed, removes our recommendation to keep CVE-20...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: June 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491",
+      "date": "2026-07-14T17:23:34.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: July 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146",
+      "date": "2026-07-14T17:18:39.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Protect Sensitive Apps from Windows Recall using Intune",
+      "link": "https://www.anoopcnair.com/sensitive-apps-from-windows-recall-using-intune/",
+      "date": "2026-07-14T10:29:54.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Passkeys Become the Default as Microsoft Entra Retires SMS and Voice Authentication ",
+      "link": "https://blog.admindroid.com/passkeys-default-sms-voice-authentication-retirement/",
+      "date": "2026-07-14T10:29:38.000Z",
+      "snippet": "Microsoft has officially announced that passkeys will become the default authentication method in Microsoft Entra, replacing Microsoft-provided SMS an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.287 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-287-released/",
+      "date": "2026-07-13T17:32:44.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. New Features and Improvements User Interface Enhancements Intune Improvemen...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
+      "link": "https://azure.microsoft.com/updates?id=567444",
+      "date": "2026-07-13T17:04:04.000Z",
+      "snippet": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting fro...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Deploying Claude Desktop Device-Wide: MSIX as a Custom App in Patch My PC ",
+      "link": "https://patchmypc.com/kb/deploying-claude-desktop-device-wide-msix-as-a-custom-app-in-patch-my-pc/",
+      "date": "2026-07-13T12:38:17.000Z",
+      "snippet": "Anthropic distributes Claude Desktop for Windows as an MSIX package, and like all MSIX&amp;#160;packages&amp;#160;it installs per user.&amp;#160;That’s&amp;#160;fine ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "The Intune MDM Device Certificate KSP Renewal Bug: Why the Bit4id Provider Caused it",
+      "link": "https://patchmypc.com/blog/the-intune-mdm-device-certificate-ksp-renewal-bug-why-23h2-devices-stopped-renewing/",
+      "date": "2026-07-12T08:28:14.000Z",
+      "snippet": "A third party smart card KSP caused the Intune MDM certificate renewal flow in Windows 11 to fail before the actual renewal checks even started, leavi...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Manage Federated Group Chats with Teams PowerShell Controls  ",
+      "link": "https://blog.admindroid.com/manage-federated-group-chats-with-teams-powershell-controls/",
+      "date": "2026-07-12T05:30:00.000Z",
+      "snippet": "Microsoft is adding two new PowerShell settings that let admins control who can join federated group chats in Microsoft Teams. These settings are disa...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Exchange Online Now Supports Cross-Tenant Message Recall",
+      "link": "https://blog.admindroid.com/configure-cross-tenant-message-recall-exchange-online/",
+      "date": "2026-07-11T10:29:19.000Z",
+      "snippet": "Microsoft has introduced cross-tenant message recall in Exchange Online. This feature allows users to recall emails sent to external Microsoft 365 ten...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
+      "link": "https://azure.microsoft.com/updates?id=567556",
+      "date": "2026-07-10T21:33:34.000Z",
+      "snippet": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 &amp; 7.2. will\r\nno longer be supported by Automation....",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Build a patch strategy for today’s threat pace with Microsoft",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-patch-strategy-for-today-s-threat-pace-with-microsoft/ba-p/4535115",
+      "date": "2026-07-10T17:18:27.000Z",
+      "snippet": "AI-accelerated vulnerability discovery and remediation are changing how organizations manage risk. As discussed in Pavan Davuluri’s recent blog, Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-Tenant Message Recall in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
+      "date": "2026-07-10T15:38:58.000Z",
+      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 10th July 2026",
+      "link": "https://andrewstaylor.com/2026/07/10/intune-newsletter-10th-july-2026/",
+      "date": "2026-07-10T10:24:35.000Z",
+      "snippet": "Welcome back and for those in the UK, it&amp;#8217;s nearly school holidays time (for those in Scandinavia, enjoy the long break).  There will probably be...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Exclude specific folders from syncing",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567470",
+      "date": "2026-07-09T23:00:39.000Z",
+      "snippet": "OneDrive for Windows and Mac will let users exclude specific folders from syncing, so folders that do not belong in the cloud, such as developer tooli...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI",
+      "link": "https://azure.microsoft.com/updates?id=567225",
+      "date": "2026-07-09T22:57:33.000Z",
+      "snippet": "You can now create and run Azure Chaos Studio resilience Scenarios directly from the Azure CLI with the new az chaos extension — no more hand-assembli...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Microsoft Intune Certification MD-102 Path",
+      "link": "https://www.systemcenterdudes.com/microsoft-intune-certification-md-102-path/",
+      "date": "2026-07-09T18:59:39.000Z",
+      "snippet": "If you&amp;#8217;re looking to build a career around Microsoft Intune and want to get certified, you&amp;#8217;ve probably asked yourself one question: Which ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Showcase: How Microsoft uses Copilot in SharePoint, and how you can get started",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-how-microsoft-uses-copilot-in-sharepoint-and/ba-p/4533156",
+      "date": "2026-07-09T17:56:32.000Z",
+      "snippet": "For this month&#039;s SharePoint showcase, we&#039;re zooming in on AI skills in SharePoint and real Microsoft use cases for Copilot in SharePoint. We&#039;re also i...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Disable the Print Spooler Service on Domain Controllers ",
+      "link": "https://blog.admindroid.com/how-to-disable-print-spooler-on-domain-controllers/",
+      "date": "2026-07-09T10:30:05.000Z",
+      "snippet": "The Print Spooler service increases the attack surface of Active Directory domain controllers and vulnerabilities in the service can be exploited in a...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Solutions for document-centric business processes - Portal Systems - SharePoint Partner Spotlight",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/solutions-for-document-centric-business-processes-portal-systems/ba-p/4515217",
+      "date": "2026-07-08T16:30:42.000Z",
+      "snippet": "We are excited to share a new episode on our&amp;nbsp;partner showcase series focused on SharePoint in Microsoft 365. In this brief discussion Patrick Car...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Proven intranet framework - Involv Intranet - SharePoint Partner Spotlight",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/proven-intranet-framework-involv-intranet-sharepoint-partner/ba-p/4519241",
+      "date": "2026-07-08T16:16:23.000Z",
+      "snippet": "We are excited to share a new episode on our&amp;nbsp;partner showcase series focused on SharePoint in Microsoft 365. In this brief discussion Tim Bogeman...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Business Applications Built for Microsoft 365 – Cubic Logics – SharePoint Partner Spotlight",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/business-applications-built-for-microsoft-365-cubic-logics/ba-p/4530898",
+      "date": "2026-07-08T16:15:26.000Z",
+      "snippet": "Organizations increasingly view Microsoft 365 as more than a productivity platform. They use it to streamline business processes, modernize operations...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Streamlining business processes with Microsoft 365 - ShareCloud - SharePoint Partner Spotlight",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/streamlining-business-processes-with-microsoft-365-sharecloud/ba-p/4533560",
+      "date": "2026-07-08T16:14:28.000Z",
+      "snippet": "SharePoint and Microsoft 365 have evolved into a powerful platform for building business applications that meet organizations where they already work....",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-08T13:08:33.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Deploy PowerShell Scripts in Microsoft Intune",
+      "link": "https://blog.admindroid.com/how-to-deploy-powershell-scripts-in-microsoft-intune/",
+      "date": "2026-07-08T10:30:37.000Z",
+      "snippet": "Microsoft Intune Platform Scripts allow organizations to run PowerShell scripts on Intune-managed Windows devices to automate configuration changes an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Capabilities in Microsoft Cowork",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567315",
+      "date": "2026-07-07T23:01:01.000Z",
+      "snippet": "You’ll soon be able to bring your Microsoft Planner into Microsoft Cowork. In Cowork, you can view, create, and update your plans, buckets, goals, and...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Office Hours | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-july-2026/ba-p/4531889",
+      "date": "2026-07-07T20:32:58.000Z",
+      "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
+    {
+      "source": "Edge Dev Blog",
+      "icon": "ph-app-window",
+      "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
+      "link": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin/",
+      "date": "2026-07-07T16:04:36.000Z",
+      "snippet": "Welcome to New in Edge for developers, a new series featuring recent web platform updates in Microsoft Edge that help web developers build better site...",
+      "tags": [
+        "Edge"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Configure Collection Size Limits in Configuration Manager",
+      "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
+      "date": "2026-07-07T11:58:55.000Z",
+      "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.193 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-193-released/",
+      "date": "2026-07-06T20:37:53.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Version 2.3.2.193...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
+      "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
+      "date": "2026-07-06T11:13:29.000Z",
+      "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "ARM64 update may show as Installed on x64 devices",
+      "link": "https://patchmypc.com/kb/arm64-update-may-show-as-installed-on-x64-devices/",
+      "date": "2026-07-03T12:50:40.000Z",
+      "snippet": "Why the Edge ARM64 update can show Installed on x64 devices in Intune, and the recommended filter workaround\nThe post ARM64 update may show as Install...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 3rd July 2026",
+      "link": "https://andrewstaylor.com/2026/07/03/intune-newsletter-3rd-july-2026/",
+      "date": "2026-07-03T10:58:01.000Z",
+      "snippet": "Good news, it&amp;#8217;s Friday which means I&amp;#8217;m free to send this newsletter before delving back into the murky depths of Graph.  Fortunately it&amp;#8...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSEndpointMgr",
+      "icon": "ph-devices",
+      "title": "EPM Part 3: Writing Intune Endpoint Privilege Management rules for the real world: File hash, certificate, and when each one is the wrong choice",
+      "link": "https://msendpointmgr.com/2026/07/03/epm-part-3-writing-intune-endpoint-privilege-management-rules-for-the-real-world-file-hash-certificate-and-when-each-one-is-the-wrong-choice/",
+      "date": "2026-07-03T09:00:39.000Z",
+      "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Prevent Sensitive Data Leakage Across Unmanaged Apps with Purview and Entra ",
+      "link": "https://blog.admindroid.com/network-data-security-in-microsoft-365/",
+      "date": "2026-07-02T13:00:40.000Z",
+      "snippet": "Microsoft’s Network Data Security helps protect sensitive company data when people use AI tools, cloud apps, or websites outside of managed Microsoft ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Block screen capture for sensitivity-labeled PDFs in the OneDrive and SharePoint web viewer",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566695",
+      "date": "2026-07-01T23:03:18.000Z",
+      "snippet": "The OneDrive and SharePoint web PDF viewer will block screen capture in Microsoft Edge when users open PDFs whose sensitivity (MIP) label without Copy...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Migrating frontline mobile devices: Identity considerations for assigned and shared devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/migrating-frontline-mobile-devices-identity-considerations-for/ba-p/4532671",
+      "date": "2026-07-01T18:00:50.000Z",
+      "snippet": "By: Carol Burns - Principal Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspec...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot 0x800705b4: App Control Blocks the IME Installation",
+      "link": "https://patchmypc.com/blog/autopilot-0x800705b4-app-control-blocks-the-intune-management-extension/",
+      "date": "2026-07-01T05:09:21.000Z",
+      "snippet": "This blog looks at an Autopilot failure where the device gets stuck at Preparing your device for mobile management and ends with 0x800705b4. The root ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "How to Configure Intune Remote Help (Step-by-Step Guide)",
+      "link": "https://www.systemcenterdudes.com/how-to-configure-intune-remote-help-step-by-step-guide/",
+      "date": "2026-06-30T19:17:34.000Z",
+      "snippet": "Remote support has become an essential part of modern IT administration. Whether your users are working from the office, remotely, or in a hybrid envi...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "ConfigMgr Upgrade fails with Asset Intelligence Role Installed",
+      "link": "https://www.prajwaldesai.com/configmgr-upgrade-fails-with-asset-intelligence-role-installed/",
+      "date": "2026-06-30T18:21:51.000Z",
+      "snippet": "I recently encountered a question in my community forums about a Configuration Manager upgrade failure. According to the ConfigMgrPrereq.log, the erro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Lessons From Building AI Skills in the Real World with Copilot in SharePoint",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/lessons-from-building-ai-skills-in-the-real-world-with-copilot/ba-p/4529563",
+      "date": "2026-06-30T15:00:00.000Z",
+      "snippet": "Matt Wolodarsky, a principal program manager at Microsoft, has led an early access program, testing out how skills in SharePoint can drive value for c...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | May 2026 - Build Edition",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2026-build-edition/ba-p/4524613",
+      "date": "2026-06-30T11:43:37.000Z",
+      "snippet": "It&#039;s hard to believe May is over already! You may have noticed this edition of What&#039;s new in Teams is landing a few days later than usual — that&#039;s int...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Streamlining macOS security: Automatically enable AutoFill after Platform SSO registration",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
+      "date": "2026-06-29T18:31:55.000Z",
+      "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
+      "date": "2026-06-29T15:00:00.000Z",
+      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-06-29T14:57:47.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention - Data Loss Prevention to safeguard sensitive information from external web search in Microsoft 356 Copilot and Copilot Chat",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=565870",
+      "date": "2026-06-26T22:01:51.000Z",
+      "snippet": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot and Copilot Chat to safeguard web searches containing sensitive data. This real-time ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Upgraded Copilot new tab page",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566703",
+      "date": "2026-06-26T22:01:51.000Z",
+      "snippet": "Search, chat, and explore the web from one search box with Copilot-suggested actions and curated work content to help your users get things done faste...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "How to determine which Resource Mailboxes are being actively used",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/how-to-determine-which-resource-mailboxes-are-being-actively/ba-p/4521577",
+      "date": "2026-06-26T13:57:46.000Z",
+      "snippet": "Today we wanted to take a few minutes to discuss a topic that has come up several times. Consider the scenario where your organization has created Res...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 26th June 2026",
+      "link": "https://andrewstaylor.com/2026/06/26/intune-newsletter-26th-june-2026/",
+      "date": "2026-06-25T23:23:26.000Z",
+      "snippet": "The weather has been wild this week, I&amp;#8217;ve never been more glad to be living further North, hopefully you&amp;#8217;re all keeping cool somehow! The ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune and Apple platform updates: What to expect after WWDC 2026",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-platform-updates-what-to-expect-after/ba-p/4531058",
+      "date": "2026-06-25T18:33:03.000Z",
+      "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00.000Z",
+      "snippet": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.\nThe post Copilot in Excel: Built for the e...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Configure Retention Labels in Microsoft 365 ",
+      "link": "https://blog.admindroid.com/how-to-configure-retention-labels-in-microsoft-365/",
+      "date": "2026-06-25T10:29:52.000Z",
+      "snippet": "Retention labels provide a granular way to manage data retention in Microsoft 365 by applying retention settings directly to files, folders, and email...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5095093 out with New Features and Improvements",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5095093-out-with-new-features-and-improvements/",
+      "date": "2026-06-25T08:49:46.000Z",
+      "snippet": "Microsoft has begun rolling out Windows 11 KB5095093, a preview update for versions 25H2 and 24H2. This update adds a new...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "How to Configure macOS Privacy Preferences Policy Control (PPPC) Using the Intune Settings Catalog",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-configure-macos-privacy-preferences-policy-control-pppc/ba-p/4530406",
+      "date": "2026-06-24T18:14:31.000Z",
+      "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPrivacy Preferences Policy Control (PPPC) settings on macOS are used to pre-approve pr...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Automate Inactive SharePoint Sites Cleanup Using Power Automate",
+      "link": "https://blog.admindroid.com/cleanup-inactive-sharepoint-online-sites-using-power-automate/",
+      "date": "2026-06-24T11:14:07.000Z",
+      "snippet": "Managing inactive SharePoint site lifecycles can be challenging and time-consuming using native methods. Learn how an approval-based workflow automati...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "What do I really get with Intune Suite?",
+      "link": "https://andrewstaylor.com/2026/06/24/what-do-i-really-get-with-intune-suite/",
+      "date": "2026-06-24T10:56:19.000Z",
+      "snippet": "With Intune Suite now included in E5 (and partly in E3), I imagine a lot of you are wondering what you are now getting and how much of it you will act...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "NOW ON DEMAND | OneDrive Office Hours | June 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-june-2026/ba-p/4526529",
+      "date": "2026-06-23T16:36:14.000Z",
+      "snippet": "Get ready for the June OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they support...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Introduces Manual Incident and Alert Creation ",
+      "link": "https://blog.admindroid.com/manually-create-incidents-or-alerts-in-microsoft-defender/",
+      "date": "2026-06-23T11:59:33.000Z",
+      "snippet": "Microsoft recently introduced manual incident creation in preview for Defender to help security teams investigate threats beyond automated detections....",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Using SQL Query to Monitor Collection Evaluation in SCCM",
+      "link": "https://www.prajwaldesai.com/using-sql-query-to-monitor-collection-evaluation-in-sccm/",
+      "date": "2026-06-23T10:14:45.000Z",
+      "snippet": "In this post, I will show you how you can use a simple SQL query to monitor collection evaluation in SCCM....",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Exporting all Microsoft Intune Enterprise App Management catalog apps to CSV using Microsoft Graph",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/exporting-all-microsoft-intune-enterprise-app-management-catalog/ba-p/4529579",
+      "date": "2026-06-22T17:59:40.000Z",
+      "snippet": "By: Joe Lurie, Sr. Product Manager | Microsoft Intune\r\nManaging applications at scale is one of the biggest time-consuming tasks for IT admins. Betwee...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "New Platform SSO with registration during Automated Device Enrollment on macOS",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/new-platform-sso-with-registration-during-automated-device/ba-p/4519846",
+      "date": "2026-06-22T17:49:03.000Z",
+      "snippet": "By Iris Yuning Ye, Product Manager – Microsoft Intune &amp;amp; Justin Ploegert, Principal Product Manager – Microsoft Entra\r\nA new setting ‘Enable Regist...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the account settings in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
+      "date": "2026-06-22T17:45:00.000Z",
+      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/a-new-sharepoint-look-and-feel-what-s-changing-and-why-it/ba-p/4529776",
+      "date": "2026-06-22T15:00:00.000Z",
+      "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
+      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
+      "date": "2026-06-22T14:59:03.000Z",
+      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "MSEndpointMgr",
+      "icon": "ph-devices",
+      "title": "EPM Part 2: Before you remove local admin: How to use Intune Endpoint Privilege Management audit mode to understand your environment",
+      "link": "https://msendpointmgr.com/2026/06/22/epm-part-2-before-you-remove-local-admin-how-to-use-intune-endpoint-privilege-management-audit-mode-to-understand-your-environment/",
+      "date": "2026-06-22T06:00:00.000Z",
+      "snippet": "This is the second post in a series on Microsoft Intune Endpoint Privilege Management (EPM). If you haven&amp;#8217;t read the first post, &amp;#8220;The End ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "MDOP is out of support: What to do next with Microsoft Intune",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/mdop-is-out-of-support-what-to-do-next-with-microsoft-intune/ba-p/4526024",
+      "date": "2026-06-19T23:35:18.000Z",
+      "snippet": "By: Joe Lurie – Sr. Product Manager | Microsoft Intune\r\nOn April 14, 2026, the Microsoft Desktop Optimization Pack (MDOP) reached the end of extended ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Triage vulnerabilities with the Vulnerability Remediation Agent, now in public preview",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/triage-vulnerabilities-with-the-vulnerability-remediation-agent/ba-p/4528646",
+      "date": "2026-06-19T23:34:41.000Z",
+      "snippet": "As automation and AI accelerate the pace of vulnerability discovery, the window between disclosure and exploitation continues to shrink. For IT and se...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Deploying Platform SSO for pre macOS 26 with Microsoft Intune: Lessons Learned",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/deploying-platform-sso-for-pre-macos-26-with-microsoft-intune/ba-p/4521368",
+      "date": "2026-06-19T23:33:29.000Z",
+      "snippet": "By: Naveen Akkugari, Sr. Service Engineer and Michael Griswold, Principal Service Engineering Manager | Microsoft Intune\r\nWho we are\r\nOur internal Int...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "How Enterprise App Management secures your App Catalog from ingestion to device",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361",
+      "date": "2026-06-19T23:32:01.000Z",
+      "snippet": "By: Joe Lurie, Sr. Product Manager | Microsoft Intune\r\nOne of the most common questions I get from customers when I talk about Enterprise App Manageme...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
+      "date": "2026-06-19T21:50:02.000Z",
+      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
+      "tags": [
+        "Intune"
+      ]
+    }
+  ]
+};
