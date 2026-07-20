@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-20T15:20:11.959Z",
+  "lastUpdated": "2026-07-20T16:52:51.184Z",
   "count": 129,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=567594",
+      "date": "2026-07-20T15:09:43.000Z",
+      "snippet": "Azure Monitor Application Insights now stores generative AI\r\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\r\nAnalytics), making it ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: IPv6 support for Azure VPN Gateway",
+      "link": "https://azure.microsoft.com/updates?id=567847",
+      "date": "2026-07-20T14:59:26.000Z",
+      "snippet": "IPv6 support for Azure VPN Gateway enables customers to run IPv6 inner traffic through VPN tunnels in a dual‑stack configuration. IPv6 is supported on...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -15,6 +37,30 @@
       ]
     },
     {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50650 .NET Framework Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50650",
+      "date": "2026-07-20T14:00:00.000Z",
+      "snippet": "Updated product information in the Software Update table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2024-35248 Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-35248",
+      "date": "2026-07-20T14:00:00.000Z",
+      "snippet": "Updated the build numbers.  This is an informational update only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Using Connect-MgGraph Cmdlet to Automate Microsoft 365 via Microsoft Graph PowerShell",
@@ -23,30 +69,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63796 ocfs2: reject oversized group bitmap descriptors",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63796",
-      "date": "2026-07-20T08:06:42.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63836 batman-adv: tp_meter: avoid divide-by-zero for dec_cwnd",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63836",
-      "date": "2026-07-20T08:05:58.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -822,17 +844,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",
-      "link": "https://azure.microsoft.com/updates?id=567556",
-      "date": "2026-07-10T21:33:34.000Z",
-      "snippet": "Starting October 1, 2026, the specified runtime versions Python 2.7, Python 3.8, and PowerShell 7.1 &amp; 7.2. will\r\nno longer be supported by Automation....",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Build a patch strategy for today’s threat pace with Microsoft",
@@ -874,17 +885,6 @@
       "snippet": "OneDrive for Windows and Mac will let users exclude specific folders from syncing, so folders that do not belong in the cloud, such as developer tooli...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI",
-      "link": "https://azure.microsoft.com/updates?id=567225",
-      "date": "2026-07-09T22:57:33.000Z",
-      "snippet": "You can now create and run Azure Chaos Studio resilience Scenarios directly from the Azure CLI with the new az chaos extension — no more hand-assembli...",
-      "tags": [
-        "Azure"
       ]
     },
     {
