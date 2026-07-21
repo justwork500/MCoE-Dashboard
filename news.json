@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-21T15:01:01.333Z",
+  "lastUpdated": "2026-07-21T17:58:57.936Z",
   "count": 123,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
+      "link": "https://patchmypc.com/blog/evaluate-third-party-patching-solutions-beyond-price/",
+      "date": "2026-07-21T17:20:32.000Z",
+      "snippet": "Comparing third-party patching solutions based solely on licensing cost can lead to expensive mistakes. This article explores the key questions IT tea...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-58640 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58640",
+      "date": "2026-07-21T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50462 Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50462",
+      "date": "2026-07-21T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -76,33 +112,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-15392 DBD::File versions before 1.651 for Perl do not ensure the table file is not a symlink to an untrusted location",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15392",
-      "date": "2026-07-21T08:41:24.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "CVE-2026-60082 DBI versions before 1.651 for Perl do not enforce statement handle consistency with the row",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-60082",
       "date": "2026-07-21T08:41:17.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-15043 DBI::SQL::Nano versions from 1.42 before 1.651 for Perl have inverted &lt;= and &gt;= SQL operators on text",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-15043",
-      "date": "2026-07-21T08:41:10.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -1028,18 +1040,6 @@
       "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
       "date": "2026-07-06T11:13:29.000Z",
       "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "ARM64 update may show as Installed on x64 devices",
-      "link": "https://patchmypc.com/kb/arm64-update-may-show-as-installed-on-x64-devices/",
-      "date": "2026-07-03T12:50:40.000Z",
-      "snippet": "Why the Edge ARM64 update can show Installed on x64 devices in Intune, and the recommended filter workaround\nThe post ARM64 update may show as Install...",
       "tags": [
         "Intune",
         "Windows"
