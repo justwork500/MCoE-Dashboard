@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-07-20T23:38:49.497Z",
-  "count": 124,
+  "lastUpdated": "2026-07-21T01:07:19.647Z",
+  "count": 122,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneNote: Multimodal capture in Copilot Notebooks (Android)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567895",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "Multimodal capture enables users to transcribe audio, take images, and type notes in a single session. Copilot then creates a structured Copilot Page ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Share Autonomous Agents to End Users (Run-Only)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567894",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "Previously, autonomous agents could only be used and managed by makers, limiting their reach to the people who needed them. Run-only sharing enables m...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Power BI integration in M365 Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567891",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "This release enables M365 Copilot to reason over Power BI enterprise data and returns grounded answers directly from Power BI reports and semantic mod...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Flexible Section Authoring Improvements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567889",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "We&#039;ve enhanced Flexible Sections in SharePoint Pages to make page layout creation more intuitive and predictable. Authors can now use visual column la...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Unified Agent and App Installation Management Across Microsoft 365 and Teams Admin Center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567883",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -300,61 +355,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Copilot Analytics - Agent 365 dashboard for managers",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567893",
-      "date": "2026-07-17T22:12:56.000Z",
-      "snippet": "Managers in organizations can now access their Agent 365 data through the Agent Dashboard in Copilot Analytics (Insights), enabling them to understand...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection - Auto-labeling scale increase for SharePoint and OneDrive",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567890",
-      "date": "2026-07-17T22:12:56.000Z",
-      "snippet": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: All Day events to show up more clearly in the Mail module Calendar Preview",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567888",
-      "date": "2026-07-17T22:12:56.000Z",
-      "snippet": "We&#039;re making it easier to tell when receiving meeting invites that conflict with scheduled Out of Office time or Busy All Day events, on Outlook Web a...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: External phone call routing (GCC High, DoD)",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567884",
-      "date": "2026-07-17T22:12:56.000Z",
-      "snippet": "External call routing will provide users the ability to redirect all external phone calls to either voicemail or their unanswered settings. GA date: S...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Use Agent 365 agents within Microsoft 365 Copilot Chat and Declarative Agents",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567670",
-      "date": "2026-07-17T22:12:56.000Z",
-      "snippet": "Agents that are published to Agents 365 are already managed in the Microsoft 365 Admin Center. If the agent implements the Agent2Agent protocol, it ca...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
@@ -430,28 +430,6 @@
       "snippet": "Where did the first half of the year go? This edition of What&#039;s New in Teams comes to you on the heels of InfoComm 2026 in Las Vegas, the largest prof...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Explicit recording and transcription consent for PSTN participants now available in GCC High and DoD",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567304",
-      "date": "2026-07-16T23:08:19.000Z",
-      "snippet": "We are introducing explicit recording and transcription consent support for PSTN participants joining Microsoft Teams meetings in GCC High and DoD env...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Session and Response Sharing in M365 Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=562353",
-      "date": "2026-07-16T23:08:19.000Z",
-      "snippet": "Session and Response Sharing let Microsoft 365 Copilot users share Copilot chat content through a link. Session Sharing shares a full chat session, wh...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -677,10 +655,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: PowerPoint Live Light theme support",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567469",
+      "title": "Microsoft Teams: Teams events attendance and engagement report policy",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567466",
       "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "Presenting PowerPoint slides in Teams just got better. PowerPoint Live now supports light mode, giving presenters the option to present in light, dark...",
+      "snippet": "Teams events will soon have a separate attendance and engagement report policy from the &quot;CsTeamsMeetingPolicy&quot; attendance and engagement report policy...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -877,17 +855,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Exclude specific folders from syncing",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567470",
-      "date": "2026-07-09T23:00:39.000Z",
-      "snippet": "OneDrive for Windows and Mac will let users exclude specific folders from syncing, so folders that do not belong in the cloud, such as developer tooli...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
       "title": "Microsoft Intune Certification MD-102 Path",
@@ -988,17 +955,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Capabilities in Microsoft Cowork",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567315",
-      "date": "2026-07-07T23:01:01.000Z",
-      "snippet": "You’ll soon be able to bring your Microsoft Planner into Microsoft Cowork. In Cowork, you can view, create, and update your plans, buckets, goals, and...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "OneDrive Office Hours | July 2026",
@@ -1041,6 +997,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -1090,6 +1057,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Prevent Sensitive Data Leakage Across Unmanaged Apps with Purview and Entra ",
@@ -1098,17 +1076,6 @@
       "snippet": "Microsoft’s Network Data Security helps protect sensitive company data when people use AI tools, cloud apps, or websites outside of managed Microsoft ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Block screen capture for sensitivity-labeled PDFs in the OneDrive and SharePoint web viewer",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566695",
-      "date": "2026-07-01T23:03:18.000Z",
-      "snippet": "The OneDrive and SharePoint web PDF viewer will block screen capture in Microsoft Edge when users open PDFs whose sensitivity (MIP) label without Copy...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1179,6 +1146,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Introducing smarter bot protection in Microsoft Teams meetings",
@@ -1198,28 +1176,6 @@
       "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention - Data Loss Prevention to safeguard sensitive information from external web search in Microsoft 356 Copilot and Copilot Chat",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=565870",
-      "date": "2026-06-26T22:01:51.000Z",
-      "snippet": "We are expanding Microsoft Purview DLP for Microsoft 365 Copilot and Copilot Chat to safeguard web searches containing sensitive data. This real-time ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Upgraded Copilot new tab page",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566703",
-      "date": "2026-06-26T22:01:51.000Z",
-      "snippet": "Search, chat, and explore the web from one search box with Copilot-suggested actions and curated work content to help your users get things done faste...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1377,6 +1333,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the account settings in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
+      "date": "2026-06-22T17:45:00.000Z",
+      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
@@ -1385,6 +1352,17 @@
       "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
+      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
+      "date": "2026-06-22T14:59:03.000Z",
+      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
+      "tags": [
+        "Defender"
       ]
     },
     {
