@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T20:48:22.961Z",
-  "count": 122,
+  "lastUpdated": "2026-07-21T21:59:46.398Z",
+  "count": 123,
   "items": [
     {
       "source": "Patch My PC",
@@ -221,7 +221,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-64077 netfilter: ebtables: move to two-stage removal scheme",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64077",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64077",
       "date": "2026-07-21T08:03:09.000Z",
       "snippet": "Information published.",
       "tags": [
@@ -318,6 +318,17 @@
       "snippet": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
+      "date": "2026-07-20T18:10:45.000Z",
+      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
