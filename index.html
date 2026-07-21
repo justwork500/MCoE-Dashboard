@@ -10,6 +10,9 @@
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Pre-load local news data to bypass dynamic injection blocks on some enterprise networks -->
+    <script src="news-data.js"></script>
 
     <!-- Tailwind Config -->
     <script>
@@ -247,7 +250,7 @@
                     <!-- Section Header & Controls -->
                     <div class="p-4 border-b border-gray-200 dark:border-darkBorder flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
                         <h2 class="text-lg font-semibold flex items-center gap-2">
-                            <i class="ph ph-shield-warning text-msBlue"></i> Microsoft Vulnerabilities
+                            <i class="ph ph-shield-warning text-msBlue"></i> Vulnerabilities
                         </h2>
                         
                         <div class="flex items-center gap-2 w-full sm:w-auto">
@@ -281,7 +284,7 @@
                         </div>
                         
                         <!-- Empty State -->
-                        <div id="vuln-empty" class="hidden absolute inset-0 flex flex-col items-center justify-center text-gray-500 z-0">
+                        <div id="vuln-empty" class="hidden absolute inset-0 flex flex-col items-center justify-center text-gray-500 z-0 bg-white/80 dark:bg-darkCard/80 backdrop-blur-sm">
                             <i class="ph ph-magnifying-glass text-4xl mb-2"></i>
                             <p>No vulnerabilities found matching filters.</p>
                         </div>
@@ -830,6 +833,7 @@
                 return { id, published, description, score, severity, tags, url, raw: cve };
             });
 
+            syncMsrcToVulns();
             applyVulnFilters();
             updateVulnKPIs();
         }
@@ -856,8 +860,9 @@
 
                 try {
                     // Modern approach: Inject a script tag to load news-data.js (works on local file://)
+                    const cacheBuster = window.location.protocol === 'file:' ? '' : `?_t=${Date.now()}`;
                     const script = document.createElement('script');
-                    script.src = `news-data.js?_t=${Date.now()}`;
+                    script.src = `news-data.js${cacheBuster}`;
                     script.onload = () => {
                         if (window.NEWS_DATA) {
                             const cutoffDate = new Date();
@@ -876,8 +881,23 @@
                         }
                     };
                     script.onerror = () => {
+                        // If dynamic script injection is blocked (e.g., Zscaler/Enterprise policies on file://)
+                        // but we successfully loaded it statically, use that.
+                        if (window.location.protocol === 'file:' && window.NEWS_DATA) {
+                            const cutoffDate = new Date();
+                            cutoffDate.setDate(cutoffDate.getDate() - STATE.settings.lookbackDays);
+                            const finalItems = window.NEWS_DATA.items.filter(item => new Date(item.date) >= cutoffDate);
+                            STATE.allNewsCache = finalItems;
+                            localStorage.setItem('msCoNewsAll', JSON.stringify(STATE.allNewsCache));
+                            renderNews();
+                            if (syncStatus) {
+                                syncStatus.innerHTML = `<i class="ph ph-check-circle text-green-500"></i> Up to date (Local Mode - Static)`;
+                            }
+                            return;
+                        }
+
                         // If it fails to load the local JS, fallback to fetch for backwards compatibility
-                        fetch(`news.json?_t=${Date.now()}`)
+                        fetch(`news.json${cacheBuster}`)
                             .then(res => res.ok ? res.json() : Promise.reject(`HTTP Error: ${res.status}`))
                             .then(data => {
                                 const cutoffDate = new Date();
@@ -944,18 +964,21 @@
         }
 
         function applyVulnFilters() {
-            const term = STATE.filters.search.toLowerCase();
+            const term = STATE.filters.search.toLowerCase().trim();
             const sev = STATE.filters.severity;
             const prod = STATE.filters.product;
+            const isCveSearch = term.startsWith('cve-');
 
             STATE.filteredVulns = STATE.vulns.filter(v => {
-                // Search
                 const matchSearch = term === '' || 
                                     v.id.toLowerCase().includes(term) || 
                                     v.description.toLowerCase().includes(term);
-                // Severity
+                
+                if (isCveSearch && v.id.toLowerCase().includes(term)) {
+                    return true; // Always show exact CVE match ignoring other filters
+                }
+
                 const matchSev = sev === 'all' || v.severity === sev;
-                // Product
                 const matchProd = prod === 'all' || v.tags.includes(prod);
 
                 return matchSearch && matchSev && matchProd;
@@ -963,6 +986,28 @@
 
             doSort();
             updateVulnKPIs(); // Recalculate KPIs based on new filters
+            updateVulnEmptyState(term);
+        }
+
+        function updateVulnEmptyState(term) {
+            const emptyState = document.getElementById('vuln-empty');
+            if (STATE.filteredVulns.length === 0) {
+                if (term.toLowerCase().startsWith('cve-')) {
+                    emptyState.innerHTML = `
+                        <i class="ph ph-magnifying-glass text-4xl mb-2 text-msBlue"></i>
+                        <p class="mb-4 text-center font-medium">CVE not found in recent local cache.</p>
+                        <div class="flex flex-col gap-3 w-64">
+                            <a href="https://nvd.nist.gov/vuln/detail/${term.toUpperCase()}" target="_blank" class="px-4 py-2 bg-msBlue text-white rounded hover:bg-blue-700 transition flex items-center justify-center gap-2 font-semibold shadow-sm hover-lift"><i class="ph ph-arrow-square-out text-lg"></i> Search NVD</a>
+                            <a href="https://msrc.microsoft.com/update-guide/vulnerability/${term.toUpperCase()}" target="_blank" class="px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded hover:bg-gray-300 dark:hover:bg-gray-600 transition flex items-center justify-center gap-2 font-semibold shadow-sm hover-lift"><i class="ph ph-arrow-square-out text-lg"></i> Search MSRC</a>
+                        </div>
+                    `;
+                } else {
+                    emptyState.innerHTML = `
+                        <i class="ph ph-magnifying-glass text-4xl mb-2"></i>
+                        <p>No vulnerabilities found matching filters.</p>
+                    `;
+                }
+            }
         }
 
         function getSeverityColor(sev) {
@@ -1068,12 +1113,40 @@
             });
         }
 
+        function syncMsrcToVulns() {
+            if (!STATE.allNewsCache || !STATE.vulns) return;
+            const msrcItems = STATE.allNewsCache.filter(item => item.source === 'MSRC Security Updates');
+            let added = false;
+            msrcItems.forEach(item => {
+                const cveMatch = item.title.match(/(CVE-\d{4}-\d{4,7})/i) || item.link.match(/(CVE-\d{4}-\d{4,7})/i);
+                if (cveMatch) {
+                    const cveId = cveMatch[1].toUpperCase();
+                    if (!STATE.vulns.find(v => v.id === cveId)) {
+                        STATE.vulns.push({
+                            id: cveId,
+                            published: new Date(item.date),
+                            description: item.title + (item.snippet ? ' - ' + item.snippet : ''),
+                            score: 0,
+                            severity: 'UNKNOWN',
+                            tags: item.tags || ['Windows'],
+                            url: item.link,
+                            raw: item
+                        });
+                        added = true;
+                    }
+                }
+            });
+            if (added) applyVulnFilters();
+        }
+
         function renderNews() {
+            syncMsrcToVulns();
+            
             const container = document.getElementById('news-list');
             const prod = STATE.filters.product;
             
-            // Filter global cache for current product
-            let filteredNews = STATE.allNewsCache;
+            // Filter global cache for current product and exclude MSRC
+            let filteredNews = STATE.allNewsCache.filter(item => item.source !== 'MSRC Security Updates');
             if (prod !== 'all') {
                 filteredNews = filteredNews.filter(item => item.tags && item.tags.includes(prod));
             }
