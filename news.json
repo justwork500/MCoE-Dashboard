@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T19:36:08.452Z",
-  "count": 123,
+  "lastUpdated": "2026-07-21T20:48:22.961Z",
+  "count": 122,
   "items": [
     {
       "source": "Patch My PC",
@@ -318,17 +318,6 @@
       "snippet": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
-      "date": "2026-07-20T18:10:45.000Z",
-      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
