@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T11:29:03.904Z",
-  "count": 118,
+  "lastUpdated": "2026-07-21T15:01:01.333Z",
+  "count": 123,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -1011,6 +1011,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
@@ -1054,6 +1065,17 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1130,6 +1152,17 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
       "date": "2026-06-29T18:31:55.000Z",
       "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
       "tags": [
         "Intune"
       ]
@@ -1311,6 +1344,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the account settings in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
+      "date": "2026-06-22T17:45:00.000Z",
+      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
@@ -1319,6 +1363,17 @@
       "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
+      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
+      "date": "2026-06-22T14:59:03.000Z",
+      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
+      "tags": [
+        "Defender"
       ]
     },
     {
