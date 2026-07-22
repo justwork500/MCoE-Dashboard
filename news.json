@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-07-22T12:55:28.991Z",
-  "count": 122,
+  "lastUpdated": "2026-07-22T15:00:17.384Z",
+  "count": 119,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50441 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50441",
+      "date": "2026-07-22T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50458 Microsoft Brokering File System Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50458",
+      "date": "2026-07-22T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "How to Automatically Update macOS PKG Apps Using Intune",
+      "link": "https://www.prajwaldesai.com/automatically-update-macos-pkg-apps-using-intune/",
+      "date": "2026-07-22T13:54:42.000Z",
+      "snippet": "Starting in Intune service release 2606, you can automatically update macOS PKG apps deployed to devices by updating the app policy...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -207,33 +242,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-64205 i2c: i801: fix hardware state machine corruption in error path",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64205",
-      "date": "2026-07-22T08:01:44.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "CVE-2026-64192 bpf: Reject BPF_MAP_TYPE_INODE_STORAGE creation if BPF LSM is uninitialized",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64192",
       "date": "2026-07-22T08:01:38.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-64187 xfs: fail recovery on a committed log item with no regions",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64187",
-      "date": "2026-07-22T08:01:32.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -265,17 +276,6 @@
       ]
     },
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
-      "date": "2026-07-21T23:06:06.000Z",
-      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Purview: Data Loss Prevention - Data Security for non-Microsoft connected apps",
@@ -296,17 +296,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
-      "date": "2026-07-21T15:56:41.000Z",
-      "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
@@ -1352,28 +1341,6 @@
       "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "A new SharePoint Look and Feel: What’s Changing and Why It Matters",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/a-new-sharepoint-look-and-feel-what-s-changing-and-why-it/ba-p/4529776",
-      "date": "2026-06-22T15:00:00.000Z",
-      "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Configure AI agent runtime protection (preview) with Microsoft Defender for Endpoint",
-      "link": "https://jeffreyappel.nl/configure-ai-agent-runtime-protection-preview-with-microsoft-defender-for-endpoint/",
-      "date": "2026-06-22T14:59:03.000Z",
-      "snippet": "Artificial Intelligence (AI) agents are becoming part of more and more workflows. From coding assistants and CLI-based agents to autonomous desktop ap...",
-      "tags": [
-        "Defender"
       ]
     }
   ]
