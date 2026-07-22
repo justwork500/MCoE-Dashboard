@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-22T09:07:21.221Z",
-  "count": 120,
+  "lastUpdated": "2026-07-22T11:18:48.649Z",
+  "count": 122,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "12 Free Microsoft 365 Management Tools  ",
+      "link": "https://blog.admindroid.com/free-microsoft-365-management-tools/",
+      "date": "2026-07-22T10:30:00.000Z",
+      "snippet": "Managing a Microsoft 365 organization involves more than what&#039;s available in the built-in admin centers. Discover 12 free Microsoft 365 administration...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Add Windows 365 Cloud Apps from File Path using Microsoft Intune",
+      "link": "https://www.anoopcnair.com/windows-365-cloud-apps-from-file-path-intune/",
+      "date": "2026-07-22T09:44:16.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -243,6 +265,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
+      "date": "2026-07-21T23:06:06.000Z",
+      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Purview: Data Loss Prevention - Data Security for non-Microsoft connected apps",
@@ -263,6 +296,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
+      "date": "2026-07-21T15:56:41.000Z",
+      "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -472,17 +516,6 @@
       "title": "Configure Recall Snapshot Storage to Optimize Device Performance using Intune",
       "link": "https://www.anoopcnair.com/recall-snapshot-storage-device-using-intune/",
       "date": "2026-07-16T09:30:39.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Fixes 570 Security Vulnerabilities and 3 Zero-Day Vulnerabilities in July 2026 Patch Tuesday",
-      "link": "https://www.anoopcnair.com/microsoft-fixes-570-security-vulnerabilities/",
-      "date": "2026-07-16T06:46:45.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
@@ -1275,17 +1308,6 @@
       "snippet": "Get ready for the June OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they support...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Introduces Manual Incident and Alert Creation ",
-      "link": "https://blog.admindroid.com/manually-create-incidents-or-alerts-in-microsoft-defender/",
-      "date": "2026-06-23T11:59:33.000Z",
-      "snippet": "Microsoft recently introduced manual incident creation in preview for Defender to help security teams investigate threats beyond automated detections....",
-      "tags": [
-        "Azure"
       ]
     },
     {
