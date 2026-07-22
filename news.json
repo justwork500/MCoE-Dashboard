@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T03:43:59.040Z",
-  "count": 105,
+  "lastUpdated": "2026-07-22T06:15:39.618Z",
+  "count": 115,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -11,6 +11,18 @@
       "snippet": "Microsoft Purview Data Loss Prevention and Information Protection Auto-labeling capabilities now extend to non-Microsoft connected apps (e.g., Google ...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
+      "link": "https://patchmypc.com/blog/evaluate-third-party-patching-solutions-beyond-price/",
+      "date": "2026-07-21T17:20:32.000Z",
+      "snippet": "Comparing third-party patching solutions based solely on licensing cost can lead to expensive mistakes. This article explores the key questions IT tea...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -287,6 +299,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
+      "date": "2026-07-20T18:10:45.000Z",
+      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
@@ -309,6 +332,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Company Portal: Error Loading Apps",
+      "link": "https://patchmypc.com/blog/company-portal-error-loading-apps/",
+      "date": "2026-07-20T14:16:30.000Z",
+      "snippet": "Some time ago, the Company Portal suddenly failed to load its apps. In this blog, I explain what happened behind the scenes, how the IWService path wo...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Using Connect-MgGraph Cmdlet to Automate Microsoft 365 via Microsoft Graph PowerShell",
@@ -317,6 +352,18 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
+      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
+      "date": "2026-07-18T10:36:57.000Z",
+      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -372,6 +419,18 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Required Apps No Longer Need to Wait 60 Minutes",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/",
+      "date": "2026-07-17T07:59:21.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -628,6 +687,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside the Improved on-demand sync for Windows devices",
+      "link": "https://patchmypc.com/blog/inside-the-improved-on-demand-sync-for-windows-devices/",
+      "date": "2026-07-14T19:15:54.000Z",
+      "snippet": "The new Improved on-demand Sync in Intune is expanding beyond policies to include Win32 apps, PowerShell scripts, and Remediations.\nThe post Inside th...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Addressing Exchange Server May 2026 vulnerability CVE-2026-42897",
@@ -672,6 +743,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.287 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-287-released/",
+      "date": "2026-07-13T17:32:44.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. New Features and Improvements User Interface Enhancements Intune Improvemen...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
@@ -680,6 +763,30 @@
       "snippet": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting fro...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Deploying Claude Desktop Device-Wide: MSIX as a Custom App in Patch My PC ",
+      "link": "https://patchmypc.com/kb/deploying-claude-desktop-device-wide-msix-as-a-custom-app-in-patch-my-pc/",
+      "date": "2026-07-13T12:38:17.000Z",
+      "snippet": "Anthropic distributes Claude Desktop for Windows as an MSIX package, and like all MSIX&amp;#160;packages&amp;#160;it installs per user.&amp;#160;That’s&amp;#160;fine ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "The Intune MDM Device Certificate KSP Renewal Bug: Why the Bit4id Provider Caused it",
+      "link": "https://patchmypc.com/blog/the-intune-mdm-device-certificate-ksp-renewal-bug-why-23h2-devices-stopped-renewing/",
+      "date": "2026-07-12T08:28:14.000Z",
+      "snippet": "A third party smart card KSP caused the Intune MDM certificate renewal flow in Windows 11 to fail before the actual renewal checks even started, leavi...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -868,6 +975,30 @@
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.193 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-193-released/",
+      "date": "2026-07-06T20:37:53.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Version 2.3.2.193...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
+      "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
+      "date": "2026-07-06T11:13:29.000Z",
+      "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1166,17 +1297,6 @@
       "snippet": "SharePoint is getting a refreshed look and feel designed to make the product feel simpler, clearer, and more focused on your content. We’ve recently i...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "MSEndpointMgr",
-      "icon": "ph-devices",
-      "title": "EPM Part 2: Before you remove local admin: How to use Intune Endpoint Privilege Management audit mode to understand your environment",
-      "link": "https://msendpointmgr.com/2026/06/22/epm-part-2-before-you-remove-local-admin-how-to-use-intune-endpoint-privilege-management-audit-mode-to-understand-your-environment/",
-      "date": "2026-06-22T06:00:00.000Z",
-      "snippet": "This is the second post in a series on Microsoft Intune Endpoint Privilege Management (EPM). If you haven&amp;#8217;t read the first post, &amp;#8220;The End ...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
