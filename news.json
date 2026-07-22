@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-07-22T16:25:43.192Z",
-  "count": 119,
+  "lastUpdated": "2026-07-22T20:20:14.812Z",
+  "count": 117,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
+      "date": "2026-07-22T20:04:12.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Standard service endpoint ",
+      "link": "https://azure.microsoft.com/updates?id=561475",
+      "date": "2026-07-22T16:57:10.000Z",
+      "snippet": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services u...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -19,6 +42,30 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50458 Microsoft Brokering File System Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50458",
+      "date": "2026-07-22T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50377 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50377",
+      "date": "2026-07-22T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50466 Microsoft Brokering File System Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50466",
       "date": "2026-07-22T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -101,18 +148,6 @@
       "title": "CVE-2026-59884 pyasn1 BER/CER/DER decoder denial of service via unbounded long-form tag IDs",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59884",
       "date": "2026-07-22T08:41:21.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-59885 pyasn1: Quadratic complexity in OBJECT IDENTIFIER and RELATIVE-OID processing allows denial of service",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59885",
-      "date": "2026-07-22T08:41:14.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -254,18 +289,6 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-26199 Buffer underflow in `H5Iget_name `/`H5G_get_name` if size is zero",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-26199",
-      "date": "2026-07-22T08:01:26.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "CVE-2026-26197 Array full size, element count, and element size are not checked to make sure they match in H5Odtype.c",
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-26197",
       "date": "2026-07-22T08:01:19.000Z",
@@ -273,6 +296,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
+      "date": "2026-07-21T23:06:06.000Z",
+      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -777,17 +811,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Databricks SQL Serverless in UK West  ",
-      "link": "https://azure.microsoft.com/updates?id=567444",
-      "date": "2026-07-13T17:04:04.000Z",
-      "snippet": "Starting July 13th, 2026, customers can use Azure Databricks SQL Serverless in the UK West region to simplify analytics workloads while benefiting fro...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Deploying Claude Desktop Device-Wide: MSIX as a Custom App in Patch My PC ",
@@ -1020,18 +1043,6 @@
       "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
-      "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
-      "date": "2026-07-06T11:13:29.000Z",
-      "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1306,39 +1317,6 @@
       "link": "https://www.prajwaldesai.com/using-sql-query-to-monitor-collection-evaluation-in-sccm/",
       "date": "2026-06-23T10:14:45.000Z",
       "snippet": "In this post, I will show you how you can use a simple SQL query to monitor collection evaluation in SCCM....",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Exporting all Microsoft Intune Enterprise App Management catalog apps to CSV using Microsoft Graph",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/exporting-all-microsoft-intune-enterprise-app-management-catalog/ba-p/4529579",
-      "date": "2026-06-22T17:59:40.000Z",
-      "snippet": "By: Joe Lurie, Sr. Product Manager | Microsoft Intune\r\nManaging applications at scale is one of the biggest time-consuming tasks for IT admins. Betwee...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "New Platform SSO with registration during Automated Device Enrollment on macOS",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/new-platform-sso-with-registration-during-automated-device/ba-p/4519846",
-      "date": "2026-06-22T17:49:03.000Z",
-      "snippet": "By Iris Yuning Ye, Product Manager – Microsoft Intune &amp;amp; Justin Ploegert, Principal Product Manager – Microsoft Entra\r\nA new setting ‘Enable Regist...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the account settings in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-account-settings-in-start-layout/",
-      "date": "2026-06-22T17:45:00.000Z",
-      "snippet": "This week is all about customizing the account settings in the Start layout. Customizing the Start menu layout has been the subject of discussion mult...",
       "tags": [
         "Intune"
       ]
