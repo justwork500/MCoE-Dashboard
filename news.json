@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T11:47:34.375Z",
-  "count": 107,
+  "lastUpdated": "2026-07-23T13:41:44.306Z",
+  "count": 117,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -276,6 +276,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
+      "date": "2026-07-22T20:04:12.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Standard service endpoint ",
@@ -342,6 +354,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
+      "link": "https://patchmypc.com/blog/evaluate-third-party-patching-solutions-beyond-price/",
+      "date": "2026-07-21T17:20:32.000Z",
+      "snippet": "Comparing third-party patching solutions based solely on licensing cost can lead to expensive mistakes. This article explores the key questions IT tea...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
@@ -397,6 +421,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Company Portal: Error Loading Apps",
+      "link": "https://patchmypc.com/blog/company-portal-error-loading-apps/",
+      "date": "2026-07-20T14:16:30.000Z",
+      "snippet": "Some time ago, the Company Portal suddenly failed to load its apps. In this blog, I explain what happened behind the scenes, how the IWService path wo...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Using Connect-MgGraph Cmdlet to Automate Microsoft 365 via Microsoft Graph PowerShell",
@@ -405,6 +441,18 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
+      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
+      "date": "2026-07-18T10:36:57.000Z",
+      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -460,6 +508,18 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Required Apps No Longer Need to Wait 60 Minutes",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/",
+      "date": "2026-07-17T07:59:21.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -694,6 +754,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside the Improved on-demand sync for Windows devices",
+      "link": "https://patchmypc.com/blog/inside-the-improved-on-demand-sync-for-windows-devices/",
+      "date": "2026-07-14T19:15:54.000Z",
+      "snippet": "The new Improved on-demand Sync in Intune is expanding beyond policies to include Win32 apps, PowerShell scripts, and Remediations.\nThe post Inside th...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Addressing Exchange Server May 2026 vulnerability CVE-2026-42897",
@@ -735,6 +807,42 @@
       "snippet": "Microsoft has officially announced that passkeys will become the default authentication method in Microsoft Entra, replacing Microsoft-provided SMS an...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.287 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-287-released/",
+      "date": "2026-07-13T17:32:44.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. New Features and Improvements User Interface Enhancements Intune Improvemen...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Deploying Claude Desktop Device-Wide: MSIX as a Custom App in Patch My PC ",
+      "link": "https://patchmypc.com/kb/deploying-claude-desktop-device-wide-msix-as-a-custom-app-in-patch-my-pc/",
+      "date": "2026-07-13T12:38:17.000Z",
+      "snippet": "Anthropic distributes Claude Desktop for Windows as an MSIX package, and like all MSIX&amp;#160;packages&amp;#160;it installs per user.&amp;#160;That’s&amp;#160;fine ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "The Intune MDM Device Certificate KSP Renewal Bug: Why the Bit4id Provider Caused it",
+      "link": "https://patchmypc.com/blog/the-intune-mdm-device-certificate-ksp-renewal-bug-why-23h2-devices-stopped-renewing/",
+      "date": "2026-07-12T08:28:14.000Z",
+      "snippet": "A third party smart card KSP caused the Intune MDM certificate renewal flow in Windows 11 to fail before the actual renewal checks even started, leavi...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -923,6 +1031,18 @@
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 2.3.2.193 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-193-released/",
+      "date": "2026-07-06T20:37:53.000Z",
+      "snippet": "This release contains a variety of improvements and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Version 2.3.2.193...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
