@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T15:35:48.399Z",
-  "count": 118,
+  "lastUpdated": "2026-07-23T17:04:13.100Z",
+  "count": 117,
   "items": [
     {
       "source": "Systems Center Dudes",
@@ -1320,17 +1320,6 @@
       "snippet": "With Intune Suite now included in E5 (and partly in E3), I imagine a lot of you are wondering what you are now getting and how much of it you will act...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "NOW ON DEMAND | OneDrive Office Hours | June 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-june-2026/ba-p/4526529",
-      "date": "2026-06-23T16:36:14.000Z",
-      "snippet": "Get ready for the June OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they support...",
-      "tags": [
-        "OneDrive"
       ]
     }
   ]
