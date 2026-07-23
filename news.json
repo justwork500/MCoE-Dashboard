@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-23T13:41:44.306Z",
-  "count": 117,
+  "lastUpdated": "2026-07-23T15:35:48.399Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "SCCM error code 0x80244007 – Windows Servers 2019/2022/2025 not scanning updates from",
+      "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
+      "date": "2026-07-23T14:46:07.000Z",
+      "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
