@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-22T22:39:45.166Z",
-  "count": 114,
+  "lastUpdated": "2026-07-23T04:32:53.735Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Cross-post SharePoint News to Engage",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568074",
+      "date": "2026-07-22T22:41:54.000Z",
+      "snippet": "This feature allows SharePoint News authors to distribute posts to an Engage community or storyline while preserving full fidelity rendering and a uni...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: New Copilot entry point in Classic Outlook",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567007",
+      "date": "2026-07-22T22:41:54.000Z",
+      "snippet": "We&#039;ve introduced a new experience for Copilot in the apps—a consistent entry point across apps that sits above your work and understands the context b...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -333,6 +355,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
+      "date": "2026-07-21T15:56:41.000Z",
+      "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Configure Windows Sandbox Video Input to Balance Security and Functionality using Intune",
@@ -341,28 +374,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneNote: Multimodal capture in Copilot Notebooks (Android)",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567895",
-      "date": "2026-07-20T22:37:15.000Z",
-      "snippet": "Multimodal capture enables users to transcribe audio, take images, and type notes in a single session. Copilot then creates a structured Copilot Page ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Share Autonomous Agents to End Users (Run-Only)",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567894",
-      "date": "2026-07-20T22:37:15.000Z",
-      "snippet": "Previously, autonomous agents could only be used and managed by makers, limiting their reach to the people who needed them. Run-only sharing enables m...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1035,6 +1046,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 3rd July 2026",
@@ -1054,6 +1076,17 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1130,6 +1163,17 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
       "date": "2026-06-29T18:31:55.000Z",
       "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
       "tags": [
         "Intune"
       ]
