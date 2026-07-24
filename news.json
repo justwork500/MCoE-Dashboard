@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-07-24T08:44:06.755Z",
+  "lastUpdated": "2026-07-24T14:19:53.730Z",
   "count": 119,
   "items": [
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Microsoft Shares Fix for WSUS Sync Delays and Timeout Issues",
+      "link": "https://www.prajwaldesai.com/fix-wsus-sync-delays-and-timeout-issues/",
+      "date": "2026-07-24T13:29:07.000Z",
+      "snippet": "Microsoft has confirmed a known issue affecting Windows Server Update Services (WSUS) that causes slow synchronization times and sync timeouts. The......",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 24th July 2026",
+      "link": "https://andrewstaylor.com/2026/07/24/intune-newsletter-24th-july-2026/",
+      "date": "2026-07-24T09:32:26.000Z",
+      "snippet": "Hopefully you didn&amp;#8217;t miss this too much last week, I was away enjoying a relaxing break in Madeira with my family, but we have content from the ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Automatic Remediation for Windows Hotpatch Devices using Intune",
+      "link": "https://www.anoopcnair.com/automatic-remediation-windows-hotpatch-intune/",
+      "date": "2026-07-24T09:31:40.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -47,6 +80,17 @@
       "snippet": "Campaigns in SharePoint (site campaigns) is a new capability that brings Viva Amplify’ s campaign management natively into SharePoint. Corporate commu...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
+      "date": "2026-07-23T23:11:50.000Z",
+      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -542,17 +586,6 @@
       "snippet": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Enable Microsoft Defender SmartScreen in Intune to Block Malicious Websites Phishing Unsafe Downloads and Unrecognized Apps",
-      "link": "https://www.anoopcnair.com/microsoft-defender-smartscreen-using-intune/",
-      "date": "2026-07-17T09:33:34.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1213,17 +1246,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
-      "date": "2026-06-29T15:00:00.000Z",
-      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
@@ -1318,28 +1340,6 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-configure-macos-privacy-preferences-policy-control-pppc/ba-p/4530406",
       "date": "2026-06-24T18:14:31.000Z",
       "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPrivacy Preferences Policy Control (PPPC) settings on macOS are used to pre-approve pr...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "How to Automate Inactive SharePoint Sites Cleanup Using Power Automate",
-      "link": "https://blog.admindroid.com/cleanup-inactive-sharepoint-online-sites-using-power-automate/",
-      "date": "2026-06-24T11:14:07.000Z",
-      "snippet": "Managing inactive SharePoint site lifecycles can be challenging and time-consuming using native methods. Learn how an approval-based workflow automati...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "What do I really get with Intune Suite?",
-      "link": "https://andrewstaylor.com/2026/06/24/what-do-i-really-get-with-intune-suite/",
-      "date": "2026-06-24T10:56:19.000Z",
-      "snippet": "With Intune Suite now included in E5 (and partly in E3), I imagine a lot of you are wondering what you are now getting and how much of it you will act...",
       "tags": [
         "Intune"
       ]
