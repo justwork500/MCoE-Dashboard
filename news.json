@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-07-24T14:19:53.730Z",
-  "count": 119,
+  "lastUpdated": "2026-07-24T17:23:53.942Z",
+  "count": 120,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
+      "date": "2026-07-24T16:24:35.000Z",
+      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -83,14 +94,14 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
-      "date": "2026-07-23T23:11:50.000Z",
-      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Designing Intune enrollment for frontline workers: Choosing the right path for real-world devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/designing-intune-enrollment-for-frontline-workers-choosing-the/ba-p/4540144",
+      "date": "2026-07-23T16:59:40.000Z",
+      "snippet": "By: Shawn Catlin – Senior Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspecti...",
       "tags": [
-        "Teams"
+        "Intune"
       ]
     },
     {
