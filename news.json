@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-07-24T00:10:48.407Z",
-  "count": 118,
+  "lastUpdated": "2026-07-24T06:13:51.229Z",
+  "count": 117,
   "items": [
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Designing Intune enrollment for frontline workers: Choosing the right path for real-world devices",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/designing-intune-enrollment-for-frontline-workers-choosing-the/ba-p/4540144",
-      "date": "2026-07-23T16:59:40.000Z",
-      "snippet": "By: Shawn Catlin – Senior Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspecti...",
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Campaigns in SharePoint",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568073",
+      "date": "2026-07-23T23:27:16.000Z",
+      "snippet": "Campaigns in SharePoint (site campaigns) is a new capability that brings Viva Amplify’ s campaign management natively into SharePoint. Corporate commu...",
       "tags": [
-        "Intune"
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-56163 Microsoft Azure Kubernetes Service Elevation of Privilege Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56163",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56163",
       "date": "2026-07-23T14:00:00.000Z",
       "snippet": "Missing authentication for critical function in Microsoft Azure Kubernetes Service allows an unauthorized attacker to elevate privileges over a networ...",
       "tags": [
@@ -148,7 +148,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-57106 Data Quality Elevation of Privilege Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57106",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57106",
       "date": "2026-07-23T14:00:00.000Z",
       "snippet": "Server-side request forgery (ssrf) in Data Quality allows an unauthorized attacker to elevate privileges over a network.",
       "tags": [
@@ -196,7 +196,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62835 Online Services Information Disclosure Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62835",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62835",
       "date": "2026-07-23T14:00:00.000Z",
       "snippet": "Improper authorization in Online Services allows an unauthorized attacker to disclose information over a network.",
       "tags": [
@@ -419,6 +419,17 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Unified Agent and App Installation Management Across Microsoft 365 and Teams Admin Center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567883",
+      "date": "2026-07-20T22:37:15.000Z",
+      "snippet": "Administrators using the Microsoft 365 admin center and Teams admin center will be able to apply app and agent installation changes once and have them...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1102,17 +1113,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Defender for Endpoint performance troubleshooting on Linux",
-      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
-      "date": "2026-07-02T20:28:36.000Z",
-      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Prevent Sensitive Data Leakage Across Unmanaged Apps with Purview and Entra ",
@@ -1265,17 +1265,6 @@
       "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00.000Z",
-      "snippet": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.\nThe post Copilot in Excel: Built for the e...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
