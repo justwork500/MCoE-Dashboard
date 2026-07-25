@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T16:33:09.245Z",
-  "count": 116,
+  "lastUpdated": "2026-07-25T19:54:47.317Z",
+  "count": 115,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -59,6 +59,17 @@
       "snippet": "By: Daniel Gerrity – Principal Product Manager | Microsoft Intune\r\nIf you manage a large device fleet with Microsoft Intune, you’ve almost certainly n...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: July 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146",
+      "date": "2026-07-24T18:41:35.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -865,17 +876,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: July 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146",
-      "date": "2026-07-14T17:18:39.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Passkeys Become the Default as Microsoft Entra Retires SMS and Voice Authentication ",
@@ -1296,17 +1296,6 @@
       "link": "https://andrewstaylor.com/2026/06/26/intune-newsletter-26th-june-2026/",
       "date": "2026-06-25T23:23:26.000Z",
       "snippet": "The weather has been wild this week, I&amp;#8217;ve never been more glad to be living further North, hopefully you&amp;#8217;re all keeping cool somehow! The ...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune and Apple platform updates: What to expect after WWDC 2026",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-platform-updates-what-to-expect-after/ba-p/4531058",
-      "date": "2026-06-25T18:33:03.000Z",
-      "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
       "tags": [
         "Intune"
       ]
