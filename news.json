@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T22:36:37.264Z",
-  "count": 115,
+  "lastUpdated": "2026-07-25T23:42:09.372Z",
+  "count": 114,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1287,17 +1287,6 @@
       "snippet": "Today we wanted to take a few minutes to discuss a topic that has come up several times. Consider the scenario where your organization has created Res...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 26th June 2026",
-      "link": "https://andrewstaylor.com/2026/06/26/intune-newsletter-26th-june-2026/",
-      "date": "2026-06-25T23:23:26.000Z",
-      "snippet": "The weather has been wild this week, I&amp;#8217;ve never been more glad to be living further North, hopefully you&amp;#8217;re all keeping cool somehow! The ...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
