@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T08:49:05.035Z",
-  "count": 119,
+  "lastUpdated": "2026-07-25T15:36:50.928Z",
+  "count": 116,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1307,39 +1307,6 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-platform-updates-what-to-expect-after/ba-p/4531058",
       "date": "2026-06-25T18:33:03.000Z",
       "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Copilot in Excel: Built for the era of Frontier Finance",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
-      "date": "2026-06-25T13:00:00.000Z",
-      "snippet": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.\nThe post Copilot in Excel: Built for the e...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "How to Configure Retention Labels in Microsoft 365 ",
-      "link": "https://blog.admindroid.com/how-to-configure-retention-labels-in-microsoft-365/",
-      "date": "2026-06-25T10:29:52.000Z",
-      "snippet": "Retention labels provide a granular way to manage data retention in Microsoft 365 by applying retention settings directly to files, folders, and email...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Windows 11 KB5095093 out with New Features and Improvements",
-      "link": "https://www.prajwaldesai.com/windows-11-kb5095093-out-with-new-features-and-improvements/",
-      "date": "2026-06-25T08:49:46.000Z",
-      "snippet": "Microsoft has begun rolling out Windows 11 KB5095093, a preview update for versions 25H2 and 24H2. This update adds a new...",
       "tags": [
         "Intune"
       ]
