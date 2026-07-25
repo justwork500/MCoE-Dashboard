@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T20:42:41.524Z",
-  "count": 114,
+  "lastUpdated": "2026-07-25T21:37:03.075Z",
+  "count": 115,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -48,6 +48,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "From hours to minutes: Rethinking Microsoft Intune compliance reporting with the Export API",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/from-hours-to-minutes-rethinking-microsoft-intune-compliance/ba-p/4540554",
+      "date": "2026-07-24T19:07:28.000Z",
+      "snippet": "By: Daniel Gerrity – Principal Product Manager | Microsoft Intune\r\nIf you manage a large device fleet with Microsoft Intune, you’ve almost certainly n...",
+      "tags": [
+        "Intune"
       ]
     },
     {
