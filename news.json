@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-25T06:37:51.258Z",
-  "count": 118,
+  "lastUpdated": "2026-07-25T08:49:05.035Z",
+  "count": 119,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1309,6 +1309,17 @@
       "snippet": "By Benjamin Flamm | Product Manager, Iris Yuning Ye | Product Manager - Microsoft Intune\r\nApple’s Worldwide Developers Conference (WWDC) is the annual...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Copilot in Excel: Built for the era of Frontier Finance",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance/",
+      "date": "2026-06-25T13:00:00.000Z",
+      "snippet": "Plenty of AI tools claim to be built for finance; Microsoft 365 Copilot in Excel is proving it in practice.\nThe post Copilot in Excel: Built for the e...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
