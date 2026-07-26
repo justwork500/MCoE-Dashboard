@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T11:07:58.903Z",
-  "count": 111,
+  "lastUpdated": "2026-07-26T18:41:02.180Z",
+  "count": 113,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1123,6 +1123,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
@@ -1154,6 +1165,17 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender for Endpoint performance troubleshooting on Linux",
+      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
+      "date": "2026-07-02T20:28:36.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1235,23 +1257,23 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with Android Enterprise personally owned devices with work profile",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
+      "date": "2026-06-29T17:45:00.000Z",
+      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
       "date": "2026-06-29T14:57:47.000Z",
       "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "How to determine which Resource Mailboxes are being actively used",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/how-to-determine-which-resource-mailboxes-are-being-actively/ba-p/4521577",
-      "date": "2026-06-26T13:57:46.000Z",
-      "snippet": "Today we wanted to take a few minutes to discuss a topic that has come up several times. Consider the scenario where your organization has created Res...",
       "tags": [
         "Exchange"
       ]
