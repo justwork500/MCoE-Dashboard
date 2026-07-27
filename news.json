@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-07-27T10:07:41.144Z",
-  "count": 113,
+  "lastUpdated": "2026-07-27T15:57:49.480Z",
+  "count": 114,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50333",
+      "date": "2026-07-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "KB5099536 Resolves Recycle Bin Confirmation Dialog Showing Internal Filenames ($Rxxxxx.ext)",
+      "link": "https://www.prajwaldesai.com/kb5099536-resolves-recycle-bin-dialog-showing-internal-filenames/",
+      "date": "2026-07-27T12:16:34.000Z",
+      "snippet": "KB5099536 addresses a problem caused by the Windows security update from June 9, 2026, where the confirmation dialog may show an...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -347,18 +370,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56160",
       "date": "2026-07-23T14:00:00.000Z",
       "snippet": "Improper authorization in Azure Red Hat OpenShift (ARO) allows an authorized attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-35425 Azure API Management (APIM) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35425",
-      "date": "2026-07-23T14:00:00.000Z",
-      "snippet": "Improper access control in Azure API Management (APIM) allows an authorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
