@@ -1,7 +1,118 @@
 {
-  "lastUpdated": "2026-07-27T23:57:47.539Z",
+  "lastUpdated": "2026-07-28T19:51:20.126Z",
   "count": 115,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Enclave",
+      "link": "https://azure.microsoft.com/updates?id=568377",
+      "date": "2026-07-28T18:51:02.000Z",
+      "snippet": "Announcing the public preview of Azure Enclave for Microsoft Azure, Azure Government, Azure Government Secret, and Azure Government\r\nTop Secret.\r\nAzur...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: NAT64 on StandardV2 NAT Gateway",
+      "link": "https://azure.microsoft.com/updates?id=568409",
+      "date": "2026-07-28T18:50:11.000Z",
+      "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Application Routing with Gateway API",
+      "link": "https://azure.microsoft.com/updates?id=567944",
+      "date": "2026-07-28T16:54:22.000Z",
+      "snippet": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Resource placement in Azure Kubernetes Fleet Manager",
+      "link": "https://azure.microsoft.com/updates?id=567931",
+      "date": "2026-07-28T16:52:51.000Z",
+      "snippet": "Managing Kubernetes resources across multiple clusters can require significant manual effort to apply updates and maintain consistency. Resource place...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Maximum allowed failures for update runs in Azure Kubernetes Fleet Manager ",
+      "link": "https://azure.microsoft.com/updates?id=567939",
+      "date": "2026-07-28T16:51:04.000Z",
+      "snippet": "In fail-fast update rollouts, a small number of member cluster update failures can halt progress across a broader update deployment. Maximum Allowed F...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Prepared Image Specification",
+      "link": "https://azure.microsoft.com/updates?id=567949",
+      "date": "2026-07-28T16:45:37.000Z",
+      "snippet": "Organizations running large-scale, AI, GPU, Windows, and other performance-sensitive workloads on AKS often experience longer node startup times becau...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-28T16:04:10.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.0.1.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-1-0-released/",
+      "date": "2026-07-28T16:00:42.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central)",
+      "link": "https://azure.microsoft.com/updates?id=568013",
+      "date": "2026-07-28T15:40:55.000Z",
+      "snippet": "Microsoft announces the opening of its fourth datacenter region in India, India South Central, with campuses in Hyderabad, Telangana. The region will ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Windows Sandbox vGPU Policy using Intune for Better Graphics Performance or Reduced Attack Surface",
+      "link": "https://www.anoopcnair.com/configure-windows-sandbox-vgpu-using-intune/",
+      "date": "2026-07-28T11:31:03.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -555,17 +666,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Windows Sandbox Video Input to Balance Security and Functionality using Intune",
-      "link": "https://www.anoopcnair.com/video-input-in-windows-sandbox-using-intune/",
-      "date": "2026-07-21T09:33:43.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Unified Agent and App Installation Management Across Microsoft 365 and Teams Admin Center",
@@ -739,83 +839,6 @@
       "link": "https://azure.microsoft.com/updates?id=563571",
       "date": "2026-07-15T18:57:24.000Z",
       "snippet": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 3...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Agent Harness in Microsoft Agent Framework",
-      "link": "https://azure.microsoft.com/updates?id=563546",
-      "date": "2026-07-15T18:55:40.000Z",
-      "snippet": "Microsoft Agent Framework reaches general availability for Agent Harness, the production runtime for agents built with the framework. Customers runnin...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python",
-      "link": "https://azure.microsoft.com/updates?id=564312",
-      "date": "2026-07-15T18:53:28.000Z",
-      "snippet": "Microsoft Foundry is now introducing Agent Framework, a unified multi-agent orchestration SDK for C# and Python. This release consolidates patterns pr...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Tracing for Microsoft Agent Framework (Python and .NET)",
-      "link": "https://azure.microsoft.com/updates?id=564071",
-      "date": "2026-07-15T18:51:45.000Z",
-      "snippet": "In public preview, Microsoft Foundry now offers tracing for the Microsoft Agent Framework in both Python and .NET, helping developers observe how agen...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework",
-      "link": "https://azure.microsoft.com/updates?id=563566",
-      "date": "2026-07-15T18:50:14.000Z",
-      "snippet": "Microsoft Agent Framework adds the CodeAct pattern in public preview, which lets agents collapse a multi-step plan into a single executable code block...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Episodic procedural memory in Microsoft Agent Framework",
-      "link": "https://azure.microsoft.com/updates?id=563561",
-      "date": "2026-07-15T18:48:54.000Z",
-      "snippet": "Microsoft Agent Framework adds episodic procedural memory in public preview, a built-in store that lets agents remember successful task patterns and r...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Agent Channel for Microsoft Agent Framework multi-agent communication",
-      "link": "https://azure.microsoft.com/updates?id=563556",
-      "date": "2026-07-15T18:47:41.000Z",
-      "snippet": "Microsoft Agent Framework introduces Agent Channel in public preview, a built-in primitive that lets agents send structured messages to each other wit...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure SQL updates for mid-July 2026 ",
-      "link": "https://azure.microsoft.com/updates?id=567426",
-      "date": "2026-07-15T17:50:44.000Z",
-      "snippet": "In mid-July 2026, the following updates and enhancements\r\nwere made to Azure SQL: \r\n Shortcut\r\n     Configuration lets you customize keyboard shortcut...",
       "tags": [
         "Azure"
       ]
@@ -1090,17 +1113,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-07-08T13:08:33.000Z",
-      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "How to Deploy PowerShell Scripts in Microsoft Intune",
@@ -1154,18 +1166,6 @@
       "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "A Deep Dive into Controlled Feature Rollout: Why Features are turned off by default",
-      "link": "https://patchmypc.com/blog/how-controlled-feature-rollout-actually-works/",
-      "date": "2026-07-06T11:13:29.000Z",
-      "snippet": "This blog explains what Controlled Feature Rollout (CFR) is, why Microsoft ships features in an off-by-default state, and how a device determines when...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
