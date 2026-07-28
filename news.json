@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T19:51:20.126Z",
+  "lastUpdated": "2026-07-28T21:02:48.697Z",
   "count": 115,
   "items": [
     {
@@ -66,17 +66,6 @@
       "snippet": "Organizations running large-scale, AI, GPU, Windows, and other performance-sensitive workloads on AKS often experience longer node startup times becau...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-07-28T16:04:10.000Z",
-      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1110,6 +1099,17 @@
       "snippet": "SharePoint and Microsoft 365 have evolved into a powerful platform for building business applications that meet organizations where they already work....",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-08T13:08:33.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
