@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T22:55:28.498Z",
+  "lastUpdated": "2026-07-27T23:57:47.539Z",
   "count": 115,
   "items": [
     {
@@ -11,6 +11,17 @@
       "snippet": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic&#039;s latest model for advanced reasoning, codi...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "NOW ON DEMAND | OneDrive Office Hours | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-july-2026/ba-p/4531889",
+      "date": "2026-07-27T18:17:08.000Z",
+      "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
+      "tags": [
+        "OneDrive"
       ]
     },
     {
@@ -64,6 +75,18 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50343 Microsoft Install Service Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50343",
+      "date": "2026-07-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56159 DHCP Server Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56159",
       "date": "2026-07-27T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -391,18 +414,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56163",
       "date": "2026-07-23T14:00:00.000Z",
       "snippet": "Missing authentication for critical function in Microsoft Azure Kubernetes Service allows an unauthorized attacker to elevate privileges over a networ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-56165 Microsoft Account Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56165",
-      "date": "2026-07-23T14:00:00.000Z",
-      "snippet": "Heap-based buffer overflow in Microsoft Account allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -1098,17 +1109,6 @@
       "snippet": "Microsoft Intune Platform Scripts allow organizations to run PowerShell scripts on Intune-managed Windows devices to automate configuration changes an...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Office Hours | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-july-2026/ba-p/4531889",
-      "date": "2026-07-07T20:32:58.000Z",
-      "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
-      "tags": [
-        "OneDrive"
       ]
     },
     {
