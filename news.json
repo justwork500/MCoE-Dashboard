@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T19:41:03.549Z",
-  "count": 120,
+  "lastUpdated": "2026-07-29T20:36:09.495Z",
+  "count": 121,
   "items": [
     {
       "source": "Azure Updates",
@@ -203,6 +203,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Registry Inventory in Microsoft Intune: Verifying What’s on Your Devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/registry-inventory-in-microsoft-intune-verifying-what-s-on-your/ba-p/4541312",
+      "date": "2026-07-28T20:59:27.000Z",
+      "snippet": "By: Madison Cooks, Product Manager | Microsoft Intune\r\nIT admins need a reliable way to confirm how Windows devices are configured, especially when tr...",
+      "tags": [
+        "Intune"
       ]
     },
     {
