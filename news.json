@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-07-29T22:37:43.625Z",
+  "lastUpdated": "2026-07-29T23:40:55.234Z",
   "count": 120,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Import Google account data anytime from Settings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568365",
+      "date": "2026-07-29T23:07:26.000Z",
+      "snippet": "Microsoft Edge now lets users import their Google account data - including passwords, bookmarks, history, and autofill data - directly from Edge Setti...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Rolling out Custom branding in Engage",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568364",
+      "date": "2026-07-29T23:07:26.000Z",
+      "snippet": "Engage is rolling out Custom Branding, a new admin-led capability that lets organizations define a customized, tenant-wide visual identity across the ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Copilot Dashboard - Targeted Audience Surveys",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568072",
+      "date": "2026-07-29T23:07:26.000Z",
+      "snippet": "Targeted Audience Surveys let change leaders launch a Copilot Pulse survey directly from the Copilot Dashboard to all licensed or active users. Audien...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Viva Connections multi-home site management moving to SharePoint admin center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567887",
+      "date": "2026-07-29T23:07:26.000Z",
+      "snippet": "Viva Connections multi-home site management is moving from the Microsoft 365 admin center (MAC) to the SharePoint Admin Center (SPAC). Administrators ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -114,50 +158,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection - Sensitivity Labels for Microsoft Entra Security Groups",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568217",
-      "date": "2026-07-28T22:43:45.000Z",
-      "snippet": "Apply sensitivity labels to Microsoft Entra cloud security groups to extend the classification and governance you already use for Microsoft 365 groups...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: AI-generated Status Reports in Planner Agent",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567886",
-      "date": "2026-07-28T22:43:45.000Z",
-      "snippet": "AI-powered Status Report in Planner Agent turns your plan data into a polished, stakeholder-ready update in minutes. Just ask Planner Agent for a stat...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): New Rich Answer Cards",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567008",
-      "date": "2026-07-28T22:43:45.000Z",
-      "snippet": "Surface new model-driven, dynamically placed Answer Cards across top 7 segments: weather, sports, finance, images, video, places and news for Entra &amp; ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Workforce Insights Agent",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=515145",
-      "date": "2026-07-28T22:43:45.000Z",
-      "snippet": "Workforce Insights (WFI) Agent in Microsoft 365 Copilot is an agent designed to help leaders, managers, and their delegates quickly understand their o...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13037 Use after free in WebView",
@@ -236,6 +236,17 @@
       "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-10-custom-ai-skills-every-sharepoint-site/ba-p/4535414",
+      "date": "2026-07-28T18:34:37.000Z",
+      "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -834,6 +845,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Information Protection - Auto-labeling scale increase for SharePoint and OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567890",
+      "date": "2026-07-17T22:12:56.000Z",
+      "snippet": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Functions support for Python 3.14",
@@ -955,17 +977,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: PowerPoint Live Light theme support",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567469",
-      "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "Presenting PowerPoint slides in Teams just got better. PowerPoint Live now supports light mode, giving presenters the option to present in light, dark...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Windows 11 KB5101650 &amp; KB5099414 Updates Bring Major Stability Boosts and Smarter Features",
@@ -1077,17 +1088,6 @@
       "snippet": "Microsoft has introduced cross-tenant message recall in Exchange Online. This feature allows users to recall emails sent to external Microsoft 365 ten...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Modernized Gallery view in Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567468",
-      "date": "2026-07-10T21:58:35.000Z",
-      "snippet": "The updated Gallery view in Teams Rooms on Android prioritizes video on the meeting stage, arranges participants in consistent aspect ratios, and mini...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1213,17 +1213,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management - Graph API Support for Archive Mailboxes",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567313",
-      "date": "2026-07-07T23:01:01.000Z",
-      "snippet": "Access to Archive mailboxes (Main + Auxiliary) through Microsoft Graph. The goal is to give users a single, seamless Archive view, even though Archive...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
@@ -1298,6 +1287,17 @@
       "snippet": "Microsoft’s Network Data Security helps protect sensitive company data when people use AI tools, cloud apps, or websites outside of managed Microsoft ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Ask Copilot about an image",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566864",
+      "date": "2026-07-01T23:03:18.000Z",
+      "snippet": "Ask Copilot about an image in Edge enables users to instantly analyze images from the web by sending them directly to Copilot from the Edge context me...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
