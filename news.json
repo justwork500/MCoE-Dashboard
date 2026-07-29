@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T00:57:54.196Z",
-  "count": 123,
+  "lastUpdated": "2026-07-29T04:12:34.675Z",
+  "count": 121,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -139,17 +139,6 @@
       ]
     },
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Registry Inventory in Microsoft Intune: Verifying What’s on Your Devices",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/registry-inventory-in-microsoft-intune-verifying-what-s-on-your/ba-p/4541312",
-      "date": "2026-07-28T20:59:27.000Z",
-      "snippet": "By: Madison Cooks, Product Manager | Microsoft Intune\r\nIT admins need a reliable way to confirm how Windows devices are configured, especially when tr...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Enclave",
@@ -169,17 +158,6 @@
       "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-10-custom-ai-skills-every-sharepoint-site/ba-p/4535414",
-      "date": "2026-07-28T18:34:37.000Z",
-      "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
