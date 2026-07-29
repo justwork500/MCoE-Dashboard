@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-07-29T16:49:57.687Z",
+  "lastUpdated": "2026-07-29T19:41:03.549Z",
   "count": 120,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
+      "link": "https://azure.microsoft.com/updates?id=568322",
+      "date": "2026-07-29T18:52:32.000Z",
+      "snippet": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available for evaluation",
+      "link": "https://azure.microsoft.com/updates?id=568466",
+      "date": "2026-07-29T18:50:00.000Z",
+      "snippet": "Azure Sphere OS version 26.09 RC1 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes,...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Microsoft releases KB5101684 Update for Windows 11 24H2 and 25H2",
+      "link": "https://www.prajwaldesai.com/kb5101684-update-for-windows-11-24h2-and-25h2/",
+      "date": "2026-07-29T18:29:42.000Z",
+      "snippet": "The KB5101684 preview cumulative update for Windows 11 versions 24H2 and 25H2 has been released by Microsoft, and it features more...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -128,7 +161,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13037 Use after free in WebView",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13037",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13037",
       "date": "2026-07-28T22:03:49.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -140,7 +173,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13032 Use after free in WebGL",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13032",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13032",
       "date": "2026-07-28T22:03:48.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -152,7 +185,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13030 Uninitialized Use in GPU",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13030",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13030",
       "date": "2026-07-28T22:03:47.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -164,7 +197,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13028 Use after free in WebGL",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13028",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13028",
       "date": "2026-07-28T22:03:44.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -178,7 +211,7 @@
       "title": "[In preview] Public Preview: Azure Enclave",
       "link": "https://azure.microsoft.com/updates?id=568377",
       "date": "2026-07-28T18:51:02.000Z",
-      "snippet": "Announcing the public preview of Azure Enclave for Microsoft Azure, Azure Government, Azure Government Secret, and Azure Government\r\nTop Secret.\r\nAzur...",
+      "snippet": "Announcing the public preview of Azure Enclave for Microsoft\r\nAzure, Azure Government, Azure Government Secret, and Azure Government Top Secret.\r\nAzur...",
       "tags": [
         "Azure"
       ]
@@ -192,6 +225,17 @@
       "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-10-custom-ai-skills-every-sharepoint-site/ba-p/4535414",
+      "date": "2026-07-28T18:34:37.000Z",
+      "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -878,28 +922,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework",
-      "link": "https://azure.microsoft.com/updates?id=563701",
-      "date": "2026-07-15T18:58:30.000Z",
-      "snippet": "Microsoft Agent Framework now ships generally available connectors for GitHub Copilot and Claude Code, so developers can build .NET and Python agents ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework",
-      "link": "https://azure.microsoft.com/updates?id=563571",
-      "date": "2026-07-15T18:57:24.000Z",
-      "snippet": "Microsoft Agent Framework reaches general availability for multi-agent orchestration patterns, including the dynamic Magentic pattern that delivered 3...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Defender ATP Blog (MS)",
       "icon": "ph-shield-check",
       "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
@@ -1332,28 +1354,6 @@
       "snippet": "It&#039;s hard to believe May is over already! You may have noticed this edition of What&#039;s new in Teams is landing a few days later than usual — that&#039;s int...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Streamlining macOS security: Automatically enable AutoFill after Platform SSO registration",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908",
-      "date": "2026-06-29T18:31:55.000Z",
-      "snippet": "By: Chris Kunze - Principal Product Manager | Microsoft Intune\r\nPlatform single sign-on (SSO) improves how macOS devices establish identity with Micro...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Getting started with Android Enterprise personally owned devices with work profile",
-      "link": "https://petervanderwoude.nl/post/getting-started-with-android-enterprise-personally-owned-devices-with-work-profile/",
-      "date": "2026-06-29T17:45:00.000Z",
-      "snippet": "This week is all about the move of Android personally-owned devices to the Android Management API (also known as AMAPI). The Android Management API is...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
