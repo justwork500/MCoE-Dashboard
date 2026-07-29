@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T21:35:15.061Z",
-  "count": 121,
+  "lastUpdated": "2026-07-29T22:37:43.625Z",
+  "count": 120,
   "items": [
     {
       "source": "Azure Updates",
@@ -236,17 +236,6 @@
       "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-10-custom-ai-skills-every-sharepoint-site/ba-p/4535414",
-      "date": "2026-07-28T18:34:37.000Z",
-      "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
