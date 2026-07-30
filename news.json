@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-07-30T16:58:03.493Z",
-  "count": 122,
+  "lastUpdated": "2026-07-30T18:17:04.717Z",
+  "count": 120,
   "items": [
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Tips and Tricks – 2026 Edition",
+      "link": "https://www.systemcenterdudes.com/intune-tips-and-tricks-2026-edition/",
+      "date": "2026-07-30T17:57:46.000Z",
+      "snippet": "Microsoft Intune has come a long way over the past few years. Today, it can manage nearly every aspect of Windows, macOS, iOS, Android, and Microsoft ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Support for SMB Opportunistic Locking (Oplocks) configuration ",
+      "link": "https://azure.microsoft.com/updates?id=568396",
+      "date": "2026-07-30T16:38:15.000Z",
+      "snippet": "Azure NetApp Files now supports configuration of SMB opportunistic locking (oplocks) for SMB and dual-protocol volumes. Opportunistic locks (Oplocks) ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -68,17 +91,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -933,17 +945,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS)",
-      "link": "https://azure.microsoft.com/updates?id=567787",
-      "date": "2026-07-17T14:54:09.000Z",
-      "snippet": "Azure Kubernetes Service (AKS) now generally supports Encryption in Transit (EiT) for Azure Files NFS v4.1 volumes through the Azure File CSI driver. ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
@@ -1279,17 +1280,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the power options in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
-      "date": "2026-07-06T17:45:00.000Z",
-      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 3rd July 2026",
@@ -1309,17 +1299,6 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Defender for Endpoint performance troubleshooting on Linux",
-      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
-      "date": "2026-07-02T20:28:36.000Z",
-      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
-      "tags": [
-        "Defender"
       ]
     },
     {
