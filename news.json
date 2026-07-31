@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-31T18:10:28.403Z",
-  "count": 116,
+  "lastUpdated": "2026-07-31T22:06:36.527Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Route-Maps for Azure Route Server",
+      "link": "https://azure.microsoft.com/updates?id=568631",
+      "date": "2026-07-31T20:48:35.000Z",
+      "snippet": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybri...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Remove the OneDrive Photos App using Intune",
+      "link": "https://www.systemcenterdudes.com/remove-intune-onedrive-photo-app/",
+      "date": "2026-07-31T18:28:29.000Z",
+      "snippet": "If you manage Windows 11 devices with Intune, you may have recently noticed a new app appearing called OneDrive Photos. It looks like Microsoft has si...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL updates for late-July ",
+      "link": "https://azure.microsoft.com/updates?id=568139",
+      "date": "2026-07-31T18:16:23.000Z",
+      "snippet": "In late-July 2026, the following update and enhancement was made to Azure SQL: Regex-based dynamic data masking (DDM) extends the built-in DDM feature...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
+      "date": "2026-07-31T15:00:00.000Z",
+      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -787,17 +832,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Standard service endpoint ",
-      "link": "https://azure.microsoft.com/updates?id=561475",
-      "date": "2026-07-22T16:57:10.000Z",
-      "snippet": "Standard service endpoint is now available in public preview, introducing a scalable and secure way to connect IaaS workloads to Azure PaaS services u...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "How to Automatically Update macOS PKG Apps Using Intune",
@@ -862,17 +896,6 @@
       "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=567594",
-      "date": "2026-07-20T15:09:43.000Z",
-      "snippet": "Azure Monitor Application Insights now stores generative AI\r\ncontent in a dedicated GenAIContent table (AppGenAIContent in Log\r\nAnalytics), making it ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
