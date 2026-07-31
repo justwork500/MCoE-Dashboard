@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-31T10:15:12.577Z",
-  "count": 116,
+  "lastUpdated": "2026-07-31T14:56:32.657Z",
+  "count": 117,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Simplify Windows Devices to Run Only the Required Applications using Intune",
+      "link": "https://www.anoopcnair.com/windows-devices-run-only-required-applications/",
+      "date": "2026-07-31T10:56:05.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 31st July 2026",
+      "link": "https://andrewstaylor.com/2026/07/31/intune-newsletter-31st-july-2026/",
+      "date": "2026-07-31T10:48:08.000Z",
+      "snippet": "How time flies, can you believe it&amp;#8217;s the end of July already!  I had a lovely few days at the beginning of the week at Loch Lomond to fully rech...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -510,17 +532,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Windows Sandbox vGPU Policy using Intune for Better Graphics Performance or Reduced Attack Surface",
-      "link": "https://www.anoopcnair.com/configure-windows-sandbox-vgpu-using-intune/",
-      "date": "2026-07-28T11:31:03.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
