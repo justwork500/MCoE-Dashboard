@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T14:56:32.657Z",
-  "count": 117,
+  "lastUpdated": "2026-07-31T18:10:28.403Z",
+  "count": 116,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -1309,17 +1309,6 @@
       "snippet": "Ask Copilot about an image in Edge enables users to instantly analyze images from the web by sending them directly to Copilot from the Edge context me...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Migrating frontline mobile devices: Identity considerations for assigned and shared devices",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/migrating-frontline-mobile-devices-identity-considerations-for/ba-p/4532671",
-      "date": "2026-07-01T18:00:50.000Z",
-      "snippet": "By: Carol Burns - Principal Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspec...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
