@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T22:37:38.094Z",
-  "count": 116,
+  "lastUpdated": "2026-08-01T23:39:52.631Z",
+  "count": 114,
   "items": [
     {
       "source": "MSEndpointMgr",
@@ -305,17 +305,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -1275,17 +1264,6 @@
       "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
       "date": "2026-07-07T11:58:55.000Z",
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the power options in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
-      "date": "2026-07-06T17:45:00.000Z",
-      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
       ]
