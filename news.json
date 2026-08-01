@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T03:50:24.010Z",
-  "count": 111,
+  "lastUpdated": "2026-08-01T08:38:56.645Z",
+  "count": 116,
   "items": [
     {
       "source": "Azure Updates",
@@ -44,6 +44,18 @@
       "snippet": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybri...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Remove the OneDrive Photos App using Intune",
+      "link": "https://www.systemcenterdudes.com/remove-intune-onedrive-photo-app/",
+      "date": "2026-07-31T18:28:29.000Z",
+      "snippet": "If you manage Windows 11 devices with Intune, you may have recently noticed a new app appearing called OneDrive Photos. It looks like Microsoft has si...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -132,6 +144,18 @@
       "snippet": "We’re announcing symmetric\r\nkeys on Azure Key Vault Premium are now available in public preview. This preview enables\r\ncustomers and partners to evalu...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Tips and Tricks – 2026 Edition",
+      "link": "https://www.systemcenterdudes.com/intune-tips-and-tricks-2026-edition/",
+      "date": "2026-07-30T17:57:46.000Z",
+      "snippet": "Microsoft Intune has come a long way over the past few years. Today, it can manage nearly every aspect of Windows, macOS, iOS, Android, and Microsoft ...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -772,12 +796,36 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "SCCM error code 0x80244007 – Windows Servers 2019/2022/2025 not scanning updates from",
+      "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
+      "date": "2026-07-23T14:46:07.000Z",
+      "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
       "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
       "date": "2026-07-22T20:04:12.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Nobody Talks About Intune Applications Migration",
+      "link": "https://www.systemcenterdudes.com/nobody-talks-about-intune-applications-migration/",
+      "date": "2026-07-22T19:23:43.000Z",
+      "snippet": "If you’ve been planning a move from Configuration Manager (SCCM) to Microsoft Intune, you’ve probably spent a lot of time thinking about devices. How ...",
       "tags": [
         "Intune",
         "Windows"
@@ -1096,6 +1144,18 @@
       "snippet": "Welcome back and for those in the UK, it&amp;#8217;s nearly school holidays time (for those in Scandinavia, enjoy the long break).  There will probably be...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Microsoft Intune Certification MD-102 Path",
+      "link": "https://www.systemcenterdudes.com/microsoft-intune-certification-md-102-path/",
+      "date": "2026-07-09T18:59:39.000Z",
+      "snippet": "If you&amp;#8217;re looking to build a career around Microsoft Intune and want to get certified, you&amp;#8217;ve probably asked yourself one question: Which ...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
