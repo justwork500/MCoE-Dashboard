@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-08-01T12:38:57.710Z",
+  "lastUpdated": "2026-08-01T17:32:04.313Z",
   "count": 116,
   "items": [
+    {
+      "source": "MSEndpointMgr",
+      "icon": "ph-devices",
+      "title": "Intune assignment filters for every in-support Windows build",
+      "link": "https://msendpointmgr.com/2026/08/01/intune-assignment-filters-windows-builds/",
+      "date": "2026-08-01T17:18:44.000Z",
+      "snippet": "Table of Contents Overview Filters Limitations Platform Naming Windows Build Numbers Catalog Windows 11 26H1 is a Problem Child Generating Filters The...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune On Demand Device Sync Now Uses IC3 for IME Workloads",
+      "link": "https://patchmypc.com/blog/intune-on-demand-device-sync-now-uses-ic3-for-ime-workloads/",
+      "date": "2026-08-01T15:14:53.000Z",
+      "snippet": "In our previous investigation, the improved Device Sync action sent two WNS notifications. One woke WindowsMDMPush so the Windows MDM client could tri...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -1080,18 +1103,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "The Intune MDM Device Certificate KSP Renewal Bug: Why the Bit4id Provider Caused it",
-      "link": "https://patchmypc.com/blog/the-intune-mdm-device-certificate-ksp-renewal-bug-why-23h2-devices-stopped-renewing/",
-      "date": "2026-07-12T08:28:14.000Z",
-      "snippet": "A third party smart card KSP caused the Intune MDM certificate renewal flow in Windows 11 to fail before the actual renewal checks even started, leavi...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Manage Federated Group Chats with Teams PowerShell Controls  ",
@@ -1299,17 +1310,6 @@
       "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Prevent Sensitive Data Leakage Across Unmanaged Apps with Purview and Entra ",
-      "link": "https://blog.admindroid.com/network-data-security-in-microsoft-365/",
-      "date": "2026-07-02T13:00:40.000Z",
-      "snippet": "Microsoft’s Network Data Security helps protect sensitive company data when people use AI tools, cloud apps, or websites outside of managed Microsoft ...",
-      "tags": [
-        "Azure"
       ]
     }
   ]
