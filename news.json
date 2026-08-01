@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T18:39:25.594Z",
+  "lastUpdated": "2026-08-01T22:37:38.094Z",
   "count": 116,
   "items": [
     {
@@ -261,6 +261,17 @@
       "snippet": "If Microsoft Entra Connect Sync is still running solely for device synchronization, you&#039;re maintaining infrastructure you may no longer need. This gui...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1299,17 +1310,6 @@
       "snippet": "This is the third post in a series on Microsoft Intune Endpoint Privilege Management. In Post 1, we covered the architecture and the strategic case fo...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Defender for Endpoint performance troubleshooting on Linux",
-      "link": "https://jeffreyappel.nl/defender-for-endpoint-performance-troubleshooting-on-linux/",
-      "date": "2026-07-02T20:28:36.000Z",
-      "snippet": "Microsoft Defender for Endpoint (MDE) provides advanced endpoint protection, detection, and response capabilities for Linux systems. While the solutio...",
-      "tags": [
-        "Defender"
       ]
     }
   ]
