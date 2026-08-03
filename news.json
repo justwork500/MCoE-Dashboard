@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-03T08:23:44.012Z",
-  "count": 114,
+  "lastUpdated": "2026-08-03T11:54:52.490Z",
+  "count": 112,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Prevent Users from Changing Important Windows Device Settings using Intune",
+      "link": "https://www.anoopcnair.com/windows-device-settings-using-intune/",
+      "date": "2026-08-03T09:30:24.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
@@ -308,17 +319,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Manage Samsung Galaxy Firmware Versions to Improve Security and Compliance using Microsoft Intune",
@@ -402,17 +402,6 @@
       "title": "MS Intune Adds Windows Registry Data Collection to Device Inventory for Single Values All Key Values and Subkeys",
       "link": "https://www.anoopcnair.com/intune-adds-windows-registry-device-inventory/",
       "date": "2026-07-29T12:58:48.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Updated Windows Device Sync Experience Enhances Per-Device Troubleshooting",
-      "link": "https://www.anoopcnair.com/updated-windows-device-sync-experience-enhances/",
-      "date": "2026-07-29T07:29:04.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
@@ -1275,17 +1264,6 @@
       "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
       "date": "2026-07-07T11:58:55.000Z",
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the power options in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
-      "date": "2026-07-06T17:45:00.000Z",
-      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
       ]
