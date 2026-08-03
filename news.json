@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-03T21:37:59.204Z",
-  "count": 112,
+  "lastUpdated": "2026-08-03T22:39:36.691Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -11,6 +22,17 @@
       "snippet": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically ena...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | April 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907",
+      "date": "2026-08-03T18:52:36.000Z",
+      "snippet": "Our team just wrapped up the M365 Community Conference in Orlando, FL, and it was an incredible way to close out April! Our teams were energized by co...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -46,6 +68,28 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Writeback for Cloud-Managed Remote Mailboxes: Now in Public Preview",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/writeback-for-cloud-managed-remote-mailboxes-now-in-public/ba-p/4520138",
+      "date": "2026-08-03T13:26:53.000Z",
+      "snippet": "Update: 8/3/2026: Writeback for Cloud-Managed Remote Mailboxes: Now Generally Available | Microsoft Community Hub.\r\nIn our previous posts, we announce...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Writeback for Cloud-Managed Remote Mailboxes: Now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/writeback-for-cloud-managed-remote-mailboxes-now-generally/ba-p/4543507",
+      "date": "2026-08-03T12:58:46.000Z",
+      "snippet": "In May, we announced the Public Preview of Writeback for Cloud-Managed Remote Mailboxes. Since then, many customers have enabled this feature and shar...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -373,6 +417,17 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
+      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
+      "date": "2026-07-30T08:26:11.000Z",
+      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1264,6 +1319,17 @@
       "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
       "date": "2026-07-07T11:58:55.000Z",
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
       ]
