@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-08-03T22:39:36.691Z",
-  "count": 118,
+  "lastUpdated": "2026-08-03T23:47:25.573Z",
+  "count": 114,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Automatically unsubscribe users from notifications sent by scam and malicious sites",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568366",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "Microsoft Edge now helps further protect users from malicious web notifications. When a notification leads users to a site that Microsoft Defender Sma...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: See more messages on mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568067",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "We are introducing a more streamlined messaging experience that displays more content on screen while improving readability when using Teams on mobile...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Upated header and dashboard for chats and channels on mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567461",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567320",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Clearer text highlighting in dark mode",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566858",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "We&#039;ve improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.GA date: September CY2...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
@@ -25,17 +80,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What&#039;s New in Microsoft Teams | April 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907",
-      "date": "2026-08-03T18:52:36.000Z",
-      "snippet": "Our team just wrapped up the M365 Community Conference in Orlando, FL, and it was an incredible way to close out April! Our teams were energized by co...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Immutability to the most recent seven days of backups on Azure SQL Database and Azure SQL Managed Instance ",
@@ -47,27 +91,39 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.0.3.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-3-0-released/",
-      "date": "2026-08-03T16:25:59.000Z",
-      "snippet": "This release contains a variety of fixes, as noted below. This will be made available via the self-update channel over the coming days. You can upgrad...",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50416 Win32k Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50416",
+      "date": "2026-08-03T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
       "tags": [
-        "Intune",
-        "Windows"
+        "Windows",
+        "Azure"
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch Management after Ivanti DSM End of Life: What DSM Customers Need to Know Before 2027",
-      "link": "https://patchmypc.com/blog/ivanti-dsm-end-of-life/",
-      "date": "2026-08-03T15:59:00.000Z",
-      "snippet": "Ivanti DSM reaches end of life on December 31, 2026. Learn how to plan your Ivanti DSM migration, compare replacement options, move applications and e...",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50341 Windows NTFS Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50341",
+      "date": "2026-08-03T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
       "tags": [
-        "Intune",
-        "Windows"
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50493 DirectX Graphics Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50493",
+      "date": "2026-08-03T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -123,18 +179,6 @@
       "snippet": "Table of Contents Overview Filters Limitations Platform Naming Windows Build Numbers Catalog Windows 11 26H1 is a Problem Child Generating Filters The...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Intune On Demand Device Sync Now Uses IC3 for IME Workloads",
-      "link": "https://patchmypc.com/blog/intune-on-demand-device-sync-now-uses-ic3-for-ime-workloads/",
-      "date": "2026-08-01T15:14:53.000Z",
-      "snippet": "In our previous investigation, the improved Device Sync action sent two WNS notifications. One woke WindowsMDMPush so the Windows MDM client could tri...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -442,28 +486,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Import Google account data anytime from Settings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568365",
-      "date": "2026-07-29T23:07:26.000Z",
-      "snippet": "Microsoft Edge now lets users import their Google account data - including passwords, bookmarks, history, and autofill data - directly from Edge Setti...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Rolling out Custom branding in Engage",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568364",
-      "date": "2026-07-29T23:07:26.000Z",
-      "snippet": "Engage is rolling out Custom Branding, a new admin-led capability that lets organizations define a customized, tenant-wide visual identity across the ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
@@ -494,18 +516,6 @@
       "snippet": "The KB5101684 preview cumulative update for Windows 11 versions 24H2 and 25H2 has been released by Microsoft, and it features more...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Why Intune Devices Became Noncompliant After the July Windows Update",
-      "link": "https://patchmypc.com/blog/why-intune-devices-became-noncompliant-after-the-july-windows-update/",
-      "date": "2026-07-29T13:38:05.000Z",
-      "snippet": "The July Windows update caused newly enrolled devices to appear noncompliant in Intune, even when BitLocker, Secure Boot, and Code Integrity were enab...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -656,18 +666,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.0.1.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-1-0-released/",
-      "date": "2026-07-28T16:00:42.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central)",
@@ -796,42 +794,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-16277 Rpcbind: rpcbind: stack buffer overflow in rpcinfo rpcbaddrlist()",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-16277",
-      "date": "2026-07-27T08:43:51.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-64530 net/sched: cls_api: Handle TC_ACT_CONSUMED in tcf_qevent_handle",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64530",
-      "date": "2026-07-27T08:04:27.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2024-14040 net: nexthop: Increase weight to u16",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-14040",
-      "date": "2026-07-27T08:04:21.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "From hours to minutes: Rethinking Microsoft Intune compliance reporting with the Export API",
@@ -910,18 +872,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
-      "date": "2026-07-22T20:04:12.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
       "title": "Nobody Talks About Intune Applications Migration",
@@ -967,18 +917,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
-      "link": "https://patchmypc.com/blog/evaluate-third-party-patching-solutions-beyond-price/",
-      "date": "2026-07-21T17:20:32.000Z",
-      "snippet": "Comparing third-party patching solutions based solely on licensing cost can lead to expensive mistakes. This article explores the key questions IT tea...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
@@ -998,30 +936,6 @@
       "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Company Portal: Error Loading Apps",
-      "link": "https://patchmypc.com/blog/company-portal-error-loading-apps/",
-      "date": "2026-07-20T14:16:30.000Z",
-      "snippet": "Some time ago, the Company Portal suddenly failed to load its apps. In this blog, I explain what happened behind the scenes, how the IWService path wo...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
-      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
-      "date": "2026-07-18T10:36:57.000Z",
-      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1069,6 +983,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Teams shared display mode and peripheral detection available for DoD environments",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567465",
+      "date": "2026-07-15T22:55:27.000Z",
+      "snippet": "Shared display mode in Teams is now available in government DOD environments, enabling more seamless and private meeting hosting from your PC. Additio...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Defender ATP Blog (MS)",
       "icon": "ph-shield-check",
       "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
@@ -1102,6 +1027,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: View and manage auto attendant shared voicemails directly in the Queues app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567457",
+      "date": "2026-07-14T22:41:38.000Z",
+      "snippet": "Calls to an Auto Attendant that are routed to voicemail will now appear directly within Queues app. This enables organizations to manage shared Auto A...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Windows 11 KB5101650 &amp; KB5099414 Updates Bring Major Stability Boosts and Smarter Features",
@@ -1110,18 +1046,6 @@
       "snippet": "On July 14, 2026, Microsoft released cumulative updates KB5101650 for Windows 11 versions 25H2 and 24H2 and KB5099414 for version 23H2....",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Inside the Improved on-demand sync for Windows devices",
-      "link": "https://patchmypc.com/blog/inside-the-improved-on-demand-sync-for-windows-devices/",
-      "date": "2026-07-14T19:15:54.000Z",
-      "snippet": "The new Improved on-demand Sync in Intune is expanding beyond policies to include Win32 apps, PowerShell scripts, and Remediations.\nThe post Inside th...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1247,6 +1171,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Ability for IT admins to customize the user notification messages for recording and transcription in calls",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567302",
+      "date": "2026-07-08T23:10:57.000Z",
+      "snippet": "This feature enables IT admins to customize a portion of the user notification messages for recording and transcription during Teams calls.\r\n \r\nGA dat...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Solutions for document-centric business processes - Portal Systems - SharePoint Partner Spotlight",
@@ -1299,6 +1234,17 @@
       "snippet": "Microsoft Intune Platform Scripts allow organizations to run PowerShell scripts on Intune-managed Windows devices to automate configuration changes an...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Enhanced delegated calling with delegate call access restrictions and join notifications",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567306",
+      "date": "2026-07-07T23:10:08.000Z",
+      "snippet": "Call delegation in Teams now includes new controls that give delegators greater privacy and control during active calls. Delegators can lock an ongoin...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
