@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-03T20:22:28.135Z",
+  "lastUpdated": "2026-08-03T21:37:59.204Z",
   "count": 112,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Trusted Launch as Default",
+      "link": "https://azure.microsoft.com/updates?id=568600",
+      "date": "2026-08-03T19:56:26.000Z",
+      "snippet": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically ena...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -482,7 +493,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13028 Use after free in WebGL",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13028",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13028",
       "date": "2026-07-28T22:03:44.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -668,17 +679,6 @@
       "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: HTTP header insertion in Azure Firewall ",
-      "link": "https://azure.microsoft.com/updates?id=568115",
-      "date": "2026-07-27T16:54:36.000Z",
-      "snippet": "Azure Firewall now supports HTTP header insertion, enabling\r\norganizations to add or overwrite HTTP/HTTPS request\r\nheaders directly from Azure Firewal...",
-      "tags": [
-        "Azure"
       ]
     },
     {
