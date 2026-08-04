@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-08-04T12:24:42.619Z",
-  "count": 123,
+  "lastUpdated": "2026-08-04T18:25:22.139Z",
+  "count": 127,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration",
+      "link": "https://azure.microsoft.com/updates?id=565214",
+      "date": "2026-08-04T17:04:55.000Z",
+      "snippet": "Azure DNS now offers a seamless way to integrate with Azure Traffic Manager for DNS-based traffic routing. Customers can now directly associate Azure ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Virtual Network routing appliance",
+      "link": "https://azure.microsoft.com/updates?id=568605",
+      "date": "2026-08-04T17:03:38.000Z",
+      "snippet": "Azure Virtual Network routing appliance is now generally\r\navailable. It delivers private connectivity across virtual networks, using\r\nspecialized hard...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Edge Dev Blog",
+      "icon": "ph-app-window",
+      "title": "Bring your security stack into Edge for Business — with support for more partners",
+      "link": "https://blogs.windows.com/msedgedev/2026/08/04/bring-your-security-stack-into-edge-for-business-with-support-for-more-partners/",
+      "date": "2026-08-04T16:00:24.000Z",
+      "snippet": "At a glance\nEdge for Business security connectors extend your security tools into the browser, so you gain visibility and enforcement where work happe...",
+      "tags": [
+        "Edge"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -77,6 +110,17 @@
       "snippet": "We&#039;ve improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.GA date: September CY2...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -522,6 +566,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
+      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
+      "date": "2026-07-30T08:26:11.000Z",
+      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
@@ -726,17 +781,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central)",
-      "link": "https://azure.microsoft.com/updates?id=568013",
-      "date": "2026-07-28T15:40:55.000Z",
-      "snippet": "Microsoft announces the opening of its fourth datacenter region in India, India South Central, with campuses in Hyderabad, Telangana. The region will ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50422 Windows NTFS Elevation of Privilege Vulnerability",
@@ -769,17 +813,6 @@
       "snippet": "Change the name of the affected software from **Microsoft Power Apps** to **Microsoft Power Apps Desktop Client**. This is an informational change onl...",
       "tags": [
         "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Claude Opus 5 on Azure Databricks",
-      "link": "https://azure.microsoft.com/updates?id=568316",
-      "date": "2026-07-27T19:41:46.000Z",
-      "snippet": "Azure Databricks now supports Anthropic Claude Opus 5 through AI Model Serving. Claude Opus 5 is Anthropic&#039;s latest model for advanced reasoning, codi...",
-      "tags": [
         "Azure"
       ]
     },
@@ -1385,6 +1418,17 @@
       "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
       "date": "2026-07-07T11:58:55.000Z",
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the power options in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
+      "date": "2026-07-06T17:45:00.000Z",
+      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
       ]
