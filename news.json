@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-08-04T21:35:18.010Z",
-  "count": 128,
+  "lastUpdated": "2026-08-04T23:43:48.525Z",
+  "count": 126,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Refreshed experience and new capabilities",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568791",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience acr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Adaptive Scope evaluation control with recipient and site owner lifecycle status",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568785",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Microsoft Purview Adaptive Scopes will provide administrators with explicit control over lifecycle-state evaluation for recipients and site owners, he...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Teams Admin Center - Single pane for monitoring &amp; troubleshooting for meetings and calls across the organisation",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568782",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Administrators can monitor meeting and call health across the organization, uncover recurring patterns, and proactively troubleshoot issues impacting ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Proximity join support for attendees in Teams events from Teams Rooms on Windows and Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568781",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Attendees can take advantage of proximity join with Teams Rooms on Windows and/or Android for fast, effortless connection to nearby room systems durin...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Engage: New left navigation controls — collapse, resize, increased favorites cap, and reorder favorites capabilities",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568763",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "We&#039;re introducing a set of left-navigation improvements in Viva Engage on the web that give people more control over their navigation pane. These are ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Filter Messages by Events",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568760",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "You can now filter your messages for calendar invitations. Simply go to the filter and select Events from the drop down. GA date: August CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Insert Signature Image from OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568079",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Users can now insert images into their email signature directly from OneDrive, in addition to the device photo library.GA date: August CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Additional health signals available for Teams Rooms on Android on Pro Management Portal",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566856",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Expanded Pro Management Portal (PMP) health monitoring for Teams Rooms on Android by surfacing device health signals including storage health, Teams m...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Copilot memory in Researcher",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=562996",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Copilot memory within Researcher brings forward relevant context from your past interactions—helping ground insights, personalize outputs, and reduce ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -88,50 +187,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Automatically unsubscribe users from notifications sent by scam and malicious sites",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568366",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "Microsoft Edge now helps further protect users from malicious web notifications. When a notification leads users to a site that Microsoft Defender Sma...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: See more messages on mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568067",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "We are introducing a more streamlined messaging experience that displays more content on screen while improving readability when using Teams on mobile...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Upated header and dashboard for chats and channels on mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567461",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567320",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -325,28 +380,6 @@
       "snippet": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, reso...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365: Control access to Learning Activities and Teach",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568370",
-      "date": "2026-07-31T21:54:12.000Z",
-      "snippet": "IT administrators can manage access to Learning Activities and Teach from the Microsoft 365 admin center. Configure Learning Activities separately for...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365: Assign Different Content to Learning Groups in a Single Assignment",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568369",
-      "date": "2026-07-31T21:54:12.000Z",
-      "snippet": "Enable educators to assign different content (attachments, resources, instructions) to different Individual Groups within a single Assignment. Today t...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -555,17 +588,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
@@ -682,7 +704,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13030 Uninitialized Use in GPU",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13030",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13030",
       "date": "2026-07-28T22:03:47.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -1135,17 +1157,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Teams shared display mode and peripheral detection available for DoD environments",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567465",
-      "date": "2026-07-15T22:55:27.000Z",
-      "snippet": "Shared display mode in Teams is now available in government DOD environments, enabling more seamless and private meeting hosting from your PC. Additio...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Defender ATP Blog (MS)",
       "icon": "ph-shield-check",
       "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
@@ -1176,17 +1187,6 @@
       "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: View and manage auto attendant shared voicemails directly in the Queues app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567457",
-      "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "Calls to an Auto Attendant that are routed to voicemail will now appear directly within Queues app. This enables organizations to manage shared Auto A...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1335,17 +1335,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Ability for IT admins to customize the user notification messages for recording and transcription in calls",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567302",
-      "date": "2026-07-08T23:10:57.000Z",
-      "snippet": "This feature enables IT admins to customize a portion of the user notification messages for recording and transcription during Teams calls.\r\n \r\nGA dat...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Solutions for document-centric business processes - Portal Systems - SharePoint Partner Spotlight",
@@ -1398,17 +1387,6 @@
       "snippet": "Microsoft Intune Platform Scripts allow organizations to run PowerShell scripts on Intune-managed Windows devices to automate configuration changes an...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Enhanced delegated calling with delegate call access restrictions and join notifications",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567306",
-      "date": "2026-07-07T23:10:08.000Z",
-      "snippet": "Call delegation in Teams now includes new controls that give delegators greater privacy and control during active calls. Delegators can lock an ongoin...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
