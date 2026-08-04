@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-04T10:18:56.967Z",
-  "count": 121,
+  "lastUpdated": "2026-08-04T12:24:42.619Z",
+  "count": 123,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Auto-Expiring Role Group Assignments in Microsoft Purview",
+      "link": "https://blog.admindroid.com/microsoft-purview-role-group-permission-expiration/",
+      "date": "2026-08-04T10:58:50.000Z",
+      "snippet": "Microsoft Purview now supports time-limited role group assignments for both new and existing members. Admins can set an expiration date from 1 day to ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -77,6 +88,17 @@
       "snippet": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically ena...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | April 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907",
+      "date": "2026-08-03T18:52:36.000Z",
+      "snippet": "Our team just wrapped up the M365 Community Conference in Orlando, FL, and it was an incredible way to close out April! Our teams were energized by co...",
+      "tags": [
+        "Teams"
       ]
     },
     {
