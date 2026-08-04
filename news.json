@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-04T18:25:22.139Z",
-  "count": 127,
+  "lastUpdated": "2026-08-04T21:35:18.010Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
+      "link": "https://azure.microsoft.com/updates?id=568837",
+      "date": "2026-08-04T18:30:09.000Z",
+      "snippet": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network secu...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
+      "link": "https://azure.microsoft.com/updates?id=568842",
+      "date": "2026-08-04T18:29:36.000Z",
+      "snippet": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based conn...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -33,6 +55,17 @@
       "snippet": "At a glance\nEdge for Business security connectors extend your security tools into the browser, so you gain visibility and enforcement where work happe...",
       "tags": [
         "Edge"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-04T15:12:56.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -649,7 +682,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium: CVE-2026-13030 Uninitialized Use in GPU",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13030",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-13030",
       "date": "2026-07-28T22:03:47.000Z",
       "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
       "tags": [
@@ -731,28 +764,6 @@
       "link": "https://azure.microsoft.com/updates?id=567931",
       "date": "2026-07-28T16:52:51.000Z",
       "snippet": "Managing Kubernetes resources across multiple clusters can require significant manual effort to apply updates and maintain consistency. Resource place...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Maximum allowed failures for update runs in Azure Kubernetes Fleet Manager ",
-      "link": "https://azure.microsoft.com/updates?id=567939",
-      "date": "2026-07-28T16:51:04.000Z",
-      "snippet": "In fail-fast update rollouts, a small number of member cluster update failures can halt progress across a broader update deployment. Maximum Allowed F...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Prepared Image Specification",
-      "link": "https://azure.microsoft.com/updates?id=567949",
-      "date": "2026-07-28T16:45:37.000Z",
-      "snippet": "Organizations running large-scale, AI, GPU, Windows, and other performance-sensitive workloads on AKS often experience longer node startup times becau...",
       "tags": [
         "Azure"
       ]
