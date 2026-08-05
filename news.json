@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-05T14:34:52.868Z",
+  "lastUpdated": "2026-08-05T16:20:33.336Z",
   "count": 128,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
+      "link": "https://azure.microsoft.com/updates?id=568825",
+      "date": "2026-08-05T14:54:08.000Z",
+      "snippet": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and H...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -19,7 +30,7 @@
       "title": "The Dead Zone: Your IT Team Isn’t Too Slow. Attackers Just Have Terrible Manners. ",
       "link": "https://patchmypc.com/blog/the-dead-zone/",
       "date": "2026-08-05T07:16:47.000Z",
-      "snippet": "White Hat&amp;#160; Every security update&amp;#160;starts&amp;#160;a race.&amp;#160; On one side is the attacker. Modern exploit development is moving faster than eve...",
+      "snippet": "Every security update starts a race.  On one side is the attacker. Modern exploit development is moving faster than ever, and AI is compressing the ti...",
       "tags": [
         "Intune",
         "Windows"
@@ -811,17 +822,6 @@
       "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Application Routing with Gateway API",
-      "link": "https://azure.microsoft.com/updates?id=567944",
-      "date": "2026-07-28T16:54:22.000Z",
-      "snippet": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
