@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-04T23:43:48.525Z",
-  "count": 126,
+  "lastUpdated": "2026-08-05T04:28:15.000Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
+      "link": "https://azure.microsoft.com/updates?id=568661",
+      "date": "2026-08-05T00:22:49.000Z",
+      "snippet": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -198,17 +209,6 @@
       "snippet": "We&#039;ve improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.GA date: September CY2...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -588,6 +588,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
@@ -618,17 +629,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -775,17 +775,6 @@
       "link": "https://azure.microsoft.com/updates?id=567944",
       "date": "2026-07-28T16:54:22.000Z",
       "snippet": "Managing ingress routing while adopting newer Kubernetes standards can require balancing modernization efforts with existing deployments. Application ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Resource placement in Azure Kubernetes Fleet Manager",
-      "link": "https://azure.microsoft.com/updates?id=567931",
-      "date": "2026-07-28T16:52:51.000Z",
-      "snippet": "Managing Kubernetes resources across multiple clusters can require significant manual effort to apply updates and maintain consistency. Resource place...",
       "tags": [
         "Azure"
       ]
@@ -1407,17 +1396,6 @@
       "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
       "date": "2026-07-07T11:58:55.000Z",
       "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the power options in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-power-options-in-start-layout/",
-      "date": "2026-07-06T17:45:00.000Z",
-      "snippet": "This week is all about customizing the power options in the Start layout, and is the first follow-up on this post about customizing the account settin...",
       "tags": [
         "Intune"
       ]
