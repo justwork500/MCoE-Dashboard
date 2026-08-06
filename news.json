@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-05T22:19:43.852Z",
-  "count": 125,
+  "lastUpdated": "2026-08-06T00:51:07.371Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Refreshed experience and new capabilities",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568792",
+      "date": "2026-08-05T22:47:32.000Z",
+      "snippet": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience acr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Changes to local IP address detection for proxy auto-config (PAC) scripts",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568787",
+      "date": "2026-08-05T22:47:32.000Z",
+      "snippet": "Microsoft Edge is changing how it selects the local network address reported to proxy auto-config (PAC) scripts and is adding administrator control ov...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Improved OneDrive experience in iOS Files app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568761",
+      "date": "2026-08-05T22:47:32.000Z",
+      "snippet": "OneDrive is updating its integration with the iOS Files app to use Apple&#039;s Replicated File Provider API. This update provides end-user improvements su...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Badges in Profile Card in Teams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568078",
+      "date": "2026-08-05T22:47:32.000Z",
+      "snippet": "You can now see Awards and Certifications as badges on a user’s profile card, bringing a more consistent experience across Teams and Outlook.GA date: ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SharePoint Connector for Azure Databricks",
+      "link": "https://azure.microsoft.com/updates?id=568905",
+      "date": "2026-08-05T22:34:02.000Z",
+      "snippet": "The SharePoint connector for Azure Databricks is now generally\r\navailable. Organizations can use Lakeflow Connect to ingest files from\r\nSharePoint int...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Unity AI Gateway on Azure Databricks",
+      "link": "https://azure.microsoft.com/updates?id=568910",
+      "date": "2026-08-05T22:32:45.000Z",
+      "snippet": "Unity AI Gateway is now generally available on Azure Databricks.\r\nUnity AI Gateway provides centralized governance for AI models, agents, tools,\r\nand ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -61,28 +127,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Planner: Refreshed experience and new capabilities",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568791",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience acr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Adaptive Scope evaluation control with recipient and site owner lifecycle status",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568785",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Microsoft Purview Adaptive Scopes will provide administrators with explicit control over lifecycle-state evaluation for recipients and site owners, he...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Teams Admin Center - Single pane for monitoring &amp; troubleshooting for meetings and calls across the organisation",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568782",
       "date": "2026-08-04T22:45:42.000Z",
@@ -98,61 +142,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568781",
       "date": "2026-08-04T22:45:42.000Z",
       "snippet": "Attendees can take advantage of proximity join with Teams Rooms on Windows and/or Android for fast, effortless connection to nearby room systems durin...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Engage: New left navigation controls — collapse, resize, increased favorites cap, and reorder favorites capabilities",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568763",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "We&#039;re introducing a set of left-navigation improvements in Viva Engage on the web that give people more control over their navigation pane. These are ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Filter Messages by Events",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568760",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "You can now filter your messages for calendar invitations. Simply go to the filter and select Events from the drop down. GA date: August CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Insert Signature Image from OneDrive",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568079",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Users can now insert images into their email signature directly from OneDrive, in addition to the device photo library.GA date: August CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Additional health signals available for Teams Rooms on Android on Pro Management Portal",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566856",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Expanded Pro Management Portal (PMP) health monitoring for Teams Rooms on Android by surfacing device health signals including storage health, Teams m...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Copilot memory in Researcher",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=562996",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Copilot memory within Researcher brings forward relevant context from your past interactions—helping ground insights, personalize outputs, and reduce ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -248,12 +237,23 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Clearer text highlighting in dark mode",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566858",
+      "title": "Microsoft Teams: Updated header and dashboard for chats and channels on mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567461",
       "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "We&#039;ve improved how highlighted text looks when composing messages in dark mode, giving you a more consistent editing experience.GA date: September CY2...",
+      "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -633,17 +633,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
@@ -663,6 +652,17 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
+      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
+      "date": "2026-07-30T08:26:11.000Z",
+      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -767,28 +767,6 @@
       "snippet": "By: Madison Cooks, Product Manager | Microsoft Intune\r\nIT admins need a reliable way to confirm how Windows devices are configured, especially when tr...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Enclave",
-      "link": "https://azure.microsoft.com/updates?id=568377",
-      "date": "2026-07-28T18:51:02.000Z",
-      "snippet": "Announcing the public preview of Azure Enclave for Microsoft\r\nAzure, Azure Government, Azure Government Secret, and Azure Government Top Secret.\r\nAzur...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: NAT64 on StandardV2 NAT Gateway",
-      "link": "https://azure.microsoft.com/updates?id=568409",
-      "date": "2026-07-28T18:50:11.000Z",
-      "snippet": "StandardV2 NAT Gateway now supports NAT64, enabling IPv6\r\nworkloads to communicate with IPv4-only internet destinations by translating synthesized\r\nou...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1199,6 +1177,17 @@
       "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: External presenters can access production controls for Teams events",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567298",
+      "date": "2026-07-14T22:41:38.000Z",
+      "snippet": "Organizations can allow external presenters to manage Teams events by granting them access to production controls. Federated (B2B) and guest users can...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
