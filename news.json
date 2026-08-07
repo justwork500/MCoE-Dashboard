@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T06:43:35.167Z",
-  "count": 128,
+  "lastUpdated": "2026-08-07T09:07:21.708Z",
+  "count": 132,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -66,6 +66,17 @@
       "snippet": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Microsoft is named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411",
+      "date": "2026-08-06T19:23:30.000Z",
+      "snippet": "&amp;nbsp;\r\nMicrosoft has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service—our eighth consecutive ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -331,6 +342,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "What&#039;s New in Copilot in SharePoint: August 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-august-2026/ba-p/4535421",
+      "date": "2026-08-06T13:00:00.000Z",
+      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Entra Retires the MemberOf Rule Operator for Dynamic Membership Rules",
@@ -593,6 +615,17 @@
       "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -895,6 +928,17 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
+      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
+      "date": "2026-07-30T08:26:11.000Z",
+      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
+      "tags": [
+        "Defender"
       ]
     },
     {
