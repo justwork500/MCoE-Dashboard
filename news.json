@@ -1,7 +1,368 @@
 {
-  "lastUpdated": "2026-08-06T09:30:19.854Z",
-  "count": 125,
+  "lastUpdated": "2026-08-07T06:43:35.167Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Firewall Status Report to Monitor and Verify Firewall Policies",
+      "link": "https://www.anoopcnair.com/intune-firewall-status-report-to-monitor-and/",
+      "date": "2026-08-07T05:37:08.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Facilitator Can Join Channel Meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568936",
+      "date": "2026-08-06T22:54:24.000Z",
+      "snippet": "Facilitator can now join meetings set up in Teams channels. Facilitator helps participants run more effective meetings through the ability to take liv...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Use Copilot Chat after a call in Queues app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568933",
+      "date": "2026-08-06T22:54:24.000Z",
+      "snippet": "After a recorded call is completed, use Copilot in the Queues app to quickly catch up on key details, uncover insights, and resolve customer issues fa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Enhanced user interface updates for iPhone and iPad",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568789",
+      "date": "2026-08-06T22:54:24.000Z",
+      "snippet": "People using Outlook for iOS on iPhone and iPad will see refreshed interface elements aligned with the latest Liquid Glass iOS visual experience, incl...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Agent Readiness in Microsoft Copilot Studio",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568762",
+      "date": "2026-08-06T22:54:24.000Z",
+      "snippet": "Agent Readiness gives makers a real-time, always-visible health check for their Copilot Studio agents. A single &quot;Review&quot; indicator in the build experi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing:  Azure Databricks Genie One and Genie Agents Free Usage Extended Through January 31, 2027 ",
+      "link": "https://azure.microsoft.com/updates?id=568964",
+      "date": "2026-08-06T19:41:52.000Z",
+      "snippet": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover",
+      "link": "https://azure.microsoft.com/updates?id=567979",
+      "date": "2026-08-06T16:40:19.000Z",
+      "snippet": "Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-06T15:26:35.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62836 Azure SQL Managed Instance Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62836",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper restriction of communication channel to intended endpoints in Azure SQL Managed Instance allows an unauthorized attacker to elevate privilege...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62896 Microsoft Teams Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62896",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper authentication in Microsoft Teams allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65668 Microsoft Purview eDiscovery Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65668",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper access control in Microsoft Purview eDiscovery allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59118 Microsoft Power Apps Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59118",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper authorization in Microsoft Power Apps allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50516 Microsoft Azure Kubernetes Service Elevation of Privilege Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50516",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Missing authentication for critical function in Microsoft Azure Kubernetes Service allows an unauthorized attacker to elevate privileges over a networ...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50481 Azure Active Directory Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50481",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Modification of assumed-immutable data (maid) in Azure Active Directory allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62918 Microsoft Teams Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62918",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper verification of cryptographic signature in Microsoft Teams allows an unauthorized attacker to perform spoofing over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59115 Microsoft Entra Provisioning Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59115",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "&#039;.../...//&#039; in Microsoft Entra Provisioning Service (SyncFabric) allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-49163 Application Insights Profiler Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49163",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper limitation of a pathname to a restricted directory (&#039;path traversal&#039;) in Application Insights Profiler allows an authorized attacker to eleva...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68823 Azure Confidential Ledger Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68823",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Exposed dangerous method or function in Azure Confidential Ledger allows an authorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70332 Microsoft Office SharePoint Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70332",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper neutralization of input during web page generation (&#039;cross-site scripting&#039;) in Microsoft Office SharePoint allows an unauthorized attacker to...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56161 Azure Logic Apps Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56161",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper access control in Azure Logic Apps allows an authorized attacker to disclose information over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62830 Azure SRE Agent Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62830",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Missing authorization in Azure SRE Agent allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65667 Microsoft Teams Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65667",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Missing authorization in Microsoft Teams allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56162 Azure SQL Database Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56162",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper authentication in Azure SQL Database allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50515 Azure Service Bus Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50515",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Deserialization of untrusted data in Azure Service Bus allows an authorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62869 Azure Entra ID Spoofing Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62869",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Insufficient verification of data authenticity in Azure Entra ID allows an authorized attacker to perform spoofing over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-63522 Azure SQL Database Elevation of Privilege Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63522",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Incorrect permission assignment for critical resource in Azure SQL Database allows an authorized attacker to elevate privileges locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-63508 Microsoft Planetary Computer Pro Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63508",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Missing authentication for critical function in Microsoft Planetary Computer Pro allows an unauthorized attacker to elevate privileges over a network....",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62873 Microsoft 365 Admin Center Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62873",
+      "date": "2026-08-06T14:00:00.000Z",
+      "snippet": "Improper verification of cryptographic signature in Microsoft 365 Admin Center allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Entra Retires the MemberOf Rule Operator for Dynamic Membership Rules",
+      "link": "https://blog.admindroid.com/retirement-of-microsoft-entra-id-memberof-rule-operator/",
+      "date": "2026-08-06T11:44:09.000Z",
+      "snippet": "Microsoft is ending the preview of the memberOf rule operator on November 3, 2026. After this change, dynamic groups, dynamic administrative units, an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Microsoft Edge Non-Microsoft Account Sign-in to Manage Browser Authentication using Intune",
+      "link": "https://www.anoopcnair.com/edge-non-microsoft-account-sign-in-to-intune/",
+      "date": "2026-08-06T10:52:24.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Bulk Reprovisioning of Windows 365 Cloud PCs in Grace Period using Intune",
+      "link": "https://www.anoopcnair.com/bulk-reprovisioning-of-windows-365-intune/",
+      "date": "2026-08-06T09:53:24.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -11,6 +372,17 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Badges in Profile Card in Teams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568078",
+      "date": "2026-08-05T22:47:32.000Z",
+      "snippet": "You can now see Awards and Certifications as badges on a user’s profile card, bringing a more consistent experience across Teams and Outlook.GA date: ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -42,17 +414,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568761",
       "date": "2026-08-05T22:47:32.000Z",
       "snippet": "OneDrive is updating its integration with the iOS Files app to use Apple&#039;s Replicated File Provider API. This update provides end-user improvements su...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Badges in Profile Card in Teams",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568078",
-      "date": "2026-08-05T22:47:32.000Z",
-      "snippet": "You can now see Awards and Certifications as badges on a user’s profile card, bringing a more consistent experience across Teams and Outlook.GA date: ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -213,17 +574,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-04T15:12:56.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Auto-Expiring Role Group Assignments in Microsoft Purview",
@@ -235,17 +585,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Get Latest Windows Features Immediately After Quality Updates with Intune Policy",
-      "link": "https://www.anoopcnair.com/get-latest-windows-features-with-intune-policy/",
-      "date": "2026-08-04T09:31:17.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Updated header and dashboard for chats and channels on mobile",
@@ -254,17 +593,6 @@
       "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -325,42 +653,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50416 Win32k Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50416",
-      "date": "2026-08-03T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50341 Windows NTFS Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50341",
-      "date": "2026-08-03T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50493 DirectX Graphics Kernel Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50493",
-      "date": "2026-08-03T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Writeback for Cloud-Managed Remote Mailboxes: Now in Public Preview",
@@ -380,28 +672,6 @@
       "snippet": "In May, we announced the Public Preview of Writeback for Cloud-Managed Remote Mailboxes. Since then, many customers have enabled this feature and shar...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Manage OneDrive Upload Speed with Windows LEDBAT in Microsoft Intune",
-      "link": "https://www.anoopcnair.com/onedrive-upload-speed-windows-ledbat-in-intune/",
-      "date": "2026-08-03T12:55:35.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Prevent Users from Changing Important Windows Device Settings using Intune",
-      "link": "https://www.anoopcnair.com/windows-device-settings-using-intune/",
-      "date": "2026-08-03T09:30:24.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -436,6 +706,28 @@
       "snippet": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, reso...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365: [Education] Control access to Learning Activities and Teach",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568370",
+      "date": "2026-07-31T21:54:12.000Z",
+      "snippet": "IT administrators can manage access to Learning Activities and Teach from the Microsoft 365 admin center. Configure Learning Activities separately for...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365: [Education] Assign Different Content to Learning Groups in a Single Assignment",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568369",
+      "date": "2026-07-31T21:54:12.000Z",
+      "snippet": "Enable educators to assign different content (attachments, resources, instructions) to different Individual Groups within a single Assignment. Today t...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -562,66 +854,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54128 Windows DHCP Client Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54128",
-      "date": "2026-07-30T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-55129 Microsoft Office Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55129",
-      "date": "2026-07-30T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-56197 Windows Admin Center (WAC) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56197",
-      "date": "2026-07-30T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66803 Azure Cosmos DB Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66803",
-      "date": "2026-07-30T14:00:00.000Z",
-      "snippet": "Improper access control in Azure Cosmos DB allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-24304 Azure Cosmos DB Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24304",
-      "date": "2026-07-30T14:00:00.000Z",
-      "snippet": "Improper access control in Azure Cosmos DB allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Entra Cloud Sync Now Supports Device Sync for Hybrid Devices",
@@ -666,39 +898,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
-      "link": "https://azure.microsoft.com/updates?id=568322",
-      "date": "2026-07-29T18:52:32.000Z",
-      "snippet": "This capability shares telemetry from Azure Monitor Log Analytics workspaces into Microsoft Fabric, making observability data available in OneLake as ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available for evaluation",
-      "link": "https://azure.microsoft.com/updates?id=568466",
-      "date": "2026-07-29T18:50:00.000Z",
-      "snippet": "Azure Sphere OS version 26.09 RC1 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes,...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Microsoft releases KB5101684 Update for Windows 11 24H2 and 25H2",
@@ -719,54 +918,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-13037 Use after free in WebView",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13037",
-      "date": "2026-07-28T22:03:49.000Z",
-      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-13032 Use after free in WebGL",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13032",
-      "date": "2026-07-28T22:03:48.000Z",
-      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-13030 Uninitialized Use in GPU",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13030",
-      "date": "2026-07-28T22:03:47.000Z",
-      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-13028 Use after free in WebGL",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13028",
-      "date": "2026-07-28T22:03:44.000Z",
-      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -815,42 +966,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50422 Windows NTFS Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50422",
-      "date": "2026-07-28T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-47301 Configuration Manager Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47301",
-      "date": "2026-07-28T14:00:00.000Z",
-      "snippet": "Corrected Build Number in the Security Updates table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-59117 Windows Terminal Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59117",
-      "date": "2026-07-28T14:00:00.000Z",
-      "snippet": "Change the name of the affected software from **Microsoft Power Apps** to **Microsoft Power Apps Desktop Client**. This is an informational change onl...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "NOW ON DEMAND | OneDrive Office Hours | July 2026",
@@ -859,54 +974,6 @@
       "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50333",
-      "date": "2026-07-27T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50697 Windows Common Log File System Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50697",
-      "date": "2026-07-27T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50343 Microsoft Install Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50343",
-      "date": "2026-07-27T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-56159 DHCP Server Service Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56159",
-      "date": "2026-07-27T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -1056,6 +1123,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention - Data Security for non-Microsoft connected apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568075",
+      "date": "2026-07-21T22:37:32.000Z",
+      "snippet": "Microsoft Purview Data Loss Prevention and Information Protection Auto-labeling capabilities now extend to non-Microsoft connected apps (e.g., Google ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
@@ -1188,17 +1266,6 @@
       "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: External presenters can access production controls for Teams events",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567298",
-      "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "Organizations can allow external presenters to manage Teams events by granting them access to production controls. Federated (B2B) and guest users can...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1376,39 +1443,6 @@
       "snippet": "SharePoint and Microsoft 365 have evolved into a powerful platform for building business applications that meet organizations where they already work....",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "How to Deploy PowerShell Scripts in Microsoft Intune",
-      "link": "https://blog.admindroid.com/how-to-deploy-powershell-scripts-in-microsoft-intune/",
-      "date": "2026-07-08T10:30:37.000Z",
-      "snippet": "Microsoft Intune Platform Scripts allow organizations to run PowerShell scripts on Intune-managed Windows devices to automate configuration changes an...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Edge Dev Blog",
-      "icon": "ph-app-window",
-      "title": "New in Edge for developers – Style layout gaps, improve keyboard accessibility and migrate your PWA to a new origin",
-      "link": "https://blogs.windows.com/msedgedev/2026/07/07/new-in-edge-for-developers-style-layout-gaps-improve-keyboard-accessibility-and-migrate-your-pwa-to-a-new-origin/",
-      "date": "2026-07-07T16:04:36.000Z",
-      "snippet": "Welcome to New in Edge for developers, a new series featuring recent web platform updates in Microsoft Edge that help web developers build better site...",
-      "tags": [
-        "Edge"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Configure Collection Size Limits in Configuration Manager",
-      "link": "https://www.prajwaldesai.com/configuration-manager-collection-size-limits/",
-      "date": "2026-07-07T11:58:55.000Z",
-      "snippet": "In this basic guide, I&amp;#8217;ll explain what collection size limits are, why they matter, and how to configure them in your...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
