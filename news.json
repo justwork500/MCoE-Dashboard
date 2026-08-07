@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T18:00:44.059Z",
-  "count": 130,
+  "lastUpdated": "2026-08-07T19:13:46.822Z",
+  "count": 128,
   "items": [
     {
       "source": "Edge Dev Blog",
@@ -21,6 +21,42 @@
       "date": "2026-08-07T15:52:31.000Z",
       "snippet": "Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual\r\nnetwork gateways. The new resiliency model property l...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
+      "date": "2026-08-07T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50659 .NET Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50659",
+      "date": "2026-08-07T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-47303 ASP.NET Core Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47303",
+      "date": "2026-08-07T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -208,7 +244,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50516 Microsoft Azure Kubernetes Service Elevation of Privilege Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50516",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50516",
       "date": "2026-08-06T14:00:00.000Z",
       "snippet": "Missing authentication for critical function in Microsoft Azure Kubernetes Service allows an unauthorized attacker to elevate privileges over a networ...",
       "tags": [
@@ -352,45 +388,9 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62869 Azure Entra ID Spoofing Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62869",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62869",
       "date": "2026-08-06T14:00:00.000Z",
       "snippet": "Insufficient verification of data authenticity in Azure Entra ID allows an authorized attacker to perform spoofing over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63522 Azure SQL Database Elevation of Privilege Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63522",
-      "date": "2026-08-06T14:00:00.000Z",
-      "snippet": "Incorrect permission assignment for critical resource in Azure SQL Database allows an authorized attacker to elevate privileges locally.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63508 Microsoft Planetary Computer Pro Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63508",
-      "date": "2026-08-06T14:00:00.000Z",
-      "snippet": "Missing authentication for critical function in Microsoft Planetary Computer Pro allows an unauthorized attacker to elevate privileges over a network....",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62873 Microsoft 365 Admin Center Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62873",
-      "date": "2026-08-06T14:00:00.000Z",
-      "snippet": "Improper verification of cryptographic signature in Microsoft 365 Admin Center allows an unauthorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -659,17 +659,6 @@
       "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -961,17 +950,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
