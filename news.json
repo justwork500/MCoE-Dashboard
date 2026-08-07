@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-07T15:07:56.023Z",
-  "count": 132,
+  "lastUpdated": "2026-08-07T18:00:44.059Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Edge Dev Blog",
+      "icon": "ph-app-window",
+      "title": "Moving the Microsoft Edge extensions ecosystem forward with Manifest Version 3",
+      "link": "https://blogs.windows.com/msedgedev/2026/08/07/moving-the-microsoft-edge-extensions-ecosystem-forward-with-manifest-version-3/",
+      "date": "2026-08-07T15:54:07.000Z",
+      "snippet": "Back in 2020, we committed to Manifest Version 3 (MV3) as the future direction of the Chromium extensions platform. Since then, we&#039;ve worked with deve...",
+      "tags": [
+        "Edge"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure ExpressRoute resiliency guard",
+      "link": "https://azure.microsoft.com/updates?id=568666",
+      "date": "2026-08-07T15:52:31.000Z",
+      "snippet": "Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual\r\nnetwork gateways. The new resiliency model property l...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -372,6 +394,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "What&#039;s New in Copilot in SharePoint: August 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-august-2026/ba-p/4535421",
+      "date": "2026-08-06T13:00:00.000Z",
+      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -884,17 +917,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Support for SMB Opportunistic Locking (Oplocks) configuration ",
-      "link": "https://azure.microsoft.com/updates?id=568396",
-      "date": "2026-07-30T16:38:15.000Z",
-      "snippet": "Azure NetApp Files now supports configuration of SMB opportunistic locking (oplocks) for SMB and dual-protocol volumes. Opportunistic locks (Oplocks) ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1441,50 +1463,6 @@
       "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-how-microsoft-uses-copilot-in-sharepoint-and/ba-p/4533156",
       "date": "2026-07-09T17:56:32.000Z",
       "snippet": "For this month&#039;s SharePoint showcase, we&#039;re zooming in on AI skills in SharePoint and real Microsoft use cases for Copilot in SharePoint. We&#039;re also i...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Solutions for document-centric business processes - Portal Systems - SharePoint Partner Spotlight",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/solutions-for-document-centric-business-processes-portal-systems/ba-p/4515217",
-      "date": "2026-07-08T16:30:42.000Z",
-      "snippet": "We are excited to share a new episode on our&amp;nbsp;partner showcase series focused on SharePoint in Microsoft 365. In this brief discussion Patrick Car...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Proven intranet framework - Involv Intranet - SharePoint Partner Spotlight",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/proven-intranet-framework-involv-intranet-sharepoint-partner/ba-p/4519241",
-      "date": "2026-07-08T16:16:23.000Z",
-      "snippet": "We are excited to share a new episode on our&amp;nbsp;partner showcase series focused on SharePoint in Microsoft 365. In this brief discussion Tim Bogeman...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Business Applications Built for Microsoft 365 – Cubic Logics – SharePoint Partner Spotlight",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/business-applications-built-for-microsoft-365-cubic-logics/ba-p/4530898",
-      "date": "2026-07-08T16:15:26.000Z",
-      "snippet": "Organizations increasingly view Microsoft 365 as more than a productivity platform. They use it to streamline business processes, modernize operations...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Streamlining business processes with Microsoft 365 - ShareCloud - SharePoint Partner Spotlight",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/streamlining-business-processes-with-microsoft-365-sharecloud/ba-p/4533560",
-      "date": "2026-07-08T16:14:28.000Z",
-      "snippet": "SharePoint and Microsoft 365 have evolved into a powerful platform for building business applications that meet organizations where they already work....",
       "tags": [
         "SharePoint"
       ]
