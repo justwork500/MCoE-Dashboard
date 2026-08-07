@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-07T09:07:21.708Z",
-  "count": 132,
+  "lastUpdated": "2026-08-07T11:06:05.646Z",
+  "count": 133,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 7th August 2026",
+      "link": "https://andrewstaylor.com/2026/08/07/intune-newsletter-7th-august-2026/",
+      "date": "2026-08-07T10:59:51.000Z",
+      "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Issue with Self-Deploying Autopilot Deployment Profiles on Intune",
+      "link": "https://www.anoopcnair.com/issue-with-self-deploying-autopilot-on-intune/",
+      "date": "2026-08-07T09:31:04.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -494,17 +516,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Device Compliance Report for Managed Devices",
-      "link": "https://www.anoopcnair.com/intune-device-compliance-report-for-managed/",
-      "date": "2026-08-05T04:52:04.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
