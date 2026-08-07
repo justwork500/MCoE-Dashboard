@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-07T14:08:14.307Z",
-  "count": 133,
+  "lastUpdated": "2026-08-07T15:07:56.023Z",
+  "count": 132,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Access Microsoft Entra Group Insights with Group Analytics API",
+      "link": "https://blog.admindroid.com/microsoft-graph-groupanalytics-resource-api/",
+      "date": "2026-08-07T13:39:32.000Z",
+      "snippet": "Microsoft Graph’s groupAnalytics API (currently in preview) provides detailed insights into Microsoft Entra ID groups, eliminating the need for comple...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
@@ -361,17 +372,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "What&#039;s New in Copilot in SharePoint: August 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-august-2026/ba-p/4535421",
-      "date": "2026-08-06T13:00:00.000Z",
-      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
@@ -1443,17 +1443,6 @@
       "snippet": "For this month&#039;s SharePoint showcase, we&#039;re zooming in on AI skills in SharePoint and real Microsoft use cases for Copilot in SharePoint. We&#039;re also i...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "How to Disable the Print Spooler Service on Domain Controllers ",
-      "link": "https://blog.admindroid.com/how-to-disable-print-spooler-on-domain-controllers/",
-      "date": "2026-07-09T10:30:05.000Z",
-      "snippet": "The Print Spooler service increases the attack surface of Active Directory domain controllers and vulnerabilities in the service can be exploited in a...",
-      "tags": [
-        "Azure"
       ]
     },
     {
