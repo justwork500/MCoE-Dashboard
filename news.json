@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T17:45:01.635Z",
-  "count": 132,
+  "lastUpdated": "2026-08-08T18:58:25.500Z",
+  "count": 131,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1476,17 +1476,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: How Microsoft uses Copilot in SharePoint, and how you can get started",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-how-microsoft-uses-copilot-in-sharepoint-and/ba-p/4533156",
-      "date": "2026-07-09T17:56:32.000Z",
-      "snippet": "For this month&#039;s SharePoint showcase, we&#039;re zooming in on AI skills in SharePoint and real Microsoft use cases for Copilot in SharePoint. We&#039;re also i...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
