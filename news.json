@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T13:55:42.902Z",
-  "count": 131,
+  "lastUpdated": "2026-08-08T14:26:35.120Z",
+  "count": 132,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -246,6 +246,39 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-07T19:56:24.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-07T19:19:23.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411",
+      "date": "2026-08-07T16:37:24.000Z",
+      "snippet": "&amp;nbsp;\r\nMicrosoft has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service—our eighth consecutive ...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Moving the Microsoft Edge extensions ecosystem forward with Manifest Version 3",
@@ -441,17 +474,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Microsoft is named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411",
-      "date": "2026-08-06T19:23:30.000Z",
-      "snippet": "&amp;nbsp;\r\nMicrosoft has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service—our eighth consecutive ...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover",
@@ -460,17 +482,6 @@
       "snippet": "Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-06T15:26:35.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
