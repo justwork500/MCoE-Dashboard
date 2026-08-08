@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:40:47.085Z",
+  "lastUpdated": "2026-08-08T07:35:28.006Z",
   "count": 131,
   "items": [
     {
@@ -44,6 +44,30 @@
       "title": "CVE-2026-6879 Quadratic Behavior in xml.etree.ElementPath Index Predicates",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-6879",
       "date": "2026-08-08T08:41:10.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-32597 PyJWT accepts unknown `crit` header extensions (RFC 7515 §4.1.11 MUST violation)",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32597",
+      "date": "2026-08-08T08:40:53.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-48524 PyJWT: PyJWKClient unbounded JWKS endpoint requests via attacker-controlled kid values (DoS)",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-48524",
+      "date": "2026-08-08T08:40:45.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -244,18 +268,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
-      "date": "2026-08-07T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Access Microsoft Entra Group Insights with Group Analytics API",
@@ -378,18 +390,6 @@
       "title": "CVE-2016-2568 pkexec, when used with --user nonpriv, allows local users to escape to the parent session",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2016-2568",
       "date": "2026-08-07T07:20:17.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2007-3205 The parse_str function in (1) PHP, (2) Hardened-PHP, and (3) Suhosin, when called without a second parameter, might allow remote attackers to overwrite arbitrary variables by specifying variable names and values in the string to be parsed.  NOTE: it is not clear whether this is a design limitation of the function or a bug in PHP, although it is likely to be regarded as a bug in Hardened-PHP and Suhosin.",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2007-3205",
-      "date": "2026-08-07T07:19:25.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
