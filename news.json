@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T18:58:25.500Z",
-  "count": 131,
+  "lastUpdated": "2026-08-08T19:31:11.577Z",
+  "count": 130,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1464,18 +1464,6 @@
       "snippet": "Welcome back and for those in the UK, it&amp;#8217;s nearly school holidays time (for those in Scandinavia, enjoy the long break).  There will probably be...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Microsoft Intune Certification MD-102 Path",
-      "link": "https://www.systemcenterdudes.com/microsoft-intune-certification-md-102-path/",
-      "date": "2026-07-09T18:59:39.000Z",
-      "snippet": "If you&amp;#8217;re looking to build a career around Microsoft Intune and want to get certified, you&amp;#8217;ve probably asked yourself one question: Which ...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
