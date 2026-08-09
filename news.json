@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-09T17:04:20.148Z",
-  "count": 129,
+  "lastUpdated": "2026-08-09T18:29:59.354Z",
+  "count": 126,
   "items": [
     {
       "source": "MSEndpointMgr",
@@ -706,17 +706,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Trusted Launch as Default",
@@ -1005,17 +994,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -1442,17 +1420,6 @@
       "snippet": "Microsoft has introduced cross-tenant message recall in Exchange Online. This feature allows users to recall emails sent to external Microsoft 365 ten...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Build a patch strategy for today’s threat pace with Microsoft",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-patch-strategy-for-today-s-threat-pace-with-microsoft/ba-p/4535115",
-      "date": "2026-07-10T17:18:27.000Z",
-      "snippet": "AI-accelerated vulnerability discovery and remediation are changing how organizations manage risk. As discussed in Pavan Davuluri’s recent blog, Micro...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
