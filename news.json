@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T01:11:15.557Z",
+  "lastUpdated": "2026-08-09T04:35:16.496Z",
   "count": 130,
   "items": [
     {
@@ -268,17 +268,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411",
-      "date": "2026-08-07T16:37:24.000Z",
-      "snippet": "&amp;nbsp;\r\nMicrosoft has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service—our eighth consecutive ...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Moving the Microsoft Edge extensions ecosystem forward with Manifest Version 3",
@@ -471,6 +460,17 @@
       "snippet": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Microsoft is named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411",
+      "date": "2026-08-06T19:23:30.000Z",
+      "snippet": "&amp;nbsp;\r\nMicrosoft has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service—our eighth consecutive ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
