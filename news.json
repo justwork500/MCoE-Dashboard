@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-09T09:54:53.240Z",
-  "count": 130,
+  "lastUpdated": "2026-08-09T11:43:35.934Z",
+  "count": 129,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1453,17 +1453,6 @@
       "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 10th July 2026",
-      "link": "https://andrewstaylor.com/2026/07/10/intune-newsletter-10th-july-2026/",
-      "date": "2026-07-10T10:24:35.000Z",
-      "snippet": "Welcome back and for those in the UK, it&amp;#8217;s nearly school holidays time (for those in Scandinavia, enjoy the long break).  There will probably be...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
