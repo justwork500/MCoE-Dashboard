@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T00:03:49.655Z",
+  "lastUpdated": "2026-08-10T02:32:38.816Z",
   "count": 128,
   "items": [
     {
@@ -209,7 +209,7 @@
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-34191 Apache Portable Runtime Utility: SQL Injection in apr_dbd_oracle",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34191",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-34191",
       "date": "2026-08-09T08:02:21.000Z",
       "snippet": "Information published.",
       "tags": [
