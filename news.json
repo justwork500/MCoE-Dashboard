@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T21:56:26.515Z",
+  "lastUpdated": "2026-08-10T23:17:12.277Z",
   "count": 131,
   "items": [
     {
@@ -57,17 +57,6 @@
       "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-08-10T14:38:02.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -449,6 +438,17 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
       "date": "2026-08-07T19:56:24.000Z",
       "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-07T19:19:23.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
       ]
