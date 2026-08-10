@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-10T19:28:57.055Z",
-  "count": 130,
+  "lastUpdated": "2026-08-10T20:09:07.336Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.0.4.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-4-0-released/",
+      "date": "2026-08-10T19:45:46.000Z",
+      "snippet": "This release contains a variety of fixes, as noted below. This will be made available via the self-update channel over the coming days. You can upgrad...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Fix Windows Backup for Organization error 53000 and 53003 during Autopilot",
+      "link": "https://www.systemcenterdudes.com/fix-windows-backup-for-organization-error-53000-and-53003-during-autopilot/",
+      "date": "2026-08-10T19:37:42.000Z",
+      "snippet": "If you have deployed Windows 11 and enabled Windows Backup for Organization, you may have noticed that the restore step during autopilot shows an erro...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -33,6 +57,39 @@
       "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
       "tags": [
         "OneDrive"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
+      "date": "2026-08-10T16:23:16.000Z",
+      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
+      "date": "2026-08-10T16:06:57.000Z",
+      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-10T14:38:02.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -414,17 +471,6 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
       "date": "2026-08-07T19:56:24.000Z",
       "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-08-07T19:19:23.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
       ]
@@ -930,17 +976,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What’s New in Microsoft Teams | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
-      "date": "2026-07-31T15:00:00.000Z",
-      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 31st July 2026",
@@ -1323,18 +1358,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Intune Custom Compliance Policies and the Hourly Cadence Fix",
-      "link": "https://patchmypc.com/blog/custom-compliance-policies-and-the-eight-hour-waiting-fix/",
-      "date": "2026-07-18T10:36:57.000Z",
-      "snippet": "Custom compliance in Intune can leave devices reporting stale results for up to eight hours. IME 1.103.101.0 appears to introduce a new hourly cadence...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
@@ -1365,17 +1388,6 @@
       "snippet": "I am happy to share that I have been awarded as Microsoft MVP for Intune and Windows 365 for year 2026-2027....",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
-      "date": "2026-07-16T00:15:35.000Z",
-      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
-      "tags": [
-        "Teams"
       ]
     },
     {
