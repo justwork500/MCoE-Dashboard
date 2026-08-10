@@ -1,16 +1,29 @@
 {
-  "lastUpdated": "2026-08-10T16:30:46.777Z",
+  "lastUpdated": "2026-08-10T17:28:23.181Z",
   "count": 126,
   "items": [
     {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Office Hours | August 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-august-2026/ba-p/4542927",
-      "date": "2026-08-10T16:24:26.000Z",
-      "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50309 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50309",
+      "date": "2026-08-10T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
-        "OneDrive"
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50357 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50357",
+      "date": "2026-08-10T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -98,18 +111,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50309 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50309",
-      "date": "2026-08-10T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Automating Bulk Graph API Permission Assignment in Microsoft Entra App Registrations",
@@ -174,18 +175,6 @@
       "title": "CVE-2026-26197 Array full size, element count, and element size are not checked to make sure they match in H5Odtype.c",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-26197",
       "date": "2026-08-10T08:40:58.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-38752 A stack overflow in the evaluate() function (editors/awk.c) of BusyBox commit 371fe9 allows attackers to cause a Denial of Service (DoS) via supplying a crafted AWK script.",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-38752",
-      "date": "2026-08-10T08:40:51.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -449,6 +438,17 @@
       "snippet": "Microsoft Graph’s groupAnalytics API (currently in preview) provides detailed insights into Microsoft Entra ID groups, eliminating the need for comple...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 7th August 2026",
+      "link": "https://andrewstaylor.com/2026/08/07/intune-newsletter-7th-august-2026/",
+      "date": "2026-08-07T10:59:51.000Z",
+      "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -717,17 +717,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Trusted Launch as Default",
@@ -908,6 +897,17 @@
       ]
     },
     {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 31st July 2026",
+      "link": "https://andrewstaylor.com/2026/07/31/intune-newsletter-31st-july-2026/",
+      "date": "2026-07-31T10:48:08.000Z",
+      "snippet": "How time flies, can you believe it&amp;#8217;s the end of July already!  I had a lovely few days at the beginning of the week at Loch Lomond to fully rech...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central ",
@@ -1005,17 +1005,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -1148,6 +1137,17 @@
       "link": "https://www.prajwaldesai.com/fix-wsus-sync-delays-and-timeout-issues/",
       "date": "2026-07-24T13:29:07.000Z",
       "snippet": "Microsoft has confirmed a known issue affecting Windows Server Update Services (WSUS) that causes slow synchronization times and sync timeouts. The......",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 24th July 2026",
+      "link": "https://andrewstaylor.com/2026/07/24/intune-newsletter-24th-july-2026/",
+      "date": "2026-07-24T09:32:26.000Z",
+      "snippet": "Hopefully you didn&amp;#8217;t miss this too much last week, I was away enjoying a relaxing break in Madeira with my family, but we have content from the ...",
       "tags": [
         "Intune"
       ]
