@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T20:09:07.336Z",
+  "lastUpdated": "2026-08-10T21:56:26.515Z",
   "count": 131,
   "items": [
     {
@@ -57,28 +57,6 @@
       "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What’s New in Microsoft Teams | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
-      "date": "2026-08-10T16:23:16.000Z",
-      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
-      "date": "2026-08-10T16:06:57.000Z",
-      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -976,6 +954,17 @@
       ]
     },
     {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
+      "date": "2026-07-31T15:00:00.000Z",
+      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 31st July 2026",
@@ -1388,6 +1377,17 @@
       "snippet": "I am happy to share that I have been awarded as Microsoft MVP for Intune and Windows 365 for year 2026-2027....",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
+      "date": "2026-07-16T00:15:35.000Z",
+      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
+      "tags": [
+        "Teams"
       ]
     },
     {
