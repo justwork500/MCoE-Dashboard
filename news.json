@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-08-10T23:17:12.277Z",
-  "count": 131,
+  "lastUpdated": "2026-08-10T23:58:53.348Z",
+  "count": 121,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Dataverse integration on Copilot Studio",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568929",
+      "date": "2026-08-10T22:43:02.000Z",
+      "snippet": "We are enabling Microsoft Dataverse as a native knowledge source in Copilot Studio, expanding the platform’s ability to ground AI agents in structured...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Updated horizontal tab appearance",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568793",
+      "date": "2026-08-10T22:43:02.000Z",
+      "snippet": "Microsoft Edge is introducing an updated horizontal tab-strip appearance on Windows and macOS. The treatment uses rounded tabs with revised spacing an...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Review PDFs using the Copilot context menu on OneDrive iOS",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568790",
+      "date": "2026-08-10T22:43:02.000Z",
+      "snippet": "Microsoft 365 Copilot makes PDF reviews faster and easier on mobile. Select text in any PDF in OneDrive iOS and tap Ask Copilot to explain, summarize,...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -335,50 +368,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Outlook: Language support for Summarize in Classic Outlook",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569023",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "When the content language and the Outlook language do not match, you will be able to select a different language to view summarize Copilot responses.G...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Microsoft Purview Label Inheritance from Email Attachments",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569022",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "When composing an email in Outlook for Mac, Microsoft Purview sensitivity labels can be automatically applied or recommended based on the sensitivity ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Purview Label Inheritance from Email Attachment for iOS and Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569021",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "Outlook for iOS and Android will support Microsoft Purview sensitivity label inheritance from attachments. When users attach files with sensitivity la...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Anchored comments in the PDF viewer",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569020",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "Microsoft is adding anchored comments to the PDF viewer in OneDrive and SharePoint on the web. Users can attach a comment to a specific spot on a page...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Intelligent call recaps in Queues app",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569017",
       "date": "2026-08-07T21:45:15.000Z",
@@ -390,43 +379,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection-Auto-labeling per-policy coverage report ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568935",
+      "title": "Outlook: Language support for Summarize in Classic Outlook",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569023",
       "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "For each enforced auto-labeling policy, admins can view how files processed during enforcement correlate to the latest simulation run. The per-policy ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Uninstall OneDrive Photos without affecting file sync",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568934",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "OneDrive is giving people more control over their Windows experience by allowing them to uninstall the OneDrive Photos experience independently. Remov...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Manage access to the OneDrive Photos Desktop experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568931",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "OneDrive is adding administrative controls for the Photos experience on Windows. Organizations can manage whether users sign in with personal Microsof...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: SQL server Support in Microsoft Copilot Studio",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568930",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "The Azure SQL Knowledge Source capability extends the range of enterprise data sources that makers can leverage when building agents in Copilot Studio...",
+      "snippet": "When the content language and the Outlook language do not match, you will be able to select a different language to view summarize Copilot responses.G...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -531,28 +487,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Facilitator Can Join Channel Meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568936",
-      "date": "2026-08-06T22:54:24.000Z",
-      "snippet": "Facilitator can now join meetings set up in Teams channels. Facilitator helps participants run more effective meetings through the ability to take liv...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Use Copilot Chat after a call in Queues app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568933",
-      "date": "2026-08-06T22:54:24.000Z",
-      "snippet": "After a recorded call is completed, use Copilot in the Queues app to quickly catch up on key details, uncover insights, and resolve customer issues fa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Announcing:  Azure Databricks Genie One and Genie Agents Free Usage extended through January 31, 2027 ",
@@ -616,17 +550,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Badges in Profile Card in Teams",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568078",
-      "date": "2026-08-05T22:47:32.000Z",
-      "snippet": "You can now see Awards and Certifications as badges on a user’s profile card, bringing a more consistent experience across Teams and Outlook.GA date: ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -763,17 +686,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Clearer text highlighting in dark mode and high contrast mode",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566858",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "We&#039;ve improved how highlighted text looks when composing messages in dark mode and high contrast mode, giving you a more consistent editing experience...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
@@ -895,28 +807,6 @@
       "snippet": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, reso...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365: [Education] Control access to Learning Activities and Teach",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568370",
-      "date": "2026-07-31T21:54:12.000Z",
-      "snippet": "IT administrators can manage access to Learning Activities and Teach from the Microsoft 365 admin center. Configure Learning Activities separately for...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365: [Education] Assign Different Content to Learning Groups in a Single Assignment",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568369",
-      "date": "2026-07-31T21:54:12.000Z",
-      "snippet": "Enable educators to assign different content (attachments, resources, instructions) to different Individual Groups within a single Assignment. Today t...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
