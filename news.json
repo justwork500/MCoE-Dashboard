@@ -1,13 +1,24 @@
 {
-  "lastUpdated": "2026-08-11T08:07:11.268Z",
-  "count": 120,
+  "lastUpdated": "2026-08-11T09:12:32.727Z",
+  "count": 121,
   "items": [
     {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "MDOP is out of support: Next Steps for Intune, Entra ID, Windows",
+      "link": "https://www.prajwaldesai.com/mdop-is-out-of-support/",
+      "date": "2026-08-11T08:58:46.000Z",
+      "snippet": "As of April 14, 2026, MDOP is out of support. That means Microsoft no longer provides security updates, bug fixes, or...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57888 workqueue: Do not warn when cancelling WQ_MEM_RECLAIM work from !WQ_MEM_RECLAIM worker",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-57888",
-      "date": "2026-08-11T08:47:32.000Z",
+      "title": "CVE-2026-64581 xfrm: fix sk_dst_cache double-free in xfrm_user_policy()",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64581",
+      "date": "2026-08-11T08:05:15.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -17,9 +28,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57795 RDMA/rxe: Remove the direct link to net_device",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-57795",
-      "date": "2026-08-11T08:47:32.000Z",
+      "title": "CVE-2026-68363 wifi: ath9k: hif_usb: don&#039;t dereference hif_dev after re-arming firmware request",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68363",
+      "date": "2026-08-11T08:04:27.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -29,9 +40,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-3087 shutil.unpack_archive() doesn&#039;t check for Windows absolute paths in ZIPs",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-3087",
-      "date": "2026-08-11T08:47:32.000Z",
+      "title": "CVE-2026-71557 go-git: Malicious reference names may modify files outside the reference storage",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71557",
+      "date": "2026-08-11T08:04:14.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -41,9 +52,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57857 RDMA/siw: Remove direct link to net_device",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-57857",
-      "date": "2026-08-11T08:47:21.000Z",
+      "title": "CVE-2026-71556 go-git: Worktree operations may follow symlinks",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71556",
+      "date": "2026-08-11T08:04:00.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -53,9 +64,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57899 wifi: mac80211: fix mbss changed flags corruption on 32 bit systems",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-57899",
-      "date": "2026-08-11T08:47:21.000Z",
+      "title": "CVE-2026-68323 tipc: serialize udp bearer replicast list updates",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68323",
+      "date": "2026-08-11T08:04:00.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -65,9 +76,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-21629 net: reenable NETIF_F_IPV6_CSUM offload for BIG TCP packets",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-21629",
-      "date": "2026-08-11T08:47:14.000Z",
+      "title": "CVE-2026-68407 wifi: nl80211: free RNR data on MBSSID mismatch",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68407",
+      "date": "2026-08-11T08:03:46.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -77,9 +88,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57893 ALSA: seq: oss: Fix races at processing SysEx messages",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-57893",
-      "date": "2026-08-11T08:46:45.000Z",
+      "title": "CVE-2026-61477 Libvirt: libvirt: newline injection in network xml dns txt/srv fields allows dnsmasq config directive injection",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61477",
+      "date": "2026-08-11T08:03:33.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -89,9 +100,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-21682 eth: bnxt: always recalculate features after XDP clearing, fix null-deref",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21682",
-      "date": "2026-08-11T08:46:16.000Z",
+      "title": "CVE-2026-68235 drm/amd/display: dce100: skip non-DP stream encoders for DP MST",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68235",
+      "date": "2026-08-11T08:03:32.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -101,9 +112,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-52005 The sideband payload is passed unfiltered to the terminal in git",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-52005",
-      "date": "2026-08-11T08:46:07.000Z",
+      "title": "CVE-2026-68097 ksmbd: validate ACE size against SID sub-authorities",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68097",
+      "date": "2026-08-11T08:03:18.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -113,9 +124,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57895 ksmbd: set ATTR_CTIME flags when setting mtime",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-57895",
-      "date": "2026-08-11T08:45:32.000Z",
+      "title": "CVE-2026-68412 wifi: cfg80211: Fix an error handling path in cfg80211_wext_siwscan()",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68412",
+      "date": "2026-08-11T08:03:17.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -125,9 +136,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37931 btrfs: adjust subpage bit start based on sectorsize",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37931",
-      "date": "2026-08-11T08:44:40.000Z",
+      "title": "CVE-2026-71497 jsoup: Cleaner may expose markup with custom raw-text elements",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71497",
+      "date": "2026-08-11T08:03:16.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -137,9 +148,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37961 ipvs: fix uninit-value for saddr in do_output_route4",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37961",
-      "date": "2026-08-11T08:44:27.000Z",
+      "title": "CVE-2026-68273 drm/amdgpu: Fix context pstate override handling",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68273",
+      "date": "2026-08-11T08:03:03.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -149,9 +160,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37856 btrfs: harden block_group::bg_list against list_del() races",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37856",
-      "date": "2026-08-11T08:43:40.000Z",
+      "title": "CVE-2026-68183 firmware: stratix10-svc: fix memory leaks and list corruption bugs",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68183",
+      "date": "2026-08-11T08:02:49.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -161,9 +172,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37945 net: phy: allow MDIO bus PM ops to start/stop state machine for phylink-controlled PHY",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-37945",
-      "date": "2026-08-11T08:43:25.000Z",
+      "title": "CVE-2026-68190 staging: rtl8723bs: fix OOB reads in rtw_get_wps_ie()",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68190",
+      "date": "2026-08-11T08:02:49.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -173,9 +184,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2024-57898 wifi: cfg80211: clear link ID from bitmap during link delete after clean up",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-57898",
-      "date": "2026-08-11T08:43:15.000Z",
+      "title": "CVE-2026-64652 GitHub CLI: Partial token disclosure in `gh auth status` output",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64652",
+      "date": "2026-08-11T08:02:48.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -185,9 +196,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37853 drm/amdkfd: debugfs hang_hws skip GPU with MES",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37853",
-      "date": "2026-08-11T08:43:05.000Z",
+      "title": "CVE-2026-68186 binfmt_misc: set have_execfd only once the interpreter is opened",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68186",
+      "date": "2026-08-11T08:02:36.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -197,9 +208,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37842 spi: fsl-qspi: use devm function instead of driver remove",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37842",
-      "date": "2026-08-11T08:42:37.000Z",
+      "title": "CVE-2026-64653 GitHub CLI: Unescaped variable components in request URLs could allow path traversal",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64653",
+      "date": "2026-08-11T08:02:35.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -209,9 +220,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37877 iommu: Clear iommu-dma ops on cleanup",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37877",
-      "date": "2026-08-11T08:42:20.000Z",
+      "title": "CVE-2026-68114 drm/amdgpu/gfx12.1: replace BUG_ON() with WARN_ON()",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68114",
+      "date": "2026-08-11T08:02:35.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -221,9 +232,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37884 bpf: Fix deadlock between rcu_tasks_trace and event_mutex.",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-37884",
-      "date": "2026-08-11T08:42:07.000Z",
+      "title": "CVE-2026-68258 drm/amdkfd: Check bounds on CRIU restore queue type and mqd size",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68258",
+      "date": "2026-08-11T08:02:22.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -233,9 +244,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2025-37920 xsk: Fix race condition in AF_XDP generic RX path",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-37920",
-      "date": "2026-08-11T08:41:19.000Z",
+      "title": "CVE-2026-68203 media: vivid: fix cleanup bugs in vivid_init()",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68203",
+      "date": "2026-08-11T08:02:21.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
