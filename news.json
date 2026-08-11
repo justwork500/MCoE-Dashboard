@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T20:08:48.531Z",
-  "count": 121,
+  "lastUpdated": "2026-08-11T21:02:34.220Z",
+  "count": 123,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -22,6 +22,28 @@
       "snippet": "Azure Firewall Premium now delivers up to 22 Gbps\r\nthroughput with TLS inspection and IDPS in Deny mode, a 120% increase from 10\r\nGbps, and up to 600 ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-11T17:06:02.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn meetings into momentum with Microsoft 365 Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-meetings-into-momentum-with-microsoft-365-copilot/ba-p/4545675",
+      "date": "2026-08-11T15:59:45.000Z",
+      "snippet": "Most people don&#039;t need more meetings—they need meetings that lead to action. At their best, meetings drive decisions and keep work moving forward. But...",
+      "tags": [
+        "Teams"
       ]
     },
     {
