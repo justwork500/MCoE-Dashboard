@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-12T22:59:40.214Z",
+  "lastUpdated": "2026-08-12T23:48:41.490Z",
   "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Vertical Tabs update",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569217",
+      "date": "2026-08-12T22:47:48.000Z",
+      "snippet": "Microsoft Edge is updating its vertical tab implementation and architecture. Edge is reimplementing capabilities across pane, layout, controls, tab be...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -238,6 +249,39 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Add multiple steps when building a workflow from scratch",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569209",
+      "date": "2026-08-11T22:53:53.000Z",
+      "snippet": "You will now be able to add multiple steps to your workflow when building one from scratch.GA date: September CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Identify custom apps that need updates for Teams private and shared channels",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569019",
+      "date": "2026-08-11T22:53:53.000Z",
+      "snippet": "Admins will be able to view in Teams Admin Center a list of custom apps in their tenant that need to be updated to work in private and shared channels...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Collect information with list form in Workflows",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568932",
+      "date": "2026-08-11T22:53:53.000Z",
+      "snippet": "Starts a workflow with a form to collect the information you need to run the rest of your workflow.GA date: September CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
       "title": "Microsoft Copilot (Microsoft 365): Add Agents and Skills from the Plus menu",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569213",
       "date": "2026-08-11T22:53:53.000Z",
@@ -271,17 +315,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Add multiple steps when building a workflow from scratch",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569209",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "You will now be able to add multiple steps to your workflow when building one from scratch.GA date: September CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "SharePoint: HTML pages",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569208",
       "date": "2026-08-11T22:53:53.000Z",
@@ -297,39 +330,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569203",
       "date": "2026-08-11T22:53:53.000Z",
       "snippet": "The new Copilot Notebooks design in the Microsoft 365 Copilot app for DoD, GCC, and GCC High clouds now lets users organize related chats, output crea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Identify custom apps that need updates for Teams private and shared channels",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569019",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Admins will be able to view in Teams Admin Center a list of custom apps in their tenant that need to be updated to work in private and shared channels...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Collect information with list form in Workflows",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568932",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Starts a workflow with a form to collect the information you need to run the rest of your workflow.GA date: September CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Entra: Windows Hello for Business and macOS Platform Single Sign-on can now be used as a second factor for MFA",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568076",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Windows Hello for Business (WHfB) and macOS Platform SSO (macOS PSSO) can now satisfy multifactor authentication as a standalone second factor. Previo...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -862,17 +862,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: See more messages on mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568067",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "We are introducing a more streamlined messaging experience that displays more content on screen while improving readability when using Teams on mobile...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
@@ -1391,17 +1380,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Teams shared display mode and peripheral detection available for DoD environments",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567465",
-      "date": "2026-07-15T22:55:27.000Z",
-      "snippet": "Shared display mode in Teams is now available in government DOD environments, enabling more seamless and private meeting hosting from your PC. Additio...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Defender ATP Blog (MS)",
       "icon": "ph-shield-check",
       "title": "New Privileged Token Context Telemetry Boosts Advanced Hunting in Microsoft Defender",
@@ -1432,6 +1410,28 @@
       "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Enhanced live captions settings and right-side panel view",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567462",
+      "date": "2026-07-14T22:41:38.000Z",
+      "snippet": "We are improving the live captions experience in Microsoft Teams with new viewing layouts and streamlined configuration options. Users can now view li...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Multilingual recap available with translation button",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567458",
+      "date": "2026-07-14T22:41:38.000Z",
+      "snippet": "After meeting recap is automatically generated in the translation language chosen during the meeting, users can continue to change the language of the...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
