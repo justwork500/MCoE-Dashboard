@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T16:09:25.225Z",
+  "lastUpdated": "2026-08-12T17:10:32.816Z",
   "count": 131,
   "items": [
     {
@@ -29,8 +29,8 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-70348 Windows Management Services Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70348",
+      "title": "CVE-2026-62913 Microsoft Exchange Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913",
       "date": "2026-08-12T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -53,8 +53,8 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62913 Microsoft Exchange Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913",
+      "title": "CVE-2026-70348 Windows Management Services Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70348",
       "date": "2026-08-12T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
