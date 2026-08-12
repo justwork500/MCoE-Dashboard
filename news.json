@@ -1,19 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T14:05:10.777Z",
+  "lastUpdated": "2026-08-12T16:09:25.225Z",
   "count": 131,
   "items": [
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2022-41127 Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central (On Premises) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41127",
-      "date": "2026-08-12T14:00:00.000Z",
-      "snippet": "Updated the build numbers.  This is an informational update only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -65,6 +53,18 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-62913 Microsoft Exchange Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-50687 Windows Win32k Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50687",
       "date": "2026-08-12T14:00:00.000Z",
@@ -93,6 +93,42 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50655",
       "date": "2026-08-12T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-58643 Windows Admin Center Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58643",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Corrected Build Number in the Security Updates table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50476 Windows Network Connections Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50476",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2022-41127 Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central (On Premises) Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41127",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated the build numbers.  This is an informational update only.",
       "tags": [
         "Windows",
         "Azure"
@@ -377,42 +413,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62837",
       "date": "2026-08-11T14:00:00.000Z",
       "snippet": "Relative path traversal in Microsoft Office SharePoint allows an authorized attacker to disclose information over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63514 Microsoft SharePoint Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63514",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Deserialization of untrusted data in Microsoft Office SharePoint allows an authorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63512 Microsoft SharePoint Server Tampering Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63512",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Incorrect authorization in Microsoft Office SharePoint allows an authorized attacker to perform tampering over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63516 Microsoft SharePoint Server Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63516",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Deserialization of untrusted data in Microsoft Office SharePoint allows an authorized attacker to perform spoofing over a network.",
       "tags": [
         "Windows",
         "Azure"
