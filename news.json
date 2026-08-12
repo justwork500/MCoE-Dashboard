@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-12T20:08:22.326Z",
+  "lastUpdated": "2026-08-12T21:01:20.837Z",
   "count": 131,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications",
+      "link": "https://azure.microsoft.com/updates?id=568457",
+      "date": "2026-08-12T19:41:20.000Z",
+      "snippet": "On September 14, 2026 we will retire the containerized data connector agent for the Microsoft Sentinel solution for SAP applications. After this date ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -981,17 +992,6 @@
       "link": "https://azure.microsoft.com/updates?id=568591",
       "date": "2026-07-31T22:32:52.000Z",
       "snippet": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, reso...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Route-Maps for Azure Route Server",
-      "link": "https://azure.microsoft.com/updates?id=568631",
-      "date": "2026-07-31T20:48:35.000Z",
-      "snippet": "Route maps for Azure Route Server are now available in\r\npublic preview, providing fine-grained control over inbound and outbound routing\r\nacross hybri...",
       "tags": [
         "Azure"
       ]
