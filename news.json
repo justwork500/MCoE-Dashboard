@@ -1,7 +1,148 @@
 {
-  "lastUpdated": "2026-08-12T09:45:53.739Z",
-  "count": 129,
+  "lastUpdated": "2026-08-12T14:05:10.777Z",
+  "count": 131,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2022-41127 Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central (On Premises) Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41127",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated the build numbers.  This is an informational update only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62696 Windows Program Compatibility Assistant Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62696",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62747 Windows Device Association Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62747",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70348 Windows Management Services Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70348",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68815 Microsoft Excel Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68815",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50687 Windows Win32k Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50687",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-58538 Windows Bluetooth Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58538",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50655 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50655",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-45637 Microsoft DWM Core Library Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45637",
+      "date": "2026-08-12T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "What’s New in Windows 11 KB5121003 August 2026 Patch Tuesday Update",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5121003-august-2026-patch-tuesday-update/",
+      "date": "2026-08-12T10:44:54.000Z",
+      "snippet": "Microsoft has released Windows 11 KB5121003, the August 2026 Patch Tuesday cumulative update for Windows 11 versions 24H2 and 25H2. This...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Provision Windows 365 Newly Introduced 32 vCPU Cloud PC using Intune",
+      "link": "https://www.anoopcnair.com/newly-introduced-32-vcpu-cloud-pc-intune/",
+      "date": "2026-08-12T10:31:31.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Project Management System Using Power Apps ",
+      "link": "https://blog.admindroid.com/project-management-system-using-power-apps/",
+      "date": "2026-08-12T10:29:39.000Z",
+      "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -278,114 +419,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63520 Microsoft SharePoint Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63520",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Improper input validation in Microsoft Office SharePoint allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-40375 Microsoft Dynamics Business Central Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40375",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Missing authorization in Dynamics Business Central allows an authorized attacker to disclose information over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54113 Remote Procedure Call Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54113",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Allocation of resources without limits or throttling in Windows Kernel allows an unauthorized attacker to deny service over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54984 Windows Imaging Component Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54984",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Heap-based buffer overflow in Windows Imaging Component allows an unauthorized attacker to execute code locally.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49179 Windows Active Directory Domain Services Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49179",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Windows Active Directory allows an unauthorized attacker to exe...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-58612 PowerShell Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58612",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Server-side request forgery (ssrf) in Microsoft PowerShell Core allows an unauthorized attacker to disclose information over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-59113 Visual Studio Code Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59113",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Missing authorization in Visual Studio Code allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-47299 Azure Monitor Agent Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47299",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Azure Monitor Agent allows an authorized attacker to elevate pr...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-47285 Visual Studio Code Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47285",
-      "date": "2026-08-11T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Visual Studio Code allows an unauthorized attacker to disclose ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Monitor Device Compliance Trends and Track Compliance Changes Over Time in Microsoft Intune",
@@ -603,17 +636,6 @@
       "link": "https://andrewstaylor.com/2026/08/07/intune-newsletter-7th-august-2026/",
       "date": "2026-08-07T10:59:51.000Z",
       "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Issue with Self-Deploying Autopilot Deployment Profiles on Intune",
-      "link": "https://www.anoopcnair.com/issue-with-self-deploying-autopilot-on-intune/",
-      "date": "2026-08-07T09:31:04.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
