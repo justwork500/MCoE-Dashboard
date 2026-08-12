@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T23:58:11.121Z",
-  "count": 123,
+  "lastUpdated": "2026-08-12T01:59:52.140Z",
+  "count": 124,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -443,39 +443,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What’s New in Microsoft Teams | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
-      "date": "2026-08-10T16:23:16.000Z",
-      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
-      "date": "2026-08-10T16:06:57.000Z",
-      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-08-10T14:38:02.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Automating Bulk Graph API Permission Assignment in Microsoft Entra App Registrations",
@@ -515,6 +482,17 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
       "date": "2026-08-07T19:56:24.000Z",
       "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-07T19:19:23.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
       ]
@@ -921,6 +899,17 @@
       ]
     },
     {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What’s New in Microsoft Teams | July 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
+      "date": "2026-07-31T15:00:00.000Z",
+      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 31st July 2026",
@@ -974,6 +963,17 @@
       "snippet": "If Microsoft Entra Connect Sync is still running solely for device synchronization, you&#039;re maintaining infrastructure you may no longer need. This gui...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1300,6 +1300,17 @@
       "snippet": "I am happy to share that I have been awarded as Microsoft MVP for Intune and Windows 365 for year 2026-2027....",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
+      "date": "2026-07-16T00:15:35.000Z",
+      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
+      "tags": [
+        "Teams"
       ]
     },
     {
