@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T05:46:04.246Z",
-  "count": 128,
+  "lastUpdated": "2026-08-12T07:14:50.988Z",
+  "count": 129,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -132,6 +132,17 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn meetings into momentum with Microsoft 365 Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-meetings-into-momentum-with-microsoft-365-copilot/ba-p/4545675",
+      "date": "2026-08-11T15:59:45.000Z",
+      "snippet": "Most people don&#039;t need more meetings—they need meetings that lead to action. At their best, meetings drive decisions and keep work moving forward. But...",
+      "tags": [
+        "Teams"
       ]
     },
     {
