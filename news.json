@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T09:34:35.140Z",
-  "count": 126,
+  "lastUpdated": "2026-08-13T10:43:39.626Z",
+  "count": 125,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -1410,17 +1410,6 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Passkeys Become the Default as Microsoft Entra Retires SMS and Voice Authentication ",
-      "link": "https://blog.admindroid.com/passkeys-default-sms-voice-authentication-retirement/",
-      "date": "2026-07-14T10:29:38.000Z",
-      "snippet": "Microsoft has officially announced that passkeys will become the default authentication method in Microsoft Entra, replacing Microsoft-provided SMS an...",
-      "tags": [
-        "Azure"
       ]
     }
   ]
