@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-13T18:53:50.685Z",
-  "count": 123,
+  "lastUpdated": "2026-08-13T19:53:15.033Z",
+  "count": 122,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside Intune’s New Sync Status Window",
+      "link": "https://patchmypc.com/blog/inside-intunes-new-sync-status-window/",
+      "date": "2026-08-13T18:05:24.000Z",
+      "snippet": "Microsoft has quietly improved the Windows device sync experience in Intune. Instead of only sending a push request that tells the device to check in ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -33,17 +45,6 @@
       "snippet": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major ve...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-08-13T15:52:59.000Z",
-      "snippet": "Update 8/13/2026: This retirement is now complete, please see Released: August 2026 Exchange Server Security Updates | Microsoft Community Hub. For cu...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1077,6 +1078,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-28T16:04:10.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.0.1.0 Released",
@@ -1280,18 +1292,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Company Portal: Error Loading Apps",
-      "link": "https://patchmypc.com/blog/company-portal-error-loading-apps/",
-      "date": "2026-07-20T14:16:30.000Z",
-      "snippet": "Some time ago, the Company Portal suddenly failed to load its apps. In this blog, I explain what happened behind the scenes, how the IWService path wo...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
@@ -1377,17 +1377,6 @@
       "snippet": "After meeting recap is automatically generated in the translation language chosen during the meeting, users can continue to change the language of the...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Windows 11 KB5101650 &amp; KB5099414 Updates Bring Major Stability Boosts and Smarter Features",
-      "link": "https://www.prajwaldesai.com/windows-11-kb5101650-kb5099414-updates/",
-      "date": "2026-07-14T19:28:40.000Z",
-      "snippet": "On July 14, 2026, Microsoft released cumulative updates KB5101650 for Windows 11 versions 25H2 and 24H2 and KB5099414 for version 23H2....",
-      "tags": [
-        "Intune"
       ]
     }
   ]
