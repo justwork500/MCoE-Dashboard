@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T17:52:57.851Z",
+  "lastUpdated": "2026-08-13T18:53:50.685Z",
   "count": 123,
   "items": [
     {
@@ -33,6 +33,17 @@
       "snippet": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major ve...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-08-13T15:52:59.000Z",
+      "snippet": "Update 8/13/2026: This retirement is now complete, please see Released: August 2026 Exchange Server Security Updates | Microsoft Community Hub. For cu...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -90,18 +101,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913",
       "date": "2026-08-13T14:00:00.000Z",
       "snippet": "Added acknowledgements. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65796 Windows iSCSI Target Service Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65796",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Corrected severity entries in the Affected Products table. This is an informational change only. Customers who have successfully installed the update ...",
       "tags": [
         "Windows",
         "Azure"
@@ -198,6 +197,18 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64906",
       "date": "2026-08-13T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65796 Windows iSCSI Target Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65796",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Updated the CVE title, changed the security impact from Denial of Service to Remote Code Execution, changed the severity from Important to Critical, u...",
       "tags": [
         "Windows",
         "Azure"
@@ -1063,17 +1074,6 @@
       "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-07-28T16:04:10.000Z",
-      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
