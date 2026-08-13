@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-13T05:22:40.116Z",
-  "count": 131,
+  "lastUpdated": "2026-08-13T08:14:41.380Z",
+  "count": 126,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -225,17 +225,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Provision Windows 365 Newly Introduced 32 vCPU Cloud PC using Intune",
-      "link": "https://www.anoopcnair.com/newly-introduced-32-vcpu-cloud-pc-intune/",
-      "date": "2026-08-12T10:31:31.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Project Management System Using Power Apps ",
@@ -332,17 +321,6 @@
       "snippet": "The new Copilot Notebooks design in the Microsoft 365 Copilot app for DoD, GCC, and GCC High clouds now lets users organize related chats, output crea...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "2026 August KB5121003 KB5120240 Windows 11 Patch | 3 Zero Day Vulnerabilities and 400 Flaws",
-      "link": "https://www.anoopcnair.com/2026-august-kb5121003-kb5120240-windows-11/",
-      "date": "2026-08-11T18:18:08.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -463,28 +441,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Monitor Device Compliance Trends and Track Compliance Changes Over Time in Microsoft Intune",
-      "link": "https://www.anoopcnair.com/monitor-device-compliance-trends-intune/",
-      "date": "2026-08-11T13:03:21.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Use Intune to Automatically Lock Windows Devices When Users Leave to Protect Sensitive Data",
-      "link": "https://www.anoopcnair.com/automatically-lock-devices-when-users-leaves/",
-      "date": "2026-08-11T09:36:24.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "MDOP is out of support: Next Steps for Intune, Entra ID, Windows",
@@ -583,17 +539,6 @@
       "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Automating Bulk Graph API Permission Assignment in Microsoft Entra App Registrations",
-      "link": "https://www.anoopcnair.com/bulk-graph-api-permission-assignment-entra/",
-      "date": "2026-08-10T09:36:16.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
