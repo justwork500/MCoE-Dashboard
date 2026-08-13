@@ -1,16 +1,38 @@
 {
-  "lastUpdated": "2026-08-13T16:49:50.624Z",
-  "count": 125,
+  "lastUpdated": "2026-08-13T17:52:57.851Z",
+  "count": 123,
   "items": [
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-08-13T15:52:59.000Z",
-      "snippet": "Update 8/13/2026: This retirement is now complete, please see Released: August 2026 Exchange Server Security Updates | Microsoft Community Hub. For cu...",
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
+      "link": "https://azure.microsoft.com/updates?id=568830",
+      "date": "2026-08-13T16:19:56.000Z",
+      "snippet": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally availab...",
       "tags": [
-        "Exchange"
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks",
+      "link": "https://azure.microsoft.com/updates?id=569281",
+      "date": "2026-08-13T16:17:41.000Z",
+      "snippet": "We’re excited to announce the GA\r\nof Live Resize for shared Premium\r\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\r\nexpand...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Pre-upgrade validation checks for Azure Database for PostgreSQL Flexible Server ",
+      "link": "https://azure.microsoft.com/updates?id=568419",
+      "date": "2026-08-13T16:13:22.000Z",
+      "snippet": "Pre-upgrade validation checks are now generally available for Azure Database for PostgreSQL flexible server, helping you proactively validate major ve...",
+      "tags": [
+        "Azure"
       ]
     },
     {
@@ -100,6 +122,90 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-62897 .NET Framework Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62897",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62902 .NET Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62902",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70354 .NET Core Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70354",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62871 .NET Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62871",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62886 .NET Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62886",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62898 Microsoft QUIC Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62898",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-64906 Microsoft Access Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64906",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-44814 Windows DWM Core Library Information Disclosure  Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44814",
       "date": "2026-08-13T14:00:00.000Z",
@@ -164,90 +270,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45592",
       "date": "2026-08-13T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49162 Microsoft Brokering File System Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49162",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Added acknowledgements. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50309 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50309",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50298 Windows Spaceport.sys Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50298",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50342 Windows MIDI Service Module Elevation of Privileges Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50342",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50461 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50461",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -829,17 +851,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Trusted Launch as Default",
-      "link": "https://azure.microsoft.com/updates?id=568600",
-      "date": "2026-08-03T19:56:26.000Z",
-      "snippet": "Trusted Launch as Default (TLaD) is now generally available for new Azure Gen2 virtual machines and virtual machine scale sets. TLaD automatically ena...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | April 2026",
@@ -848,17 +859,6 @@
       "snippet": "Our team just wrapped up the M365 Community Conference in Orlando, FL, and it was an incredible way to close out April! Our teams were energized by co...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Immutability to the most recent seven days of backups on Azure SQL Database and Azure SQL Managed Instance ",
-      "link": "https://azure.microsoft.com/updates?id=568339",
-      "date": "2026-08-03T17:00:56.000Z",
-      "snippet": "To enhance backup protection, Azure SQL Database and Azure SQL Managed Instance now automatically apply immutability to the most recent seven days of ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -928,17 +928,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Single-click purchase for public SaaS offers",
-      "link": "https://azure.microsoft.com/updates?id=568591",
-      "date": "2026-07-31T22:32:52.000Z",
-      "snippet": "Eligible SaaS products on Microsoft Marketplace now support a simplified purchase experience in Azure portal. Customers can review plan, billing, reso...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1074,6 +1063,17 @@
       "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Upcoming retirement of OWA Light in Exchange Server",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
+      "date": "2026-07-28T16:04:10.000Z",
+      "snippet": "We are announcing our plan to retire and disable the OWA Light experience in Exchange Server in a future update. OWA Light was created for a much earl...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -1388,28 +1388,6 @@
       "snippet": "On July 14, 2026, Microsoft released cumulative updates KB5101650 for Windows 11 versions 25H2 and 24H2 and KB5099414 for version 23H2....",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Addressing Exchange Server May 2026 vulnerability CVE-2026-42897",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498",
-      "date": "2026-07-14T17:29:12.000Z",
-      "snippet": "UPDATE July 14, 2026: Please see our release blog post for July 2026 Security Update, which, once installed, removes our recommendation to keep CVE-20...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: June 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491",
-      "date": "2026-07-14T17:23:34.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     }
   ]
