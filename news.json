@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-13T21:27:40.800Z",
-  "count": 122,
+  "lastUpdated": "2026-08-13T22:10:57.238Z",
+  "count": 123,
   "items": [
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Where is Exchange SE CU1 anyway?",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837",
+      "date": "2026-08-13T21:05:31.000Z",
+      "snippet": "We are getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1). After all, in the past we men...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
