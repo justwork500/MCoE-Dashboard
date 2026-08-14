@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-08-13T22:10:57.238Z",
-  "count": 123,
+  "lastUpdated": "2026-08-13T23:56:40.048Z",
+  "count": 116,
   "items": [
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Where is Exchange SE CU1 anyway?",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837",
-      "date": "2026-08-13T21:05:31.000Z",
-      "snippet": "We are getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1). After all, in the past we men...",
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Calls popout into a new window on the browser to support multi-tasking and collaboration during a meeting!",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569206",
+      "date": "2026-08-13T22:42:07.000Z",
+      "snippet": "Microsoft Teams browser app users will now be able to have their a simplified call window persist on top of other content when they navigate or hide t...",
       "tags": [
-        "Exchange"
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -67,6 +67,102 @@
       "snippet": "Update 8/13/2026: This retirement is now complete, please see Released: August 2026 Exchange Server Security Updates | Microsoft Community Hub. For cu...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-49162 Microsoft Brokering File System Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49162",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Added acknowledgements. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50342 Windows MIDI Service Module Elevation of Privileges Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50342",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50298 Windows Spaceport.sys Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50298",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50309 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50309",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50387 Windows GDI Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50387",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50461 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50461",
+      "date": "2026-08-13T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -214,102 +310,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62897 .NET Framework Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62897",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62902 .NET Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62902",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70354 .NET Core Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70354",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62871 .NET Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62871",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62886 .NET Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62886",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62898 Microsoft QUIC Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62898",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Removed Linux and macOS products from the Affected Software table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-64906 Microsoft Access Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64906",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65796 Windows iSCSI Target Service Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65796",
-      "date": "2026-08-13T14:00:00.000Z",
-      "snippet": "Updated the CVE title, changed the security impact from Denial of Service to Remote Code Execution, changed the severity from Important to Critical, u...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Edge: Vertical Tabs update",
@@ -415,61 +415,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568932",
       "date": "2026-08-11T22:53:53.000Z",
       "snippet": "Starts a workflow with a form to collect the information you need to run the rest of your workflow.GA date: September CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Add Agents and Skills from the Plus menu",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569213",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Users will be able to insert Agents and Skills in prompts for specialized tasks. They can add them from the Agents and Skills tab after selecting &#039;Add...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365):  JPG and PNG references in Copilot Notebooks",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569211",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Copilot Notebooks now supports JPG and PNG files as knowledge sources, allowing users to bring images directly into their projects alongside tradition...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): CSV and TSV references in Copilot Notebooks",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569210",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Copilot Notebooks now supports CSV and TSV files as knowledge sources, allowing users to bring structured lists and tables directly into their project...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: HTML pages",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569208",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "Create HTML with Copilot in SharePoint or upload your own HTML from another source. Once stored in the pages library, you can render HTML as a page in...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneNote: New Copilot Notebooks design in the Microsoft 365 Copilot app (DoD, GCC, GCC High)",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569203",
-      "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "The new Copilot Notebooks design in the Microsoft 365 Copilot app for DoD, GCC, and GCC High clouds now lets users organize related chats, output crea...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -1366,28 +1311,6 @@
       "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Enhanced live captions settings and right-side panel view",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567462",
-      "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "We are improving the live captions experience in Microsoft Teams with new viewing layouts and streamlined configuration options. Users can now view li...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multilingual recap available with translation button",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567458",
-      "date": "2026-07-14T22:41:38.000Z",
-      "snippet": "After meeting recap is automatically generated in the translation language chosen during the meeting, users can continue to change the language of the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     }
   ]
