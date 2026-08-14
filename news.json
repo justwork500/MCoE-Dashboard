@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-14T10:31:39.570Z",
-  "count": 117,
+  "lastUpdated": "2026-08-14T11:27:06.118Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 14th August 2026",
+      "link": "https://andrewstaylor.com/2026/08/14/intune-newsletter-14th-august-2026/",
+      "date": "2026-08-14T10:43:14.000Z",
+      "snippet": "A lot of excitement this week about the solar eclipse, I&amp;#8217;m old enough to remember the one in 1999!  Hopefully you all managed to see it one way ...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
@@ -22,6 +33,17 @@
       "snippet": "Microsoft Teams browser app users will now be able to have their a simplified call window persist on top of other content when they navigate or hide t...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Where is Exchange SE CU1 anyway?",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837",
+      "date": "2026-08-13T21:05:31.000Z",
+      "snippet": "We are getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1). After all, in the past we men...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -1311,17 +1333,6 @@
       "snippet": "Security teams rely on scheduled scans to ensure consistent coverage across devices, detect dormant or missed threats, and meet compliance requirement...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Block High-risk Agents Using Identity Protection ",
-      "link": "https://blog.admindroid.com/block-high-risk-agents-using-identity-protection/",
-      "date": "2026-07-15T10:48:52.000Z",
-      "snippet": "Blocking AI agents entirely across Microsoft 365 isn&#039;t practical for organizations that use them for automation. On the other hand, letting every agen...",
-      "tags": [
-        "Azure"
       ]
     }
   ]
