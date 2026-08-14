@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T21:03:19.050Z",
+  "lastUpdated": "2026-08-14T21:57:58.015Z",
   "count": 116,
   "items": [
     {
@@ -60,6 +60,28 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-14T19:03:47.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
+      "date": "2026-08-14T18:21:08.000Z",
+      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -244,10 +266,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
+      "title": "CVE-2026-69414 Microsoft Defender Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414",
       "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
+      "snippet": "Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender publicly referred to as &quot;ShieldBreak ...",
       "tags": [
         "Windows",
         "Azure"
@@ -617,17 +639,6 @@
       "snippet": "If you are sometimes slow updating your lab modules, like me, you may have noticed that when you ran Connect-MgGraph to do your Intune magic, you didn...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-07T19:56:24.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1267,17 +1278,6 @@
       "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
-      "date": "2026-07-20T18:10:45.000Z",
-      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
