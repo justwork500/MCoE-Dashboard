@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-14T23:15:25.335Z",
-  "count": 116,
+  "lastUpdated": "2026-08-14T23:45:46.494Z",
+  "count": 115,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -317,17 +317,6 @@
       "snippet": "Microsoft Teams browser app users will be able to pop out calls into a simplified call window that stays available while they navigate away from, hide...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Where is Exchange SE CU1 anyway?",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837",
-      "date": "2026-08-13T21:05:31.000Z",
-      "snippet": "We are getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1). After all, in the past we men...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
