@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T12:26:49.593Z",
-  "count": 116,
+  "lastUpdated": "2026-08-15T13:07:30.167Z",
+  "count": 115,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1300,17 +1300,6 @@
       "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Renewed as Microsoft MVP for Intune and Windows 365",
-      "link": "https://www.prajwaldesai.com/prajwal-desai-mvp-intune-windows-365/",
-      "date": "2026-07-16T12:54:56.000Z",
-      "snippet": "I am happy to share that I have been awarded as Microsoft MVP for Intune and Windows 365 for year 2026-2027....",
-      "tags": [
-        "Intune"
       ]
     }
   ]
