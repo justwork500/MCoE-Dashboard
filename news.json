@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T13:42:24.128Z",
-  "count": 115,
+  "lastUpdated": "2026-08-15T13:59:23.958Z",
+  "count": 120,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -331,6 +331,17 @@
       ]
     },
     {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Manage Windows ARM64 Hotpatch with CHPE Binary Loading Policy in Microsoft Intune",
+      "link": "https://www.anoopcnair.com/windows-arm64-hotpatch-with-chpe-intune/",
+      "date": "2026-08-14T10:01:33.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Pop out calls into a new browser window",
@@ -409,6 +420,28 @@
       ]
     },
     {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Fixes 400 Security Vulnerabilities and 3 Zero-Day Vulnerabilities in August 2026 Patch Tuesday",
+      "link": "https://www.anoopcnair.com/fixes-400-security-vulnerabilities-and-3-zero/",
+      "date": "2026-08-13T11:50:23.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Secure Windows Domain Members with Strong Session Key Policy using Intune",
+      "link": "https://www.anoopcnair.com/windows-domain-members-session-key-using-intune/",
+      "date": "2026-08-13T10:30:58.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Edge: Vertical Tabs update",
@@ -475,6 +508,17 @@
       ]
     },
     {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Provision Windows 365 Newly Introduced 32 vCPU Cloud PC using Intune",
+      "link": "https://www.anoopcnair.com/newly-introduced-32-vcpu-cloud-pc-intune/",
+      "date": "2026-08-12T10:31:31.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Project Management System Using Power Apps ",
@@ -483,6 +527,17 @@
       "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "2026 August KB5121003 KB5120240 Windows 11 Patch | 3 Zero Day Vulnerabilities and 400 Flaws",
+      "link": "https://www.anoopcnair.com/2026-august-kb5121003-kb5120240-windows-11/",
+      "date": "2026-08-11T18:18:08.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
       ]
     },
     {
