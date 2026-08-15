@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T03:03:25.015Z",
+  "lastUpdated": "2026-08-15T04:23:12.490Z",
   "count": 116,
   "items": [
     {
@@ -93,6 +93,28 @@
       "snippet": "Microsoft Teams can now detect and warn users on malicious URLs sent in Teams chat and channels in Gov clouds, increasing protection against malware a...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-14T19:03:47.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
+      "date": "2026-08-14T18:21:08.000Z",
+      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -617,17 +639,6 @@
       "snippet": "If you are sometimes slow updating your lab modules, like me, you may have noticed that when you ran Connect-MgGraph to do your Intune magic, you didn...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-07T19:56:24.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1267,17 +1278,6 @@
       "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
-      "date": "2026-07-20T18:10:45.000Z",
-      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
