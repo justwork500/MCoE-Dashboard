@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T15:55:45.317Z",
-  "count": 120,
+  "lastUpdated": "2026-08-15T16:17:32.381Z",
+  "count": 119,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1344,17 +1344,6 @@
       "snippet": "Where did the first half of the year go? This edition of What&#039;s New in Teams comes to you on the heels of InfoComm 2026 in Las Vegas, the largest prof...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "What’s New in Copilot in SharePoint: July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-july-2026/ba-p/4535420",
-      "date": "2026-07-16T16:05:23.000Z",
-      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
