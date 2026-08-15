@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T17:37:13.819Z",
-  "count": 119,
+  "lastUpdated": "2026-08-15T17:56:35.034Z",
+  "count": 116,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -620,17 +620,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the pinned folders in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-pinned-folders-in-start-layout/",
-      "date": "2026-08-10T17:45:00.000Z",
-      "snippet": "This week is all about customizing the pinned folders in the Start layout, and is a follow-up on this post about customizing the power options in Star...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "OneDrive Office Hours | August 2026",
@@ -918,17 +907,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | April 2026",
@@ -1085,17 +1063,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
