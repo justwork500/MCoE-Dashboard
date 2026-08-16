@@ -1,7 +1,54 @@
 {
-  "lastUpdated": "2026-08-16T16:20:45.512Z",
-  "count": 118,
+  "lastUpdated": "2026-08-16T17:14:22.554Z",
+  "count": 119,
   "items": [
+    {
+      "source": "MSEndpointMgr",
+      "icon": "ph-devices",
+      "title": "Creating a Win32 App in Intune with PowerShell and Microsoft Graph: The Ultimate Guide",
+      "link": "https://msendpointmgr.com/2026/08/16/win32-app-intune-powershell-graph/",
+      "date": "2026-08-16T16:44:25.000Z",
+      "snippet": "When you upload an .intunewin file through the Intune portal, and manually fill in a bunch of fields, the portal runs a sequence of Microsoft Graph ca...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65769 Microsoft Teams iOS Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65769",
+      "date": "2026-08-16T14:00:00.000Z",
+      "snippet": "Corrected build number for the security update.  This in an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65767 Microsoft Teams for Android Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65767",
+      "date": "2026-08-16T14:00:00.000Z",
+      "snippet": "Corrected build number for the security update.  This in an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65768 Microsoft Teams Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65768",
+      "date": "2026-08-16T14:00:00.000Z",
+      "snippet": "Corrected build number for the security update.  This in an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -267,42 +314,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337",
       "date": "2026-08-14T14:00:00.000Z",
       "snippet": "The security updates for Powershell have been updated.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "The security updates for Powershell have been updated.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50523 Microsoft PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50523",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "The security updates for Powershell have been updated.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69414 Microsoft Defender Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender publicly referred to as &quot;ShieldBreak ...",
       "tags": [
         "Windows",
         "Azure"
