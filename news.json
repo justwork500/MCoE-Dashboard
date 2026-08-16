@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T23:42:24.358Z",
-  "count": 119,
+  "lastUpdated": "2026-08-15T23:57:19.418Z",
+  "count": 118,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1333,17 +1333,6 @@
       "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What’s New in Microsoft Teams | June 2026 – InfoComm Edition",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968",
-      "date": "2026-07-16T23:55:02.000Z",
-      "snippet": "Where did the first half of the year go? This edition of What&#039;s New in Teams comes to you on the heels of InfoComm 2026 in Las Vegas, the largest prof...",
-      "tags": [
-        "Teams"
       ]
     }
   ]
