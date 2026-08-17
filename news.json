@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T20:55:41.413Z",
+  "lastUpdated": "2026-08-17T21:20:06.872Z",
   "count": 121,
   "items": [
     {
@@ -43,6 +43,30 @@
       "date": "2026-08-17T17:08:40.000Z",
       "snippet": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate be...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
+      "date": "2026-08-17T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56188 Windows Server Network driver Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56188",
+      "date": "2026-08-17T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -135,18 +159,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-63518 Microsoft Office Word Remote Code Execution Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63518",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
       "date": "2026-08-17T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
       "tags": [
@@ -366,18 +378,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62777 Windows License Manager Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62777",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65671 Remote Access API Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65671",
       "date": "2026-08-14T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
       "tags": [
