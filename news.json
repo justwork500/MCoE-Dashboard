@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-17T22:48:06.309Z",
-  "count": 121,
+  "lastUpdated": "2026-08-17T23:16:52.485Z",
+  "count": 123,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Change the organizer of a meeting",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569431",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Private tasks now stored in your private plan",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569426",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Private tasks created in Planner and Planner-powered experiences are stored in the user’s private plan, providing a single place for tasks visible onl...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: eDiscovery- Select user-owned SharePoint embedded container as a data source",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569364",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "eDiscovery users will be able to view and select SharePoint Embedded content containers owned or created by a selected person. These containers store ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Permissions audit log improvements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569363",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Improved capabilities for files with Copilot in OneDrive Web",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569215",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "With improved Copilot file skills in OneDrive, you can go from files to finished work directly from chat. Copilot helps you find the right content, an...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Temporarily pause all notifications",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -262,28 +328,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups in DoD",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569434",
-      "date": "2026-08-14T21:56:10.000Z",
-      "snippet": "App centric management introduces new admin settings to control who in the tenant can install Teams apps. First, admins can set a default value for ne...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups in GCC High",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569433",
-      "date": "2026-08-14T21:56:10.000Z",
-      "snippet": "App centric management introduces new admin settings to control who in the tenant can install Teams apps. First, admins can set a default value for ne...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Malicious URL Protection for Teams Chat and Channels for Gov clouds",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569421",
       "date": "2026-08-14T21:56:10.000Z",
@@ -419,17 +463,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Pop out calls into a new browser window",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569206",
-      "date": "2026-08-13T22:42:07.000Z",
-      "snippet": "Microsoft Teams browser app users will be able to pop out calls into a simplified call window that stays available while they navigate away from, hide...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Where is Exchange SE CU1 anyway?",
@@ -516,17 +549,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Vertical Tabs update",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569217",
-      "date": "2026-08-12T22:47:48.000Z",
-      "snippet": "Microsoft Edge is updating its vertical tab implementation and architecture. Edge is reimplementing capabilities across pane, layout, controls, tab be...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
