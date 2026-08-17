@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T13:59:45.969Z",
+  "lastUpdated": "2026-08-17T14:33:36.676Z",
   "count": 120,
   "items": [
     {
@@ -30,7 +30,7 @@
       "title": "Creating a Win32 App in Intune with PowerShell and Microsoft Graph: The Ultimate Guide",
       "link": "https://msendpointmgr.com/2026/08/16/win32-app-intune-powershell-graph/",
       "date": "2026-08-16T16:44:25.000Z",
-      "snippet": "When you upload an .intunewin file through the Intune portal, and manually fill in a bunch of fields, the portal runs a sequence of Microsoft Graph ca...",
+      "snippet": "If you’re starting to, or already, dabble with Intune automation, one of the first questions you eventually hit is&amp;#8230;how do I create a Win32 app w...",
       "tags": [
         "Intune"
       ]
