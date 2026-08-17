@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-17T19:58:32.911Z",
+  "lastUpdated": "2026-08-17T20:29:33.768Z",
   "count": 121,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose",
+      "link": "https://azure.microsoft.com/updates?id=568344",
+      "date": "2026-08-17T19:54:52.000Z",
+      "snippet": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace ",
+      "link": "https://azure.microsoft.com/updates?id=557775",
+      "date": "2026-08-17T19:37:49.000Z",
+      "snippet": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
@@ -902,28 +924,6 @@
       "link": "https://azure.microsoft.com/updates?id=568661",
       "date": "2026-08-05T00:22:49.000Z",
       "snippet": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Perimeter link feature in network security perimeter ",
-      "link": "https://azure.microsoft.com/updates?id=568837",
-      "date": "2026-08-04T18:30:09.000Z",
-      "snippet": "Perimeter link (cross-perimeter\r\nconnectivity) is a network security perimeter capability that allows trusted\r\nresources in two different network secu...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Private Link support over IPv6 ",
-      "link": "https://azure.microsoft.com/updates?id=568842",
-      "date": "2026-08-04T18:29:36.000Z",
-      "snippet": "Azure Private Link over IPv6\r\nenables you to privately access Azure PaaS services, such as Azure Storage and\r\nAzure SQL Database, over IPv6-based conn...",
       "tags": [
         "Azure"
       ]
