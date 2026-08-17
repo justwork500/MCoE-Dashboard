@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-17T14:33:36.676Z",
+  "lastUpdated": "2026-08-17T15:58:17.534Z",
   "count": 120,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62722 Microsoft Brokering File System Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62722",
+      "date": "2026-08-17T14:00:00.000Z",
+      "snippet": "Corrected the CVE description and title. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -324,18 +336,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59126",
       "date": "2026-08-14T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-58612 PowerShell Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58612",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "The security updates for Powershell have been updated.",
       "tags": [
         "Windows",
         "Azure"
