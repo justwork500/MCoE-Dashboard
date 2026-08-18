@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T21:45:49.481Z",
+  "lastUpdated": "2026-08-18T22:15:57.793Z",
   "count": 124,
   "items": [
     {
@@ -50,6 +50,42 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-66804 Microsoft Windows Cross Device Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66804",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-47632 Azure Connected Machine Agent Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47632",
       "date": "2026-08-18T14:00:00.000Z",
@@ -78,30 +114,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56642",
       "date": "2026-08-18T14:00:00.000Z",
       "snippet": "Updated the Security Updates table by removing an affected software entry. No user action is required. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -468,18 +480,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65767",
       "date": "2026-08-16T14:00:00.000Z",
       "snippet": "Corrected build number for the security update.  This in an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-59124 Microsoft High Performance Computing (HPC) Pack Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59124",
-      "date": "2026-08-16T14:00:00.000Z",
-      "snippet": "Corrected the listed software in the Security Updates table.  Microsoft recommends installing the security update as soon as possible.",
       "tags": [
         "Windows",
         "Azure"
