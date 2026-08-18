@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-18T02:35:59.149Z",
-  "count": 123,
+  "lastUpdated": "2026-08-18T05:22:29.398Z",
+  "count": 118,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -244,17 +244,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Windows Toast Notifications for Visual Studio Administrator Updates using Intune",
-      "link": "https://www.anoopcnair.com/windows-toast-notification-visual-studio-intune/",
-      "date": "2026-08-17T10:05:56.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Creating a Win32 App in Intune with PowerShell and Microsoft Graph: The Ultimate Guide",
@@ -452,17 +441,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Manage Windows ARM64 Hotpatch with CHPE Binary Loading Policy in Microsoft Intune",
-      "link": "https://www.anoopcnair.com/windows-arm64-hotpatch-with-chpe-intune/",
-      "date": "2026-08-14T10:01:33.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Where is Exchange SE CU1 anyway?",
@@ -530,28 +508,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Fixes 400 Security Vulnerabilities and 3 Zero-Day Vulnerabilities in August 2026 Patch Tuesday",
-      "link": "https://www.anoopcnair.com/fixes-400-security-vulnerabilities-and-3-zero/",
-      "date": "2026-08-13T11:50:23.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Secure Windows Domain Members with Strong Session Key Policy using Intune",
-      "link": "https://www.anoopcnair.com/windows-domain-members-session-key-using-intune/",
-      "date": "2026-08-13T10:30:58.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications",
@@ -602,17 +558,6 @@
       "link": "https://www.prajwaldesai.com/windows-11-kb5121003-august-2026-patch-tuesday-update/",
       "date": "2026-08-12T10:44:54.000Z",
       "snippet": "Microsoft has released Windows 11 KB5121003, the August 2026 Patch Tuesday cumulative update for Windows 11 versions 24H2 and 25H2. This...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Provision Windows 365 Newly Introduced 32 vCPU Cloud PC using Intune",
-      "link": "https://www.anoopcnair.com/newly-introduced-32-vcpu-cloud-pc-intune/",
-      "date": "2026-08-12T10:31:31.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
