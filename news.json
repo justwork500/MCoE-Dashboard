@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-18T16:23:53.088Z",
+  "lastUpdated": "2026-08-18T17:24:19.126Z",
   "count": 124,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -17,10 +41,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "title": "CVE-2026-50419 Windows Kernel Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50419",
       "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
+      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -444,30 +468,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72970",
       "date": "2026-08-14T14:00:00.000Z",
       "snippet": "Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-61347 Windows Event Logging Service Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61347",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62746 Win32k Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62746",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
