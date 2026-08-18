@@ -1,7 +1,41 @@
 {
-  "lastUpdated": "2026-08-18T17:52:34.806Z",
-  "count": 124,
+  "lastUpdated": "2026-08-18T18:27:42.296Z",
+  "count": 119,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.0.10.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-10-0-released/",
+      "date": "2026-08-18T18:13:04.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Managed Instance on Azure App Service",
+      "link": "https://azure.microsoft.com/updates?id=568952",
+      "date": "2026-08-18T17:26:25.000Z",
+      "snippet": "Managed Instance on Azure App Service is now generally available. Managed Instance helps organizations migrate web applications to Azure App Service w...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Ipv6 support in Azure Firewall",
+      "link": "https://azure.microsoft.com/updates?id=569520",
+      "date": "2026-08-18T17:25:30.000Z",
+      "snippet": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both I...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -158,6 +192,17 @@
       "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-17T20:57:29.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -431,17 +476,6 @@
     {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-14T19:03:47.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
       "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
       "date": "2026-08-14T18:21:08.000Z",
@@ -696,18 +730,6 @@
       ]
     },
     {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Fix Windows Backup for Organization error 53000 and 53003 during Autopilot",
-      "link": "https://www.systemcenterdudes.com/fix-windows-backup-for-organization-error-53000-and-53003-during-autopilot/",
-      "date": "2026-08-10T19:37:42.000Z",
-      "snippet": "If you have deployed Windows 11 and enabled Windows Backup for Organization, you may have noticed that the restore step during autopilot shows an erro...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
@@ -917,17 +939,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Explicit proxy in Azure Firewall ",
-      "link": "https://azure.microsoft.com/updates?id=568825",
-      "date": "2026-08-05T14:54:08.000Z",
-      "snippet": "Azure Firewall explicit proxy is now\r\ngenerally available. Explicit proxy enables customers to configure applications\r\nand browsers to send HTTP and H...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Generate SUP Sync Failure Alerts in your Hierarchy",
@@ -948,17 +959,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",
-      "link": "https://azure.microsoft.com/updates?id=568661",
-      "date": "2026-08-05T00:22:49.000Z",
-      "snippet": "On September 1, 2026,\r\nthe cc_v5 confidential VM series will be retired and will no longer be\r\navailable for use or purchase. Any affected VM that has...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1075,18 +1075,6 @@
       ]
     },
     {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Remove the OneDrive Photos App using Intune",
-      "link": "https://www.systemcenterdudes.com/remove-intune-onedrive-photo-app/",
-      "date": "2026-07-31T18:28:29.000Z",
-      "snippet": "If you manage Windows 11 devices with Intune, you may have recently noticed a new app appearing called OneDrive Photos. It looks like Microsoft has si...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 31st July 2026",
@@ -1095,18 +1083,6 @@
       "snippet": "How time flies, can you believe it&amp;#8217;s the end of July already!  I had a lovely few days at the beginning of the week at Loch Lomond to fully rech...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Intune Tips and Tricks – 2026 Edition",
-      "link": "https://www.systemcenterdudes.com/intune-tips-and-tricks-2026-edition/",
-      "date": "2026-07-30T17:57:46.000Z",
-      "snippet": "Microsoft Intune has come a long way over the past few years. Today, it can manage nearly every aspect of Windows, macOS, iOS, Android, and Microsoft ...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1310,36 +1286,12 @@
       ]
     },
     {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "SCCM error code 0x80244007 – Windows Servers 2019/2022/2025 not scanning updates from",
-      "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
-      "date": "2026-07-23T14:46:07.000Z",
-      "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
       "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
       "date": "2026-07-22T20:04:12.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Nobody Talks About Intune Applications Migration",
-      "link": "https://www.systemcenterdudes.com/nobody-talks-about-intune-applications-migration/",
-      "date": "2026-07-22T19:23:43.000Z",
-      "snippet": "If you’ve been planning a move from Configuration Manager (SCCM) to Microsoft Intune, you’ve probably spent a lot of time thinking about devices. How ...",
       "tags": [
         "Intune",
         "Windows"
@@ -1376,18 +1328,6 @@
       "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "How to Evaluate Third-Party Patching Solutions Beyond Price ",
-      "link": "https://patchmypc.com/blog/evaluate-third-party-patching-solutions-beyond-price/",
-      "date": "2026-07-21T17:20:32.000Z",
-      "snippet": "Comparing third-party patching solutions based solely on licensing cost can lead to expensive mistakes. This article explores the key questions IT tea...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
