@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T18:27:42.296Z",
+  "lastUpdated": "2026-08-18T19:07:11.133Z",
   "count": 119,
   "items": [
     {
@@ -192,17 +192,6 @@
       "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-17T20:57:29.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -471,6 +460,17 @@
       "snippet": "Microsoft Teams can now detect and warn users on malicious URLs sent in Teams chat and channels in Gov clouds, increasing protection against malware a...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-14T19:03:47.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
