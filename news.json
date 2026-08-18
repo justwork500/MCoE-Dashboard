@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-08-18T11:49:18.975Z",
-  "count": 123,
+  "lastUpdated": "2026-08-18T13:28:34.626Z",
+  "count": 124,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Multi-Tenant Agent Management in Microsoft 365 Admin Center",
+      "link": "https://blog.admindroid.com/multi-tenant-agent-management-in-microsoft-365-admin-center/",
+      "date": "2026-08-18T13:11:31.000Z",
+      "snippet": "Multi-tenant agent management in the Microsoft 365 admin center enables enterprise admins and partners to centrally view and manage agents across conn...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -99,6 +122,17 @@
       "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-17T20:57:29.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -372,17 +406,6 @@
     {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-14T19:03:47.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
       "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
       "date": "2026-08-14T18:21:08.000Z",
@@ -443,18 +466,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62755 Windows DHCP Client Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62755",
-      "date": "2026-08-14T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62777 Windows License Manager Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62777",
       "date": "2026-08-14T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
       "tags": [
