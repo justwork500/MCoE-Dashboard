@@ -1,31 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T17:24:19.126Z",
+  "lastUpdated": "2026-08-18T17:52:34.806Z",
   "count": 124,
   "items": [
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -43,6 +19,30 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50419 Windows Kernel Information Disclosure Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50419",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791",
       "date": "2026-08-18T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
       "tags": [
