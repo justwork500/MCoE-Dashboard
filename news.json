@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T17:48:34.724Z",
-  "count": 125,
+  "lastUpdated": "2026-08-19T19:01:30.527Z",
+  "count": 123,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: vCore Customization: Disable Multithreading and Configurable Constrained Cores  ",
+      "link": "https://azure.microsoft.com/updates?id=569051",
+      "date": "2026-08-19T17:20:42.000Z",
+      "snippet": "Today, we are announcing the General Availability of VM vCore Customization for Azure Virtual Machines, introducing two new capabilities: Disable Simu...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -249,6 +260,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T22:01:39.000Z",
+      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
@@ -449,17 +471,6 @@
       "snippet": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Collecting Windows registry data",
-      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
-      "date": "2026-08-17T17:45:00.000Z",
-      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -774,17 +785,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the pinned folders in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-pinned-folders-in-start-layout/",
-      "date": "2026-08-10T17:45:00.000Z",
-      "snippet": "This week is all about customizing the pinned folders in the Start layout, and is a follow-up on this post about customizing the power options in Star...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "OneDrive Office Hours | August 2026",
@@ -826,6 +826,18 @@
       "snippet": "Microsoft is retiring Teams live chat by October 5, 2026. New setups are no longer available as of August 2026. Existing integrations will stop relayi...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Assessment: What We Check and Why It Matters",
+      "link": "https://www.systemcenterdudes.com/intune-assessment-what-we-check-and-why-it-matters/",
+      "date": "2026-08-09T17:48:32.000Z",
+      "snippet": "Microsoft Intune has changed a lot over the last few years. For many organizations, it started as a tool to manage mobile devices or deploy a few conf...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -901,17 +913,6 @@
       "link": "https://azure.microsoft.com/updates?id=568964",
       "date": "2026-08-06T19:41:52.000Z",
       "snippet": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Migrate from AWS FSx for Windows File Server to Azure Files with Azure Storage Mover",
-      "link": "https://azure.microsoft.com/updates?id=567979",
-      "date": "2026-08-06T16:40:19.000Z",
-      "snippet": "Azure Storage Mover now supports agentless, cloud-to-cloud migration from AWS FSx for Windows File Server (SMB) to Azure Files (SMB), in preview. You ...",
       "tags": [
         "Azure"
       ]
@@ -1003,17 +1004,6 @@
       "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -1173,17 +1163,6 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
-      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
-      "date": "2026-07-30T08:26:11.000Z",
-      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
-      "tags": [
-        "Defender"
       ]
     },
     {
