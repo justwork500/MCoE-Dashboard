@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T13:29:46.237Z",
-  "count": 126,
+  "lastUpdated": "2026-08-19T14:07:33.294Z",
+  "count": 127,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -100,6 +100,17 @@
       "snippet": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both I...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T16:19:49.000Z",
+      "snippet": "Delivery Optimization is built into Windows and can help reduce bandwidth usage during app and update deployments. Instead of downloading content from...",
+      "tags": [
+        "Intune"
       ]
     },
     {
