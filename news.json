@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T19:36:48.763Z",
-  "count": 127,
+  "lastUpdated": "2026-08-19T20:27:20.594Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-the-new-100-gb-mailbox-entitlement-for-microsoft/ba-p/4548243",
+      "date": "2026-08-19T20:25:03.000Z",
+      "snippet": "Microsoft 365 Business Basic, Business Standard, and Business Premium now include an additional 50 GB of primary email storage for eligible users. Thi...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -260,6 +271,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T22:01:39.000Z",
+      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
@@ -302,17 +324,6 @@
       "snippet": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both I...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
-      "date": "2026-08-18T16:19:49.000Z",
-      "snippet": "Delivery Optimization is built into Windows and can help reduce bandwidth usage during app and update deployments. Instead of downloading content from...",
-      "tags": [
-        "Intune"
       ]
     },
     {
