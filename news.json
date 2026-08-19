@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T23:59:27.899Z",
+  "lastUpdated": "2026-08-19T03:30:25.517Z",
   "count": 126,
   "items": [
     {
@@ -89,6 +89,17 @@
       "snippet": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both I...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-18T14:42:05.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -805,17 +816,6 @@
       "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-08-10T14:38:02.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
