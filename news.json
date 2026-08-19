@@ -1,7 +1,115 @@
 {
-  "lastUpdated": "2026-08-19T15:24:25.688Z",
-  "count": 125,
+  "lastUpdated": "2026-08-19T16:55:04.570Z",
+  "count": 126,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2020-1173 Microsoft Power BI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-1173",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2021-26859 Microsoft Power BI Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26859",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2021-41372 Power BI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-41372",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2023-21806 Power BI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21806",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2024-43612 Power BI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43612",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2024-43481 Power BI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43481",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-58647 Microsoft PowerBI Report Server Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58647",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -41,22 +149,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383",
+      "title": "CVE-2026-65811 Power BI Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65811",
       "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
       "tags": [
         "Windows",
         "Azure"
@@ -127,6 +223,17 @@
       "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T22:01:39.000Z",
+      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -240,18 +347,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50419",
       "date": "2026-08-18T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-56642 Microsoft Fabric Data Warehouse Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56642",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Updated the Security Updates table by removing an affected software entry. No user action is required. This is an informational change only.",
       "tags": [
         "Windows",
         "Azure"
@@ -375,90 +470,6 @@
       "date": "2026-08-17T17:08:40.000Z",
       "snippet": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate be...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-56188 Windows Server Network driver Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56188",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62722 Microsoft Brokering File System Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62722",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Corrected the CVE description and title. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66807 Microsoft Office Graphics Component Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66807",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63519 Microsoft Office Graphics Component Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63519",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-63513 Microsoft Office Graphics Component Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63513",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70337 Microsoft PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337",
-      "date": "2026-08-17T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
