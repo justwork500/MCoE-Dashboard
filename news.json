@@ -1,7 +1,78 @@
 {
-  "lastUpdated": "2026-08-19T16:55:04.570Z",
-  "count": 126,
+  "lastUpdated": "2026-08-19T17:48:34.724Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: BYON (Bring Your Own NIC) in Azure Site Recovery",
+      "link": "https://azure.microsoft.com/updates?id=569515",
+      "date": "2026-08-19T16:36:30.000Z",
+      "snippet": "Azure Site Recovery now lets you use and attach an existing, pre-provisioned Network Interface Card (NIC) in the target region for test-failover and f...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338",
+      "date": "2026-08-18T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62705 Microsoft Brokering File System Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62705",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the CVE title from **Windows Bind Filter Driver Elevation of Privilege Vulnerability** to **Microsoft Brokering File System Elevation of Pri...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69414 Microsoft Defender Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "CWE added. Informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65811 Power BI Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65811",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65675 CoPilot Chat Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65675",
+      "date": "2026-08-19T14:00:00.000Z",
+      "snippet": "CWE added. Informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -113,54 +184,6 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62705 Microsoft Brokering File System Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62705",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Corrected the CVE title from **Windows Bind Filter Driver Elevation of Privilege Vulnerability** to **Microsoft Brokering File System Elevation of Pri...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69414 Microsoft Defender Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "CWE added. Informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65811 Power BI Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65811",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "CVE-2026-42912 Windows Telephony Service Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42912",
       "date": "2026-08-19T14:00:00.000Z",
@@ -223,17 +246,6 @@
       "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
-      "date": "2026-08-18T22:01:39.000Z",
-      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -335,18 +347,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47632",
       "date": "2026-08-18T14:00:00.000Z",
       "snippet": "Corrected the affected product from **Azure Monitor Agent Metrics Extension** to **Azure Connected Machine Agent** and updated the Security Updates ta...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50419 Windows Kernel Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50419",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -934,17 +934,6 @@
       "link": "https://blog.admindroid.com/retirement-of-microsoft-entra-id-memberof-rule-operator/",
       "date": "2026-08-06T11:44:09.000Z",
       "snippet": "Microsoft is ending the preview of the memberOf rule operator on November 3, 2026. After this change, dynamic groups, dynamic administrative units, an...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: SharePoint Connector for Azure Databricks",
-      "link": "https://azure.microsoft.com/updates?id=568905",
-      "date": "2026-08-05T22:34:02.000Z",
-      "snippet": "The SharePoint connector for Azure Databricks is now generally\r\navailable. Organizations can use Lakeflow Connect to ingest files from\r\nSharePoint int...",
       "tags": [
         "Azure"
       ]
