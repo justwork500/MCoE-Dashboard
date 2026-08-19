@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-19T21:19:10.175Z",
+  "lastUpdated": "2026-08-19T22:17:56.412Z",
   "count": 128,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
+      "link": "https://azure.microsoft.com/updates?id=569684",
+      "date": "2026-08-19T21:04:18.000Z",
+      "snippet": "Lakebase is now generally available in four additional Azure regions: North Central US, France Central, Germany West Central, and East Asia. This expa...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure SQL updates for mid-August 2026 ",
+      "link": "https://azure.microsoft.com/updates?id=569145",
+      "date": "2026-08-19T21:01:47.000Z",
+      "snippet": "In mid-August 2026, the following updates and enhancements were made to Azure SQL: You can customize keyboard shortcuts for Quick Queries, the Results...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: SQL Formatter in MSSQL extension ",
+      "link": "https://azure.microsoft.com/updates?id=569155",
+      "date": "2026-08-19T21:00:19.000Z",
+      "snippet": "With SQL Formatter, you can format SQL scripts directly in your editor for cleaner, more consistent, and readable code. Now in public preview, it incl...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure SQL Database provisioning in MSSQL extension ",
+      "link": "https://azure.microsoft.com/updates?id=569160",
+      "date": "2026-08-19T20:59:19.000Z",
+      "snippet": "With Azure SQL Database provisioning, you can create and connect to a fully managed cloud database directly from your editor—at no cost. Now generally...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
@@ -728,17 +772,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: 2.2X IDPS performance optimization in Azure Firewall",
-      "link": "https://azure.microsoft.com/updates?id=569256",
-      "date": "2026-08-11T17:26:51.000Z",
-      "snippet": "Azure Firewall Premium now delivers up to 22 Gbps\r\nthroughput with TLS inspection and IDPS in Deny mode, a 120% increase from 10\r\nGbps, and up to 600 ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Released: August 2026 Exchange Server Security Updates",
@@ -793,17 +826,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
-      "link": "https://azure.microsoft.com/updates?id=569140",
-      "date": "2026-08-10T17:50:54.000Z",
-      "snippet": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -907,17 +929,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure ExpressRoute resiliency guard",
-      "link": "https://azure.microsoft.com/updates?id=568666",
-      "date": "2026-08-07T15:52:31.000Z",
-      "snippet": "Azure ExpressRoute resiliency guard is now available in public preview for ExpressRoute virtual\r\nnetwork gateways. The new resiliency model property l...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Access Microsoft Entra Group Insights with Group Analytics API",
@@ -937,17 +948,6 @@
       "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing:  Azure Databricks Genie One and Genie Agents Free Usage extended through January 31, 2027 ",
-      "link": "https://azure.microsoft.com/updates?id=568964",
-      "date": "2026-08-06T19:41:52.000Z",
-      "snippet": "Free usage of Genie One and Genie Agents in Azure Databricks is now extended through January 31, 2027, from the previous end date of July 31, 2026. Bu...",
-      "tags": [
-        "Azure"
       ]
     },
     {
