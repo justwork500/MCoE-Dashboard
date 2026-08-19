@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-18T23:16:15.846Z",
-  "count": 124,
+  "lastUpdated": "2026-08-18T23:59:27.899Z",
+  "count": 126,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569425",
+      "date": "2026-08-18T23:05:00.000Z",
+      "snippet": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Cop...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Federated Copilot Connectors in Microsoft 365 Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569212",
+      "date": "2026-08-18T23:05:00.000Z",
+      "snippet": "Federated Copilot connectors enable users to securely connect Microsoft Copilot to their favorite third party sources, retrieving data in real-time us...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Report a Security Concern in Meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569207",
+      "date": "2026-08-18T23:05:00.000Z",
+      "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T22:01:39.000Z",
+      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -178,65 +222,21 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Outlook: Change the organizer of a meeting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569431",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Private tasks now stored in your private plan",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569426",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Private tasks created in Planner and Planner-powered experiences are stored in the user’s private plan, providing a single place for tasks visible onl...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: eDiscovery- Select user-owned SharePoint embedded container as a data source",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569364",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "eDiscovery users will be able to view and select SharePoint Embedded content containers owned or created by a selected person. These containers store ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Permissions audit log improvements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569363",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Improved capabilities for files with Copilot in OneDrive Web",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569215",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "With improved Copilot file skills in OneDrive, you can go from files to finished work directly from chat. Copilot helps you find the right content, an...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Temporarily pause all notifications",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
       "date": "2026-08-17T22:52:47.000Z",
       "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Change the organizer of a meeting",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569431",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -993,6 +993,28 @@
       "snippet": "Microsoft Purview now supports time-limited role group assignments for both new and existing members. Admins can set an expiration date from 1 day to ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Updated header and dashboard for chats and channels on mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567461",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567320",
+      "date": "2026-08-03T22:55:03.000Z",
+      "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
