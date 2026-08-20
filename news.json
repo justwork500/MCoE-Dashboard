@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T07:04:11.603Z",
-  "count": 125,
+  "lastUpdated": "2026-08-20T07:55:01.652Z",
+  "count": 124,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -66,17 +66,6 @@
       "snippet": "With Azure SQL Database provisioning, you can create and connect to a fully managed cloud database directly from your editor—at no cost. Now generally...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-the-new-100-gb-mailbox-entitlement-for-microsoft/ba-p/4548243",
-      "date": "2026-08-19T20:25:03.000Z",
-      "snippet": "Microsoft 365 Business Basic, Business Standard, and Business Premium now include an additional 50 GB of primary email storage for eligible users. Thi...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
