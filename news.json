@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T20:56:12.633Z",
-  "count": 120,
+  "lastUpdated": "2026-08-20T21:22:58.311Z",
+  "count": 125,
   "items": [
     {
       "source": "Azure Updates",
@@ -33,17 +33,6 @@
       "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Notes from the field: testing EWSAllowedAppIDs safely",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568",
-      "date": "2026-08-20T14:21:26.000Z",
-      "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -838,6 +827,18 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Fix Windows Backup for Organization error 53000 and 53003 during Autopilot",
+      "link": "https://www.systemcenterdudes.com/fix-windows-backup-for-organization-error-53000-and-53003-during-autopilot/",
+      "date": "2026-08-10T19:37:42.000Z",
+      "snippet": "If you have deployed Windows 11 and enabled Windows Backup for Organization, you may have noticed that the restore step during autopilot shows an erro...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Customizing the pinned folders in Start layout",
@@ -890,6 +891,18 @@
       "snippet": "Microsoft is retiring Teams live chat by October 5, 2026. New setups are no longer available as of August 2026. Existing integrations will stop relayi...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Assessment: What We Check and Why It Matters",
+      "link": "https://www.systemcenterdudes.com/intune-assessment-what-we-check-and-why-it-matters/",
+      "date": "2026-08-09T17:48:32.000Z",
+      "snippet": "Microsoft Intune has changed a lot over the last few years. For many organizations, it started as a tool to manage mobile devices or deploy a few conf...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1106,6 +1119,18 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Remove the OneDrive Photos App using Intune",
+      "link": "https://www.systemcenterdudes.com/remove-intune-onedrive-photo-app/",
+      "date": "2026-07-31T18:28:29.000Z",
+      "snippet": "If you manage Windows 11 devices with Intune, you may have recently noticed a new app appearing called OneDrive Photos. It looks like Microsoft has si...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 31st July 2026",
@@ -1114,6 +1139,18 @@
       "snippet": "How time flies, can you believe it&amp;#8217;s the end of July already!  I had a lovely few days at the beginning of the week at Loch Lomond to fully rech...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Tips and Tricks – 2026 Edition",
+      "link": "https://www.systemcenterdudes.com/intune-tips-and-tricks-2026-edition/",
+      "date": "2026-07-30T17:57:46.000Z",
+      "snippet": "Microsoft Intune has come a long way over the past few years. Today, it can manage nearly every aspect of Windows, macOS, iOS, Android, and Microsoft ...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1317,12 +1354,36 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "SCCM error code 0x80244007 – Windows Servers 2019/2022/2025 not scanning updates from",
+      "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
+      "date": "2026-07-23T14:46:07.000Z",
+      "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
       "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
       "date": "2026-07-22T20:04:12.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Nobody Talks About Intune Applications Migration",
+      "link": "https://www.systemcenterdudes.com/nobody-talks-about-intune-applications-migration/",
+      "date": "2026-07-22T19:23:43.000Z",
+      "snippet": "If you’ve been planning a move from Configuration Manager (SCCM) to Microsoft Intune, you’ve probably spent a lot of time thinking about devices. How ...",
       "tags": [
         "Intune",
         "Windows"
