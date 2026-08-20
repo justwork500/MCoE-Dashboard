@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T15:47:54.696Z",
-  "count": 128,
+  "lastUpdated": "2026-08-20T17:00:55.661Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Azure Copilot introduces direct access to agents",
+      "link": "https://azure.microsoft.com/updates?id=569685",
+      "date": "2026-08-20T16:08:02.000Z",
+      "snippet": "Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -14,14 +25,27 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Notes from the field: testing EWSAllowedAppIDs safely",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568",
-      "date": "2026-08-20T14:21:26.000Z",
-      "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-54118 Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54118",
+      "date": "2026-08-20T14:00:00.000Z",
+      "snippet": "The CVSS vector string was update to reflect that an attacker does not require any privileges to successfully exploit this vulnerability (PR:N).  This...",
       "tags": [
-        "Exchange"
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-54117 Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54117",
+      "date": "2026-08-20T14:00:00.000Z",
+      "snippet": "The CVSS vector string was update to reflect that an attacker does not require any privileges to successfully exploit this vulnerability (PR:N).  This...",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -349,30 +373,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-58647 Microsoft PowerBI Report Server Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58647",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. Thi...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-42912 Windows Telephony Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42912",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Graph’s Move Toward More Granular API Permissions ",
@@ -492,18 +492,6 @@
       "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
-      "date": "2026-08-18T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Microsoft Copilot allows an unauthorized attacker to disclose i...",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -767,17 +755,6 @@
       "link": "https://azure.microsoft.com/updates?id=569251",
       "date": "2026-08-12T17:01:19.000Z",
       "snippet": "Mutual TLS, also known as client\r\ncertificate authentication, enables Azure Front Door to authenticate clients\r\nusing X.509 certificates before reques...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Markdown for Agents in Azure App Service",
-      "link": "https://azure.microsoft.com/updates?id=568979",
-      "date": "2026-08-12T16:38:31.000Z",
-      "snippet": "Today, we are announcing the public preview of Markdown for Agents in Azure App Service. This feature gives AI agents and other tools a cleaner way to...",
       "tags": [
         "Azure"
       ]
@@ -1432,17 +1409,6 @@
       "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Beyond Benchmarks: The Lifecycle of Measuring Agentic Quality in AI Content Management",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/beyond-benchmarks-the-lifecycle-of-measuring-agentic-quality-in/ba-p/4538319",
-      "date": "2026-07-21T15:56:41.000Z",
-      "snippet": "By Sujay Kumar Jauhar, Spriha Chandrayan, Natasha Gaitonde, Zhen Lei, Reed Pankhurst, Anush Sankaran, Amrit Shandilya, Ryen W. White\r\nOrganizations pu...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
