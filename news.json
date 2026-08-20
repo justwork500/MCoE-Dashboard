@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-19T23:45:07.244Z",
-  "count": 127,
+  "lastUpdated": "2026-08-20T00:00:41.601Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Improvements to agent evaluations experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569607",
+      "date": "2026-08-19T22:58:06.000Z",
+      "snippet": "Microsoft Copilot Studio is enhancing the Evaluations experience to help makers better understand agent quality and behavior. New capabilities include...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Code Blocks in M365 Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569429",
+      "date": "2026-08-19T22:58:06.000Z",
+      "snippet": "M365 Copilot now supports code blocks, which lets you preview code, charts, diagrams, and more directly inline while using Chat. Previously, users cou...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -284,6 +306,17 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Report a Security Concern in Meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569207",
+      "date": "2026-08-18T23:05:00.000Z",
+      "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
       "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts ",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569425",
       "date": "2026-08-18T23:05:00.000Z",
@@ -299,17 +332,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569212",
       "date": "2026-08-18T23:05:00.000Z",
       "snippet": "Federated Copilot connectors enable users to securely connect Microsoft Copilot to their favorite third party sources, retrieving data in real-time us...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Report a Security Concern in Meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569207",
-      "date": "2026-08-18T23:05:00.000Z",
-      "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -331,7 +353,7 @@
       "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
       "link": "https://azure.microsoft.com/updates?id=569535",
       "date": "2026-08-18T19:52:06.000Z",
-      "snippet": "In November last year Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portabl...",
+      "snippet": "In November last year, Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portab...",
       "tags": [
         "Azure"
       ]
@@ -474,28 +496,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Temporarily pause all notifications",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Users are now able to temporarily pause all notifications.GA date: September CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Change the organizer of a meeting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569431",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Transfer ownership of a meeting or recurring meeting series to another person in your organization. The new organizer must accept the transfer before ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
@@ -581,17 +581,6 @@
       "snippet": "If you’re starting to, or already, dabble with Intune automation, one of the first questions you eventually hit is&amp;#8230;how do I create a Win32 app w...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Malicious URL Protection for Teams Chat and Channels for Gov clouds",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569421",
-      "date": "2026-08-14T21:56:10.000Z",
-      "snippet": "Microsoft Teams can now detect and warn users on malicious URLs sent in Teams chat and channels in Gov clouds, increasing protection against malware a...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1018,28 +1007,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Updated header and dashboard for chats and channels on mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567461",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "You can now get oriented and take action faster when using Teams on mobile, with a redesigned header and lightweight dashboard that brings key channel...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567320",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
@@ -1174,6 +1141,17 @@
       "snippet": "If Microsoft Entra Connect Sync is still running solely for device synchronization, you&#039;re maintaining infrastructure you may no longer need. This gui...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
