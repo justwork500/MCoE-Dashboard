@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T17:00:55.661Z",
-  "count": 125,
+  "lastUpdated": "2026-08-20T18:03:31.405Z",
+  "count": 126,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement",
+      "link": "https://azure.microsoft.com/updates?id=569743",
+      "date": "2026-08-20T17:02:23.000Z",
+      "snippet": "Summarized advertised gateway\r\nprefixes for route advertisement is now generally available. You can specify\r\naggregated (summarized) prefixes for an A...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -22,6 +33,29 @@
       "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Notes from the field: testing EWSAllowedAppIDs safely",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568",
+      "date": "2026-08-20T14:21:26.000Z",
+      "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-33824 Windows Internet Key Exchange (IKE) Service Extensions Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33824",
+      "date": "2026-08-20T14:00:00.000Z",
+      "snippet": "Added clarifying information to the mitigation. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -353,18 +387,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383",
-      "date": "2026-08-19T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798",
       "date": "2026-08-19T14:00:00.000Z",
       "snippet": "Acknowledgement Updated",
       "tags": [
@@ -744,17 +766,6 @@
       "link": "https://azure.microsoft.com/updates?id=569246",
       "date": "2026-08-12T17:03:08.000Z",
       "snippet": "Batch rule updates are now generally\r\navailable for Azure Front Door Standard and Premium. This capability enables\r\ncustomers to add, update, delete, ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Front Door mutual TLS ",
-      "link": "https://azure.microsoft.com/updates?id=569251",
-      "date": "2026-08-12T17:01:19.000Z",
-      "snippet": "Mutual TLS, also known as client\r\ncertificate authentication, enables Azure Front Door to authenticate clients\r\nusing X.509 certificates before reques...",
       "tags": [
         "Azure"
       ]
