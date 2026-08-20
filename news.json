@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-08-20T22:20:05.289Z",
-  "count": 127,
+  "lastUpdated": "2026-08-20T23:48:38.454Z",
+  "count": 133,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook for Mac",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569717",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Report a Message or an External User for Security Concern in Gov Clouds",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569609",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Users in Gov clouds can now report suspicious messages and external users within Teams. Reports are surfaced in the Teams admin center, giving admins ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Glint – Enhanced multiple-choice questions with up to 500 options",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569606",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Viva Glint administrators will be able to create multiple-choice questions with up to 500 options and upload options using a CSV file. For questions c...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Breakout room support on Teams Rooms on Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569447",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "With breakout room support, Teams Rooms on Android can be added to a breakout room and moved in and out of the main room making it easy for breakout s...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Glint – In-product access to feature announcements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569435",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Viva Glint service administrators will see a new announcement icon in the product header that links directly to the Viva Glint Tech Community blog. Th...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365) Writing Blocks in M365 Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569428",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "M365 Copilot now supports Writing blocks. Edit drafts, memos, emails, and more inline while using Chat for easy editing and iteration.GA date: Septemb...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Self-serve sync connectors",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568788",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Self-serve sync connectors enable users to securely connect their own external data sources, such as Jira and Confluence Cloud, to Microsoft 365 Copil...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -447,28 +524,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569207",
       "date": "2026-08-18T23:05:00.000Z",
       "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft M365): Delegated prompt publishing for organization prompts ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569425",
-      "date": "2026-08-18T23:05:00.000Z",
-      "snippet": "This release follows the availability of organization prompts, providing admins the ability to upload custom prompts for their organization in the Cop...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Federated Copilot Connectors in Microsoft 365 Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569212",
-      "date": "2026-08-18T23:05:00.000Z",
-      "snippet": "Federated Copilot connectors enable users to securely connect Microsoft Copilot to their favorite third party sources, retrieving data in real-time us...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -1200,6 +1255,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
@@ -1230,6 +1296,17 @@
       "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
       "tags": [
         "Defender"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Import Google account data anytime from Settings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568365",
+      "date": "2026-07-29T23:07:26.000Z",
+      "snippet": "Microsoft Edge now lets users import their Google account data - including passwords, bookmarks, history, and autofill data - directly from Edge Setti...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1420,17 +1497,6 @@
       "link": "https://www.prajwaldesai.com/automatically-update-macos-pkg-apps-using-intune/",
       "date": "2026-07-22T13:54:42.000Z",
       "snippet": "Starting in Intune service release 2606, you can automatically update macOS PKG apps deployed to devices by updating the app policy...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Unpacking Endpoint Management is back - and we’ve got a lot to talk about",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/unpacking-endpoint-management-is-back-and-we-ve-got-a-lot-to/ba-p/4514599",
-      "date": "2026-07-21T23:06:06.000Z",
-      "snippet": "If you&#039;ve been missing real, candid conversations about endpoint management, good news! Unpacking Endpoint Management is officially back.\r\nThis series...",
       "tags": [
         "Intune"
       ]
