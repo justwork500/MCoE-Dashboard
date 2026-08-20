@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T21:52:12.436Z",
+  "lastUpdated": "2026-08-20T22:20:05.289Z",
   "count": 127,
   "items": [
     {
@@ -33,6 +33,17 @@
       "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Notes from the field: testing EWSAllowedAppIDs safely",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568",
+      "date": "2026-08-20T14:21:26.000Z",
+      "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -1186,17 +1197,6 @@
       "snippet": "If Microsoft Entra Connect Sync is still running solely for device synchronization, you&#039;re maintaining infrastructure you may no longer need. This gui...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
