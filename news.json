@@ -1,18 +1,7 @@
 {
-  "lastUpdated": "2026-08-21T19:46:05.177Z",
-  "count": 132,
+  "lastUpdated": "2026-08-21T20:18:02.623Z",
+  "count": 129,
   "items": [
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
-      "date": "2026-08-21T16:26:22.000Z",
-      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
-      "tags": [
-        "Teams"
-      ]
-    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -1265,17 +1254,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
@@ -1471,18 +1449,6 @@
       "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
       "date": "2026-07-23T14:46:07.000Z",
       "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Preview Version 2.3.2.476 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
-      "date": "2026-07-22T20:04:12.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
       "tags": [
         "Intune",
         "Windows"
