@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-21T22:48:39.288Z",
-  "count": 131,
+  "lastUpdated": "2026-08-21T23:16:59.696Z",
+  "count": 130,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -33,17 +33,6 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
-      "date": "2026-08-21T21:58:57.000Z",
-      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -101,6 +90,18 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69836",
       "date": "2026-08-20T14:00:00.000Z",
       "snippet": "Deserialization of untrusted data in Microsoft Entra ID allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-54981 Visual Studio Code Python Extension Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54981",
+      "date": "2026-08-21T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
       "tags": [
         "Windows",
         "Azure"
@@ -411,18 +412,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62754",
       "date": "2026-08-20T14:00:00.000Z",
       "snippet": "Updated links to security updates.  This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62755 Windows DHCP Client Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62755",
-      "date": "2026-08-20T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
         "Windows",
         "Azure"
