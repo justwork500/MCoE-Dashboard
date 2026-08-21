@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T18:54:00.080Z",
+  "lastUpdated": "2026-08-21T19:46:05.177Z",
   "count": 132,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T16:26:22.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -1472,18 +1483,6 @@
       "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-2-3-2-476-released/",
       "date": "2026-07-22T20:04:12.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements&amp;#160; Fixes Accessibility and UI\nThe post Patch My ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Nobody Talks About Intune Applications Migration",
-      "link": "https://www.systemcenterdudes.com/nobody-talks-about-intune-applications-migration/",
-      "date": "2026-07-22T19:23:43.000Z",
-      "snippet": "If you’ve been planning a move from Configuration Manager (SCCM) to Microsoft Intune, you’ve probably spent a lot of time thinking about devices. How ...",
       "tags": [
         "Intune",
         "Windows"
