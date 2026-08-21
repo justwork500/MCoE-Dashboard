@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T07:37:26.278Z",
+  "lastUpdated": "2026-08-21T09:06:26.979Z",
   "count": 134,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows 11 25H2 Upgrade Fails with Error 0x800F0922 Due to Insufficient EFI Partition Space",
+      "link": "https://www.anoopcnair.com/windows-11-25h2-upgrade-fails-error-0x800f0922/",
+      "date": "2026-08-21T08:08:33.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
@@ -634,17 +645,6 @@
       "title": "Microsoft Intune Control BitLocker Encryption for Removable USB Drives for Better Security and Business Operations",
       "link": "https://www.anoopcnair.com/intune-control-bitlocker-encryption-usb-drives/",
       "date": "2026-08-18T09:35:20.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Detected Malware Report in Microsoft Intune to Device Malware Status Detection Count and Detailed Threat Information",
-      "link": "https://www.anoopcnair.com/detected-malware-report-in-microsoft-intune-to/",
-      "date": "2026-08-18T05:10:49.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
