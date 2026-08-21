@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-21T21:47:00.719Z",
-  "count": 129,
+  "lastUpdated": "2026-08-21T22:48:39.288Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Capacity view",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569733",
+      "date": "2026-08-21T22:00:23.000Z",
+      "snippet": "Capacity view shows a timeline of who&#039;s working on what, so you can see how work is distributed across your team and spot overload or open capacity at...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Lifecycle Management – Retention for Copilot Memory",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569612",
+      "date": "2026-08-21T22:00:23.000Z",
+      "snippet": "Configure retention for Microsoft 365 Copilot memory to help preserve historical versions of memory items for security, compliance, and investigation ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Coordinated meetings support on Teams Rooms on Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569420",
+      "date": "2026-08-21T22:00:23.000Z",
+      "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T21:58:57.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -418,28 +462,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Improvements to agent evaluations experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569607",
-      "date": "2026-08-19T22:58:06.000Z",
-      "snippet": "Microsoft Copilot Studio is enhancing the Evaluations experience to help makers better understand agent quality and behavior. New capabilities include...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Code Blocks in M365 Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569429",
-      "date": "2026-08-19T22:58:06.000Z",
-      "snippet": "M365 Copilot now supports code blocks, which lets you preview code, charts, diagrams, and more directly inline while using Chat. Previously, users cou...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
@@ -536,17 +558,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Report a Security Concern in Meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569207",
-      "date": "2026-08-18T23:05:00.000Z",
-      "snippet": "Microsoft Teams will enable meeting organizers and attendees to report suspicious, malicious, or potentially fraudulent activity directly from meeting...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1251,6 +1262,17 @@
       "snippet": "If Microsoft Entra Connect Sync is still running solely for device synchronization, you&#039;re maintaining infrastructure you may no longer need. This gui...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
