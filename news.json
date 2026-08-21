@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T03:28:57.116Z",
-  "count": 133,
+  "lastUpdated": "2026-08-21T05:26:28.833Z",
+  "count": 134,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 21st August 2026",
+      "link": "https://andrewstaylor.com/2026/08/21/intune-newsletter-21st-august-2026/",
+      "date": "2026-08-21T05:21:15.000Z",
+      "snippet": "Welcome everyone!  This weeks newsletter is coming to you live from Copenhagen and as you read this I will be in a very exciting company event plannin...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
