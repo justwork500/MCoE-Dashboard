@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T21:58:14.473Z",
+  "lastUpdated": "2026-08-22T22:22:59.615Z",
   "count": 130,
   "items": [
     {
@@ -11,6 +11,17 @@
       "snippet": "Disabling and re-enabling a Microsoft 365 user account can unexpectedly affect Teams memberships. Learn what happens to team and private channel acces...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T23:19:49.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -55,17 +66,6 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
-      "date": "2026-08-21T21:58:57.000Z",
-      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
-      "tags": [
-        "Teams"
       ]
     },
     {
