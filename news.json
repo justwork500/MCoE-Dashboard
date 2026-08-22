@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T22:45:54.612Z",
-  "count": 129,
+  "lastUpdated": "2026-08-22T23:35:32.659Z",
+  "count": 130,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -55,6 +55,17 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T21:58:57.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
