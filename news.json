@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T19:58:17.129Z",
-  "count": 129,
+  "lastUpdated": "2026-08-22T20:24:21.641Z",
+  "count": 130,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -66,6 +66,17 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Support tip: Restore the Managed Home Screen Exit PIN",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/support-tip-restore-the-managed-home-screen-exit-pin/ba-p/4549102",
+      "date": "2026-08-21T21:53:41.000Z",
+      "snippet": "We identified and resolved a recent issue (IT1450132) that could cause the configured Managed Home Screen exit PIN to be removed from some existing An...",
+      "tags": [
+        "Intune"
       ]
     },
     {
