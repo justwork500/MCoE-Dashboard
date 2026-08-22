@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-22T09:49:43.678Z",
+  "lastUpdated": "2026-08-22T10:16:11.117Z",
   "count": 131,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "An Unexpected Microsoft Teams Consequence of Disabling a User Account ",
+      "link": "https://blog.admindroid.com/teams-membership-impact-of-disabling-user-account/",
+      "date": "2026-08-22T10:12:15.000Z",
+      "snippet": "Disabling and re-enabling a Microsoft 365 user account can unexpectedly affect Teams memberships. Learn what happens to team and private channel acces...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
@@ -1273,17 +1284,6 @@
       "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "A Letter to Syadmins…from AI  | Sysadmin Day 2026",
-      "link": "https://blog.admindroid.com/sysadmin-day-2026/",
-      "date": "2026-07-30T12:32:38.000Z",
-      "snippet": "Hey Sysadmins,&amp;#160; Hi.&amp;#160;It’s&amp;#160;me,&amp;#160;the AI&amp;#160;you’ve&amp;#160;been keeping around.&amp;#160;Shall I say your junior admin? Assistant?&amp;#160;Mayb...",
-      "tags": [
-        "Azure"
       ]
     },
     {
