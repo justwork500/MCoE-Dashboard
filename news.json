@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T16:48:24.004Z",
-  "count": 130,
+  "lastUpdated": "2026-08-22T17:14:34.801Z",
+  "count": 128,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -1276,17 +1276,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1449,17 +1438,6 @@
       "link": "https://andrewstaylor.com/2026/07/24/intune-newsletter-24th-july-2026/",
       "date": "2026-07-24T09:32:26.000Z",
       "snippet": "Hopefully you didn&amp;#8217;t miss this too much last week, I was away enjoying a relaxing break in Madeira with my family, but we have content from the ...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Designing Intune enrollment for frontline workers: Choosing the right path for real-world devices",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/designing-intune-enrollment-for-frontline-workers-choosing-the/ba-p/4540144",
-      "date": "2026-07-23T16:59:40.000Z",
-      "snippet": "By: Shawn Catlin – Senior Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspecti...",
       "tags": [
         "Intune"
       ]
