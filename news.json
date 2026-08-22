@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-22T14:40:29.331Z",
-  "count": 130,
+  "lastUpdated": "2026-08-22T14:58:03.185Z",
+  "count": 129,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -11,6 +11,17 @@
       "snippet": "Disabling and re-enabling a Microsoft 365 user account can unexpectedly affect Teams memberships. Learn what happens to team and private channel acces...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-21T22:45:58.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -44,6 +55,17 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T16:26:22.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -647,17 +669,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-17T20:57:29.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1265,17 +1276,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1451,18 +1451,6 @@
       "snippet": "By: Shawn Catlin – Senior Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspecti...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "SCCM error code 0x80244007 – Windows Servers 2019/2022/2025 not scanning updates from",
-      "link": "https://www.systemcenterdudes.com/sccm-error-code-0x80244007-windows-servers-2019-2022-2025-not-scanning-updates-from/",
-      "date": "2026-07-23T14:46:07.000Z",
-      "snippet": "Since February 2026, we have started to notice Configuration Manager environments with a Windows Update deployment issue: Servers 2019 and above are r...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
