@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-22T07:44:38.132Z",
-  "count": 126,
+  "lastUpdated": "2026-08-22T08:02:28.202Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T23:19:49.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-08-21T22:45:58.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -550,6 +572,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592",
+      "date": "2026-08-18T22:01:39.000Z",
+      "snippet": "By: Carlos Diaz - Sr. Product Manager and Jason Sandys - Principal Product Manager | Microsoft Intune\r\nDelivery Optimization is built into Windows and...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
@@ -625,17 +658,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-17T20:57:29.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1321,6 +1343,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Registry Inventory in Microsoft Intune: Verifying What’s on Your Devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/registry-inventory-in-microsoft-intune-verifying-what-s-on-your/ba-p/4541312",
+      "date": "2026-07-28T20:59:27.000Z",
+      "snippet": "By: Madison Cooks, Product Manager | Microsoft Intune\r\nIT admins need a reliable way to confirm how Windows devices are configured, especially when tr...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
@@ -1366,6 +1399,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "From hours to minutes: Rethinking Microsoft Intune compliance reporting with the Export API",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/from-hours-to-minutes-rethinking-microsoft-intune-compliance/ba-p/4540554",
+      "date": "2026-07-24T19:07:28.000Z",
+      "snippet": "By: Daniel Gerrity – Principal Product Manager | Microsoft Intune\r\nIf you manage a large device fleet with Microsoft Intune, you’ve almost certainly n...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Released: July 2026 Exchange Server Security Updates",
@@ -1405,6 +1449,17 @@
       "link": "https://andrewstaylor.com/2026/07/24/intune-newsletter-24th-july-2026/",
       "date": "2026-07-24T09:32:26.000Z",
       "snippet": "Hopefully you didn&amp;#8217;t miss this too much last week, I was away enjoying a relaxing break in Madeira with my family, but we have content from the ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Designing Intune enrollment for frontline workers: Choosing the right path for real-world devices",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/designing-intune-enrollment-for-frontline-workers-choosing-the/ba-p/4540144",
+      "date": "2026-07-23T16:59:40.000Z",
+      "snippet": "By: Shawn Catlin – Senior Product Manager | Microsoft Intune and Sucheta Gawade, Microsoft MVP (Azure &amp;amp; Security / Intune)\r\nPractitioner perspecti...",
       "tags": [
         "Intune"
       ]
