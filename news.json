@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T08:38:14.217Z",
-  "count": 130,
+  "lastUpdated": "2026-08-23T09:41:15.985Z",
+  "count": 128,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -1287,17 +1287,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1449,17 +1438,6 @@
       "link": "https://www.prajwaldesai.com/fix-wsus-sync-delays-and-timeout-issues/",
       "date": "2026-07-24T13:29:07.000Z",
       "snippet": "Microsoft has confirmed a known issue affecting Windows Server Update Services (WSUS) that causes slow synchronization times and sync timeouts. The......",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 24th July 2026",
-      "link": "https://andrewstaylor.com/2026/07/24/intune-newsletter-24th-july-2026/",
-      "date": "2026-07-24T09:32:26.000Z",
-      "snippet": "Hopefully you didn&amp;#8217;t miss this too much last week, I was away enjoying a relaxing break in Madeira with my family, but we have content from the ...",
       "tags": [
         "Intune"
       ]
