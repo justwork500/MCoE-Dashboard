@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T13:19:26.240Z",
-  "count": 128,
+  "lastUpdated": "2026-08-23T13:52:32.673Z",
+  "count": 127,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -1429,17 +1429,6 @@
       "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Microsoft Shares Fix for WSUS Sync Delays and Timeout Issues",
-      "link": "https://www.prajwaldesai.com/fix-wsus-sync-delays-and-timeout-issues/",
-      "date": "2026-07-24T13:29:07.000Z",
-      "snippet": "Microsoft has confirmed a known issue affecting Windows Server Update Services (WSUS) that causes slow synchronization times and sync timeouts. The......",
-      "tags": [
-        "Intune"
       ]
     }
   ]
