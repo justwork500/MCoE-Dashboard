@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:59:44.862Z",
+  "lastUpdated": "2026-08-23T17:00:11.515Z",
   "count": 127,
   "items": [
     {
@@ -11,6 +11,17 @@
       "snippet": "Disabling and re-enabling a Microsoft 365 user account can unexpectedly affect Teams memberships. Learn what happens to team and private channel acces...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
+      "date": "2026-08-21T23:19:49.000Z",
+      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
+      "tags": [
+        "Teams"
       ]
     },
     {
@@ -55,17 +66,6 @@
       "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Turn conversations into code with GitHub Copilot in Microsoft Teams",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305",
-      "date": "2026-08-21T21:58:57.000Z",
-      "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -1287,6 +1287,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1418,17 +1429,6 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Introducing smarter bot protection in Microsoft Teams meetings",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375",
-      "date": "2026-07-24T16:24:35.000Z",
-      "snippet": "AI note-taking has become a familiar part of the meeting experience, helping people keep track of important details while staying present in the conve...",
-      "tags": [
-        "Teams"
       ]
     }
   ]
