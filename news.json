@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T20:46:58.405Z",
-  "count": 128,
+  "lastUpdated": "2026-08-24T21:22:22.352Z",
+  "count": 127,
   "items": [
     {
       "source": "Azure Updates",
@@ -88,6 +88,18 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50661 Windows BitLocker Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50661",
+      "date": "2026-08-24T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -554,18 +566,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69851",
       "date": "2026-08-20T14:00:00.000Z",
       "snippet": "Server-side request forgery (ssrf) in Azure Active Directory allows an authorized attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62703 Windows DWM Core Library Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62703",
-      "date": "2026-08-20T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
         "Windows",
         "Azure"
@@ -1317,17 +1317,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
