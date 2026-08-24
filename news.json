@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-24T20:03:27.900Z",
-  "count": 127,
+  "lastUpdated": "2026-08-24T20:46:58.405Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
+      "link": "https://azure.microsoft.com/updates?id=569526",
+      "date": "2026-08-24T19:15:05.000Z",
+      "snippet": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer Postgre...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -47,6 +58,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
+      "date": "2026-08-24T16:57:31.000Z",
+      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "WebView2 is moving to a 2-week release cadence",
@@ -55,6 +77,17 @@
       "snippet": "Microsoft Edge is moving to a two-week release cycle, and the \nThe post WebView2 is moving to a 2-week release cadence appeared first on Microsoft Edg...",
       "tags": [
         "Edge"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-24T15:08:23.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -893,17 +926,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks",
-      "link": "https://azure.microsoft.com/updates?id=569281",
-      "date": "2026-08-13T16:17:41.000Z",
-      "snippet": "We’re excited to announce the GA\r\nof Live Resize for shared Premium\r\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\r\nexpand...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Upcoming retirement of OWA Light in Exchange Server",
@@ -934,17 +956,6 @@
       "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-11T17:06:02.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
