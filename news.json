@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-24T22:51:14.389Z",
-  "count": 128,
+  "lastUpdated": "2026-08-24T23:17:09.624Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Purview DLP Wait-on-Send Support for Mac",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569719",
+      "date": "2026-08-24T22:41:12.000Z",
+      "snippet": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluation before an ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Purview DLP Wait-on-Send Support for Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569718",
+      "date": "2026-08-24T22:41:12.000Z",
+      "snippet": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluatio...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569716",
+      "date": "2026-08-24T22:41:12.000Z",
+      "snippet": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Manage Multiple Inbox Rules at Once",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569430",
+      "date": "2026-08-24T22:41:12.000Z",
+      "snippet": "You will soon be able to manage multiple inbox rules at the same time. Select every rule or choose only the ones you want to update. You can then dele...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -388,83 +432,6 @@
       "snippet": "Welcome everyone!  This weeks newsletter is coming to you live from Copenhagen and as you read this I will be in a very exciting company event plannin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook for Mac",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569717",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help prevent the ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Report a Message or an External User for Security Concern in Gov Clouds",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569609",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "Users in Gov clouds can now report suspicious messages and external users within Teams. Reports are surfaced in the Teams admin center, giving admins ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Glint – Enhanced multiple-choice questions with up to 500 options",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569606",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "Viva Glint administrators will be able to create multiple-choice questions with up to 500 options and upload options using a CSV file. For questions c...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Breakout room support on Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569447",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "With breakout room support, Teams Rooms on Android can be added to a breakout room and moved in and out of the main room making it easy for breakout s...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Glint – In-product access to feature announcements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569435",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "Viva Glint service administrators will see a new announcement icon in the product header that links directly to the Viva Glint Tech Community blog. Th...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365) Writing Blocks in M365 Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569428",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "M365 Copilot now supports Writing blocks. Edit drafts, memos, emails, and more inline while using Chat for easy editing and iteration.GA date: Septemb...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Self-serve sync connectors",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568788",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "Self-serve sync connectors enable users to securely connect their own external data sources, such as Jira and Confluence Cloud, to Microsoft 365 Copil...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1350,17 +1317,6 @@
       "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Import Google account data anytime from Settings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568365",
-      "date": "2026-07-29T23:07:26.000Z",
-      "snippet": "Microsoft Edge now lets users import their Google account data - including passwords, bookmarks, history, and autofill data - directly from Edge Setti...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
