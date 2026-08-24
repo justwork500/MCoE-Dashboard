@@ -1,18 +1,7 @@
 {
-  "lastUpdated": "2026-08-24T19:43:40.106Z",
-  "count": 126,
+  "lastUpdated": "2026-08-24T20:03:27.900Z",
+  "count": 127,
   "items": [
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
-      "link": "https://azure.microsoft.com/updates?id=569526",
-      "date": "2026-08-24T19:15:05.000Z",
-      "snippet": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer Postgre...",
-      "tags": [
-        "Azure"
-      ]
-    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -904,6 +893,17 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Live Resize for Shared Premium SSD v2 and Ultra Data Disks",
+      "link": "https://azure.microsoft.com/updates?id=569281",
+      "date": "2026-08-13T16:17:41.000Z",
+      "snippet": "We’re excited to announce the GA\r\nof Live Resize for shared Premium\r\nSSD v2 (Pv2) and Ultra data disks. This feature allows you to dynamically\r\nexpand...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Upcoming retirement of OWA Light in Exchange Server",
@@ -1306,6 +1306,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
