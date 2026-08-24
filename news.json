@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T23:17:09.624Z",
-  "count": 124,
+  "lastUpdated": "2026-08-24T23:44:31.943Z",
+  "count": 123,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -102,17 +102,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
-      "date": "2026-08-24T16:57:31.000Z",
-      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "WebView2 is moving to a 2-week release cadence",
@@ -121,17 +110,6 @@
       "snippet": "Microsoft Edge is moving to a two-week release cycle, and the \nThe post WebView2 is moving to a 2-week release cadence appeared first on Microsoft Edg...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-24T15:08:23.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -923,6 +901,17 @@
       "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-11T17:06:02.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
