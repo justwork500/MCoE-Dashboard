@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-25T20:03:09.030Z",
+  "lastUpdated": "2026-08-25T21:04:56.516Z",
   "count": 123,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Aspire 13.5 has shipped",
+      "link": "https://azure.microsoft.com/updates?id=569910",
+      "date": "2026-08-25T19:55:34.000Z",
+      "snippet": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volum...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -11,17 +22,6 @@
       "snippet": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-25T15:37:03.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -87,6 +87,30 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-59130 AMD Zen Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59130",
+      "date": "2026-08-25T14:00:00.000Z",
+      "snippet": "Updated CWE value.  This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59131 AMD Zen Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59131",
+      "date": "2026-08-25T14:00:00.000Z",
+      "snippet": "Updated CWE value.  This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-55137 Microsoft Excel Remote Code Execution Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55137",
       "date": "2026-08-25T14:00:00.000Z",
@@ -113,7 +137,7 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-49183 Windows Clipboard Server Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49183",
-      "date": "2026-08-21T14:00:00.000Z",
+      "date": "2026-08-25T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
         "Windows",
@@ -251,17 +275,6 @@
       "snippet": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
-      "date": "2026-08-24T16:57:31.000Z",
-      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -477,18 +490,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54981",
       "date": "2026-08-21T14:00:00.000Z",
       "snippet": "Affected software updated with new package information.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-58547 Windows Universal Plug and Play (UPnP) Device Host Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58547",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
         "Windows",
         "Azure"
@@ -837,17 +838,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026",
-      "link": "https://azure.microsoft.com/updates?id=569353",
-      "date": "2026-08-14T17:43:51.000Z",
-      "snippet": "Azure Databricks Runtime\r\n10.4 LTS, a Databricks-managed runtime available on Azure Databricks, reached\r\nend of support on March 18, 2025 and will rea...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 14th August 2026",
@@ -923,6 +913,17 @@
       "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-11T17:06:02.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
