@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-25T05:02:50.042Z",
+  "lastUpdated": "2026-08-25T07:29:38.035Z",
   "count": 123,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Disable Randomized MAC Addresses for Wi-Fi on macOS Devices using Intune",
+      "link": "https://www.anoopcnair.com/randomized-mac-addresses-for-wi-fi-on-macos/",
+      "date": "2026-08-25T05:05:35.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -99,6 +110,17 @@
       "snippet": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
+      "date": "2026-08-24T16:57:31.000Z",
+      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -646,17 +668,6 @@
       "snippet": "Explore three newly introduced granular permissions for Microsoft Graph API: AppRegistration.Create, User.Create, and User.ReadUpdate.All and understa...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Bulk Deprovision for Cloud PCs In Grace Period is Now Available in Intune",
-      "link": "https://www.anoopcnair.com/bulk-deprovision-for-cloud-pcs-in-grace-intune/",
-      "date": "2026-08-19T09:35:47.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1273,17 +1284,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
