@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-25T17:53:57.066Z",
-  "count": 123,
+  "lastUpdated": "2026-08-25T19:44:51.204Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs ",
+      "link": "https://azure.microsoft.com/updates?id=569546",
+      "date": "2026-08-25T18:05:54.000Z",
+      "snippet": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -882,17 +893,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus",
-      "link": "https://azure.microsoft.com/updates?id=568830",
-      "date": "2026-08-13T16:19:56.000Z",
-      "snippet": "Control plane metrics collection for Azure Kubernetes Service (AKS), powered by Azure Monitor Managed Service for Prometheus, is now generally availab...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Upcoming retirement of OWA Light in Exchange Server",
@@ -1284,6 +1284,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
