@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T04:22:18.819Z",
-  "count": 122,
+  "lastUpdated": "2026-08-25T05:02:50.042Z",
+  "count": 123,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -1273,6 +1273,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
