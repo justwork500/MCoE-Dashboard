@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T11:53:01.891Z",
-  "count": 122,
+  "lastUpdated": "2026-08-25T12:34:49.427Z",
+  "count": 123,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -121,6 +121,17 @@
       "snippet": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
+      "date": "2026-08-24T16:57:31.000Z",
+      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
