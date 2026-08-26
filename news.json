@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-26T18:25:08.343Z",
-  "count": 125,
+  "lastUpdated": "2026-08-26T20:27:20.714Z",
+  "count": 127,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.0.14.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-14-0-released/",
+      "date": "2026-08-26T20:13:14.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -1318,6 +1330,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
