@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T22:33:53.885Z",
+  "lastUpdated": "2026-08-25T23:58:44.442Z",
   "count": 125,
   "items": [
     {
@@ -103,6 +103,30 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59131",
       "date": "2026-08-25T14:00:00.000Z",
       "snippet": "Updated CWE value.  This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301",
+      "date": "2026-08-25T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-45639 Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45639",
+      "date": "2026-08-25T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -488,30 +512,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70335",
       "date": "2026-08-21T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69836 Microsoft Entra ID Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69836",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Corrected **Exploited** to **No**. This vulnerability was not exploited in the wild. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54981 Visual Studio Code Python Extension Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54981",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Affected software updated with new package information.",
       "tags": [
         "Windows",
         "Azure"
