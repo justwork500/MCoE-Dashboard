@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-26T16:43:39.733Z",
-  "count": 127,
+  "lastUpdated": "2026-08-26T18:25:08.343Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Bastion shareable link expiration ",
+      "link": "https://azure.microsoft.com/updates?id=570020",
+      "date": "2026-08-26T16:57:56.000Z",
+      "snippet": "Azure Bastion shareable link expiration is now generally\r\navailable. When creating a shareable link, administrators can specify the date\r\nand time whe...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: IPv6 dual-stack support for Azure Bastion",
+      "link": "https://azure.microsoft.com/updates?id=570025",
+      "date": "2026-08-26T16:56:29.000Z",
+      "snippet": "Azure Bastion support for IPv4 and IPv6 dual-stack\r\nconfigurations is now available in public preview. Customers can configure a\r\nnewly created Bastio...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Connect to AKS clusters using Azure Bastion",
+      "link": "https://azure.microsoft.com/updates?id=570030",
+      "date": "2026-08-26T16:55:25.000Z",
+      "snippet": "Azure Bastion integration with Azure Kubernetes Service is\r\nnow generally available. Customers can establish a secure tunnel from their\r\nlocal machine...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Introducing Live Reports for Azure SRE Agent",
+      "link": "https://azure.microsoft.com/updates?id=569690",
+      "date": "2026-08-26T16:52:23.000Z",
+      "snippet": "We&#039;re excited to announce Live Reports, now in Public Preview for Azure SRE Agent. Live Reports help operations teams create dynamic operational views...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure SRE Agent VNet Integration ",
+      "link": "https://azure.microsoft.com/updates?id=569695",
+      "date": "2026-08-26T16:51:31.000Z",
+      "snippet": "Azure SRE Agent VNet Integration is now generally available. VNet integration enables Azure SRE Agent to operate within your existing network controls...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure SRE Agent 30-Day Trial",
+      "link": "https://azure.microsoft.com/updates?id=569760",
+      "date": "2026-08-26T16:50:22.000Z",
+      "snippet": "New customers can now get started with Azure SRE Agent through a 30-day trial experience. During the trial, customers can create SRE Agents and connec...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -78,6 +144,17 @@
       "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-25T15:37:03.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -377,17 +454,6 @@
       "snippet": "Microsoft Edge is moving to a two-week release cycle, and the \nThe post WebView2 is moving to a 2-week release cadence appeared first on Microsoft Edg...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-24T15:08:23.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -727,17 +793,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",
-      "link": "https://azure.microsoft.com/updates?id=569535",
-      "date": "2026-08-18T19:52:06.000Z",
-      "snippet": "In November last year, Broadcom changed its VMware licensing policies across all hyperscaler platforms to require customers to “bring your own” portab...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.0.10.0 Released",
@@ -747,28 +802,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Managed Instance on Azure App Service",
-      "link": "https://azure.microsoft.com/updates?id=568952",
-      "date": "2026-08-18T17:26:25.000Z",
-      "snippet": "Managed Instance on Azure App Service is now generally available. Managed Instance helps organizations migrate web applications to Azure App Service w...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Ipv6 support in Azure Firewall",
-      "link": "https://azure.microsoft.com/updates?id=569520",
-      "date": "2026-08-18T17:25:30.000Z",
-      "snippet": "Azure Firewall now supports IPv6 in public\r\npreview, enabling customers to configure Azure Firewall and Firewall Policy in\r\ndual-stack mode for both I...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -805,28 +838,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose",
-      "link": "https://azure.microsoft.com/updates?id=568344",
-      "date": "2026-08-17T19:54:52.000Z",
-      "snippet": "You can now benefit from enhanced resilience with the public preview of zone redundancy for Azure SQL Managed Instance Next-gen General Purpose. This ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Dragon Copilot Physician Apps and Agents on Microsoft Marketplace ",
-      "link": "https://azure.microsoft.com/updates?id=557775",
-      "date": "2026-08-17T19:37:49.000Z",
-      "snippet": "This release adds Microsoft Marketplace as a new discovery and procurement channel for Dragon Copilot AI apps and agents. Dragon Copilot customers in ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Collecting Windows registry data",
@@ -835,17 +846,6 @@
       "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Linux on WSL",
-      "link": "https://azure.microsoft.com/updates?id=569376",
-      "date": "2026-08-17T17:08:40.000Z",
-      "snippet": "Azure Linux on WSL is now available in Public Preview (Beta).  Extending Azure Linux to the developer workstation means that teams can now:Validate be...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1321,17 +1321,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1419,17 +1408,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "NOW ON DEMAND | OneDrive Office Hours | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-july-2026/ba-p/4531889",
-      "date": "2026-07-27T18:17:08.000Z",
-      "snippet": "Get ready for the July 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they su...",
-      "tags": [
-        "OneDrive"
       ]
     }
   ]
