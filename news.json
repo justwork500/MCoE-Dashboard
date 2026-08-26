@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-26T14:05:03.457Z",
-  "count": 126,
+  "lastUpdated": "2026-08-26T16:43:39.733Z",
+  "count": 127,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62890 Windows GDI+ Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62890",
+      "date": "2026-08-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -66,17 +78,6 @@
       "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-25T15:37:03.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -379,6 +380,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-24T15:08:23.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-50661 Windows BitLocker Security Feature Bypass Vulnerability",
@@ -509,18 +521,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-64899 Microsoft Office Information Disclosure Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64899",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70335 GitHub Copilot and Visual Studio Code Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70335",
       "date": "2026-08-21T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -1318,6 +1318,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
