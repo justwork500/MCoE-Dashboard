@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-26T06:36:48.218Z",
-  "count": 128,
+  "lastUpdated": "2026-08-26T08:22:55.955Z",
+  "count": 126,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -47,14 +47,14 @@
       ]
     },
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Remote Help on Windows: Unattended Support with Remote Sign-In Is Here",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772",
-      "date": "2026-08-25T16:39:03.000Z",
-      "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-08-25T15:37:03.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
-        "Intune"
+        "Exchange"
       ]
     },
     {
@@ -354,17 +354,6 @@
       "snippet": "Microsoft Edge is moving to a two-week release cycle, and the \nThe post WebView2 is moving to a 2-week release cadence appeared first on Microsoft Edg...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-24T15:08:23.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1318,17 +1307,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
