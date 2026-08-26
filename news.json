@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-26T09:09:46.884Z",
-  "count": 121,
+  "lastUpdated": "2026-08-26T10:29:34.408Z",
+  "count": 127,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -44,6 +44,17 @@
       "snippet": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Remote Help on Windows: Unattended Support with Remote Sign-In Is Here",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772",
+      "date": "2026-08-25T16:39:03.000Z",
+      "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -299,6 +310,17 @@
       "snippet": "eBPF Host Routing in Advanced\r\nContainer Networking Services for Azure Kubernetes Service (AKS) is now\r\ngenerally available. eBPF Host Routing improve...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
+      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
+      "date": "2026-08-24T17:45:00.000Z",
+      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -584,6 +606,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
+      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
+      "date": "2026-08-20T11:05:53.000Z",
+      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
@@ -783,6 +816,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Collecting Windows registry data",
+      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
+      "date": "2026-08-17T17:45:00.000Z",
+      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Linux on WSL",
@@ -948,6 +992,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the pinned folders in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-pinned-folders-in-start-layout/",
+      "date": "2026-08-10T17:45:00.000Z",
+      "snippet": "This week is all about customizing the pinned folders in the Start layout, and is a follow-up on this post about customizing the power options in Star...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -1140,6 +1195,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | April 2026",
@@ -1255,17 +1321,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1274,6 +1329,17 @@
       "snippet": "A deep-dive look at the Windows Package Manager Community Repository. Its manifests, submission pipeline, validation model, and a clear-eyed compariso...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to collect Microsoft Defender Client Analyzer Files via MDE Live Response",
+      "link": "https://jeffreyappel.nl/how-to-collect-microsoft-defender-client-analyzer-files-via-mde-live-response/",
+      "date": "2026-07-30T08:26:11.000Z",
+      "snippet": "When troubleshooting Microsoft Defender for Endpoint (MDE) issues, Microsoft Support or internal IT teams often request Defender Client Analyzer logs....",
+      "tags": [
+        "Defender"
       ]
     },
     {
