@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-25T23:58:44.442Z",
-  "count": 125,
+  "lastUpdated": "2026-08-26T03:40:09.800Z",
+  "count": 126,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Connected Plans",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569929",
+      "date": "2026-08-25T23:13:41.000Z",
+      "snippet": "Connected Plans let teams link related plans together to organize work across projects and initiatives. Navigate between connected plans and make rela...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Power BI reports as references in Copilot Notebooks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569928",
+      "date": "2026-08-25T23:13:41.000Z",
+      "snippet": "Copilot Notebooks now lets users add Power BI reports as references, bringing report data directly into their notebooks alongside files. Copilot uses ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -426,39 +448,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Capacity view",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569733",
-      "date": "2026-08-21T22:00:23.000Z",
-      "snippet": "Capacity view shows a timeline of who&#039;s working on what, so you can see how work is distributed across your team and spot overload or open capacity at...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management – Retention for Copilot Memory",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569612",
-      "date": "2026-08-21T22:00:23.000Z",
-      "snippet": "Configure retention for Microsoft 365 Copilot memory to help preserve historical versions of memory items for security, compliance, and investigation ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Coordinated meetings support on Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569420",
-      "date": "2026-08-21T22:00:23.000Z",
-      "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Support tip: Restore the Managed Home Screen Exit PIN",
@@ -780,6 +769,17 @@
       "snippet": "Multi-tenant agent management in the Microsoft 365 admin center enables enterprise admins and partners to centrally view and manage agents across conn...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Temporarily pause all notifications",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Users can now temporarily pause all notifications to minimize interruptions and stay focused on important work, meetings, or other priorities, without...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1151,6 +1151,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Proximity join support for attendees in Teams events from Teams Rooms on Windows and Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568781",
+      "date": "2026-08-04T22:45:42.000Z",
+      "snippet": "Attendees can take advantage of proximity join with Teams Rooms on Windows and/or Android for fast, effortless connection to nearby room systems durin...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Bring your security stack into Edge for Business — with support for more partners",
@@ -1299,17 +1310,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The next measure of AI momentum is work transformed",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
-      "date": "2026-07-30T13:00:00.000Z",
-      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "Is WinGet Enterprise Ready? A Deep Dive Into the Evidence",
@@ -1352,6 +1352,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Drag and Drop",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568367",
+      "date": "2026-07-28T22:43:45.000Z",
+      "snippet": "You can now reschedule events by dragging them to a new time slot in your calendar. This feature is available in day and multi day views.GA date: Augu...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
