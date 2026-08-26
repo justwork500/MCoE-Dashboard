@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-26T10:29:34.408Z",
+  "lastUpdated": "2026-08-26T11:02:49.886Z",
   "count": 127,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Detect Active Directory Privilege Escalation Paths Using BloodHound",
+      "link": "https://blog.admindroid.com/find-privilege-escalation-attack-paths-in-active-directory-using-bloodhound/",
+      "date": "2026-08-26T10:28:00.000Z",
+      "snippet": "BloodHound is a free, open-source security analysis tool for Active Directory that helps identify privilege escalation and attack paths by mapping rel...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -44,17 +55,6 @@
       "snippet": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Remote Help on Windows: Unattended Support with Remote Sign-In Is Here",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772",
-      "date": "2026-08-25T16:39:03.000Z",
-      "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1184,17 +1184,6 @@
       ]
     },
     {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Auto-Expiring Role Group Assignments in Microsoft Purview",
-      "link": "https://blog.admindroid.com/microsoft-purview-role-group-permission-expiration/",
-      "date": "2026-08-04T10:58:50.000Z",
-      "snippet": "Microsoft Purview now supports time-limited role group assignments for both new and existing members. Admins can set an expiration date from 1 day to ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
@@ -1318,6 +1307,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The next measure of AI momentum is work transformed",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed/",
+      "date": "2026-07-30T13:00:00.000Z",
+      "snippet": "In yesterday’s earnings call, we shared that Microsoft 365 Copilot has surpassed 30 million paid seats, with net seat adds more than doubling quarter ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
