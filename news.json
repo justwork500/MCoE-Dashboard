@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-08-26T20:27:20.714Z",
-  "count": 127,
+  "lastUpdated": "2026-08-27T07:11:11.361Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Events in Meet app in Teams in GCC",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569934",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Conversational configuration of connectors in Copilot Studio",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569930",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "Configure the connectors your agent needs, with a simple in-chat sign-in instead of a full settings experience.GA date: September CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Track task progress with the Completion (%) field",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569610",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "The new Completion (%) column in Microsoft Planner provides a more precise view of task progress. Users can view and update completion as a percentage...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": " Microsoft Teams: Hide Organizer Name in Calendar View on Teams Panels and MTR-A.",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569423",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "Admins can now choose whether the organizer name will show up in the calendar view on Teams panels and MTR-Android.  In Pro Management Portal, admins ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Inline Switching for Workspaces",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568786",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "Workspaces Inline Switching manages multiple Workspaces in a single window. Selecting a Workspace swaps in its tabs, theme, and context, with an easy ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -93,6 +148,18 @@
       ]
     },
     {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68819 Windows Network File System Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68819",
+      "date": "2026-08-26T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Detect Active Directory Privilege Escalation Paths Using BloodHound",
@@ -110,17 +177,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569929",
       "date": "2026-08-25T23:13:41.000Z",
       "snippet": "Connected Plans let teams link related plans together to organize work across projects and initiatives. Navigate between connected plans and make rela...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Power BI reports as references in Copilot Notebooks",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569928",
-      "date": "2026-08-25T23:13:41.000Z",
-      "snippet": "Copilot Notebooks now lets users add Power BI reports as references, bringing report data directly into their notebooks alongside files. Copilot uses ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -348,50 +404,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Purview DLP Wait-on-Send Support for Mac",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569719",
-      "date": "2026-08-24T22:41:12.000Z",
-      "snippet": "Outlook for Mac will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluation before an ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Purview DLP Wait-on-Send Support for Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569718",
-      "date": "2026-08-24T22:41:12.000Z",
-      "snippet": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) wait-on-send policies. Organizations can require a DLP evaluatio...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Purview Data Loss Prevention support for Calendar Events in Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569716",
-      "date": "2026-08-24T22:41:12.000Z",
-      "snippet": "Outlook for iOS and Android will support Microsoft Purview Data Loss Prevention (DLP) policies for calendar events. Organizations can detect and help ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Manage Multiple Inbox Rules at Once",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569430",
-      "date": "2026-08-24T22:41:12.000Z",
-      "snippet": "You will soon be able to manage multiple inbox rules at the same time. Select every rule or choose only the ones you want to update. You can then dele...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
@@ -587,18 +599,6 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-64903 Microsoft Office Remote Code Execution Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64903",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-64899 Microsoft Office Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64899",
       "date": "2026-08-21T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -839,17 +839,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Temporarily pause all notifications",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Users can now temporarily pause all notifications to minimize interruptions and stay focused on important work, meetings, or other priorities, without...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Collecting Windows registry data",
@@ -913,6 +902,17 @@
       "snippet": "Microsoft Intune Remote Help is not a brand-new tool. It has been around for a few years as a standalone add-on and as part of the Intune Suite. What ...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Pop out calls into a new browser window",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569206",
+      "date": "2026-08-13T22:42:07.000Z",
+      "snippet": "Microsoft Teams browser app users will be able to pop out calls into a simplified call window that stays available while they navigate away from, hide...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1185,17 +1185,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Proximity join support for attendees in Teams events from Teams Rooms on Windows and Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568781",
-      "date": "2026-08-04T22:45:42.000Z",
-      "snippet": "Attendees can take advantage of proximity join with Teams Rooms on Windows and/or Android for fast, effortless connection to nearby room systems durin...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Bring your security stack into Edge for Business — with support for more partners",
@@ -1386,17 +1375,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Drag and Drop",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568367",
-      "date": "2026-07-28T22:43:45.000Z",
-      "snippet": "You can now reschedule events by dragging them to a new time slot in your calendar. This feature is available in day and multi day views.GA date: Augu...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
