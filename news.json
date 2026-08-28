@@ -1,7 +1,259 @@
 {
-  "lastUpdated": "2026-08-27T07:11:11.361Z",
-  "count": 125,
+  "lastUpdated": "2026-08-28T14:23:16.197Z",
+  "count": 132,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 28th August 2026",
+      "link": "https://andrewstaylor.com/2026/08/28/intune-newsletter-28th-august-2026/",
+      "date": "2026-08-28T11:14:27.000Z",
+      "snippet": "Another week has passed and for many of us, the return to school drop-offs and homework nagging is looming.  This week has seen the release of Unatten...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Allow Users to Connect Remotely using Remote Desktop Policy with Intune",
+      "link": "https://www.anoopcnair.com/allow-users-to-connect-remotely-using-intune/",
+      "date": "2026-08-28T04:54:18.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Campaigns Hub in Engage and Engage in Teams mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570157",
+      "date": "2026-08-27T22:38:48.000Z",
+      "snippet": "The Campaigns Hub in Viva Engage provides a centralized mobile destination where employees can discover and participate in organizational campaigns. A...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Offline settings &quot;Days of email to save&quot; admin policy",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570069",
+      "date": "2026-08-27T22:38:48.000Z",
+      "snippet": "Tenant admins will be able to define the default value for &quot;Days of email to save&quot; in Offline settings and designate whether end users can change the ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Conditional Coloring",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569476",
+      "date": "2026-08-27T22:38:48.000Z",
+      "snippet": "Conditional Coloring highlight tasks based on selected criteria, making priorities, status, and important task details easier to spot.GA date: Septemb...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Agent Sharing amongst makers",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569475",
+      "date": "2026-08-27T22:38:48.000Z",
+      "snippet": "Enables sharing of agents with other makers in the new GHCP harness. Makers can grant other makers Agent Viewer (view analytics/evaluations only) or E...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365 admin center: Data Quality Report for Profile Data",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568937",
+      "date": "2026-08-27T22:38:48.000Z",
+      "snippet": "Microsoft 365 Organizational Data Services is introducing a new data quality report that helps administrators assess the coverage and health of people...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
+      "date": "2026-08-27T17:45:28.000Z",
+      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Showcase: 5 Ways Organizations Improve Business Processes with Copilot in SharePoint",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-5-ways-organizations-improve-business/ba-p/4549704",
+      "date": "2026-08-27T16:28:53.000Z",
+      "snippet": "AI becomes most impactful when it helps with the work teams already do every day. The challenge is rarely a lack of information. It is turning trusted...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Introducing device association for Windows Autopilot device preparation",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603",
+      "date": "2026-08-27T15:00:00.000Z",
+      "snippet": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune\r\nWe’ve heard organizations want Windows deployment to be simple for employees and predict...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69550 Windows App for Mac Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69550",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated CWE value.  This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-66804 Microsoft Windows Cross Device Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66804",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65779 Windows Autopilot Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65779",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68817 Microsoft Excel Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68817",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-65660 Microsoft SharePoint Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65660",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated Impact in the Security Updates table, CVE Title, and FAQs. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70329 Microsoft Outlook Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70329",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50435 Windows Overlay Filter Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50435",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50351 Windows Audio Compression Manager (ACM) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50351",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-42993 Remote Desktop Client Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42993",
+      "date": "2026-08-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Unified Meeting and Call Monitoring Experience in Teams Admin Center ",
+      "link": "https://blog.admindroid.com/unified-meeting-and-call-monitoring-experience-in-teams-admin-center/",
+      "date": "2026-08-27T13:30:31.000Z",
+      "snippet": "Microsoft Teams admin center is introducing a single-pane experience for monitoring and troubleshooting meetings and calls across the organization. Ro...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside Intune Client-Driven Compliance Evaluation for Windows Devices",
+      "link": "https://patchmypc.com/blog/intune-client-driven-compliance-evaluation-for-windows-devices/",
+      "date": "2026-08-27T13:09:05.000Z",
+      "snippet": "Microsoft has announced client-driven compliance evaluation for Windows devices to reduce delays in compliance reporting. Supported Windows devices ca...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Fix Autopilot Device Enrollment Error 80180003 [7 Solutions]",
+      "link": "https://www.prajwaldesai.com/autopilot-device-enrollment-error-80180003/",
+      "date": "2026-08-27T09:12:05.000Z",
+      "snippet": "In this guide, I will provide multiple solutions to resolve Autopilot device enrollment error 80180003. Error code 80180003 during Autopilot means...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -171,14 +423,14 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Connected Plans",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569929",
-      "date": "2026-08-25T23:13:41.000Z",
-      "snippet": "Connected Plans let teams link related plans together to organize work across projects and initiatives. Navigate between connected plans and make rela...",
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Streamlining Enterprise Collaboration - ACP - SharePoint Partner Spotlight",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/streamlining-enterprise-collaboration-acp-sharepoint-partner/ba-p/4550384",
+      "date": "2026-08-26T09:53:02.000Z",
+      "snippet": "Organizations continue to look for faster ways to modernize intranets, improve internal communications, and increase employee engagement. Partners in ...",
       "tags": [
-        "Microsoft 365 Apps"
+        "SharePoint"
       ]
     },
     {
@@ -334,54 +586,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-55137 Microsoft Excel Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55137",
-      "date": "2026-08-25T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50448 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50448",
-      "date": "2026-08-25T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49183 Windows Clipboard Server Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49183",
-      "date": "2026-08-25T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50333",
-      "date": "2026-08-25T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Configure SMB Protocol for Windows File Printer and Network Sharing in Microsoft Intune",
@@ -481,42 +685,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50661 Windows BitLocker Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50661",
-      "date": "2026-08-24T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65787 Desktop Window Manager Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65787",
-      "date": "2026-08-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-47292 Visual Studio Code MSSQL Extension Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47292",
-      "date": "2026-08-24T14:00:00.000Z",
-      "snippet": "Affected software updated with new package information.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Teams Introduces Communicator App for Targeted Announcements",
@@ -583,46 +751,11 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68801 Microsoft Excel Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68801",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-64903 Microsoft Office Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-64903",
-      "date": "2026-08-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Audit and Record User and Device Claims Information in Windows Logon Tokens using Intune Policy",
       "link": "https://www.anoopcnair.com/audit-and-record-user-and-device-claims-intune/",
       "date": "2026-08-21T09:57:10.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows 11 25H2 Upgrade Fails with Error 0x800F0922 Due to Insufficient EFI Partition Space",
-      "link": "https://www.anoopcnair.com/windows-11-25h2-upgrade-fails-error-0x800f0922/",
-      "date": "2026-08-21T08:08:33.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
@@ -899,7 +1032,7 @@
       "title": "Intune Remote Help – The Deep Dive Now That It’s Included In Your E5",
       "link": "https://msendpointmgr.com/2026/08/14/intune-remote-help-the-deep-dive-now-that-its-included-in-your-e5/",
       "date": "2026-08-14T10:08:32.000Z",
-      "snippet": "Microsoft Intune Remote Help is not a brand-new tool. It has been around for a few years as a standalone add-on and as part of the Intune Suite. What ...",
+      "snippet": "Microsoft Intune Remote Help is not a brand-new tool. It has been around for a few years as a standalone add-on and as part of the Intune Suite. What&amp;...",
       "tags": [
         "Intune"
       ]
@@ -1151,17 +1284,6 @@
       ]
     },
     {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Entra Retires the MemberOf Rule Operator for Dynamic Membership Rules",
-      "link": "https://blog.admindroid.com/retirement-of-microsoft-entra-id-memberof-rule-operator/",
-      "date": "2026-08-06T11:44:09.000Z",
-      "snippet": "Microsoft is ending the preview of the memberOf rule operator on November 3, 2026. After this change, dynamic groups, dynamic administrative units, an...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Generate SUP Sync Failure Alerts in your Hierarchy",
@@ -1363,52 +1485,6 @@
       "snippet": "The KB5101684 preview cumulative update for Windows 11 versions 24H2 and 25H2 has been released by Microsoft, and it features more...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Why Intune Devices Became Noncompliant After the July Windows Update",
-      "link": "https://patchmypc.com/blog/why-intune-devices-became-noncompliant-after-the-july-windows-update/",
-      "date": "2026-07-29T13:38:05.000Z",
-      "snippet": "The July Windows update caused newly enrolled devices to appear noncompliant in Intune, even when BitLocker, Secure Boot, and Code Integrity were enab...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Registry Inventory in Microsoft Intune: Verifying What’s on Your Devices",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/registry-inventory-in-microsoft-intune-verifying-what-s-on-your/ba-p/4541312",
-      "date": "2026-07-28T20:59:27.000Z",
-      "snippet": "By: Madison Cooks, Product Manager | Microsoft Intune\r\nIT admins need a reliable way to confirm how Windows devices are configured, especially when tr...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: 10 Custom AI Skills Every SharePoint Site Owner Should Build",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-10-custom-ai-skills-every-sharepoint-site/ba-p/4535414",
-      "date": "2026-07-28T18:34:37.000Z",
-      "snippet": "Every team has repeatable work they want done the right way, not just once, but every time. Copilot can learn the way your team already works, follow ...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.0.1.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-1-0-released/",
-      "date": "2026-07-28T16:00:42.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
