@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T07:24:11.662Z",
-  "count": 126,
+  "lastUpdated": "2026-08-30T13:05:00.607Z",
+  "count": 125,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1407,17 +1407,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 31st July 2026",
-      "link": "https://andrewstaylor.com/2026/07/31/intune-newsletter-31st-july-2026/",
-      "date": "2026-07-31T10:48:08.000Z",
-      "snippet": "How time flies, can you believe it&amp;#8217;s the end of July already!  I had a lovely few days at the beginning of the week at Loch Lomond to fully rech...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
