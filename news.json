@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-30T17:27:25.789Z",
-  "count": 125,
+  "lastUpdated": "2026-08-30T19:57:27.821Z",
+  "count": 124,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -1392,18 +1392,6 @@
       "link": "https://patchmypc.com/blog/intune-on-demand-device-sync-now-uses-ic3-for-ime-workloads/",
       "date": "2026-08-01T15:14:53.000Z",
       "snippet": "In our previous investigation, the improved Device Sync action sent two WNS notifications. One woke WindowsMDMPush so the Windows MDM client could tri...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Systems Center Dudes",
-      "icon": "ph-desktop",
-      "title": "Remove the OneDrive Photos App using Intune",
-      "link": "https://www.systemcenterdudes.com/remove-intune-onedrive-photo-app/",
-      "date": "2026-07-31T18:28:29.000Z",
-      "snippet": "If you manage Windows 11 devices with Intune, you may have recently noticed a new app appearing called OneDrive Photos. It looks like Microsoft has si...",
       "tags": [
         "Intune",
         "Windows"
