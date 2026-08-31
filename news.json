@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T00:43:17.912Z",
-  "count": 119,
+  "lastUpdated": "2026-08-31T06:14:30.829Z",
+  "count": 124,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -619,6 +619,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
+      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
+      "date": "2026-08-24T17:45:00.000Z",
+      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Support for Node 22 LTS ends on April 30, 2027",
@@ -806,6 +817,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
+      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
+      "date": "2026-08-20T11:05:53.000Z",
+      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
@@ -903,6 +925,17 @@
       "snippet": "Multi-tenant agent management in the Microsoft 365 admin center enables enterprise admins and partners to centrally view and manage agents across conn...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Collecting Windows registry data",
+      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
+      "date": "2026-08-17T17:45:00.000Z",
+      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -1085,6 +1118,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Customizing the pinned folders in Start layout",
+      "link": "https://petervanderwoude.nl/post/customizing-the-pinned-folders-in-start-layout/",
+      "date": "2026-08-10T17:45:00.000Z",
+      "snippet": "This week is all about customizing the pinned folders in the Start layout, and is a follow-up on this post about customizing the power options in Star...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "OneDrive Office Hours | August 2026",
@@ -1260,6 +1304,17 @@
       "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
+      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
+      "date": "2026-08-03T21:10:10.000Z",
+      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
+      "tags": [
+        "Defender"
       ]
     },
     {
