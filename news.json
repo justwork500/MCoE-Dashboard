@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-08-31T06:14:30.829Z",
-  "count": 124,
+  "lastUpdated": "2026-08-31T13:55:15.938Z",
+  "count": 125,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Teams Limits External Chat for Default onmicrosoft.com Domains",
+      "link": "https://blog.admindroid.com/external-messaging-limit-for-onmicrosoft-com-domains-in-microsoft-teams/",
+      "date": "2026-08-31T10:34:10.000Z",
+      "snippet": "Microsoft is introducing outbound external messaging limits in Teams for organizations using only the default MOERA (onmicrosoft.com) domain. The limi...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -961,6 +972,18 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Step-by-Step SCCM 2603 Upgrade Guide",
+      "link": "https://www.systemcenterdudes.com/step-by-step-sccm-2603-upgrade-guide/",
+      "date": "2026-08-16T13:36:27.000Z",
+      "snippet": "Microsoft has released Configuration Manager 2603, the latest Current Branch version of Microsoft Configuration Manager. SCCM 2603 was made globally a...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups in DoD",
@@ -1215,17 +1238,6 @@
       "snippet": "Back in 2020, we committed to Manifest Version 3 (MV3) as the future direction of the Chromium extensions platform. Since then, we&#039;ve worked with deve...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Access Microsoft Entra Group Insights with Group Analytics API",
-      "link": "https://blog.admindroid.com/microsoft-graph-groupanalytics-resource-api/",
-      "date": "2026-08-07T13:39:32.000Z",
-      "snippet": "Microsoft Graph’s groupAnalytics API (currently in preview) provides detailed insights into Microsoft Entra ID groups, eliminating the need for comple...",
-      "tags": [
-        "Azure"
       ]
     },
     {
