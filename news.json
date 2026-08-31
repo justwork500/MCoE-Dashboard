@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T19:47:28.963Z",
+  "lastUpdated": "2026-08-31T23:33:11.579Z",
   "count": 127,
   "items": [
     {
@@ -45,66 +45,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-49177 Windows TCP/IP Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49177",
-      "date": "2026-08-31T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-55134 Microsoft Word Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55134",
-      "date": "2026-08-31T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50448 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50448",
-      "date": "2026-08-31T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50344 Windows OLE Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50344",
-      "date": "2026-08-31T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50462 Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50462",
-      "date": "2026-08-31T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -162,6 +102,78 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62889",
       "date": "2026-08-31T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59134 Remote Desktop Client Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59134",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-49177 Windows TCP/IP Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49177",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-55134 Microsoft Word Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55134",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50448 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50448",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50344 Windows OLE Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50344",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50462 Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50462",
+      "date": "2026-08-31T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
       "tags": [
         "Windows",
         "Azure"
@@ -348,18 +360,6 @@
       "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70341",
       "date": "2026-08-28T14:00:00.000Z",
       "snippet": "Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-72984 Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72984",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Access of resource using incompatible type (&#039;type confusion&#039;) in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over ...",
       "tags": [
         "Windows",
         "Azure"
