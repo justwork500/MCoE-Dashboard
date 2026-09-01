@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-09-01T07:47:51.176Z",
-  "count": 128,
+  "lastUpdated": "2026-09-01T22:20:05.127Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Purchase order mapping available in Microsoft Marketplace ",
+      "link": "https://azure.microsoft.com/updates?id=569700",
+      "date": "2026-09-01T18:40:59.000Z",
+      "snippet": "Align Microsoft Marketplace purchases to your business&#039;s accounting needs. Purchase order mapping helps allocate your Microsoft invoice, including Mar...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Firewall auto-learn SNAT routes ",
+      "link": "https://azure.microsoft.com/updates?id=570474",
+      "date": "2026-09-01T17:10:38.000Z",
+      "snippet": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Copilot Observability Agent supports Basic and Auxiliary table plans",
+      "link": "https://azure.microsoft.com/updates?id=570250",
+      "date": "2026-09-01T16:31:14.000Z",
+      "snippet": "Azure Copilot Observability Agent, an\r\nAI-powered operational companion in Azure Monitor, is now covering Log Analytics data\r\nin Basic and Auxiliary t...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan in Azure Government and China regions",
+      "link": "https://azure.microsoft.com/updates?id=569899",
+      "date": "2026-09-01T16:29:24.000Z",
+      "snippet": "The Auxiliary table plan in Azure Monitor Logs is a cost-effective option for ingesting and retaining high-volume, verbose logs used for compliance an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan support for Azure tables and plan switching",
+      "link": "https://azure.microsoft.com/updates?id=569904",
+      "date": "2026-09-01T16:25:33.000Z",
+      "snippet": "The Auxiliary table plan in Azure Monitor Logs gives you a cost-effective way to ingest and retain high-volume, verbose logs that you keep for complia...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Change the Meeting Organizer in Outlook ",
+      "link": "https://blog.admindroid.com/change-meeting-organizer-outlook/",
+      "date": "2026-09-01T13:56:31.000Z",
+      "snippet": "Changing the organizer of a meeting has traditionally been a challenge for Microsoft 365 users. If someone left the organization, changed responsibili...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Delivery Optimization Settings to Control Windows Content Downloads using Intune",
+      "link": "https://www.anoopcnair.com/delivery-optimization-settings-to-intune/",
+      "date": "2026-09-01T13:23:45.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Fix Windows Update Connectivity Issues with Firewall and Proxy Settings",
+      "link": "https://www.anoopcnair.com/fix-windows-update-connectivity-issues-firewall/",
+      "date": "2026-09-01T08:06:51.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -22,6 +110,17 @@
       "snippet": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on aft...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Upcoming changes to classic experiences in SharePoint Online",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/upcoming-changes-to-classic-experiences-in-sharepoint-online/ba-p/4549091",
+      "date": "2026-08-31T20:10:33.000Z",
+      "snippet": "For the latest details, timelines, FAQs, and implementation guidance, read the full&amp;nbsp;Microsoft Learn article.\r\nIn 2016, we introduced modern Share...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -720,17 +819,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Custom block response code and body for Application Gateway WAF ",
-      "link": "https://azure.microsoft.com/updates?id=569504",
-      "date": "2026-08-24T17:25:03.000Z",
-      "snippet": "Announcing the General Availability of custom block response code and body for WAF integrated with Application Gateway Azure WAF integrated with Appli...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
@@ -761,17 +849,6 @@
       "snippet": "Microsoft is introducing a new Communicator app in MS Teams for targeted communications such as training updates, compliance notifications, safety ale...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Web Sign-In for Primary Users to Support Cloud-Based Authentication using Microsoft Intune",
-      "link": "https://www.anoopcnair.com/configure-web-sign-in-for-primary-users/",
-      "date": "2026-08-24T09:33:22.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -819,17 +896,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Audit and Record User and Device Claims Information in Windows Logon Tokens using Intune Policy",
-      "link": "https://www.anoopcnair.com/audit-and-record-user-and-device-claims-intune/",
-      "date": "2026-08-21T09:57:10.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 21st August 2026",
@@ -838,28 +904,6 @@
       "snippet": "Welcome everyone!  This weeks newsletter is coming to you live from Copenhagen and as you read this I will be in a very exciting company event plannin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement",
-      "link": "https://azure.microsoft.com/updates?id=569743",
-      "date": "2026-08-20T17:02:23.000Z",
-      "snippet": "Summarized advertised gateway\r\nprefixes for route advertisement is now generally available. You can specify\r\naggregated (summarized) prefixes for an A...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Azure Copilot introduces direct access to agents",
-      "link": "https://azure.microsoft.com/updates?id=569685",
-      "date": "2026-08-20T16:08:02.000Z",
-      "snippet": "Starting in August 2026, customers can engage directly with Azure Copilot agents to move more quickly from questions to action.With this update:Choose...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -904,28 +948,6 @@
       "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Databricks Lakebase in four additional regions",
-      "link": "https://azure.microsoft.com/updates?id=569684",
-      "date": "2026-08-19T21:04:18.000Z",
-      "snippet": "Lakebase is now generally available in four additional Azure regions: North Central US, France Central, Germany West Central, and East Asia. This expa...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure SQL updates for mid-August 2026 ",
-      "link": "https://azure.microsoft.com/updates?id=569145",
-      "date": "2026-08-19T21:01:47.000Z",
-      "snippet": "In mid-August 2026, the following updates and enhancements were made to Azure SQL: You can customize keyboard shortcuts for Quick Queries, the Results...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1239,17 +1261,6 @@
       "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Teams Live Chat Retirement Ends Website-to-Teams Chat ",
-      "link": "https://blog.admindroid.com/microsoft-teams-live-chat-retirement/",
-      "date": "2026-08-10T08:25:25.000Z",
-      "snippet": "Microsoft is retiring Teams live chat by October 5, 2026. New setups are no longer available as of August 2026. Existing integrations will stop relayi...",
-      "tags": [
-        "Azure"
       ]
     },
     {
