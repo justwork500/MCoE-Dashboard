@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-31T23:33:11.579Z",
-  "count": 127,
+  "lastUpdated": "2026-09-01T02:03:14.622Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Site Skills in Copilot in SharePoint",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570155",
+      "date": "2026-08-31T23:13:25.000Z",
+      "snippet": "The feature introduces enhanced Site Skills management capabilities, including skill editing, version control, publishing, restoration, and cross-site...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Per-disk resiliency for Azure VMs",
+      "link": "https://azure.microsoft.com/updates?id=569711",
+      "date": "2026-08-31T23:11:39.000Z",
+      "snippet": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on aft...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -31,6 +53,17 @@
       "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
       "date": "2026-08-31T17:45:00.000Z",
       "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/from-gpo-to-microsoft-intune-a-practical-guide-to-cloud-first/ba-p/4551946",
+      "date": "2026-08-31T16:44:53.000Z",
+      "snippet": "By: Per Larsen - Senior Product Manager | Microsoft Intune\r\nFor many organizations, Group Policy Objects (GPOs) remain an important part of Windows co...",
       "tags": [
         "Intune"
       ]
@@ -427,17 +460,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569476",
       "date": "2026-08-27T22:38:48.000Z",
       "snippet": "Conditional Coloring highlight tasks based on selected criteria, making priorities, status, and important task details easier to spot.GA date: Septemb...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 admin center: Data Quality Report for Profile Data",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568937",
-      "date": "2026-08-27T22:38:48.000Z",
-      "snippet": "Microsoft 365 Organizational Data Services is introducing a new data quality report that helps administrators assess the coverage and health of people...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -918,17 +940,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: SQL Formatter in MSSQL extension ",
-      "link": "https://azure.microsoft.com/updates?id=569155",
-      "date": "2026-08-19T21:00:19.000Z",
-      "snippet": "With SQL Formatter, you can format SQL scripts directly in your editor for cleaner, more consistent, and readable code. Now in public preview, it incl...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
@@ -982,6 +993,17 @@
       "snippet": "Multi-tenant agent management in the Microsoft 365 admin center enables enterprise admins and partners to centrally view and manage agents across conn...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Temporarily pause all notifications",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
+      "date": "2026-08-17T22:52:47.000Z",
+      "snippet": "Users can now temporarily pause all notifications to minimize interruptions and stay focused on important work, meetings, or other priorities, without...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
