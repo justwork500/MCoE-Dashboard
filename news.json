@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T02:03:14.622Z",
-  "count": 129,
+  "lastUpdated": "2026-09-01T07:47:51.176Z",
+  "count": 128,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -53,17 +53,6 @@
       "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
       "date": "2026-08-31T17:45:00.000Z",
       "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/from-gpo-to-microsoft-intune-a-practical-guide-to-cloud-first/ba-p/4551946",
-      "date": "2026-08-31T16:44:53.000Z",
-      "snippet": "By: Per Larsen - Senior Product Manager | Microsoft Intune\r\nFor many organizations, Group Policy Objects (GPOs) remain an important part of Windows co...",
       "tags": [
         "Intune"
       ]
