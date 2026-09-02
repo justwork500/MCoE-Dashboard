@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-09-01T22:20:05.127Z",
-  "count": 129,
+  "lastUpdated": "2026-09-02T09:14:45.968Z",
+  "count": 122,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Microsoft Defender for Cloud support for Azure Container Apps (Serverless Containers Posture)",
+      "link": "https://azure.microsoft.com/updates?id=570282",
+      "date": "2026-09-01T22:34:43.000Z",
+      "snippet": "Customers can now bring Azure Container Apps environments into Microsoft Defender for Cloud’s Serverless Containers Posture experience, helping securi...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Windows Server 2025 on AKS",
+      "link": "https://azure.microsoft.com/updates?id=570090",
+      "date": "2026-09-01T22:31:50.000Z",
+      "snippet": "Organizations running Windows-based workloads on Azure Kubernetes Service (AKS) face increasing pressure to modernize as support timelines for older W...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Artifact Streaming on AKS",
+      "link": "https://azure.microsoft.com/updates?id=570095",
+      "date": "2026-09-01T22:30:59.000Z",
+      "snippet": "You can now accelerate your containerized workloads on Azure Kubernetes Service (AKS) using Azure Container Registry (ACR) with Artifact streaming. Ar...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Confidential VMs for Azure Linux",
+      "link": "https://azure.microsoft.com/updates?id=570100",
+      "date": "2026-09-01T22:30:18.000Z",
+      "snippet": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and e...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
+      "date": "2026-09-01T22:26:45.000Z",
+      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -22,6 +77,17 @@
       "snippet": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
+      "date": "2026-09-01T17:00:17.000Z",
+      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -80,6 +146,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Flexible Sections just got more predictable and easier to use",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-flexible-sections-just-got-more-predictable-and/ba-p/4548566",
+      "date": "2026-09-01T08:33:57.000Z",
+      "snippet": "Flexible Sections give SharePoint page authors the freedom to build layouts without a strict column structure, resizing, moving, and overlapping web p...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Fix Windows Update Connectivity Issues with Firewall and Proxy Settings",
@@ -88,17 +165,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: Site Skills in Copilot in SharePoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570155",
-      "date": "2026-08-31T23:13:25.000Z",
-      "snippet": "The feature introduces enhanced Site Skills management capabilities, including skill editing, version control, publishing, restoration, and cross-site...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -152,6 +218,17 @@
       "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
       "date": "2026-08-31T17:45:00.000Z",
       "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/from-gpo-to-microsoft-intune-a-practical-guide-to-cloud-first/ba-p/4551946",
+      "date": "2026-08-31T16:44:53.000Z",
+      "snippet": "By: Per Larsen - Senior Product Manager | Microsoft Intune\r\nFor many organizations, Group Policy Objects (GPOs) remain an important part of Windows co...",
       "tags": [
         "Intune"
       ]
@@ -348,17 +425,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Enable agents for existing applications in your organization",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569608",
-      "date": "2026-08-28T21:59:29.000Z",
-      "snippet": "For third-party applications already being used in your organization, admins can now discover and enable the corresponding Teams agents from within th...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
@@ -506,61 +572,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Agent Sharing amongst makers",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569475",
-      "date": "2026-08-27T22:38:48.000Z",
-      "snippet": "Enables sharing of agents with other makers in the new GHCP harness. Makers can grant other makers Agent Viewer (view analytics/evaluations only) or E...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Campaigns Hub in Engage and Engage in Teams mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570157",
-      "date": "2026-08-27T22:38:48.000Z",
-      "snippet": "The Campaigns Hub in Viva Engage provides a centralized mobile destination where employees can discover and participate in organizational campaigns. A...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Offline settings &quot;Days of email to save&quot; admin policy",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570069",
-      "date": "2026-08-27T22:38:48.000Z",
-      "snippet": "Tenant admins will be able to define the default value for &quot;Days of email to save&quot; in Offline settings and designate whether end users can change the ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Conditional Coloring",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569476",
-      "date": "2026-08-27T22:38:48.000Z",
-      "snippet": "Conditional Coloring highlight tasks based on selected criteria, making priorities, status, and important task details easier to spot.GA date: Septemb...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
-      "date": "2026-08-27T17:45:28.000Z",
-      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -731,17 +742,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs ",
-      "link": "https://azure.microsoft.com/updates?id=569546",
-      "date": "2026-08-25T18:05:54.000Z",
-      "snippet": "Azure announces the general availability of 248 and 372 vCPU Dl/D/E v7 VM sizes, powered by Intel® Xeon® 6 processors. These general-purpose and memor...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Remote Help on Windows: Unattended Support with Remote Sign-In Is Here",
@@ -775,28 +775,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server ",
-      "link": "https://azure.microsoft.com/updates?id=569526",
-      "date": "2026-08-24T19:15:05.000Z",
-      "snippet": "Extended Support for Azure Database for PostgreSQL Flexible Server helps you maintain secure, supported workloads while transitioning to newer Postgre...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS",
-      "link": "https://azure.microsoft.com/updates?id=569873",
-      "date": "2026-08-24T18:36:01.000Z",
-      "snippet": "eBPF Host Routing in Advanced\r\nContainer Networking Services for Azure Kubernetes Service (AKS) is now\r\ngenerally available. eBPF Host Routing improve...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Managing Apple Intelligence on iOS and iPadOS devices",
@@ -805,17 +783,6 @@
       "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for Node 22 LTS ends on April 30, 2027",
-      "link": "https://azure.microsoft.com/updates?id=567334",
-      "date": "2026-08-24T17:30:43.000Z",
-      "snippet": "On April 30 2027, support for Node 22 LTS will end. Your apps that are hosted on App\r\nService will continue to run, but security updates will no longe...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -871,17 +838,6 @@
       "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Introducing EWSAllowedAppIDs: Preparing for the Final Phase of EWS Retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471",
-      "date": "2026-08-21T22:45:58.000Z",
-      "snippet": "Exchange Web Services (EWS) retirement in Exchange Online is entering its final phase. Over the last several years, Microsoft has worked with product ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1007,17 +963,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Temporarily pause all notifications",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569205",
-      "date": "2026-08-17T22:52:47.000Z",
-      "snippet": "Users can now temporarily pause all notifications to minimize interruptions and stay focused on important work, meetings, or other priorities, without...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Collecting Windows registry data",
@@ -1060,28 +1005,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups in DoD",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569434",
-      "date": "2026-08-14T21:56:10.000Z",
-      "snippet": "App centric management introduces new admin settings to control who in the tenant can install Teams apps. First, admins can set a default value for ne...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups in GCC High",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569433",
-      "date": "2026-08-14T21:56:10.000Z",
-      "snippet": "App centric management introduces new admin settings to control who in the tenant can install Teams apps. First, admins can set a default value for ne...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1287,6 +1210,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Intelligent call recaps in Queues app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569017",
+      "date": "2026-08-07T21:45:15.000Z",
+      "snippet": "Spend less time catching up on call recordings to resolve customer issues faster. For recorded call queue calls, the Queues app now supports intellige...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
@@ -1320,6 +1254,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Use Copilot Chat after a call in Queues app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568933",
+      "date": "2026-08-06T22:54:24.000Z",
+      "snippet": "After a recorded call is completed, use Copilot in the Queues app to quickly catch up on key details, uncover insights, and resolve customer issues fa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "What&#039;s New in Copilot in SharePoint: August 2026",
@@ -1328,17 +1273,6 @@
       "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Badges in Profile Card in Teams",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568078",
-      "date": "2026-08-05T22:47:32.000Z",
-      "snippet": "You can now see Awards and Certifications as badges on a user’s profile card, bringing a more consistent experience across Teams and Outlook.GA date: ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1373,17 +1307,6 @@
       "snippet": "At a glance\nEdge for Business security connectors extend your security tools into the browser, so you gain visibility and enforcement where work happe...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Viva Glint - Copilot admin configuration assistance",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=567320",
-      "date": "2026-08-03T22:55:03.000Z",
-      "snippet": "A Copilot-powered conversational assistant embedded in the Viva Glint admin experience that answers configuration and how-to questions and provides st...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
