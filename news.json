@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-02T19:58:18.476Z",
+  "lastUpdated": "2026-09-02T22:24:59.438Z",
   "count": 119,
   "items": [
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Office Hours | September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-september-2026/ba-p/4545699",
+      "date": "2026-09-02T21:55:18.000Z",
+      "snippet": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how th...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
+      "date": "2026-09-02T17:31:16.000Z",
+      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -232,17 +254,6 @@
       "snippet": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and e...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
-      "date": "2026-09-01T22:26:45.000Z",
-      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1329,17 +1340,6 @@
       "snippet": "At a glance\nEdge for Business security connectors extend your security tools into the browser, so you gain visibility and enforcement where work happe...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender Threat Intelligence: Native Defender Integration and API Access",
-      "link": "https://jeffreyappel.nl/microsoft-defender-threat-intelligence-native-defender-integration-and-api-access/",
-      "date": "2026-08-03T21:10:10.000Z",
-      "snippet": "Previously, Microsoft Defender Threat Intelligence (MDTI) was offered as a separate product and portal experience. Organizations that wanted access to...",
-      "tags": [
-        "Defender"
       ]
     }
   ]
