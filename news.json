@@ -1,7 +1,136 @@
 {
-  "lastUpdated": "2026-09-02T09:14:45.968Z",
-  "count": 122,
+  "lastUpdated": "2026-09-02T17:23:33.673Z",
+  "count": 118,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Front Door profile and route level WAF policies",
+      "link": "https://azure.microsoft.com/updates?id=569804",
+      "date": "2026-09-02T17:00:51.000Z",
+      "snippet": "Azure Front\r\nDoor’s Web Application Firewall (WAF) now supports profile and route level WAF\r\npolicy associations in public preview. This gives you mor...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL ",
+      "link": "https://azure.microsoft.com/updates?id=569653",
+      "date": "2026-09-02T16:59:15.000Z",
+      "snippet": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70335 GitHub Copilot and Visual Studio Code Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70335",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-47285 Visual Studio Code Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47285",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-58650 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58650",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-59113 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59113",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69278 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69278",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69306 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69306",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69320 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69320",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70336 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70336",
+      "date": "2026-09-02T14:00:00.000Z",
+      "snippet": "Affected software updated with new package information.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Bulk Enrollment for Windows 11 Devices in Intune using Provisioning Package",
+      "link": "https://www.prajwaldesai.com/bulk-enrollment-for-windows-11-devices-in-intune-using-provisioning-package/",
+      "date": "2026-09-02T09:53:41.000Z",
+      "snippet": "This step-by-step guide covers the process of bulk enrollment for Windows 11 devices in Intune using a provisioning package. Organizations can...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -44,17 +173,6 @@
       "snippet": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and e...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
-      "date": "2026-09-01T22:26:45.000Z",
-      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -143,17 +261,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Flexible Sections just got more predictable and easier to use",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-flexible-sections-just-got-more-predictable-and/ba-p/4548566",
-      "date": "2026-09-01T08:33:57.000Z",
-      "snippet": "Flexible Sections give SharePoint page authors the freedom to build layouts without a strict column structure, resizing, moving, and overlapping web p...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
@@ -413,18 +520,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68821 Windows Package Manager Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68821",
-      "date": "2026-08-29T14:00:00.000Z",
-      "snippet": "Changes made to the security updates links and information.  This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure",
@@ -469,90 +564,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70331 Microsoft Edge for iOS Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70331",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Improper neutralization of input used for llm prompting in Microsoft Edge for iOS allows an unauthorized attacker to perform spoofing over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-58616 Copilot Chat (Microsoft Edge) Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58616",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Concurrent execution using shared resource with improper synchronization (&#039;race condition&#039;) in Copilot Chat (Microsoft Edge) allows an authorized atta...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62904 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62904",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Incorrect authorization in Microsoft Edge (Chromium-based) allows an unauthorized attacker to disclose information over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66323 Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66323",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Improper neutralization of parameter/argument delimiters in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a net...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66324 Microsoft Edge (Chromium-based) Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66324",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "External control of file name or path in Microsoft Edge (Chromium-based) allows an unauthorized attacker to perform spoofing over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66798 Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66798",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Use after free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70341 Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70341",
-      "date": "2026-08-28T14:00:00.000Z",
-      "snippet": "Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 28th August 2026",
@@ -572,6 +583,17 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
+      "date": "2026-08-27T17:45:28.000Z",
+      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -698,17 +720,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure SRE Agent 30-Day Trial",
-      "link": "https://azure.microsoft.com/updates?id=569760",
-      "date": "2026-08-26T16:50:22.000Z",
-      "snippet": "New customers can now get started with Azure SRE Agent through a 30-day trial experience. During the trial, customers can create SRE Agents and connec...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Detect Active Directory Privilege Escalation Paths Using BloodHound",
@@ -728,17 +739,6 @@
       "snippet": "Organizations continue to look for faster ways to modernize intranets, improve internal communications, and increase employee engagement. Partners in ...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Aspire 13.5 has shipped",
-      "link": "https://azure.microsoft.com/updates?id=569910",
-      "date": "2026-08-25T19:55:34.000Z",
-      "snippet": "Aspire 13.5 refreshes the dashboard and aspire.dev, expands the Interaction Service, adds cross-scope Azure references and persistent Kubernetes volum...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1329,52 +1329,6 @@
       "snippet": "Our team just wrapped up the M365 Community Conference in Orlando, FL, and it was an incredible way to close out April! Our teams were energized by co...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.0.3.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-3-0-released/",
-      "date": "2026-08-03T16:25:59.000Z",
-      "snippet": "This release contains a variety of fixes, as noted below. This will be made available via the self-update channel over the coming days. You can upgrad...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch Management after Ivanti DSM End of Life: What DSM Customers Need to Know Before 2027",
-      "link": "https://patchmypc.com/blog/ivanti-dsm-end-of-life/",
-      "date": "2026-08-03T15:59:00.000Z",
-      "snippet": "Ivanti DSM reaches end of life on December 31, 2026. Learn how to plan your Ivanti DSM migration, compare replacement options, move applications and e...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Writeback for Cloud-Managed Remote Mailboxes: Now in Public Preview",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/writeback-for-cloud-managed-remote-mailboxes-now-in-public/ba-p/4520138",
-      "date": "2026-08-03T13:26:53.000Z",
-      "snippet": "Update: 8/3/2026: Writeback for Cloud-Managed Remote Mailboxes: Now Generally Available | Microsoft Community Hub.\r\nIn our previous posts, we announce...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Writeback for Cloud-Managed Remote Mailboxes: Now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/writeback-for-cloud-managed-remote-mailboxes-now-generally/ba-p/4543507",
-      "date": "2026-08-03T12:58:46.000Z",
-      "snippet": "In May, we announced the Public Preview of Writeback for Cloud-Managed Remote Mailboxes. Since then, many customers have enabled this feature and shar...",
-      "tags": [
-        "Exchange"
       ]
     }
   ]
