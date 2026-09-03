@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-03T00:27:05.078Z",
-  "count": 122,
+  "lastUpdated": "2026-09-03T04:51:56.106Z",
+  "count": 124,
   "items": [
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "What&#039;s New in Copilot in SharePoint: September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-september-2026/ba-p/4535422",
+      "date": "2026-09-02T23:26:40.000Z",
+      "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint helps you do more with your content — ask questions, run workflows...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -44,6 +55,17 @@
       "snippet": "Copilot Studio is evolving to an app-first agent creation experience. Makers start with the application their agent will work with and configure the c...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Office Hours | September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-september-2026/ba-p/4545699",
+      "date": "2026-09-02T21:55:18.000Z",
+      "snippet": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how th...",
+      "tags": [
+        "OneDrive"
       ]
     },
     {
