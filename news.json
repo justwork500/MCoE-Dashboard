@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-03T04:51:56.106Z",
-  "count": 124,
+  "lastUpdated": "2026-09-03T13:43:52.309Z",
+  "count": 125,
   "items": [
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Introducing SharePoint News and Viva Engage cross-posting",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-sharepoint-news-and-viva-engage-cross-posting/ba-p/4548258",
+      "date": "2026-09-03T10:15:45.000Z",
+      "snippet": "SharePoint helps communicators create rich, engaging stories, announcements or news posts for their organizations. Viva Engage helps those stories tra...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Azure Virtual Desktop Hybrid to Run Session Hosts On-Premises Without Full Cloud Migration",
+      "link": "https://www.anoopcnair.com/azure-virtual-desktop-hybrid-run-session-hosts/",
+      "date": "2026-09-03T09:33:41.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
@@ -857,17 +879,6 @@
       "title": "Configure SMB Protocol for Windows File Printer and Network Sharing in Microsoft Intune",
       "link": "https://www.anoopcnair.com/configure-smb-protocol-for-windows-file-printer/",
       "date": "2026-08-25T09:32:47.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Disable Randomized MAC Addresses for Wi-Fi on macOS Devices using Intune",
-      "link": "https://www.anoopcnair.com/randomized-mac-addresses-for-wi-fi-on-macos/",
-      "date": "2026-08-25T05:05:35.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
