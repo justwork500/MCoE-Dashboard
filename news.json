@@ -1,16 +1,49 @@
 {
-  "lastUpdated": "2026-09-02T22:24:59.438Z",
-  "count": 119,
+  "lastUpdated": "2026-09-03T00:27:05.078Z",
+  "count": 122,
   "items": [
     {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Office Hours | September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-september-2026/ba-p/4545699",
-      "date": "2026-09-02T21:55:18.000Z",
-      "snippet": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how th...",
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Automatic recording and transcription choices align with admin policies",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570468",
+      "date": "2026-09-02T22:56:59.000Z",
+      "snippet": "Meeting organizers will only see automatic recording and transcription choices in Meeting Options that are allowed by their organization&#039;s existing me...",
       "tags": [
-        "OneDrive"
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Admins can control profanity filtering in meeting transcripts",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570467",
+      "date": "2026-09-02T22:56:59.000Z",
+      "snippet": "Teams administrators will be able to use a meeting policy to control whether profane words are masked in live transcription and saved meeting transcri...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Deliver rich interactive app experiences in Copilot Studio agents",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570433",
+      "date": "2026-09-02T22:56:59.000Z",
+      "snippet": "Copilot Studio agents can now render rich, interactive UI inline using MCP Apps, an extension of the Model Context Protocol. When an agent calls a UI-...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Introducing an App- and Intent-First Agent Creation Experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569474",
+      "date": "2026-09-02T22:56:59.000Z",
+      "snippet": "Copilot Studio is evolving to an app-first agent creation experience. Makers start with the application their agent will work with and configure the c...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -210,6 +243,17 @@
       "snippet": "This step-by-step guide covers the process of bulk enrollment for Windows 11 devices in Intune using a provisioning package. Organizations can...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Copilot Chat for chats, channels, calls, and meetings in GCC, GCC High, and DoD",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569214",
+      "date": "2026-09-01T22:59:38.000Z",
+      "snippet": "Copilot Chat will soon be available across chats, channels, calls, and meetings, helping users stay informed and catch up quickly.GA date: October CY2...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -896,6 +940,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Report a Message or an External User for Security Concern in Gov Clouds",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569609",
+      "date": "2026-08-20T22:38:45.000Z",
+      "snippet": "Users in Gov clouds can now report suspicious messages and external users within Teams. Reports are surfaced in the Teams admin center, giving admins ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "How to Collect Windows Registry Data using Intune",
@@ -1243,17 +1298,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Intelligent call recaps in Queues app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569017",
-      "date": "2026-08-07T21:45:15.000Z",
-      "snippet": "Spend less time catching up on call recordings to resolve customer issues faster. For recorded call queue calls, the Queues app now supports intellige...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Unified Communications as a Service",
@@ -1284,17 +1328,6 @@
       "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Use Copilot Chat after a call in Queues app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568933",
-      "date": "2026-08-06T22:54:24.000Z",
-      "snippet": "After a recorded call is completed, use Copilot in the Queues app to quickly catch up on key details, uncover insights, and resolve customer issues fa...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
