@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-04T09:22:41.365Z",
-  "count": 108,
+  "lastUpdated": "2026-09-04T17:05:14.945Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 4th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/04/intune-newsletter-4th-september-2026/",
+      "date": "2026-09-04T11:07:48.000Z",
+      "snippet": "September has arrived and with it comes both the conference season and a LOT of rain.  Congratulations to the new Intune MVPs this week, especially Ni...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -12,6 +23,186 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84358 Improper privilege management in Downloads",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84358",
+      "date": "2026-09-03T23:59:24.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84354 Incorrect authorization in FileSystem",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84354",
+      "date": "2026-09-03T23:59:12.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84348 Information leak in MediaCapture",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84348",
+      "date": "2026-09-03T23:58:55.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84347 Use after free in WebRTC",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84347",
+      "date": "2026-09-03T23:58:53.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84335 Incorrect authorization in TabStrip",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84335",
+      "date": "2026-09-03T23:58:50.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84334 Incorrect authorization in Chromoting",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84334",
+      "date": "2026-09-03T23:58:47.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84332 Incorrect authorization in SiteSettings",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84332",
+      "date": "2026-09-03T23:58:42.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84331 Incorrect authorization in Actor",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84331",
+      "date": "2026-09-03T23:58:39.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84329 Confused deputy in CredentialProvider",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84329",
+      "date": "2026-09-03T23:58:34.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84328 Missing authorization in FileSystem",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84328",
+      "date": "2026-09-03T23:58:31.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84327 Incorrect authorization in Autofill",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84327",
+      "date": "2026-09-03T23:58:28.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84326 Uninitialized resource in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84326",
+      "date": "2026-09-03T23:58:26.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84325 Improper input validation in DataTransfer",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84325",
+      "date": "2026-09-03T23:58:23.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84324 Use after free in Proxy",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84324",
+      "date": "2026-09-03T23:58:20.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84323 Missing authorization in FileSystem",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84323",
+      "date": "2026-09-03T23:58:17.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -81,14 +272,63 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-03T15:15:42.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62906 Microsoft Discovery Studio Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62906",
+      "date": "2026-09-03T14:00:00.000Z",
+      "snippet": "Improper neutralization of special elements in data query logic in Microsoft Discovery Studio allows an unauthorized attacker to disclose information ...",
       "tags": [
-        "Exchange"
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70178 Microsoft Fabric Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70178",
+      "date": "2026-09-03T14:00:00.000Z",
+      "snippet": "Missing authorization in Microsoft Fabric allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70352 Azure AI Language Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70352",
+      "date": "2026-09-03T14:00:00.000Z",
+      "snippet": "Missing authentication for critical function in Azure AI Language allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-80098 Copilot Studio Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80098",
+      "date": "2026-09-03T14:00:00.000Z",
+      "snippet": "Improper verification of cryptographic signature in Copilot Studio allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83711 Microsoft Azure Active Directory B2C Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83711",
+      "date": "2026-09-03T14:00:00.000Z",
+      "snippet": "Authorization bypass through user-controlled key in Microsoft Azure Active Directory B2C allows an unauthorized attacker to elevate privileges over a ...",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -518,6 +758,17 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
       "date": "2026-08-28T19:23:17.000Z",
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-08-28T19:03:00.000Z",
+      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
       ]
@@ -1188,17 +1439,6 @@
       "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Generate SUP Sync Failure Alerts in your Hierarchy",
-      "link": "https://www.prajwaldesai.com/sup-sync-failure-alerts/",
-      "date": "2026-08-05T10:52:51.000Z",
-      "snippet": "In this guide, I will explain how you can generate SUP sync failure alerts in your Configuration Manager hierarchy so that...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
