@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-04T00:20:12.707Z",
-  "count": 128,
+  "lastUpdated": "2026-09-04T04:54:19.865Z",
+  "count": 127,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -235,17 +235,6 @@
       "snippet": "The Interop 2027 call for proposals is open, submit your ideas now!\nOver the past six years, the I\nThe post Calling for Interop 2027 proposals appeare...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Microsoft Teams Rooms: Platform choice delivers flexibility for your spaces",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-platform-choice-delivers-flexibility-for/ba-p/4552748",
-      "date": "2026-09-03T15:30:40.000Z",
-      "snippet": "Microsoft Teams Rooms gives organizations the flexibility to create high-quality collaboration experiences across meeting spaces of every kind and siz...",
-      "tags": [
-        "Teams"
       ]
     },
     {
