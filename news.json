@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-05T10:24:21.461Z",
-  "count": 132,
+  "lastUpdated": "2026-09-05T13:30:00.722Z",
+  "count": 130,
   "items": [
     {
       "source": "MSEndpointMgr",
@@ -325,17 +325,6 @@
       "snippet": "The Interop 2027 call for proposals is open, submit your ideas now!\nOver the past six years, the I\nThe post Calling for Interop 2027 proposals appeare...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "PPCC 2026: Bringing AI and your business processes together",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
-      "date": "2026-09-03T15:00:00.000Z",
-      "snippet": "Every enterprise runs on business processes, but it&#039;s the people that provide judgment, manage exceptions, and often connect systems that were never d...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1473,17 +1462,6 @@
       "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "What&#039;s New in Copilot in SharePoint: August 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-august-2026/ba-p/4535421",
-      "date": "2026-08-06T13:00:00.000Z",
-      "snippet": "Copilot in SharePoint helps you do more with your content — ask questions, run workflows, and create sites, pages, interactive reports, and Office fil...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
