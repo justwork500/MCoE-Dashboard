@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T08:55:06.110Z",
+  "lastUpdated": "2026-09-06T12:31:43.034Z",
   "count": 131,
   "items": [
     {
@@ -337,6 +337,17 @@
       "snippet": "The Interop 2027 call for proposals is open, submit your ideas now!\nOver the past six years, the I\nThe post Calling for Interop 2027 proposals appeare...",
       "tags": [
         "Edge"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "PPCC 2026: Bringing AI and your business processes together",
+      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+      "date": "2026-09-03T15:00:00.000Z",
+      "snippet": "Every enterprise runs on business processes, but it&#039;s the people that provide judgment, manage exceptions, and often connect systems that were never d...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1463,17 +1474,6 @@
       "snippet": "Back in 2020, we committed to Manifest Version 3 (MV3) as the future direction of the Chromium extensions platform. Since then, we&#039;ve worked with deve...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 7th August 2026",
-      "link": "https://andrewstaylor.com/2026/08/07/intune-newsletter-7th-august-2026/",
-      "date": "2026-08-07T10:59:51.000Z",
-      "snippet": "Back again already, some weeks I feel like I finish putting together one newsletter and immediately start the next!  A slightly lighter week this week...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
