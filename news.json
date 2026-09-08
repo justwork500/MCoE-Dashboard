@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-08T06:10:32.550Z",
-  "count": 130,
+  "lastUpdated": "2026-09-08T11:15:12.177Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "SQL Query to List Installed Software from Add or Remove Programs for SCCM Clients",
+      "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
+      "date": "2026-09-08T09:34:51.000Z",
+      "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Deploy Azure Virtual Desktop Agents for Remote Help using Intune",
+      "link": "https://www.anoopcnair.com/azure-virtual-desktop-agents-for-remote-intune/",
+      "date": "2026-09-08T06:34:03.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
@@ -727,17 +749,6 @@
       "snippet": "Flexible Sections give SharePoint page authors the freedom to build layouts without a strict column structure, resizing, moving, and overlapping web p...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Fix Windows Update Connectivity Issues with Firewall and Proxy Settings",
-      "link": "https://www.anoopcnair.com/fix-windows-update-connectivity-issues-firewall/",
-      "date": "2026-09-01T08:06:51.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
