@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-09-09T11:39:31.605Z",
-  "count": 133,
+  "lastUpdated": "2026-09-09T18:45:20.834Z",
+  "count": 130,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-85046 Type confusion in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85046",
+      "date": "2026-09-09T22:09:50.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5124008 Patch Tuesday Update for September 2026 Released",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5124008-patch-tuesday-update/",
+      "date": "2026-09-09T12:09:12.000Z",
+      "snippet": "Microsoft has released KB5124008 as part of the September 2026 Patch Tuesday rollout for Windows 11 versions 24H2 and 25H2. The...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -423,18 +446,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77482",
       "date": "2026-09-08T14:00:00.000Z",
       "snippet": "Heap-based buffer overflow in SQL Server allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-57098 Microsoft Remote Desktop App for Windows Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57098",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Improper verification of cryptographic signature in Windows RDP Client allows an unauthorized attacker to disclose information over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -1451,50 +1462,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Customizing the pinned folders in Start layout",
-      "link": "https://petervanderwoude.nl/post/customizing-the-pinned-folders-in-start-layout/",
-      "date": "2026-08-10T17:45:00.000Z",
-      "snippet": "This week is all about customizing the pinned folders in the Start layout, and is a follow-up on this post about customizing the power options in Star...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Office Hours | August 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-august-2026/ba-p/4542927",
-      "date": "2026-08-10T16:24:26.000Z",
-      "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
-      "tags": [
-        "OneDrive"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What’s New in Microsoft Teams | July 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510",
-      "date": "2026-08-10T16:23:16.000Z",
-      "snippet": "I hope everyone is having a great summer - July has flown by. As we head into the second half of the year, we&#039;re continuing to innovate in Teams to he...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Focus on the Teams Phone calls that matter most with intelligent call delegation",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/focus-on-the-teams-phone-calls-that-matter-most-with-intelligent/ba-p/4512533",
-      "date": "2026-08-10T16:06:57.000Z",
-      "snippet": "Incoming calls don’t wait for a break in your day. Whether you’re leading a meeting or juggling back-to-back commitments, every new call creates the s...",
-      "tags": [
-        "Teams"
       ]
     }
   ]
