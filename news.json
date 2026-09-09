@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-09T06:18:03.452Z",
+  "lastUpdated": "2026-09-09T11:39:31.605Z",
   "count": 133,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Free Active Directory Management Tools  ",
+      "link": "https://blog.admindroid.com/free-active-directory-management-tools/",
+      "date": "2026-09-09T10:28:22.000Z",
+      "snippet": "Discover 12 free Active Directory management tools that help IT admins automate tasks, generate reports, monitor directory health, and perform securit...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -1383,17 +1394,6 @@
       "snippet": "Microsoft has released Windows 11 KB5121003, the August 2026 Patch Tuesday cumulative update for Windows 11 versions 24H2 and 25H2. This...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Project Management System Using Power Apps ",
-      "link": "https://blog.admindroid.com/project-management-system-using-power-apps/",
-      "date": "2026-08-12T10:29:39.000Z",
-      "snippet": "Project information is often distributed across spreadsheets, lists, Teams chats, and emails, making it challenging to manage tasks, updates, and dead...",
-      "tags": [
-        "Azure"
       ]
     },
     {
