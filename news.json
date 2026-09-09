@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-08T23:30:33.695Z",
-  "count": 130,
+  "lastUpdated": "2026-09-09T06:18:03.452Z",
+  "count": 133,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Copilot Analytics - Agent value insights in Agent 365 Dashboard",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570847",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "Customers can now view value insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). These insights help business leaders ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention for Microsoft Cowork",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570845",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "Microsoft Purview Data Loss Prevention (DLP) is expanding to Microsoft Cowork, enabling data security admins to use a single policy across Microsoft 3...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365: Teams Channel Backup",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570668",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "A backup and recovery feature that lets you recover team &amp;amp; channel data (like files, messages exchanged over channels) in Microsoft Teams to a pre...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Sync support for up to 1 million items on macOS",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570448",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "OneDrive Sync supports syncing up to 1 million items on macOS devices, helping teams manage large document libraries and shared content at scale witho...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Viva Glint - Survey taking experience refinements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570429",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "This feature is a collection of improvements including updates to the auto-save experience for comments, simplifying survey navigation through buttons...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Meeting Shared Files",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570427",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "The new Meeting Shared Files feature allows users to add relevant files and links to their meeting for easy access and to automatically share that con...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Add times to task start, finish, and due dates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570153",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "Add specific times to task start, finish, and due dates. Define a plan’s time zone and working hours to automatically provide default task times and c...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Task History",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569933",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "Task History helps keep teams up to date on changes made to a task. View recent activity to see what changed, when it changed, and track progress over...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: August 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
+      "date": "2026-09-08T20:41:07.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: September 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-september-2026-exchange-server-security-updates/ba-p/4554411",
+      "date": "2026-09-08T20:40:02.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -58,6 +168,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Exchange Server AD FS Modern Authentication: Expanded Outlook client support",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-ad-fs-modern-authentication-expanded-outlook/ba-p/4554410",
+      "date": "2026-09-08T14:14:41.000Z",
+      "snippet": "We are pleased to announce expanded Outlook client support for Exchange Server AD FS Modern Authentication.\r\nIn our previous update, we announced broa...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Keep Android Device Screens on While Charging for Continuous Visibility using Intune Policy",
@@ -71,10 +192,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-50696 Internet Key Exchange (IKE) Protocol Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50696",
+      "title": "CVE-2026-62706 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62706",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
+      "snippet": "Out-of-bounds read in Microsoft Windows Media Foundation allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -83,10 +204,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-54990 Remote Desktop Client Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54990",
+      "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Acknowledgement Updated",
+      "snippet": "Use after free in Windows Installer allows an authorized attacker to elevate privileges locally.",
       "tags": [
         "Windows",
         "Azure"
@@ -95,10 +216,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-50453 Windows USB Audio Class Driver Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50453",
+      "title": "CVE-2026-62744 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62744",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "snippet": "Heap-based buffer overflow in Microsoft Windows Media Foundation allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -107,10 +228,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-57085 Windows Print Spooler Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57085",
+      "title": "CVE-2026-66304 Skype for Business Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66304",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "snippet": "Server-side request forgery (ssrf) in Skype for Business allows an unauthorized attacker to disclose information over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -119,10 +240,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62718 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62718",
+      "title": "CVE-2026-66302 Skype for Business Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66302",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "External control of file name or path in Skype for Business allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -131,10 +252,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62715 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62715",
+      "title": "CVE-2026-66306 Skype for Business Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66306",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Generation of error message containing sensitive information in Skype for Business allows an unauthorized attacker to disclose information over a netw...",
       "tags": [
         "Windows",
         "Azure"
@@ -143,10 +264,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62716 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62716",
+      "title": "CVE-2026-66308 Skype for Business and Lync Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66308",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Out-of-bounds read in Skype for Business allows an authorized attacker to deny service over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -155,10 +276,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62742 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62742",
+      "title": "CVE-2026-62895 Azure Arc SQL Server Extension Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62895",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Permissive cross-domain policy with untrusted domains in Azure Arc allows an unauthorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -167,10 +288,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62745 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62745",
+      "title": "CVE-2026-69341 Windows Image Acquisition Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69341",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Use after free in Windows Image Acquisition allows an authorized attacker to elevate privileges locally.",
       "tags": [
         "Windows",
         "Azure"
@@ -179,10 +300,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62787 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62787",
+      "title": "CVE-2026-69522 .NET and Visual Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69522",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Heap-based buffer overflow in Visual Studio allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -191,10 +312,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62812 Windows DHCP Server Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62812",
+      "title": "CVE-2026-70091 Windows DNS Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70091",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Concurrent execution using shared resource with improper synchronization (&#039;race condition&#039;) in Windows DNS allows an unauthorized attacker to deny ser...",
       "tags": [
         "Windows",
         "Azure"
@@ -203,10 +324,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62817 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62817",
+      "title": "CVE-2026-69782 Windows DNS Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69782",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Concurrent execution using shared resource with improper synchronization (&#039;race condition&#039;) in DNS Server allows an unauthorized attacker to execute c...",
       "tags": [
         "Windows",
         "Azure"
@@ -215,10 +336,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62820 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62820",
+      "title": "CVE-2026-62916 Microsoft Entra ID Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62916",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Authentication bypass using an alternate path or channel in Microsoft Entra ID allows an unauthorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -227,10 +348,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62878 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62878",
+      "title": "CVE-2026-65818 Power Automate Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65818",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Server-side request forgery (ssrf) in Power Automate allows an authorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -239,10 +360,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62893 Windows Deployment Services TFTP Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62893",
+      "title": "CVE-2026-69857 Azure Cosmos DB Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69857",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Authorization bypass through user-controlled key in Azure Cosmos DB allows an authorized attacker to perform spoofing over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -251,10 +372,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-65789 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65789",
+      "title": "CVE-2026-70178 Microsoft Fabric Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70178",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Missing authorization in Microsoft Fabric allows an authorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -263,10 +384,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-61920 Windows DNS Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61920",
+      "title": "CVE-2026-83941 Entra ID Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83941",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Missing authorization in Entra ID allows an authorized attacker to elevate privileges over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -275,10 +396,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62720 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62720",
+      "title": "CVE-2026-85360 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85360",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Use after free in Windows Kernel allows an authorized attacker to elevate privileges locally.",
       "tags": [
         "Windows",
         "Azure"
@@ -287,10 +408,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62714 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62714",
+      "title": "CVE-2026-77482 Microsoft SQL Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77482",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Heap-based buffer overflow in SQL Server allows an unauthorized attacker to execute code over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -299,10 +420,10 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-62761 Windows DHCP Server Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62761",
+      "title": "CVE-2026-57098 Microsoft Remote Desktop App for Windows Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57098",
       "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Updated software table to remove clients versions because this vulnerability only impacts Windows Servers. This is an informational change only.",
+      "snippet": "Improper verification of cryptographic signature in Windows RDP Client allows an unauthorized attacker to disclose information over a network.",
       "tags": [
         "Windows",
         "Azure"
@@ -455,39 +576,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: QR code protection in Teams messaging",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570439",
-      "date": "2026-09-03T22:50:06.000Z",
-      "snippet": "Microsoft Teams will provide additional protection for QR codes shared by external users in messages. Images containing QR codes from external senders...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Auto-labeling scalability, policy management, and reporting enhancements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570445",
-      "date": "2026-09-03T22:50:06.000Z",
-      "snippet": "Microsoft Purview is improving auto-labeling capabilities to help organizations manage and validate labeling policies at enterprise scale. These enhan...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Tab organization enhancements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570443",
-      "date": "2026-09-03T22:50:06.000Z",
-      "snippet": "Microsoft Edge is expanding tab and Workspace organization capabilities to suggest groupings, names, visuals, and labels. Users can manage these exper...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Microsoft Teams Rooms: Platform choice delivers flexibility for your spaces",
@@ -551,50 +639,6 @@
       "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint helps you do more with your content — ask questions, run workflows...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Automatic recording and transcription choices align with admin policies",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570468",
-      "date": "2026-09-02T22:56:59.000Z",
-      "snippet": "Meeting organizers will only see automatic recording and transcription choices in Meeting Options that are allowed by their organization&#039;s existing me...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Admins can control profanity filtering in meeting transcripts",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570467",
-      "date": "2026-09-02T22:56:59.000Z",
-      "snippet": "Teams administrators will be able to use a meeting policy to control whether profane words are masked in live transcription and saved meeting transcri...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Deliver rich interactive app experiences in Copilot Studio agents",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570433",
-      "date": "2026-09-02T22:56:59.000Z",
-      "snippet": "Copilot Studio agents can now render rich, interactive UI inline using MCP Apps, an extension of the Model Context Protocol. When an agent calls a UI-...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Introducing an App- and Intent-First Agent Creation Experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569474",
-      "date": "2026-09-02T22:56:59.000Z",
-      "snippet": "Copilot Studio is evolving to an app-first agent creation experience. Makers start with the application their agent will work with and configure the c...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -894,17 +938,6 @@
       "snippet": "The Azure Files Container Storage Interface (CSI) driver in Azure\r\nKubernetes Service (AKS) now supports workload identity for pod-level\r\nauthenticati...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: August 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951",
-      "date": "2026-08-28T19:23:17.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1366,10 +1399,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Add multiple steps when building a workflow from scratch",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569209",
+      "title": "Microsoft Teams: Collect information with list form in Workflows",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=568932",
       "date": "2026-08-11T22:53:53.000Z",
-      "snippet": "You will now be able to add multiple steps to your workflow when building one from scratch.GA date: September CY2026",
+      "snippet": "Starts a workflow with a form to collect the information you need to run the rest of your workflow.GA date: September CY2026",
       "tags": [
         "Microsoft 365 Apps"
       ]
