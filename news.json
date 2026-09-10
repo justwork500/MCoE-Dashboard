@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-10T18:25:53.708Z",
-  "count": 128,
+  "lastUpdated": "2026-09-10T23:09:12.058Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Introducing TSDude : A new Task Sequence UI",
+      "link": "https://www.systemcenterdudes.com/introducing-tsdude-a-new-task-sequence-ui/",
+      "date": "2026-09-10T18:28:18.000Z",
+      "snippet": "If there is one thing you can do to your Configuration Manager Task Sequences to streamline imaging, it&amp;#8217;s building them around a UI that sets Ta...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
