@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-11T17:54:50.124Z",
-  "count": 132,
+  "lastUpdated": "2026-09-11T22:42:10.807Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Customize the classic ribbon",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570664",
+      "date": "2026-09-11T22:10:10.000Z",
+      "snippet": "You can now customize the classic ribbon by right-clicking the ribbon and choosing which commands and groups appear on the Home and View tabs.GA date:...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Word: Copilot edit mode is available to users in Office 365 GCC",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570277",
+      "date": "2026-09-11T22:10:10.000Z",
+      "snippet": "Edit with Copilot in Word is now available to users in Office 365 GCC, enabling government customers to work with Copilot as a co-creator directly in ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Linux with OS Guard in Azure Kubernetes Service",
+      "link": "https://azure.microsoft.com/updates?id=571257",
+      "date": "2026-09-11T18:08:28.000Z",
+      "snippet": "Support for Azure Linux with OS Guard in Azure Kubernetes Service will end on December 10, 2026. Azure Container Linux is the replacement for Azure Li...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -10,6 +43,66 @@
       "date": "2026-09-11T15:58:56.000Z",
       "snippet": "Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data fr...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84333 Use after free in Dawn",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84333",
+      "date": "2026-09-11T14:00:45.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84330 UI misrepresentation in FullScreen",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84330",
+      "date": "2026-09-11T14:00:36.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-84352 Use after free in WebGL",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84352",
+      "date": "2026-09-11T14:00:06.000Z",
+      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-77490 Microsoft Edge (Chromium-based) Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77490",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Improper neutralization of input during web page generation (&#039;cross-site scripting&#039;) in Microsoft Edge (Chromium-based) allows an unauthorized attacke...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-85892 Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85892",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Concurrent execution using shared resource with improper synchronization (&#039;race condition&#039;) in Microsoft Edge (Chromium-based) allows an authorized at...",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -194,66 +287,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-61349 Windows Work Folder Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61349",
-      "date": "2026-09-11T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62799 Windows SMB Client Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62799",
-      "date": "2026-09-11T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54112 Windows Win32k Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54112",
-      "date": "2026-09-11T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50676 Windows Media Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50676",
-      "date": "2026-09-11T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-50679 Windows Search Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50679",
-      "date": "2026-09-11T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 11th September 2026",
@@ -293,17 +326,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570641",
       "date": "2026-09-10T23:01:27.000Z",
       "snippet": "Business Value\r\nWith a Subgrid optimized for mobile, frontline workers will experience click reduction and faster field workflows. Enhancements to the...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft M365): Copilot Chat can now better match search results from text that appears inside images embedded in Word, Excel, and PowerPoint file",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570469",
-      "date": "2026-09-10T23:01:27.000Z",
-      "snippet": "Copilot Chat can now better match search results from text that appears inside images embedded in Word, Excel, and PowerPoint files is user&#039;s working ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -390,10 +412,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Endpoint Data Loss Prevention-Archive File Classification Behavior Change for Windows Endpoints",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570965",
+      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
       "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "We are updating archive file classification behavior on Windows endpoints to align with cloud workloads. This change improves consistency, reduces noi...",
+      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -412,54 +434,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Analytics for desk utilization on Teams Pro Management portal",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570648",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Teams admins can access utilization analytics for Teams bookable desks on Teams Pro Management portal, similar to analytics provided for meeting rooms...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Organize important resources in chats and channels",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570646",
       "date": "2026-09-09T22:36:54.000Z",
       "snippet": "Microsoft Teams is introducing a new way to organize and access important resources in chats and channels. Users will be able to pin key content, incl...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: Changes to the FAQ web part authoring experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570647",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "The SharePoint FAQ web part will provide a standard, non-AI experience for manually creating, editing, and managing FAQs. The AI-assisted FAQ creation...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Inline chat for email drafting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570440",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Instead of opening Copilot Chat every time you want to use Copilot to draft a message, this change introduces an inline chat component that streamline...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -550,17 +528,6 @@
       "snippet": "Discover 12 free Active Directory management tools that help IT admins automate tasks, generate reports, monitor directory health, and perform securit...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Meeting Shared Files",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570427",
-      "date": "2026-09-08T22:57:21.000Z",
-      "snippet": "The new Meeting Shared Files feature allows users to add relevant files and links to their meeting for easy access and to automatically share that con...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -963,17 +930,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Monitor Auxiliary Logs Plan support for Azure tables and plan switching",
-      "link": "https://azure.microsoft.com/updates?id=569904",
-      "date": "2026-09-01T16:25:33.000Z",
-      "snippet": "The Auxiliary table plan in Azure Monitor Logs gives you a cost-effective way to ingest and retain high-volume, verbose logs that you keep for complia...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Change the Meeting Organizer in Outlook ",
@@ -1253,6 +1209,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Coordinated meetings support on Teams Rooms on Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569420",
+      "date": "2026-08-21T22:00:23.000Z",
+      "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Support tip: Restore the Managed Home Screen Exit PIN",
@@ -1272,17 +1239,6 @@
       "snippet": "Welcome everyone!  This weeks newsletter is coming to you live from Copenhagen and as you read this I will be in a very exciting company event plannin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Breakout room support on Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569447",
-      "date": "2026-08-20T22:38:45.000Z",
-      "snippet": "With breakout room support, Teams Rooms on Android can be added to a breakout room and moved in and out of the main room making it easy for breakout s...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
