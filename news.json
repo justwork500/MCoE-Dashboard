@@ -1,7 +1,258 @@
 {
-  "lastUpdated": "2026-09-11T14:37:33.302Z",
+  "lastUpdated": "2026-09-11T17:54:50.124Z",
   "count": 132,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB)",
+      "link": "https://azure.microsoft.com/updates?id=570910",
+      "date": "2026-09-11T15:58:56.000Z",
+      "snippet": "Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data fr...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69461 Windows NTFS Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69461",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69468 Windows Volume Manager Extension Driver Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69468",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69732 Windows Link Layer Topology Discovery Protocol Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69732",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69860 Windows Imaging Component Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69860",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70334 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70334",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Acknowledgement Updated",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-71336 Windows Work Folder Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71336",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-77499 Windows DHCP Server Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77499",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-81355 Virtual Hard Disk (VHD) Miniport Driver Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81355",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-81379 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81379",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68894 Windows Error Reporting Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68894",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69314 Windows Device Association Broker Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69314",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69405 Windows DHCP Server Denial of Service Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69405",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-73016 DirectWrite Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73016",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-80080 Microsoft Office Word Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80080",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-81963 Windows Update Stack Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81963",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-61349 Windows Work Folder Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61349",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62799 Windows SMB Client Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62799",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-54112 Windows Win32k Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54112",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50676 Windows Media Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50676",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50679 Windows Search Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50679",
+      "date": "2026-09-11T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
@@ -22,30 +273,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-2137 Out of bounds read in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2137",
-      "date": "2026-09-11T08:44:19.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-1920 Type Confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-1920",
-      "date": "2026-09-11T08:44:10.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -249,18 +476,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-85046 Type confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85046",
-      "date": "2026-09-09T22:09:50.000Z",
-      "snippet": "This CVE was assigned by Chrome.  Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Rele...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS ",
@@ -313,102 +528,6 @@
       "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69777 Windows DHCP Client Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69777",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69508 Windows MIDI Service Module Elevation of Privileges Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69508",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68877 Windows Storage Spaces Controller Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68877",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69334 Windows Volume Manager Extension Driver Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69334",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69492 Windows Partition Management Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69492",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-73024 Windows Services for NFS ONCRPC XDR Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73024",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-45499 Azure OpenAI Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45499",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62693 Windows MIDI Service Module Elevation of Privileges Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62693",
-      "date": "2026-09-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -522,114 +641,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62706 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62706",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Out-of-bounds read in Microsoft Windows Media Foundation allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Use after free in Windows Installer allows an authorized attacker to elevate privileges locally.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62744 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62744",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Heap-based buffer overflow in Microsoft Windows Media Foundation allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66304 Skype for Business Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66304",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Server-side request forgery (ssrf) in Skype for Business allows an unauthorized attacker to disclose information over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66302 Skype for Business Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66302",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "External control of file name or path in Skype for Business allows an unauthorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66306 Skype for Business Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66306",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Generation of error message containing sensitive information in Skype for Business allows an unauthorized attacker to disclose information over a netw...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-66308 Skype for Business and Lync Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66308",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Out-of-bounds read in Skype for Business allows an authorized attacker to deny service over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62895 Azure Arc SQL Server Extension Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62895",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Permissive cross-domain policy with untrusted domains in Azure Arc allows an unauthorized attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69341 Windows Image Acquisition Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69341",
-      "date": "2026-09-08T14:00:00.000Z",
-      "snippet": "Use after free in Windows Image Acquisition allows an authorized attacker to elevate privileges locally.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "SQL Query to List Installed Software from Add or Remove Programs for SCCM Clients",
@@ -655,7 +666,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Autopilot Device Preparation vs Device Association vs Classic Autopilot: What Is the Difference?",
-      "link": "https://patchmypc.com/blog/autopilot-device-preparation-vs-device-association-vs-autopilot/",
+      "link": "https://patchmypc.com/blog/autopilot-device-preparation-vs-device-association-vs-autopilot/?utm_term=rss",
       "date": "2026-09-05T18:20:35.000Z",
       "snippet": "At first glance, Device Association looks almost identical to Classic Autopilot. Both can involve collecting device information, uploading a CSV, and ...",
       "tags": [
@@ -678,7 +689,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Preview Version 3.1.0.112 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/publisher-3-1-0-112/",
+      "link": "https://patchmypc.com/release-notes/preview-release/publisher-3-1-0-112/?utm_term=rss",
       "date": "2026-09-04T17:09:43.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Features Improvements Fixes\nThe post Patch My PC Publisher Previ...",
       "tags": [
@@ -723,7 +734,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Your Windows Compliance Report Is Lying to You ",
-      "link": "https://patchmypc.com/blog/your-windows-compliance-report-is-lying-to-you/",
+      "link": "https://patchmypc.com/blog/your-windows-compliance-report-is-lying-to-you/?utm_term=rss",
       "date": "2026-09-04T06:13:53.000Z",
       "snippet": "Most enterprise patching programs were built for a different era. Ten years ago, keeping Windows current eliminated a meaningful portion of enterprise...",
       "tags": [
@@ -985,17 +996,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Per-disk resiliency for Azure VMs",
-      "link": "https://azure.microsoft.com/updates?id=569711",
-      "date": "2026-08-31T23:11:39.000Z",
-      "snippet": "Azure automatically recovers a VM when it loses access to an attached managed disk for an extended period. The VM is shut down and powered back on aft...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Upcoming changes to classic experiences in SharePoint Online",
@@ -1055,7 +1055,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Windows Autopilot Device Association",
-      "link": "https://patchmypc.com/blog/windows-autopilot-device-association/",
+      "link": "https://patchmypc.com/blog/windows-autopilot-device-association/?utm_term=rss",
       "date": "2026-08-31T13:58:39.000Z",
       "snippet": "What happens between importing a Device Association CSV and Windows knowing which tenant it belongs to? This walkthrough follows all 12 steps, using c...",
       "tags": [
@@ -1122,7 +1122,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Inside Intune Client-Driven Compliance Evaluation for Windows Devices",
-      "link": "https://patchmypc.com/blog/intune-client-driven-compliance-evaluation-for-windows-devices/",
+      "link": "https://patchmypc.com/blog/intune-client-driven-compliance-evaluation-for-windows-devices/?utm_term=rss",
       "date": "2026-08-27T13:09:05.000Z",
       "snippet": "Microsoft has announced client-driven compliance evaluation for Windows devices to reduce delays in compliance reporting. Supported Windows devices ca...",
       "tags": [
@@ -1145,7 +1145,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.0.14.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-14-0-released/",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-14-0-released/?utm_term=rss",
       "date": "2026-08-26T20:13:14.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
       "tags": [
@@ -1355,7 +1355,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.0.10.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-10-0-released/",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-10-0-released/?utm_term=rss",
       "date": "2026-08-18T18:13:04.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
       "tags": [
@@ -1467,7 +1467,7 @@
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Inside Intune’s New Sync Status Window",
-      "link": "https://patchmypc.com/blog/inside-intunes-new-sync-status-window/",
+      "link": "https://patchmypc.com/blog/inside-intunes-new-sync-status-window/?utm_term=rss",
       "date": "2026-08-13T18:05:24.000Z",
       "snippet": "Microsoft has quietly improved the Windows device sync experience in Intune. Instead of only sending a push request that tells the device to check in ...",
       "tags": [
