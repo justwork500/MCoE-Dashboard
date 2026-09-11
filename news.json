@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-10T23:09:12.058Z",
-  "count": 129,
+  "lastUpdated": "2026-09-11T01:03:27.098Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Streamline mobile work with an optimized Subgrid control",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570641",
+      "date": "2026-09-10T23:01:27.000Z",
+      "snippet": "Business Value\r\nWith a Subgrid optimized for mobile, frontline workers will experience click reduction and faster field workflows. Enhancements to the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft M365): Copilot Chat can now better match search results from text that appears inside images embedded in Word, Excel, and PowerPoint file",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570469",
+      "date": "2026-09-10T23:01:27.000Z",
+      "snippet": "Copilot Chat can now better match search results from text that appears inside images embedded in Word, Excel, and PowerPoint files is user&#039;s working ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
@@ -84,17 +106,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Upgraded call history in Teams Calls app",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570843",
       "date": "2026-09-09T22:36:54.000Z",
@@ -117,10 +128,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "SharePoint: Changes to the FAQ web part authoring experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570647",
+      "title": "Microsoft Teams: Organize important resources in chats and channels",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570646",
       "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "The SharePoint FAQ web part will provide a standard, non-AI experience for manually creating, editing, and managing FAQs. The AI-assisted FAQ creation...",
+      "snippet": "Microsoft Teams is introducing a new way to organize and access important resources in chats and channels. Users will be able to pin key content, incl...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -128,10 +139,21 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Organize important resources in chats and channels",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570646",
+      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
       "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Microsoft Teams is introducing a new way to organize and access important resources in chats and channels. Users will be able to pin key content, incl...",
+      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Changes to the FAQ web part authoring experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570647",
+      "date": "2026-09-09T22:36:54.000Z",
+      "snippet": "The SharePoint FAQ web part will provide a standard, non-AI experience for manually creating, editing, and managing FAQs. The AI-assisted FAQ creation...",
       "tags": [
         "Microsoft 365 Apps"
       ]
