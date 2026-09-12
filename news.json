@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-09-12T05:02:26.057Z",
-  "count": 128,
+  "lastUpdated": "2026-09-12T09:18:35.499Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Defender is On. Intune Says Noncompliant",
+      "link": "https://patchmypc.com/blog/defender-is-on-intune-says-noncompliant/?utm_term=rss",
+      "date": "2026-09-12T07:37:04.000Z",
+      "snippet": "Defender was running. Windows said it was off. Intune could then mark the device noncompliant, and Conditional Access could block the user. Here is ho...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Set Reminders in Microsoft Teams ",
+      "link": "https://blog.admindroid.com/how-to-set-reminders-in-microsoft-teams/",
+      "date": "2026-09-12T07:13:06.000Z",
+      "snippet": "One of the most requested features in Microsoft Teams is rolling out now. I have waited years for this rollout, but before I get to the news, let&amp;#821...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -1317,17 +1340,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Multi-Tenant Agent Management in Microsoft 365 Admin Center",
-      "link": "https://blog.admindroid.com/multi-tenant-agent-management-in-microsoft-365-admin-center/",
-      "date": "2026-08-18T13:11:31.000Z",
-      "snippet": "Multi-tenant agent management in the Microsoft 365 admin center enables enterprise admins and partners to centrally view and manage agents across conn...",
-      "tags": [
-        "Azure"
       ]
     },
     {
