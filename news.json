@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-13T00:20:28.566Z",
-  "count": 127,
+  "lastUpdated": "2026-09-13T22:00:32.372Z",
+  "count": 118,
   "items": [
     {
       "source": "Patch My PC",
@@ -79,6 +79,17 @@
       "snippet": "Azure Storage Mover now supports agentless migration of on-premises SMB file shares to Azure Files (SMB), in public preview. You can move file data fr...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-11T15:53:09.000Z",
+      "snippet": "This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Policy table below fo...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -500,17 +511,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
-      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
-      "date": "2026-09-09T20:51:45.000Z",
-      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "NOW ON DEMAND | OneDrive Office Hours | August 2026",
@@ -654,17 +654,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Using multiple managed accounts with app protection policies",
-      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
-      "date": "2026-09-07T17:45:00.000Z",
-      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Autopilot Device Preparation vs Device Association vs Classic Autopilot: What Is the Difference?",
@@ -706,17 +695,6 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/take-control-of-your-ewsallowedappids-list-before-ews-access/ba-p/4553534",
       "date": "2026-09-04T14:47:38.000Z",
       "snippet": "As we prepare for the final phase of Exchange Web Services retirement, we are refining how EWSAllowedAppIDs setting (which you can use to define your ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-04T14:47:12.000Z",
-      "snippet": "If your organization shares Free/Busy, MailTips, or calendars with other Microsoft 365 organizations, there&#039;s a change coming that you&#039;ll want to unde...",
       "tags": [
         "Exchange"
       ]
@@ -1009,17 +987,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Configuring Point-in-time restore in Windows",
-      "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
-      "date": "2026-08-31T17:45:00.000Z",
-      "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
@@ -1178,17 +1145,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
-      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
-      "date": "2026-08-24T17:45:00.000Z",
-      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
@@ -1299,17 +1255,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
-      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
-      "date": "2026-08-20T11:05:53.000Z",
-      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
@@ -1355,17 +1300,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Collecting Windows registry data",
-      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
-      "date": "2026-08-17T17:45:00.000Z",
-      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Customize OneDrive Sync Root Folder Name using Intune",
@@ -1397,39 +1331,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Reminder: Exchange 2016 and 2019 ESU Program Ends in October 2026",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033",
-      "date": "2026-08-14T18:21:08.000Z",
-      "snippet": "Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 14th August 2026",
-      "link": "https://andrewstaylor.com/2026/08/14/intune-newsletter-14th-august-2026/",
-      "date": "2026-08-14T10:43:14.000Z",
-      "snippet": "A lot of excitement this week about the solar eclipse, I&amp;#8217;m old enough to remember the one in 1999!  Hopefully you all managed to see it one way ...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "MSEndpointMgr",
-      "icon": "ph-devices",
-      "title": "Intune Remote Help – The Deep Dive Now That It’s Included In Your E5",
-      "link": "https://msendpointmgr.com/2026/08/14/intune-remote-help-the-deep-dive-now-that-its-included-in-your-e5/",
-      "date": "2026-08-14T10:08:32.000Z",
-      "snippet": "Microsoft Intune Remote Help is not a brand-new tool. It has been around for a few years as a standalone add-on and as part of the Intune Suite. What&amp;...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
