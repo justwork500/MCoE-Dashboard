@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-12T09:18:35.499Z",
-  "count": 129,
+  "lastUpdated": "2026-09-13T00:20:28.566Z",
+  "count": 127,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Using Patch My PC Win32 Apps with Autopilot",
+      "link": "https://patchmypc.com/kb/using-patch-my-pc-win32-apps-with-autopilot/?utm_term=rss",
+      "date": "2026-09-12T16:39:09.000Z",
+      "snippet": "Windows Autopilot provisions Windows devices and prepares them for a user with minimal hands-on IT effort. For many organizations, that includes insta...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -1418,40 +1430,6 @@
       "snippet": "Microsoft Intune Remote Help is not a brand-new tool. It has been around for a few years as a standalone add-on and as part of the Intune Suite. What&amp;...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Where is Exchange SE CU1 anyway?",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837",
-      "date": "2026-08-13T21:05:31.000Z",
-      "snippet": "We are getting questions from our customers on when they can expect us to release Exchange SE Cumulative Update 1 (CU1). After all, in the past we men...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Inside Intune’s New Sync Status Window",
-      "link": "https://patchmypc.com/blog/inside-intunes-new-sync-status-window/?utm_term=rss",
-      "date": "2026-08-13T18:05:24.000Z",
-      "snippet": "Microsoft has quietly improved the Windows device sync experience in Intune. Instead of only sending a push request that tells the device to check in ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Upcoming retirement of OWA Light in Exchange Server",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943",
-      "date": "2026-08-13T15:52:59.000Z",
-      "snippet": "Update 8/13/2026: This retirement is now complete, please see Released: August 2026 Exchange Server Security Updates | Microsoft Community Hub. For cu...",
-      "tags": [
-        "Exchange"
       ]
     }
   ]
