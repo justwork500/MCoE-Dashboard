@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-15T01:38:47.227Z",
+  "lastUpdated": "2026-09-15T06:42:01.454Z",
   "count": 127,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Use Intune Co-Management Workloads Report to Verify Workloads and Monitor Co-Managed Devices",
+      "link": "https://www.anoopcnair.com/use-intune-co-management-workloads-report-to/",
+      "date": "2026-09-15T06:07:05.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -360,7 +371,7 @@
       "title": "How to Set Reminders in Microsoft Teams ",
       "link": "https://blog.admindroid.com/how-to-set-reminders-in-microsoft-teams/",
       "date": "2026-09-12T07:13:06.000Z",
-      "snippet": "One of the most requested features in Microsoft Teams is rolling out now. I have waited years for this rollout, but before I get to the news, let&amp;#821...",
+      "snippet": "One of the most&amp;#160;requested features in Microsoft Teams is rolling out now.&amp;#160;I have waited years for this rollout, but before&amp;#160;I get to the...",
       "tags": [
         "Azure"
       ]
@@ -437,17 +448,6 @@
       "title": "Configure Operating System Version-Based Assignment Filters in Microsoft Intune",
       "link": "https://www.anoopcnair.com/operating-system-assignment-filters-in-intune/",
       "date": "2026-09-11T09:32:17.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Wipe Device: 3 New Options for Reset and Secure Erase",
-      "link": "https://www.anoopcnair.com/microsoft-intune-wipe-device-3-new-options-for/",
-      "date": "2026-09-11T06:49:47.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
