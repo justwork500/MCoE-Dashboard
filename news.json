@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T23:15:39.292Z",
+  "lastUpdated": "2026-09-15T01:38:47.227Z",
   "count": 127,
   "items": [
     {
@@ -228,6 +228,28 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Report suspicious guest invitations",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571297",
+      "date": "2026-09-14T23:03:47.000Z",
+      "snippet": "Microsoft Teams will enable users to report suspicious guest invitations directly from Teams. When users receive an unexpected or potentially maliciou...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: New Cloud Policy controls",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571199",
+      "date": "2026-09-14T23:03:47.000Z",
+      "snippet": "We’re introducing Cloud Policy service support for Outlook on the web and new Outlook for Windows. Admins can set default values for supported Outlook...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -528,28 +550,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
       "date": "2026-09-09T22:36:54.000Z",
       "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Upgraded call history in Teams Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570843",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Call history in the Teams Calls app is being upgraded to make it easier to find and act on past call activity. Missed calls and associated voicemails ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Organize important resources in chats and channels",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570646",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Microsoft Teams is introducing a new way to organize and access important resources in chats and channels. Users will be able to pin key content, incl...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -1166,6 +1166,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Hide Organizer name in Calendar View on Teams Panels",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569423",
+      "date": "2026-08-26T22:50:58.000Z",
+      "snippet": "Admins can now choose whether the organizer name will show up in the Calendar View on Teams panels. Admins can toggle the &quot;Show organizer name&quot; settin...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.0.14.0 Released",
@@ -1274,17 +1285,6 @@
       "snippet": "Coding where context lives and collaboration happens\r\nThe best prompt may be the conversation your team has already had or is currently having. Until ...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Coordinated meetings support on Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569420",
-      "date": "2026-08-21T22:00:23.000Z",
-      "snippet": "Teams Rooms on Android now supports coordinated meetings, enabling paired Teams Rooms on Android devices and Android-based touch boards to work togeth...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
