@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-15T06:42:01.454Z",
-  "count": 127,
+  "lastUpdated": "2026-09-15T12:08:42.451Z",
+  "count": 122,
   "items": [
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5129195 OOB Update Fixes Security Flaw, RDS Issues, and More",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5129195-oob-update/",
+      "date": "2026-09-15T09:24:58.000Z",
+      "snippet": "Microsoft has released KB5129195, an out-of-band (OOB) cumulative update for Windows 11 versions 24H2 and 25H2. Published on September 14, 2026,...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Unattended Remote Help for Windows Devices using Intune to Simplify Remote Troubleshooting",
+      "link": "https://www.anoopcnair.com/unattended-remote-help-for-windows-intune/",
+      "date": "2026-09-15T08:32:09.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -443,17 +465,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Operating System Version-Based Assignment Filters in Microsoft Intune",
-      "link": "https://www.anoopcnair.com/operating-system-assignment-filters-in-intune/",
-      "date": "2026-09-11T09:32:17.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Dynamics 365 Field Service: Streamline mobile work with an optimized Subgrid control",
@@ -574,17 +585,6 @@
       "snippet": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches th...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
-      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
-      "date": "2026-09-09T20:51:45.000Z",
-      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -715,17 +715,6 @@
       "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
       "date": "2026-09-08T09:34:51.000Z",
       "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Using multiple managed accounts with app protection policies",
-      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
-      "date": "2026-09-07T17:45:00.000Z",
-      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
       ]
@@ -1042,17 +1031,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Configuring Point-in-time restore in Windows",
-      "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
-      "date": "2026-08-31T17:45:00.000Z",
-      "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
@@ -1222,17 +1200,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
-      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
-      "date": "2026-08-24T17:45:00.000Z",
-      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
@@ -1332,17 +1299,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
-      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
-      "date": "2026-08-20T11:05:53.000Z",
-      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
@@ -1385,17 +1341,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Collecting Windows registry data",
-      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
-      "date": "2026-08-17T17:45:00.000Z",
-      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
-      "tags": [
-        "Intune"
       ]
     },
     {
