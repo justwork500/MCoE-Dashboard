@@ -1,7 +1,85 @@
 {
-  "lastUpdated": "2026-09-16T10:18:10.726Z",
-  "count": 134,
+  "lastUpdated": "2026-09-16T21:50:20.086Z",
+  "count": 133,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement Update: SAP container images removed October 14, 2026",
+      "link": "https://azure.microsoft.com/updates?id=571342",
+      "date": "2026-09-16T17:19:02.000Z",
+      "snippet": "The containerized SAP data connector retired on September 14, 2026 and is unsupported and unmaintained. Existing TLS-compliant agents may continue sen...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL updates for mid-September 2026 ",
+      "link": "https://azure.microsoft.com/updates?id=571056",
+      "date": "2026-09-16T17:15:10.000Z",
+      "snippet": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 3.1.0.286 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-286-released/?utm_term=rss",
+      "date": "2026-09-16T15:43:21.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Versio...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
+      "link": "https://azure.microsoft.com/updates?id=571621",
+      "date": "2026-09-16T14:13:08.000Z",
+      "snippet": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the O...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL ",
+      "link": "https://azure.microsoft.com/updates?id=569664",
+      "date": "2026-09-16T14:07:14.000Z",
+      "snippet": "The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Remote Help Client Upgrade with Enterprise App Catalog Apps",
+      "link": "https://www.anoopcnair.com/intune-remote-help-enterprise-app-catalog-apps/",
+      "date": "2026-09-16T10:32:06.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Archive Inactive OneDrive and SharePoint Files with Microsoft Purview Retention Policies",
+      "link": "https://blog.admindroid.com/archive-sharepoint-and-onedrive-files-using-microsoft-purview-retention-policies/",
+      "date": "2026-09-16T10:23:54.000Z",
+      "snippet": "Starting mid-September 2026, admins can automatically archive OneDrive and SharePoint files using Microsoft Purview retention policies. Archived files...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -179,17 +257,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-Tenant Message Recall in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
-      "date": "2026-09-15T22:23:56.000Z",
-      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Windows 11 KB5129195: Emergency Update Fixes Remote Desktop Audio and App Issues",
@@ -209,6 +276,17 @@
       "snippet": "When teams lack a shared view of customer calls, follow-up can be delayed or missed.\r\nQueues app for Microsoft Teams turns an existing call queue into...",
       "tags": [
         "Teams"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
+      "date": "2026-09-15T15:00:00.000Z",
+      "snippet": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.\nThe post Intr...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -474,17 +552,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Use Intune Co-Management Workloads Report to Verify Workloads and Monitor Co-Managed Devices",
-      "link": "https://www.anoopcnair.com/use-intune-co-management-workloads-report-to/",
-      "date": "2026-09-15T06:07:05.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Announcing: New Windows App client-side endpoints for Azure Virtual Desktop",
@@ -612,7 +679,7 @@
       "source": "Microsoft 365 Blog",
       "icon": "ph-microsoft-excel-logo",
       "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/10/espc-2026-is-coming-to-amsterdam-bringing-microsoft-and-the-community-together/",
       "date": "2026-09-10T16:00:00.000Z",
       "snippet": "Join Microsoft at ESPC 2026 in Amsterdam to explore the latest innovations in Microsoft 365, Copilot, agents, and AI.\nThe post ESPC 2026 is coming to ...",
       "tags": [
@@ -946,7 +1013,7 @@
       "source": "Microsoft 365 Blog",
       "icon": "ph-microsoft-excel-logo",
       "title": "PPCC 2026: Bringing AI and your business processes together",
-      "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/03/ppcc-2026-bringing-ai-and-your-business-processes-together/",
       "date": "2026-09-03T15:00:00.000Z",
       "snippet": "Every enterprise runs on business processes, but it&#039;s the people that provide judgment, manage exceptions, and often connect systems that were never d...",
       "tags": [
@@ -1059,50 +1126,6 @@
       "link": "https://azure.microsoft.com/updates?id=570090",
       "date": "2026-09-01T22:31:50.000Z",
       "snippet": "Organizations running Windows-based workloads on Azure Kubernetes Service (AKS) face increasing pressure to modernize as support timelines for older W...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Artifact Streaming on AKS",
-      "link": "https://azure.microsoft.com/updates?id=570095",
-      "date": "2026-09-01T22:30:59.000Z",
-      "snippet": "You can now accelerate your containerized workloads on Azure Kubernetes Service (AKS) using Azure Container Registry (ACR) with Artifact streaming. Ar...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Confidential VMs for Azure Linux",
-      "link": "https://azure.microsoft.com/updates?id=570100",
-      "date": "2026-09-01T22:30:18.000Z",
-      "snippet": "Confidential Virtual Machines (CVM) offer strong security and confidentiality for tenants. CVM for Azure Linux in AKS is now generally available and e...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Purchase order mapping available in Microsoft Marketplace ",
-      "link": "https://azure.microsoft.com/updates?id=569700",
-      "date": "2026-09-01T18:40:59.000Z",
-      "snippet": "Align Microsoft Marketplace purchases to your business&#039;s accounting needs. Purchase order mapping helps allocate your Microsoft invoice, including Mar...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Firewall auto-learn SNAT routes ",
-      "link": "https://azure.microsoft.com/updates?id=570474",
-      "date": "2026-09-01T17:10:38.000Z",
-      "snippet": "Azure Firewall’s auto-learn SNAT routes is now\r\ngenerally available, automatically learning registered and private destination\r\nprefixes periodically ...",
       "tags": [
         "Azure"
       ]
@@ -1453,17 +1476,6 @@
       ]
     },
     {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Graph’s Move Toward More Granular API Permissions ",
-      "link": "https://blog.admindroid.com/microsoft-graphs-move-toward-more-granular-api-permissions/",
-      "date": "2026-08-19T10:37:31.000Z",
-      "snippet": "Explore three newly introduced granular permissions for Microsoft Graph API: AppRegistration.Create, User.Create, and User.ReadUpdate.All and understa...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Configure Delivery Optimization for Windows to save bandwidth and speed up deployments",
@@ -1484,28 +1496,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Collecting Windows registry data",
-      "link": "https://petervanderwoude.nl/post/collecting-windows-registry-data/",
-      "date": "2026-08-17T17:45:00.000Z",
-      "snippet": "This week is all about the recently introduced capability to collect Windows registry data (or in other words, the ability to perform registry invento...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Customize OneDrive Sync Root Folder Name using Intune",
-      "link": "https://www.prajwaldesai.com/customize-onedrive-sync-root-folder-name-using-intune/",
-      "date": "2026-08-17T12:15:19.000Z",
-      "snippet": "In this guide, let’s look at how to customize OneDrive sync root folder name using Intune. By default, the folder name...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
