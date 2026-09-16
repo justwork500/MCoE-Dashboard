@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-09-15T19:57:49.562Z",
-  "count": 124,
+  "lastUpdated": "2026-09-16T00:49:49.859Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention-Upgraded inline protection for Microsoft Entra-managed apps in Edge for Business",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571397",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Microsoft Purview is upgrading inline data protection for Microsoft Entra-managed apps in Edge for Business. The experience integrates with a Microsof...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention-Expanded inline protection for unmanaged apps in Edge for Business",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571396",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Microsoft Purview collection and data loss prevention (DLP) policies will support browser inline protection for a significantly broader set of unmanag...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Spell check before sending emails in new Outlook",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571310",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "If you don’t want to check spelling manually for every message—or you’re worried you might forget!—you can set Outlook to check spelling for you every...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize, discover and manage features from one place",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571304",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "A single place in Project Operations where administrators and end users can discover the core features relevant to them in lite or resource/non-stocke...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Ask Copilot from Search on Mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571299",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Get answers without leaving search. As you type in the Teams search bar, you&#039;ll see an option to ask Copilot alongside search results. You can also se...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Cost visibility in Monitor tab",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571196",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Now makers will have clear visibility into their consumption costs directly within Monitor tab at both a per-agent level and an estimated breakdown of...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Cost visibility in Agent Evaluations",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571195",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Now makers will have clear visibility into their consumption costs directly associated with their evaluations, including a breakdown of usage for eval...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Cost visibility in Preview Chat and History",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571194",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Now makers will have clear visibility into their consumption costs directly within preview tab and agent history for their preview/testing usage as we...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: DSPM-Copilot Readiness and Data Explorer",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571157",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "We’re introducing the new readiness for Microsoft Copilot and data explorer experiences in Microsoft Purview Data Security Posture Management (DSPM). ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Unified Classification Management Experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570844",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "The Unified Classification Management Experience unifies every classifier in Microsoft Purview—Sensitive Information Types (SITs), Exact Data Match (E...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint:  Async Notifications for PowerPoint Agent (Web)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570438",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Enable users to leave PowerPoint, switch devices, go offline, or end their workday while remaining confident that Copilot will notify them when work i...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Async Notifications for PowerPoint Agent (Windows Desktop)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570437",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Enable users to leave PowerPoint, switch devices, go offline, or end their workday while remaining confident that Copilot will notify them when work i...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Two presenters can share their screens or windows simultaneously in meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=80239",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Two presenters can share a screen or window at the same time in a Teams meeting. Participants can see both shared content streams simultaneously, maki...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-Tenant Message Recall in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
+      "date": "2026-09-15T22:23:56.000Z",
+      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -147,6 +301,18 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-69486 Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69486",
+      "date": "2026-09-15T14:00:00.000Z",
+      "snippet": "Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-69286 Windows USB Audio Class Driver Information Disclosure Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69286",
       "date": "2026-09-15T14:00:00.000Z",
@@ -253,18 +419,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-81963 Windows Update Stack Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81963",
-      "date": "2026-09-15T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Windows 11 KB5129195 OOB Update Fixes Security Flaw, RDS Issues, and More",
@@ -295,28 +449,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Report suspicious guest invitations",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571297",
-      "date": "2026-09-14T23:03:47.000Z",
-      "snippet": "Microsoft Teams will enable users to report suspicious guest invitations directly from Teams. When users receive an unexpected or potentially maliciou...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: New Cloud Policy controls",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571199",
-      "date": "2026-09-14T23:03:47.000Z",
-      "snippet": "We’re introducing Cloud Policy service support for Outlook on the web and new Outlook for Windows. Admins can set default values for supported Outlook...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -399,28 +531,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Customize the classic ribbon",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570664",
-      "date": "2026-09-11T22:10:10.000Z",
-      "snippet": "You can now customize the classic ribbon by right-clicking the ribbon and choosing which commands and groups appear on the Home and View tabs.GA date:...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Word: Copilot edit mode is available to users in Office 365 GCC",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570277",
-      "date": "2026-09-11T22:10:10.000Z",
-      "snippet": "Edit with Copilot in Word is now available to users in Office 365 GCC, enabling government customers to work with Copilot as a co-creator directly in ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Azure Linux with OS Guard in Azure Kubernetes Service",
@@ -462,17 +572,6 @@
       "snippet": "Friday already, the weeks are flying by, it will be Christmas before we know it!  First though, I&amp;#8217;m flying to Switzerland at the weekend ready f...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Streamline mobile work with an optimized Subgrid control",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570641",
-      "date": "2026-09-10T23:01:27.000Z",
-      "snippet": "Business Value\r\nWith a Subgrid optimized for mobile, frontline workers will experience click reduction and faster field workflows. Enhancements to the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -530,17 +629,6 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1152,17 +1240,6 @@
       "snippet": "In this guide, I will provide multiple solutions to resolve Autopilot device enrollment error 80180003. Error code 80180003 during Autopilot means...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Hide Organizer name in Calendar View on Teams Panels",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569423",
-      "date": "2026-08-26T22:50:58.000Z",
-      "snippet": "Admins can now choose whether the organizer name will show up in the Calendar View on Teams panels. Admins can toggle the &quot;Show organizer name&quot; settin...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
