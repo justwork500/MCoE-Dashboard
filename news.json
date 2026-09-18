@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T01:30:30.377Z",
-  "count": 135,
+  "lastUpdated": "2026-09-18T06:29:57.249Z",
+  "count": 130,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -430,17 +430,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-16T21:02:40.000Z",
-      "snippet": "Update 9/16/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "Save the Date: Join us October 20 for the OneDrive + Copilot Digital Event",
@@ -708,6 +697,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-11T15:53:09.000Z",
+      "snippet": "This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Policy table below fo...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 11th September 2026",
@@ -817,17 +817,6 @@
       "snippet": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches th...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
-      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
-      "date": "2026-09-09T20:51:45.000Z",
-      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
-      "tags": [
-        "Defender"
       ]
     },
     {
@@ -969,17 +958,6 @@
       "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
       "date": "2026-09-08T09:34:51.000Z",
       "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Using multiple managed accounts with app protection policies",
-      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
-      "date": "2026-09-07T17:45:00.000Z",
-      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
       ]
@@ -1230,17 +1208,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Configuring Point-in-time restore in Windows",
-      "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
-      "date": "2026-08-31T17:45:00.000Z",
-      "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
@@ -1399,17 +1366,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
-      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
-      "date": "2026-08-24T17:45:00.000Z",
-      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
@@ -1495,17 +1451,6 @@
       "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
-      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
-      "date": "2026-08-20T11:05:53.000Z",
-      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
-      "tags": [
-        "Defender"
       ]
     },
     {
