@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-18T18:26:53.098Z",
-  "count": 137,
+  "lastUpdated": "2026-09-18T21:06:21.895Z",
+  "count": 136,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Foundry Routines in Foundry Agent Service",
+      "link": "https://azure.microsoft.com/updates?id=563536",
+      "date": "2026-09-18T19:10:53.000Z",
+      "snippet": "In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agen...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -76,6 +87,18 @@
       "date": "2026-09-18T15:49:46.000Z",
       "snippet": "Azure Database for PostgreSQL elastic clusters now support PostgreSQL 18, bringing the latest PostgreSQL capabilities to distributed, cloud-scale work...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-88097 Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88097",
+      "date": "2026-09-18T14:00:00.000Z",
+      "snippet": "Use after free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate privileges locally.",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -401,18 +424,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69734",
       "date": "2026-09-17T14:00:00.000Z",
       "snippet": "Microsoft is announcing the availability of the security updates for Microsoft Office for Mac. Customers running affected Mac software should install ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69724 Microsoft Office SharePoint Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69724",
-      "date": "2026-09-17T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
         "Windows",
         "Azure"
@@ -883,17 +894,6 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: User-bound user delegation SAS for Azure Storage ",
-      "link": "https://azure.microsoft.com/updates?id=569241",
-      "date": "2026-09-09T22:30:41.000Z",
-      "snippet": "Announcing the addition of enhanced secure authentication in Azure Storage that combines the flexibility of user-delegation shared access signature (S...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1528,17 +1528,6 @@
       "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Understanding the new 100 GB mailbox entitlement for Microsoft 365 Business suites",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-the-new-100-gb-mailbox-entitlement-for-microsoft/ba-p/4548243",
-      "date": "2026-08-19T20:25:03.000Z",
-      "snippet": "Microsoft 365 Business Basic, Business Standard, and Business Premium now include an additional 50 GB of primary email storage for eligible users. Thi...",
-      "tags": [
-        "Exchange"
       ]
     }
   ]
