@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-09-18T21:06:21.895Z",
-  "count": 136,
+  "lastUpdated": "2026-09-18T23:17:06.371Z",
+  "count": 134,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Core finance - Improve financial journal processing and control",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571847",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Finance teams rely on journals for high-volume accounting processes, where performance, accuracy, and visibility are critical to keeping financial ope...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Cowork for Government Clouds",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571637",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Copilot Cowork makes it easy to delegate work. Describe the outcome you want and Cowork automatically grounds the work in your emails, meetings, messa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Expiration of plans from meetings due to inactivity",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571392",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Planner plans created from Teams meetings (via Meeting Notes or Loop) often remain unused long after the meeting ends. These inactive plans accumulate...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Events in Meet app in Teams in GCC High and DoD",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571390",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Pop out sign language interpreter meeting video for continuous visibility",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571387",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Keep communication more accessible throughout your meeting. You can now pop out a sign language interpreter or any participant’s video into a separate...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Autolaunch opt-in experience for managed devices",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571307",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Microsoft Edge will introduce an opt-in experience that allows users on managed devices to choose whether Edge launches automatically when Windows sta...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Lifecycle Management-Legacy Teams retention policies covering Copilot will be treated as Teams-only",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571306",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Some existing retention policies scoped to Microsoft Teams may currently also apply to Microsoft 365 Copilot interactions. As part of an upcoming chan...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Express face enrollment",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570846",
+      "date": "2026-09-18T22:00:04.000Z",
+      "snippet": "Express face enrollment makes it easier for users to create a face profile in Teams by using their camera during eligible meetings, after they opt in....",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -143,39 +231,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571391",
       "date": "2026-09-17T23:00:45.000Z",
       "snippet": "We are updating the Brand Center setup experience so that administrators can set up Brand Center without enabling Public CDN.\r\nToday, Public CDN is en...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Schedule Channel Meetings from Outlook Calendar",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571388",
-      "date": "2026-09-17T23:00:45.000Z",
-      "snippet": "Users will be able to schedule Microsoft Teams channel meetings directly from Outlook Calendar. This streamlines meeting creation and helps keep discu...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Manage rental service demand with work order requests",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571300",
-      "date": "2026-09-17T23:00:45.000Z",
-      "snippet": "Rental organizations need to coordinate commercial rental activity, equipment availability, asset condition, and service execution across multiple tea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Book Work Orders with Multiple Requirements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570863",
-      "date": "2026-09-17T23:00:45.000Z",
-      "snippet": "Dispatchers can now select which resource requirement to schedule when booking a work order that has multiple requirements. The new Book experience is...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -474,61 +529,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Customize blocked file extensions for Weaponizable File Protection",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571298",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "Microsoft Teams is expanding admin controls for Weaponizable File Protection. Administrators will be able to customize which file types are blocked in...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Schedule Teams Channel Meeting from Win32",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571389",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "Users can now schedule Teams Channel Meetings from Win32 (Outlook classic client)GA date: October CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: New Mobile Experience on iOS and Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571200",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "The SharePoint mobile app for iOS and Android is redesigned around the personalized SharePoint Discover experience, bringing your most relevant files,...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Automatically complete Project Tasks when field work is finished",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570860",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "Keep project plans aligned with field execution by automatically completing a linked Project Task when its Work Order is completed.\r\nWhen project work...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Bring project material plans into field execution",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570855",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "When the Field Service and Project Operations integration is enabled, material estimates created in a project plan can now create connected Work Order...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
@@ -675,21 +675,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention-Upgraded inline protection for Microsoft Entra-managed apps in Edge for Business",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571397",
+      "title": "Microsoft Purview: Unified Classification Management Experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570844",
       "date": "2026-09-15T23:00:36.000Z",
-      "snippet": "Microsoft Purview is upgrading inline data protection for Microsoft Entra-managed apps in Edge for Business. The experience integrates with a Microsof...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention-Expanded inline protection for unmanaged apps in Edge for Business",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571396",
-      "date": "2026-09-15T23:00:36.000Z",
-      "snippet": "Microsoft Purview collection and data loss prevention (DLP) policies will support browser inline protection for a significantly broader set of unmanag...",
+      "snippet": "The Unified Classification Management Experience unifies every classifier in Microsoft Purview—Sensitive Information Types (SITs), Exact Data Match (E...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -960,17 +949,6 @@
       "snippet": "Discover 12 free Active Directory management tools that help IT admins automate tasks, generate reports, monitor directory health, and perform securit...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Meeting Shared Files",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570427",
-      "date": "2026-09-08T22:57:21.000Z",
-      "snippet": "The new Meeting Shared Files feature allows users to add relevant files and links to their meeting for easy access and to automatically share that con...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
