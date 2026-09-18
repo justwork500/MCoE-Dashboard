@@ -1,7 +1,107 @@
 {
-  "lastUpdated": "2026-09-18T06:29:57.249Z",
-  "count": 130,
+  "lastUpdated": "2026-09-18T18:26:53.098Z",
+  "count": 137,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP",
+      "link": "https://azure.microsoft.com/updates?id=571530",
+      "date": "2026-09-18T17:29:29.000Z",
+      "snippet": "The Mdsv4\r\nand Msv4 Series are memory-optimized virtual machine series built on 6th\r\nGeneration Intel® Xeon® Scalable processors and enhanced with adv...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365",
+      "link": "https://azure.microsoft.com/updates?id=571826",
+      "date": "2026-09-18T17:24:02.000Z",
+      "snippet": "Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=571821",
+      "date": "2026-09-18T17:23:21.000Z",
+      "snippet": "In public preview, Microsoft Foundry now lets customers govern the outbound connections a hosted agent can make. Customers author ordered rules matche...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams",
+      "link": "https://azure.microsoft.com/updates?id=571816",
+      "date": "2026-09-18T17:21:06.000Z",
+      "snippet": "Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the pe...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Logical replication slot sync status metric for Azure PostgreSQL Flexible Server ",
+      "link": "https://azure.microsoft.com/updates?id=568414",
+      "date": "2026-09-18T16:44:11.000Z",
+      "snippet": "You can now monitor the synchronization status of your logical replication slots in Azure Database for PostgreSQL – Flexible Server using the new logi...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: New and improved troubleshooting guides for Azure Database for PostgreSQL ",
+      "link": "https://azure.microsoft.com/updates?id=571042",
+      "date": "2026-09-18T15:51:06.000Z",
+      "snippet": "Updated troubleshooting guidance is now available for Azure Database for PostgreSQL flexible server. You can use the expanded documentation to diagnos...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: PG18 support for Azure Database for PostgreSQL elastic clusters ",
+      "link": "https://azure.microsoft.com/updates?id=571047",
+      "date": "2026-09-18T15:49:46.000Z",
+      "snippet": "Azure Database for PostgreSQL elastic clusters now support PostgreSQL 18, bringing the latest PostgreSQL capabilities to distributed, cloud-scale work...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 18th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/18/intune-newsletter-18th-september-2026/",
+      "date": "2026-09-18T11:08:34.000Z",
+      "snippet": "It&amp;#8217;s been a busy week at Workplace Ninja Summit in Baden, was great speaking to SO many of you and a special thanks to the organisers and all of...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-0899 Out of bounds memory access in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-0899",
+      "date": "2026-09-18T08:47:53.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -319,18 +419,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69719 Microsoft Office Word Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69719",
-      "date": "2026-09-17T14:00:00.000Z",
-      "snippet": "Microsoft is announcing the availability of the security updates for Microsoft Office for Mac. Customers running affected Mac software should install ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Teams Allows Two Users to Share Screens Simultaneously in Meetings",
@@ -427,6 +515,17 @@
       "snippet": "When the Field Service and Project Operations integration is enabled, material estimates created in a project plan can now create connected Work Order...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-16T21:02:40.000Z",
+      "snippet": "Update 9/16/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -697,17 +796,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-11T15:53:09.000Z",
-      "snippet": "This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Policy table below fo...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 11th September 2026",
@@ -809,14 +897,14 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS ",
-      "link": "https://azure.microsoft.com/updates?id=570551",
-      "date": "2026-09-09T21:24:37.000Z",
-      "snippet": "Azure Ephemeral OS Disk with full caching is now generally available for new virtual machines and Virtual Machine Scale Sets. The capability caches th...",
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
+      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
+      "date": "2026-09-09T20:51:45.000Z",
+      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
       "tags": [
-        "Azure"
+        "Defender"
       ]
     },
     {
@@ -908,28 +996,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North",
-      "link": "https://azure.microsoft.com/updates?id=570919",
-      "date": "2026-09-08T17:35:32.000Z",
-      "snippet": "Playwright Workspaces in Azure App Testing is now generally available in Switzerland North, Japan East, and Australia East.Playwright Workspaces provi...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Developer CLI (azd) Extension Framework",
-      "link": "https://azure.microsoft.com/updates?id=570881",
-      "date": "2026-09-08T17:18:38.000Z",
-      "snippet": "The Azure Developer CLI (azd) Extension Framework is now generally available. The framework enables developers, teams, and partners to extend Azure De...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Faster reviews and quality recognition for Microsoft Edge extensions",
@@ -958,6 +1024,17 @@
       "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
       "date": "2026-09-08T09:34:51.000Z",
       "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Using multiple managed accounts with app protection policies",
+      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
+      "date": "2026-09-07T17:45:00.000Z",
+      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
       ]
@@ -1043,17 +1120,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions ",
-      "link": "https://azure.microsoft.com/updates?id=570557",
-      "date": "2026-09-03T17:17:08.000Z",
-      "snippet": "Azure\r\nVirtual Network Manager IP address management is now generally available in\r\nadditional regions: US Gov Virginia, US Gov Texas and US Gov Arizo...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Calling for Interop 2027 proposals",
@@ -1120,28 +1186,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Front Door profile and route level WAF policies",
-      "link": "https://azure.microsoft.com/updates?id=569804",
-      "date": "2026-09-02T17:00:51.000Z",
-      "snippet": "Azure Front\r\nDoor’s Web Application Firewall (WAF) now supports profile and route level WAF\r\npolicy associations in public preview. This gives you mor...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In development] Private Preview: Reader Endpoint for Azure Database for MySQL ",
-      "link": "https://azure.microsoft.com/updates?id=569653",
-      "date": "2026-09-02T16:59:15.000Z",
-      "snippet": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Exchange 2016/2019: Throttling and Blocking up to the Final Public Update Baseline",
@@ -1203,6 +1247,17 @@
       "link": "https://www.prajwaldesai.com/kb38982839-security-update-for-sms-provider-and-admin-service/",
       "date": "2026-08-31T18:03:21.000Z",
       "snippet": "Microsoft has released KB38982839 security update addressing the issues with SMS Provider and administration service. This hotfix is applicable for Co...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Configuring Point-in-time restore in Windows",
+      "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
+      "date": "2026-08-31T17:45:00.000Z",
+      "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
       "tags": [
         "Intune"
       ]
@@ -1366,6 +1421,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
+      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
+      "date": "2026-08-24T17:45:00.000Z",
+      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
@@ -1451,6 +1517,17 @@
       "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
+      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
+      "date": "2026-08-20T11:05:53.000Z",
+      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
+      "tags": [
+        "Defender"
       ]
     },
     {
