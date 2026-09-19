@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T10:57:10.057Z",
-  "count": 134,
+  "lastUpdated": "2026-09-19T19:26:47.798Z",
+  "count": 132,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -1484,28 +1484,6 @@
       "snippet": "Welcome everyone!  This weeks newsletter is coming to you live from Copenhagen and as you read this I will be in a very exciting company event plannin...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "How to Collect Windows Registry Data using Intune",
-      "link": "https://www.prajwaldesai.com/collect-windows-registry-data-using-intune/",
-      "date": "2026-08-20T14:25:44.000Z",
-      "snippet": "In this guide, I will explain how to collect Windows registry data using Intune across managed Windows devices. Registry inventory is...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Auditing Microsoft Defender and Intune Configuration Changes",
-      "link": "https://jeffreyappel.nl/auditing-microsoft-defender-and-intune-configuration-changes/",
-      "date": "2026-08-20T11:05:53.000Z",
-      "snippet": "Microsoft is clearly moving toward a more unified security operations experience within the Defender portal. Over the last few years, we have seen Mic...",
-      "tags": [
-        "Defender"
       ]
     }
   ]
