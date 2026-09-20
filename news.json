@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T21:35:39.742Z",
-  "count": 132,
+  "lastUpdated": "2026-09-20T01:38:37.083Z",
+  "count": 128,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -886,17 +886,6 @@
       ]
     },
     {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
-      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
-      "date": "2026-09-09T20:51:45.000Z",
-      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "NOW ON DEMAND | OneDrive Office Hours | August 2026",
@@ -1002,17 +991,6 @@
       "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
       "date": "2026-09-08T09:34:51.000Z",
       "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Using multiple managed accounts with app protection policies",
-      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
-      "date": "2026-09-07T17:45:00.000Z",
-      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
       ]
@@ -1230,17 +1208,6 @@
       ]
     },
     {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Configuring Point-in-time restore in Windows",
-      "link": "https://petervanderwoude.nl/post/configuring-point-in-time-restore-in-windows/",
-      "date": "2026-08-31T17:45:00.000Z",
-      "snippet": "This week is a follow-up on this post of earlier this year about getting started with point-in-time restore in Windows. At that moment, the early rele...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "From GPO to Microsoft Intune: A practical guide to cloud-first policy management",
@@ -1394,17 +1361,6 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772",
       "date": "2026-08-25T16:39:03.000Z",
       "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
-      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
-      "date": "2026-08-24T17:45:00.000Z",
-      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
       "tags": [
         "Intune"
       ]
