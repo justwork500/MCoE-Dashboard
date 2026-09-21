@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T06:18:24.391Z",
-  "count": 129,
+  "lastUpdated": "2026-09-21T13:06:25.729Z",
+  "count": 128,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -1438,17 +1438,6 @@
       "link": "https://blog.admindroid.com/communicator-app-in-microsoft-teams/",
       "date": "2026-08-24T13:06:59.000Z",
       "snippet": "Microsoft is introducing a new Communicator app in MS Teams for targeted communications such as training updates, compliance notifications, safety ale...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "An Unexpected Microsoft Teams Consequence of Disabling a User Account ",
-      "link": "https://blog.admindroid.com/teams-membership-impact-of-disabling-user-account/",
-      "date": "2026-08-22T10:12:15.000Z",
-      "snippet": "Disabling and re-enabling a Microsoft 365 user account can unexpectedly affect Teams memberships. Learn what happens to team and private channel acces...",
       "tags": [
         "Azure"
       ]
