@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-21T22:13:56.415Z",
-  "count": 132,
+  "lastUpdated": "2026-09-22T00:51:13.210Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Local inferencing",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571886",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Local inferencing expands Microsoft Copilot’s sovereign controls by enabling AI inferencing for supported Copilot interactions to occur within the app...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Granular Conditional Access for Teams meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571879",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Granular Conditional Access for Teams meetings gives organizations greater control over access to sensitive meetings. Administrators can apply Conditi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Quality evaluation supports knowledge source in criteria",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571302",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Criteria questions can now use knowledge sources to help evaluate customer interactions. This allows organizations to ground evaluation criteria in ap...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Inactivate quality evaluation records",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571193",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Quality managers can now inactivate evaluation records that should no longer contribute to scoring or reporting. Inactive evaluations are preserved fo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Support Not Applicable answer option for quality evaluation criteria",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571192",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Criteria questions now support a Not Applicable answer option. When a question is marked as not applicable, it is excluded from scoring instead of neg...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Detailed quality evaluation score breakdown",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571191",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Evaluation details now include a scoring breakdown at the overall, section, and question level. Users can see how the final evaluation score was calcu...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Ability for leaders to publish Power BI reports",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570446",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Microsoft Viva Insights is extending its report publishing capabilities from analysts to leader personas such as Chief Officers, Managers and their de...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
@@ -262,39 +339,6 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance: Core finance - Improve financial journal processing and control",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571847",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Finance teams rely on journals for high-volume accounting processes, where performance, accuracy, and visibility are critical to keeping financial ope...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Copilot Cowork for Government Clouds",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571637",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Copilot Cowork makes it easy to delegate work. Describe the outcome you want and Cowork automatically grounds the work in your emails, meetings, messa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Expiration of plans from meetings due to inactivity",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571392",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Planner plans created from Teams meetings (via Meeting Notes or Loop) often remain unused long after the meeting ends. These inactive plans accumulate...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Events in Meet app in Teams in GCC High and DoD",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571390",
       "date": "2026-09-18T22:00:04.000Z",
@@ -310,28 +354,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571387",
       "date": "2026-09-18T22:00:04.000Z",
       "snippet": "Keep communication more accessible throughout your meeting. You can now pop out a sign language interpreter or any participant’s video into a separate...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Autolaunch opt-in experience for managed devices",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571307",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Microsoft Edge will introduce an opt-in experience that allows users on managed devices to choose whether Edge launches automatically when Windows sta...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management-Legacy Teams retention policies covering Copilot will be treated as Teams-only",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571306",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Some existing retention policies scoped to Microsoft Teams may currently also apply to Microsoft 365 Copilot interactions. As part of an upcoming chan...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -468,28 +490,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Multi Account Search ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570441",
-      "date": "2026-09-17T23:00:52.000Z",
-      "snippet": "Users will be able to see results from multiple mailboxes interweaved in a single ranked list and will be able to do standard mail actions.GA date: Oc...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 admin center: Optional Public CDN Support in Brand Center Setup",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571391",
-      "date": "2026-09-17T23:00:45.000Z",
-      "snippet": "We are updating the Brand Center setup experience so that administrators can set up Brand Center without enabling Public CDN.\r\nToday, Public CDN is en...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -748,17 +748,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Unified Classification Management Experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570844",
-      "date": "2026-09-15T23:00:36.000Z",
-      "snippet": "The Unified Classification Management Experience unifies every classifier in Microsoft Purview—Sensitive Information Types (SITs), Exact Data Match (E...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
