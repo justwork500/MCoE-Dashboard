@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-22T05:43:42.395Z",
+  "lastUpdated": "2026-09-22T10:21:20.020Z",
   "count": 131,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Entra ID Ends SMS First-Factor Sign-In for Workforce Tenants",
+      "link": "https://www.anoopcnair.com/entra-id-ends-sms-first-factor-sign-in-for/",
+      "date": "2026-09-22T06:10:23.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -735,17 +746,6 @@
       "link": "https://www.prajwaldesai.com/fix-odbc-driver-18-6-1-1-issues-with-configuration-manager/",
       "date": "2026-09-16T09:39:58.000Z",
       "snippet": "The ODBC driver for SQL Server version 18.6.1.1 has known issues wherein the Configuration Manager site installations might fail, and client...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune MMA to Manage Multiple Work Accounts with Separate App Protection Policies",
-      "link": "https://www.anoopcnair.com/intune-mma-to-manage-multiple-work-accounts/",
-      "date": "2026-09-16T05:08:00.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
