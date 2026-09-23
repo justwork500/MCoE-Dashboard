@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-23T21:12:20.102Z",
-  "count": 134,
+  "lastUpdated": "2026-09-23T23:41:46.677Z",
+  "count": 132,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Control information density in model-driven apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572682",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Model-driven apps now support configurable display density settings that let users choose how information is spaced throughout the application. Users ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Information Protection-Auto-labeling per-policy coverage report ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572677",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "For each enforced auto-labeling policy, admins can view how files processed during enforcement correlate to the latest simulation run. The per-policy ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Add alternate text to images shared from OneDrive and SharePoint",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571687",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Improve accessibility by adding alternate text to images shared in Teams from OneDrive and SharePoint, helping users better understand visual contentG...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Optimize asset maintenance schedules using completed service",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571669",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Business value\r\nAsset maintenance is most effective when service intervals reflect how equipment is actually used and maintained. Static schedules tha...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Forecast planned maintenance demand",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571668",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Business value\r\nMaintenance demand often becomes visible to service operations only after work orders are created, leaving limited time to prepare cap...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Forecast asset usage to predict maintenance due dates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571667",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Business value\r\nUsage-based maintenance aligns service with the work an asset has actually performed, but a current meter reading alone does not tell ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Plan asset maintenance using time, actual usage, and service sequences",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571665",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Business value\r\nOrganizations can maintain assets according to how the equipment ages, how much it is actually used, and which service activities have...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": " Outlook: Duplicate events in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570666",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "We are adding the ability to duplicate an event. Simply go to the event details and select &quot;duplicate event&quot;GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Skills in Brand Kit",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569018",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "Upload skill (.md file) in Brand Kit and use within PPT CopilotGA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -25,14 +124,15 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Building the system for AI at work",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-      "date": "2026-09-23T15:00:00.000Z",
-      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on Microsoft 365 Blog.",
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70125 Microsoft Outlook Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70125",
+      "date": "2026-09-23T14:00:00.000Z",
+      "snippet": "Information published. This CVE was addressed by updates that were released in September 2026, but the CVE was inadvertently omitted from the Septembe...",
       "tags": [
-        "Microsoft 365 Apps"
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -370,72 +470,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Granular Conditional Access for Teams meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571879",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Granular Conditional Access for Teams meetings gives organizations greater control over access to sensitive meetings. Administrators can apply Conditi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Quality evaluation supports knowledge source in criteria",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571302",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Criteria questions can now use knowledge sources to help evaluate customer interactions. This allows organizations to ground evaluation criteria in ap...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Inactivate quality evaluation records",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571193",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Quality managers can now inactivate evaluation records that should no longer contribute to scoring or reporting. Inactive evaluations are preserved fo...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Support Not Applicable answer option for quality evaluation criteria",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571192",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Criteria questions now support a Not Applicable answer option. When a question is marked as not applicable, it is excluded from scoring instead of neg...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Detailed quality evaluation score breakdown",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571191",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Evaluation details now include a scoring breakdown at the overall, section, and question level. Users can see how the final evaluation score was calcu...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Ability for leaders to publish Power BI reports",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570446",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Microsoft Viva Insights is extending its report publishing capabilities from analysts to leader personas such as Chief Officers, Managers and their de...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "How to track browser extension installations with Microsoft Defender",
@@ -570,29 +604,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-78526 Microsoft Office Word Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78526",
-      "date": "2026-09-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Events in Meet app in Teams in GCC High and DoD",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571390",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Users can now use the Teams Meet app to discover events across their organization, track what important events are upcoming, and plan and organize the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -972,39 +983,6 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Upgraded call history in Teams Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570843",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Call history in the Teams Calls app is being upgraded to make it easier to find and act on past call activity. Missed calls and associated voicemails ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Analytics for desk utilization on Teams Pro Management portal",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570648",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Teams admins can access utilization analytics for Teams bookable desks on Teams Pro Management portal, similar to analytics provided for meeting rooms...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
