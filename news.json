@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-23T13:37:46.287Z",
-  "count": 138,
+  "lastUpdated": "2026-09-23T21:12:20.102Z",
+  "count": 134,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
+      "link": "https://azure.microsoft.com/updates?id=572770",
+      "date": "2026-09-23T16:50:05.000Z",
+      "snippet": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but sec...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10  ",
+      "link": "https://azure.microsoft.com/updates?id=572838",
+      "date": "2026-09-23T16:46:49.000Z",
+      "snippet": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Building the system for AI at work",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
+      "date": "2026-09-23T15:00:00.000Z",
+      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on Microsoft 365 Blog.",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -772,17 +805,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure SQL updates for mid-September 2026 ",
-      "link": "https://azure.microsoft.com/updates?id=571056",
-      "date": "2026-09-16T17:15:10.000Z",
-      "snippet": "In mid-September 2026, the following updates and enhancements were made to Azure SQL:Configure soft delete for the Azure SQL logical server. When the ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Preview Version 3.1.0.286 Released",
@@ -792,28 +814,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Red Hat OpenShift with hosted control planes ",
-      "link": "https://azure.microsoft.com/updates?id=571621",
-      "date": "2026-09-16T14:13:08.000Z",
-      "snippet": "Azure Red Hat OpenShift with hosted control planes is now in public preview. It is a new deployment option for Azure Red Hat OpenShift that runs the O...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: PostgreSQL skills and MCP plugin for Azure Database for PostgreSQL ",
-      "link": "https://azure.microsoft.com/updates?id=569664",
-      "date": "2026-09-16T14:07:14.000Z",
-      "snippet": "The PostgreSQL skills and MCP plugin turns supported AI coding assistants into context-aware PostgreSQL experts that can both provide guidance and act...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -869,17 +869,6 @@
       "snippet": "Microsoft has released KB5129195, an out-of-band (OOB) cumulative update for Windows 11 versions 24H2 and 25H2. Published on September 14, 2026,...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: New Windows App client-side endpoints for Azure Virtual Desktop",
-      "link": "https://azure.microsoft.com/updates?id=571360",
-      "date": "2026-09-14T18:24:04.000Z",
-      "snippet": "Beginning in early October 2026, Windows App will begin using three new wildcard fully qualified domain names (FQDNs) for client-side service traffic ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1518,39 +1507,6 @@
       "snippet": "By: Rodolfo Bermudez | Sr. Product Manager &amp;amp; Kara Wang | Product Manager 2 - Microsoft Intune\r\nHelpdesk teams have long asked for a way to remotel...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Managing Apple Intelligence on iOS and iPadOS devices",
-      "link": "https://petervanderwoude.nl/post/managing-apple-intelligence-on-ios-and-ipados-devices/",
-      "date": "2026-08-24T17:45:00.000Z",
-      "snippet": "This week is all about managing Apple Intelligence on iOS and iPadOS devices. Apple Intelligence is the personal AI that is built directly into iOS, i...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Help us shape Exchange Server on-premises to different online org Free/Busy after EWS retirement",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691",
-      "date": "2026-08-24T16:57:31.000Z",
-      "snippet": "As shared in Exchange Online EWS, Your Time is Almost Up, Exchange Web Services in Exchange Online will begin phased disablement in October 2026 and w...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Edge Dev Blog",
-      "icon": "ph-app-window",
-      "title": "WebView2 is moving to a 2-week release cadence",
-      "link": "https://blogs.windows.com/msedgedev/2026/08/24/webview2-is-moving-to-a-2-week-release-cadence/",
-      "date": "2026-08-24T15:55:41.000Z",
-      "snippet": "Microsoft Edge is moving to a two-week release cycle, and the \nThe post WebView2 is moving to a 2-week release cadence appeared first on Microsoft Edg...",
-      "tags": [
-        "Edge"
       ]
     }
   ]
