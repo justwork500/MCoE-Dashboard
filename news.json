@@ -1,7 +1,113 @@
 {
-  "lastUpdated": "2026-09-25T01:43:18.137Z",
+  "lastUpdated": "2026-09-25T12:14:03.425Z",
   "count": 132,
   "items": [
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 25th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/25/intune-newsletter-25th-september-2026/",
+      "date": "2026-09-25T11:10:43.000Z",
+      "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2025-2135 Type Confusion in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2135",
+      "date": "2026-09-25T09:35:30.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Security Copilot Included in Microsoft 365 E5 and E7 with Integrated Security Agents",
+      "link": "https://www.anoopcnair.com/security-copilot-microsoft-365-e5-and-e7-with/",
+      "date": "2026-09-25T09:29:22.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-4450 Out of bounds write in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4450",
+      "date": "2026-09-25T09:21:44.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-87612: Type confusion in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87612",
+      "date": "2026-09-25T08:45:31.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-87489: Memory corruption in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87489",
+      "date": "2026-09-25T08:45:03.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-87536: Use after free in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87536",
+      "date": "2026-09-25T08:44:45.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-87625: Use after free in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87625",
+      "date": "2026-09-25T08:44:32.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-87601: Race condition in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87601",
+      "date": "2026-09-25T08:44:22.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -303,69 +409,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-59113 Visual Studio Code Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59113",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated the fixed version information and download link. The fix was previously believed to be included in Dynamics 365 Server (on-premises) version 6...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-65675 CoPilot Chat Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65675",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated the fixed version information and download link. The fix was previously believed to be included in Dynamics 365 Server (on-premises) version 6...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-54981 Visual Studio Code Python Extension Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-54981",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated the fixed version information and download link. The fix was previously believed to be included in Dynamics 365 Server (on-premises) version 6...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68804 Microsoft Excel Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68804",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "Chromium CVE-2026-87564: Type confusion in V8",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87564",
       "date": "2026-09-24T08:44:17.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87587: Use after free in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87587",
-      "date": "2026-09-24T08:43:38.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -395,6 +441,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Building the system for AI at work",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
+      "date": "2026-09-23T15:00:00.000Z",
+      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on AI at Work Blog.",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Pay-As-You-Go Billing for Microsoft OneDrive Accounts ",
@@ -414,30 +471,6 @@
       "snippet": "Microsoft has released KB5124010, a new non-security preview update for Windows 11 versions 24H2 and 25H2, on September 22, 2026. The...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87489: Memory corruption in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87489",
-      "date": "2026-09-23T08:43:17.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87536: Use after free in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87536",
-      "date": "2026-09-23T08:42:58.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -766,17 +799,6 @@
       "title": "Configure Apple Software Update Recommendation Cadence to Support Controlled OS Rollouts using Intune",
       "link": "https://www.anoopcnair.com/apple-software-update-recommendation-intune/",
       "date": "2026-09-17T09:31:16.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Intune Company Portal Branding Customisation Options",
-      "link": "https://www.anoopcnair.com/intune-company-portal-branding-customisation/",
-      "date": "2026-09-17T06:22:18.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
@@ -1463,28 +1485,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Detect Active Directory Privilege Escalation Paths Using BloodHound",
-      "link": "https://blog.admindroid.com/find-privilege-escalation-attack-paths-in-active-directory-using-bloodhound/",
-      "date": "2026-08-26T10:28:00.000Z",
-      "snippet": "BloodHound is a free, open-source security analysis tool for Active Directory that helps identify privilege escalation and attack paths by mapping rel...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Streamlining Enterprise Collaboration - ACP - SharePoint Partner Spotlight",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/streamlining-enterprise-collaboration-acp-sharepoint-partner/ba-p/4550384",
-      "date": "2026-08-26T09:53:02.000Z",
-      "snippet": "Organizations continue to look for faster ways to modernize intranets, improve internal communications, and increase employee engagement. Partners in ...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
