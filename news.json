@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-09-24T23:27:20.193Z",
-  "count": 131,
+  "lastUpdated": "2026-09-25T01:43:18.137Z",
+  "count": 132,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365 app: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Cloud Update is expanding rollback options for devices on Monthly Enterprise Channel. Administrators will be able to roll back devices to a release fr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Insert Symbol",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571683",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "You can insert a variety of symbols into an email message while composing it. To add a symbol, go to the Insert tab and select Symbols.GA date: Octobe...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Process subcontractor photos, completion documents, and inspection results",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571674",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nSubcontractors often document completed work through photos, service reports, inspection forms, certificates, and other files. When th...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Close out bookings and work orders from subcontractor service reports",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571673",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatche...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Work with Subcontractors without additional licenses",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571672",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nOrganizations often depend on subcontractors and other external service providers who do not work in the organization&#039;s Dynamics 365 e...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Onboard mid-lifecycle assets into maintenance plans",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571671",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nOrganizations often introduce maintenance management after equipment is already operating or acquire used assets with established age,...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Review and visualize an asset&#039;s maintenance schedules",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571670",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nAn asset can have several lines of service, each with its own maintenance schedule, recurrence pattern, and future events. When those ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Create and apply reusable maintenance plans to assets",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571664",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nOrganizations can define a consistent maintenance strategy once and use it across groups of similar assets instead of designing a sepa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571663",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Microsoft Copilot in the Dynamics 365 Field Service mobile app brings conversational AI chat capabilities directly to frontline workers. Once enabled,...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Enhanced visibility into work order financial performance",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570859",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "The new Work Order Cost Summary gives field teams a clearer view of how project-related work is performing by bringing estimated and actual costs, sal...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570858",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Field technicians often source parts from more than one warehouse. Limiting a technician to a single warehouse can make it harder to reflect how mater...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
@@ -252,105 +373,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Apps: Control information density in model-driven apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572682",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Model-driven apps now support configurable display density settings that let users choose how information is spaced throughout the application. Users ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection-Auto-labeling per-policy coverage report ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572677",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "For each enforced auto-labeling policy, admins can view how files processed during enforcement correlate to the latest simulation run. The per-policy ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Add alternate text to images shared from OneDrive and SharePoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571687",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Improve accessibility by adding alternate text to images shared in Teams from OneDrive and SharePoint, helping users better understand visual contentG...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Optimize asset maintenance schedules using completed service",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571669",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Business value\r\nAsset maintenance is most effective when service intervals reflect how equipment is actually used and maintained. Static schedules tha...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Forecast planned maintenance demand",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571668",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Business value\r\nMaintenance demand often becomes visible to service operations only after work orders are created, leaving limited time to prepare cap...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Forecast asset usage to predict maintenance due dates",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571667",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Business value\r\nUsage-based maintenance aligns service with the work an asset has actually performed, but a current meter reading alone does not tell ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Plan asset maintenance using time, actual usage, and service sequences",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571665",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Business value\r\nOrganizations can maintain assets according to how the equipment ages, how much it is actually used, and which service activities have...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": " Outlook: Duplicate events in Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570666",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "We are adding the ability to duplicate an event. Simply go to the event details and select &quot;duplicate event&quot;GA date: October CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "PowerPoint: Skills in Brand Kit",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=569018",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Upload skill (.md file) in Brand Kit and use within PPT CopilotGA date: October CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
@@ -441,39 +463,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Transaction Journals",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571303",
-      "date": "2026-09-22T22:57:16.000Z",
-      "snippet": "Transaction journals let users author complete time, expense, and material transactions—including different transaction classes within the same journa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Federated Copilot Connectors will support write, update and delete actions",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570964",
-      "date": "2026-09-22T22:57:16.000Z",
-      "snippet": "Federated Copilot connectors (MCP type) currently let Microsoft 365 Copilot read data from third-party services in real time. With this update, the co...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Choose how work order services flow into project financials",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570861",
-      "date": "2026-09-22T22:57:16.000Z",
-      "snippet": "Organizations can now control how work order services contribute to project financials when using Dynamics 365 Field Service and Project Operations to...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Support for Node.js 22 ends on April 30, 2027",
@@ -537,17 +526,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Local inferencing",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571886",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Local inferencing expands Microsoft Copilot’s sovereign controls by enabling AI inferencing for supported Copilot interactions to occur within the app...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -739,6 +717,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Schedule Channel Meetings from Outlook Calendar",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571388",
+      "date": "2026-09-17T23:00:45.000Z",
+      "snippet": "Users will be able to schedule Microsoft Teams channel meetings directly from Outlook Calendar. This streamlines meeting creation and helps keep discu...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "SCCM KB39398030 hotfix for SMS Provider, MP Engine, and DDR processing",
@@ -805,6 +794,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Schedule Teams Channel Meeting from Win32",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571389",
+      "date": "2026-09-16T22:57:03.000Z",
+      "snippet": "Users can now schedule Teams Channel Meetings from Win32 (Outlook classic client)GA date: November CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "Save the Date: Join us October 20 for the OneDrive + Copilot Digital Event",
@@ -858,6 +858,17 @@
       "snippet": "The ODBC driver for SQL Server version 18.6.1.1 has known issues wherein the Configuration Manager site installations might fail, and client...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: DSPM-Copilot Readiness and Data Explorer",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571157",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "We’re introducing the new readiness for Microsoft Copilot and data explorer experiences in Microsoft Purview Data Security Posture Management (DSPM). ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
