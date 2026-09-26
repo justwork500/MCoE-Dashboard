@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-26T12:03:53.865Z",
-  "count": 131,
+  "lastUpdated": "2026-09-26T16:20:56.997Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Faster Required App Delivery After Autopilot",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/?utm_term=rss",
+      "date": "2026-09-26T13:47:41.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -505,6 +517,17 @@
       "snippet": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Building the system for AI at work",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
+      "date": "2026-09-23T15:00:00.000Z",
+      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on Microsoft 365 Blog.",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1440,40 +1463,6 @@
       "snippet": "AI becomes most impactful when it helps with the work teams already do every day. The challenge is rarely a lack of information. It is turning trusted...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Introducing device association for Windows Autopilot device preparation",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603",
-      "date": "2026-08-27T15:00:00.000Z",
-      "snippet": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune\r\nWe’ve heard organizations want Windows deployment to be simple for employees and predict...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Unified Meeting and Call Monitoring Experience in Teams Admin Center ",
-      "link": "https://blog.admindroid.com/unified-meeting-and-call-monitoring-experience-in-teams-admin-center/",
-      "date": "2026-08-27T13:30:31.000Z",
-      "snippet": "Microsoft Teams admin center is introducing a single-pane experience for monitoring and troubleshooting meetings and calls across the organization. Ro...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Inside Intune Client-Driven Compliance Evaluation for Windows Devices",
-      "link": "https://patchmypc.com/blog/intune-client-driven-compliance-evaluation-for-windows-devices/?utm_term=rss",
-      "date": "2026-08-27T13:09:05.000Z",
-      "snippet": "Microsoft has announced client-driven compliance evaluation for Windows devices to reduce delays in compliance reporting. Supported Windows devices ca...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
