@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T01:48:16.014Z",
-  "count": 128,
+  "lastUpdated": "2026-09-26T12:03:53.865Z",
+  "count": 131,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -56,6 +56,17 @@
       "snippet": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "date": "2026-09-25T16:15:53.000Z",
+      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -239,25 +250,14 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 25th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/25/intune-newsletter-25th-september-2026/",
+      "date": "2026-09-25T11:10:43.000Z",
+      "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
       "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
-      "date": "2026-09-25T12:00:00.000Z",
-      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
-      "tags": [
-        "SharePoint"
+        "Intune"
       ]
     },
     {
@@ -442,6 +442,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune and Apple OS 27: New settings, support, and platform changes",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-os-27-new-settings-support-and/ba-p/4559764",
+      "date": "2026-09-24T22:48:40.000Z",
+      "snippet": "With Apple&#039;s release of OS 27, we’ve been working hard to ensure that Microsoft Intune provides support for Apple’s latest operating systems (OS) so t...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Released: September 2026 Exchange Server Security Updates",
@@ -494,17 +505,6 @@
       "snippet": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Building the system for AI at work",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
-      "date": "2026-09-23T15:00:00.000Z",
-      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on AI at Work Blog.",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -795,6 +795,17 @@
       ]
     },
     {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 18th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/18/intune-newsletter-18th-september-2026/",
+      "date": "2026-09-18T11:08:34.000Z",
+      "snippet": "It&amp;#8217;s been a busy week at Workplace Ninja Summit in Baden, was great speaking to SO many of you and a special thanks to the organisers and all of...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "SCCM KB39398030 hotfix for SMS Provider, MP Engine, and DDR processing",
@@ -960,6 +971,17 @@
       "snippet": "One of the most&amp;#160;requested features in Microsoft Teams is rolling out now.&amp;#160;I have waited years for this rollout, but before&amp;#160;I get to the...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 11th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/11/intune-newsletter-11th-september-2026/",
+      "date": "2026-09-11T10:59:24.000Z",
+      "snippet": "Friday already, the weeks are flying by, it will be Christmas before we know it!  First though, I&amp;#8217;m flying to Switzerland at the weekend ready f...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -1176,6 +1198,17 @@
       ]
     },
     {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 4th September 2026",
+      "link": "https://andrewstaylor.com/2026/09/04/intune-newsletter-4th-september-2026/",
+      "date": "2026-09-04T11:07:48.000Z",
+      "snippet": "September has arrived and with it comes both the conference season and a LOT of rain.  Congratulations to the new Intune MVPs this week, especially Ni...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Your Windows Compliance Report Is Lying to You ",
@@ -1388,6 +1421,17 @@
       ]
     },
     {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 28th August 2026",
+      "link": "https://andrewstaylor.com/2026/08/28/intune-newsletter-28th-august-2026/",
+      "date": "2026-08-28T11:14:27.000Z",
+      "snippet": "Another week has passed and for many of us, the return to school drop-offs and homework nagging is looming.  This week has seen the release of Unatten...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "SharePoint Showcase: 5 Ways Organizations Improve Business Processes with Copilot in SharePoint",
@@ -1430,17 +1474,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Fix Autopilot Device Enrollment Error 80180003 [7 Solutions]",
-      "link": "https://www.prajwaldesai.com/autopilot-device-enrollment-error-80180003/",
-      "date": "2026-08-27T09:12:05.000Z",
-      "snippet": "In this guide, I will provide multiple solutions to resolve Autopilot device enrollment error 80180003. Error code 80180003 during Autopilot means...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
