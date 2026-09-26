@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2026-09-25T17:13:54.532Z",
-  "count": 127,
+  "lastUpdated": "2026-09-26T01:48:16.014Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Power Platform governance and administration: Maker Guidelines",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570967",
+      "date": "2026-09-25T22:37:50.000Z",
+      "snippet": "The Maker guidelines feature gives organizations a direct way to share guidance with Copilot Studio makers in the flow of work. Administrators can exp...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Support multiple payers across Work Order lines",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570862",
+      "date": "2026-09-25T22:37:50.000Z",
+      "snippet": "Field work does not always have a single payer. A customer may be responsible for the primary service while another party, such as a warranty provider...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Async Notifications for Copilot in PowerPoint",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570436",
+      "date": "2026-09-25T22:37:50.000Z",
+      "snippet": "Enable users to leave PowerPoint, switch devices, go offline, or end their workday while remaining confident that Copilot will notify them when work i...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 3.1.0.462 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-462-released/?utm_term=rss",
+      "date": "2026-09-25T20:05:07.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Features Improvements Fixes\nThe post Patch My PC Publisher Previ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
+      "link": "https://azure.microsoft.com/updates?id=573048",
+      "date": "2026-09-25T18:07:26.000Z",
+      "snippet": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69522 .NET and Visual Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69522",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "Security Updates table updated provide links to the KB articles and download center updates. Microsoft recommends installing the updates.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-78510 Microsoft Outlook and Word Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78510",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "Updated CVE title and CVSS Score. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -17,13 +97,167 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-2135 Type Confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-2135",
-      "date": "2026-09-25T09:35:30.000Z",
-      "snippet": "Information published.",
+      "title": "Chromium CVE-2026-95274: Improper output encoding in DevTools",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95274",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95275: Incorrect reference resolution in MediaStream",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95275",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95276: Improper input validation in Themes",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95276",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95277: Use after free in Views",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95277",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95278: Missing authorization in WakeLock",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95278",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95279: UI misrepresentation in Omnibox",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95279",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95280: Race condition in V8",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95280",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95281: Buffer overflow in ANGLE",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95281",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95282: Use after free in Platform",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95282",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95283: Buffer overflow in Tint",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95283",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95284: Buffer overflow in ANGLE",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95284",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-95285: Missing authorization in WebView",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95285",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "date": "2026-09-25T12:00:00.000Z",
+      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -35,18 +269,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-4450 Out of bounds write in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-4450",
-      "date": "2026-09-25T09:21:44.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -112,6 +334,28 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Expand your service offering through subcontractors without the onboarding overhead",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571672",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Business value\r\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatche...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570858",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Field technicians often source parts from more than one warehouse. Limiting a technician to a single warehouse can make it harder to reflect how mater...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
       "title": "Microsoft 365 app: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
       "date": "2026-09-24T22:58:55.000Z",
@@ -149,17 +393,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571673",
       "date": "2026-09-24T22:58:55.000Z",
       "snippet": "Business value\r\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatche...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Work with Subcontractors without additional licenses",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571672",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nOrganizations often depend on subcontractors and other external service providers who do not work in the organization&#039;s Dynamics 365 e...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -209,28 +442,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Enhanced visibility into work order financial performance",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570859",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "The new Work Order Cost Summary gives field teams a clearer view of how project-related work is performing by bringing estimated and actual costs, sal...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570858",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Field technicians often source parts from more than one warehouse. Limiting a technician to a single warehouse can make it harder to reflect how mater...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Released: September 2026 Exchange Server Security Updates",
@@ -264,150 +475,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69681 Virtual Hard Disk (VHD) Miniport Driver Elevation of Privilege Vulernability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69681",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69732 Windows Link Layer Topology Discovery Protocol Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69732",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-71337 Windows Storage Management Provider Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71337",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69282 Microsoft Office SharePoint Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69282",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-81357 Visual Studio Code Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81357",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68894 Windows Error Reporting Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68894",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69637 Windows DHCP Server Denial of Service Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69637",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69803 Windows DHCP Server Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69803",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69409 Microsoft Office SharePoint Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69409",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69590 Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69590",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-80073 Microsoft Office Outlook Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80073",
-      "date": "2026-09-24T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87564: Type confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87564",
-      "date": "2026-09-24T08:44:17.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
@@ -435,7 +502,7 @@
       "title": "Building the system for AI at work",
       "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
       "date": "2026-09-23T15:00:00.000Z",
-      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on Microsoft 365 Blog.",
+      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on AI at Work Blog.",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -728,17 +795,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Schedule Channel Meetings from Outlook Calendar",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571388",
-      "date": "2026-09-17T23:00:45.000Z",
-      "snippet": "Users will be able to schedule Microsoft Teams channel meetings directly from Outlook Calendar. This streamlines meeting creation and helps keep discu...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "SCCM KB39398030 hotfix for SMS Provider, MP Engine, and DDR processing",
@@ -747,17 +803,6 @@
       "snippet": "Microsoft has released a new SCCM KB39398030 hotfix for the current branch versions 2603, 2509, and 2503. Installing this update enhances...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Payments HSM v2",
-      "link": "https://azure.microsoft.com/updates?id=570509",
-      "date": "2026-09-17T18:36:44.000Z",
-      "snippet": "Azure Payments HSM v2 is a highly available,\r\nsingle-tenant Payment HSM service for payment processing, credential issuance,\r\nPIN processing, key mana...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -791,17 +836,6 @@
       "snippet": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune\r\nOrganizations have spent years refining Windows Autopilot deployments. Profiles, Enrollm...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Schedule Teams Channel Meeting from Win32",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571389",
-      "date": "2026-09-16T22:57:03.000Z",
-      "snippet": "Users can now schedule Teams Channel Meetings from Win32 (Outlook classic client)GA date: November CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -858,17 +892,6 @@
       "snippet": "The ODBC driver for SQL Server version 18.6.1.1 has known issues wherein the Configuration Manager site installations might fail, and client...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: DSPM-Copilot Readiness and Data Explorer",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571157",
-      "date": "2026-09-15T23:00:36.000Z",
-      "snippet": "We’re introducing the new readiness for Microsoft Copilot and data explorer experiences in Microsoft Purview Data Security Posture Management (DSPM). ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1418,18 +1441,6 @@
       "snippet": "In this guide, I will provide multiple solutions to resolve Autopilot device enrollment error 80180003. Error code 80180003 during Autopilot means...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.0.14.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-0-14-0-released/?utm_term=rss",
-      "date": "2026-08-26T20:13:14.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
