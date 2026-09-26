@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T16:20:56.997Z",
+  "lastUpdated": "2026-09-26T19:17:36.910Z",
   "count": 130,
   "items": [
     {
@@ -68,17 +68,6 @@
       "snippet": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
-      "date": "2026-09-25T16:15:53.000Z",
-      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
@@ -259,6 +248,28 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "date": "2026-09-25T12:00:00.000Z",
+      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -525,7 +536,7 @@
       "title": "Building the system for AI at work",
       "link": "https://www.microsoft.com/en-us/copilot/blog/2026/09/23/building-the-system-for-ai-at-work/",
       "date": "2026-09-23T15:00:00.000Z",
-      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on Microsoft 365 Blog.",
+      "snippet": "There&#039;s no shortage of sound and fury in AI right now.\nThe post Building the system for AI at work appeared first on AI at Work Blog.",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -1452,17 +1463,6 @@
       "snippet": "Another week has passed and for many of us, the return to school drop-offs and homework nagging is looming.  This week has seen the release of Unatten...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: 5 Ways Organizations Improve Business Processes with Copilot in SharePoint",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-5-ways-organizations-improve-business/ba-p/4549704",
-      "date": "2026-08-27T16:28:53.000Z",
-      "snippet": "AI becomes most impactful when it helps with the work teams already do every day. The challenge is rarely a lack of information. It is turning trusted...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
