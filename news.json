@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T22:03:07.084Z",
+  "lastUpdated": "2026-09-27T05:45:58.384Z",
   "count": 129,
   "items": [
     {
@@ -68,6 +68,17 @@
       "snippet": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
+      "date": "2026-09-25T16:15:53.000Z",
+      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -248,17 +259,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-ai-innovations-hit-ga-powering-new-copilot-app-and/ba-p/4555724",
-      "date": "2026-09-25T12:00:00.000Z",
-      "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
