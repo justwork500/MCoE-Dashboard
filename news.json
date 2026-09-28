@@ -1,7 +1,75 @@
 {
-  "lastUpdated": "2026-09-27T05:45:58.384Z",
-  "count": 129,
+  "lastUpdated": "2026-09-28T14:28:37.488Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Device Preparation BitLocker 256 Bit Issue: The 128 Bit Race Is Finally Fixed",
+      "link": "https://patchmypc.com/blog/autopilot-device-preparation-bitlocker-256-bit-issue/?utm_term=rss",
+      "date": "2026-09-28T14:16:24.000Z",
+      "snippet": "This blog explores a new Windows Insider feature aimed at fixing the Autopilot BitLocker 256 bit issue. We show how it delays encryption during OOBE, ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "How to Check OneDrive Storage Usage [3 Best Ways]",
+      "link": "https://www.prajwaldesai.com/check-onedrive-storage-usage/",
+      "date": "2026-09-28T11:32:02.000Z",
+      "snippet": "In this guide, I&amp;#8217;ll cover some practical methods to check OneDrive storage usage as an individual user, as an IT administrator,...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "New Apple Settings in the Settings Catalog for iOS/iPadOS and macOS",
+      "link": "https://www.anoopcnair.com/intune-adds-new-apple-settings-catalog-options/",
+      "date": "2026-09-28T09:56:44.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5124010 New Bluetooth File Explorer and Copilot Key Enhancements",
+      "link": "https://www.anoopcnair.com/windows-11-kb5124010-new-bluetooth-file/",
+      "date": "2026-09-28T08:40:23.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSEndpointMgr",
+      "icon": "ph-devices",
+      "title": "What’s in the Microsoft Enterprise App Catalog? Finding Out with PowerShell and Microsoft Graph",
+      "link": "https://msendpointmgr.com/2026/09/27/whats-in-the-enterprise-app-catalog/",
+      "date": "2026-09-27T09:45:07.000Z",
+      "snippet": "If you&amp;#8217;ve clicked Apps &gt; Windows &gt; Create &gt; Enterprise App Catalog app in Intune, you&amp;#8217;ve seen the catalog picker. Search, pick an app, pic...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Faster Win32 App Delivery in Intune with Push Notifications",
+      "link": "https://patchmypc.com/blog/faster-win32-app-delivery-in-intune/?utm_term=rss",
+      "date": "2026-09-27T09:39:48.000Z",
+      "snippet": "Microsoft Intune is improving Win32 app delivery with push notifications. Changes made by administrators or the service can now prompt devices to chec...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -259,6 +327,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -630,17 +709,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Entra ID Ends SMS First-Factor Sign-In for Workforce Tenants",
-      "link": "https://www.anoopcnair.com/entra-id-ends-sms-first-factor-sign-in-for/",
-      "date": "2026-09-22T06:10:23.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "How to track browser extension installations with Microsoft Defender",
@@ -848,17 +916,6 @@
       "snippet": "Microsoft Teams is set to allow two separate users to share their screens simultaneously during a meeting. The feature is expected to roll out from No...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Configure Apple Software Update Recommendation Cadence to Support Controlled OS Rollouts using Intune",
-      "link": "https://www.anoopcnair.com/apple-software-update-recommendation-intune/",
-      "date": "2026-09-17T09:31:16.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1232,18 +1289,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Your Windows Compliance Report Is Lying to You ",
-      "link": "https://patchmypc.com/blog/your-windows-compliance-report-is-lying-to-you/?utm_term=rss",
-      "date": "2026-09-04T06:13:53.000Z",
-      "snippet": "Most enterprise patching programs were built for a different era. Ten years ago, keeping Windows current eliminated a meaningful portion of enterprise...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Microsoft Teams Rooms: Platform choice delivers flexibility for your spaces",
@@ -1421,18 +1466,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Windows Autopilot Device Association",
-      "link": "https://patchmypc.com/blog/windows-autopilot-device-association/?utm_term=rss",
-      "date": "2026-08-31T13:58:39.000Z",
-      "snippet": "What happens between importing a Device Association CSV and Windows knowing which tenant it belongs to? This walkthrough follows all 12 steps, using c...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Teams Limits External Chat for Default onmicrosoft.com Domains",
@@ -1441,17 +1474,6 @@
       "snippet": "Microsoft is introducing outbound external messaging limits in Teams for organizations using only the default MOERA (onmicrosoft.com) domain. The limi...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 28th August 2026",
-      "link": "https://andrewstaylor.com/2026/08/28/intune-newsletter-28th-august-2026/",
-      "date": "2026-08-28T11:14:27.000Z",
-      "snippet": "Another week has passed and for many of us, the return to school drop-offs and homework nagging is looming.  This week has seen the release of Unatten...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
