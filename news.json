@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-28T20:40:42.884Z",
-  "count": 131,
+  "lastUpdated": "2026-09-29T06:12:41.165Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Word: Legal plugins in Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571884",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "Legal plugins in Copilot provide purpose-built skills to help legal professionals summarize, draft, review, and redline legal documents. Available in ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Updated performance information in tab hover cards",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571692",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "Microsoft Edge is updating tab hover cards to provide clearer information about tab memory usage and memory savings when inactive tabs are discarded. ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Information Protection-Auto-labeling scale increase for SharePoint and OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571309",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Prompt gallery for Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571308",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "Discover easier ways to use Copilot in OneDrive\r\nThe new Prompt Gallery offers ready-to-use prompts for common file tasks, helping you get started qui...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Clipchamp: Copilot video creation updates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570963",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "Copilot brings agentic video creation to Clipchamp Video Hub. Users can generate, edit, and refine videos from prompts—grounded in explicit documents ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Track costs for non-billable field work",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570857",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "Organizations often use the same field teams for both customer work and internal operational work, such as maintenance, inspections, or asset-related ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Send availability in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570665",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "We are bringing back send availability on both iOS and Android. iOS users will now also be able to access more of this feature via keyboard and voiceo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
+      "link": "https://azure.microsoft.com/updates?id=571800",
+      "date": "2026-09-28T22:07:19.000Z",
+      "snippet": "Vector search and vector indexes are now generally available in Azure SQL Database. Using the CREATE VECTOR INDEX and VECTOR_SEARCH T-SQL capabilities...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL Dev Hub",
+      "link": "https://azure.microsoft.com/updates?id=572998",
+      "date": "2026-09-28T22:06:05.000Z",
+      "snippet": "Azure SQL Dev Hub gives you a central starting point for building applications with Azure SQL, whether you’re developing directly or using AI agents. ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -125,39 +224,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Power Platform governance and administration: Maker Guidelines",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570967",
-      "date": "2026-09-25T22:37:50.000Z",
-      "snippet": "The Maker guidelines feature gives organizations a direct way to share guidance with Copilot Studio makers in the flow of work. Administrators can exp...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Support multiple payers across Work Order lines",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570862",
-      "date": "2026-09-25T22:37:50.000Z",
-      "snippet": "Field work does not always have a single payer. A customer may be responsible for the primary service while another party, such as a warranty provider...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "PowerPoint: Async Notifications for Copilot in PowerPoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570436",
-      "date": "2026-09-25T22:37:50.000Z",
-      "snippet": "Enable users to leave PowerPoint, switch devices, go offline, or end their workday while remaining confident that Copilot will notify them when work i...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -456,116 +522,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Expand your service offering through subcontractors without the onboarding overhead",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571672",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatche...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Support multiple warehouse assignments for field technicians",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570858",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Field technicians often source parts from more than one warehouse. Limiting a technician to a single warehouse can make it harder to reflect how mater...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 app: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Cloud Update is expanding rollback options for devices on Monthly Enterprise Channel. Administrators will be able to roll back devices to a release fr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Insert Symbol",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571683",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "You can insert a variety of symbols into an email message while composing it. To add a symbol, go to the Insert tab and select Symbols.GA date: Octobe...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Process subcontractor photos, completion documents, and inspection results",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571674",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nSubcontractors often document completed work through photos, service reports, inspection forms, certificates, and other files. When th...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Close out bookings and work orders from subcontractor service reports",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571673",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nSubcontractors commonly communicate completion through an emailed service report or a message describing the work performed. Dispatche...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Onboard mid-lifecycle assets into maintenance plans",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571671",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nOrganizations often introduce maintenance management after equipment is already operating or acquire used assets with established age,...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Review and visualize an asset&#039;s maintenance schedules",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571670",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nAn asset can have several lines of service, each with its own maintenance schedule, recurrence pattern, and future events. When those ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Create and apply reusable maintenance plans to assets",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571664",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Business value\r\nOrganizations can define a consistent maintenance strategy once and use it across groups of similar assets instead of designing a sepa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571663",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Microsoft Copilot in the Dynamics 365 Field Service mobile app brings conversational AI chat capabilities directly to frontline workers. Once enabled,...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Intune Customer Success",
       "icon": "ph-devices",
       "title": "Microsoft Intune and Apple OS 27: New settings, support, and platform changes",
@@ -742,6 +698,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Granular Conditional Access for Teams meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571879",
+      "date": "2026-09-21T23:04:49.000Z",
+      "snippet": "Granular Conditional Access for Teams meetings gives organizations greater control over access to sensitive meetings. Administrators can apply Conditi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "How to track browser extension installations with Microsoft Defender",
@@ -859,28 +826,6 @@
       "link": "https://azure.microsoft.com/updates?id=571826",
       "date": "2026-09-18T17:24:02.000Z",
       "snippet": "Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Network egress controls for hosted agents in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=571821",
-      "date": "2026-09-18T17:23:21.000Z",
-      "snippet": "In public preview, Microsoft Foundry now lets customers govern the outbound connections a hosted agent can make. Customers author ordered rules matche...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams",
-      "link": "https://azure.microsoft.com/updates?id=571816",
-      "date": "2026-09-18T17:21:06.000Z",
-      "snippet": "Publishing Microsoft Foundry agents to Microsoft 365 Copilot and Teams is now generally available. An agent only delivers value once it reaches the pe...",
       "tags": [
         "Azure"
       ]
@@ -1065,6 +1010,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft M365): Copilot Chat can now better match search results from text that appears inside images embedded in Word and PowerPoint files",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570469",
+      "date": "2026-09-10T23:01:27.000Z",
+      "snippet": "Copilot Chat can now better match search results from text that appears inside images embedded in Word and PowerPoint files is user&#039;s working files — ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
       "title": "Introducing TSDude : A new Task Sequence UI",
@@ -1119,6 +1075,17 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
+      "date": "2026-09-09T22:36:54.000Z",
+      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
