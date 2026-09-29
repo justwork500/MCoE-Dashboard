@@ -1,7 +1,361 @@
 {
-  "lastUpdated": "2026-09-29T12:52:46.823Z",
-  "count": 129,
+  "lastUpdated": "2026-09-29T18:24:59.019Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
+      "link": "https://azure.microsoft.com/updates?id=571783",
+      "date": "2026-09-29T17:57:36.000Z",
+      "snippet": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM ",
+      "link": "https://azure.microsoft.com/updates?id=571810",
+      "date": "2026-09-29T17:52:59.000Z",
+      "snippet": "A new deployment experience for SQL Server on Linux Azure Virtual Machines (VMs) replaces legacy marketplace images with automated script-based provis...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO) ",
+      "link": "https://azure.microsoft.com/updates?id=571836",
+      "date": "2026-09-29T17:51:34.000Z",
+      "snippet": "Now you can use ALDO to extend SQL Server support to environments that can’t maintain continuous connectivity to Azure. ALDO is designed for operation...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SQL Server support on Azure Local connected mode ",
+      "link": "https://azure.microsoft.com/updates?id=571841",
+      "date": "2026-09-29T17:50:20.000Z",
+      "snippet": "With SQL Server on Azure Local, you can run SQL Server workloads on Azure Local infrastructure while leveraging Azure services for centralized managem...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL updates for late-September 2026 ",
+      "link": "https://azure.microsoft.com/updates?id=571846",
+      "date": "2026-09-29T17:49:15.000Z",
+      "snippet": "In late September 2026, the following updates and\r\nenhancements were made to Azure SQL:  \r\n Database\r\n     Hub in Microsoft Fabric is a unified experi...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Database DevOps in SSMS powered by SQL projects ",
+      "link": "https://azure.microsoft.com/updates?id=571852",
+      "date": "2026-09-29T17:42:47.000Z",
+      "snippet": "In SSMS, you can now use Microsoft.Build.Sql projects to help you implement, manage, and collaborate on database changes, by providing a local definit...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure SQL Database Hyperscale Serverless auto-pause and auto-resume ",
+      "link": "https://azure.microsoft.com/updates?id=571857",
+      "date": "2026-09-29T17:40:40.000Z",
+      "snippet": "Auto-pause and auto-resume are now available in public preview for Azure SQL Hyperscale databases using the Serverless compute tier. You can configure...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SQL Formatter ",
+      "link": "https://azure.microsoft.com/updates?id=571872",
+      "date": "2026-09-29T17:39:36.000Z",
+      "snippet": "You can now format SQL scripts directly in Visual Studio Code using SQL Formatter for more consistent, readable code. Customizable formatting options ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation ",
+      "link": "https://azure.microsoft.com/updates?id=571899",
+      "date": "2026-09-29T17:38:16.000Z",
+      "snippet": "SQL Migration Agent Skills help you automate and streamline the end-to-end migration journey from SQL Server to Azure. These reusable AI-powered skill...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Arc enabled System Center Virtual Machine Manager will be retired September 30, 2029",
+      "link": "https://azure.microsoft.com/updates?id=570283",
+      "date": "2026-09-29T17:36:13.000Z",
+      "snippet": "Microsoft is retiring Azure Arc-enabled System Center Virtual Machine Manager (SCVMM) in September 2029. Customers must plan and transition to alterna...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Migrate directly from Azure Arc to Azure SQL Database, including Hyperscale",
+      "link": "https://azure.microsoft.com/updates?id=571795",
+      "date": "2026-09-29T17:34:44.000Z",
+      "snippet": "You can now select Azure SQL Database, including Hyperscale, as a migration target directly from the database migration experience in Azure Arc. The w...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Microsoft SQL Agent Skills",
+      "link": "https://azure.microsoft.com/updates?id=573003",
+      "date": "2026-09-29T17:31:11.000Z",
+      "snippet": "Microsoft SQL Agent Skills help you get more accurate, product-specific guidance when using AI agents to build, operate, and migrate SQL workloads. Yo...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Long-term retention (LTR) v2 for Azure Database for PostgreSQL",
+      "link": "https://azure.microsoft.com/updates?id=571914",
+      "date": "2026-09-29T17:28:57.000Z",
+      "snippet": "LTR v2 is the next-generation long-term backup solution for Azure Database for PostgreSQL that moves from logical backups (pg_dump/pg_restore) used in...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Microsoft HPC Pack",
+      "link": "https://azure.microsoft.com/updates?id=570046",
+      "date": "2026-09-29T17:26:50.000Z",
+      "snippet": "Microsoft is retiring all versions of HPC Pack. End of\r\nSupport is August 27, 2027. HPC Pack is now entering a one-year retirement\r\nperiod. Microsoft ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure IoT Central will be retired on September 20, 2029",
+      "link": "https://azure.microsoft.com/updates?id=569914",
+      "date": "2026-09-29T17:25:10.000Z",
+      "snippet": "Azure\r\nIoT Central will be retired on September 20, 2029.\r\nYou can continue using Azure IoT Central until the retirement date, but we\r\nrecommend start...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Support for large volume breakthrough mode",
+      "link": "https://azure.microsoft.com/updates?id=573027",
+      "date": "2026-09-29T17:12:40.000Z",
+      "snippet": "Large volume breakthrough mode in Azure NetApp Files enables extreme performance and scalability for demanding HPC and EDA workloads. It supports larg...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Storage with cool access enhancement ",
+      "link": "https://azure.microsoft.com/updates?id=573032",
+      "date": "2026-09-29T17:09:58.000Z",
+      "snippet": "QoS update with cool access enabled on Premium and\r\nUltra service levels improves how Azure NetApp Files balances performance and\r\ncost for mixed hot ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview : Microsoft entra kerberos authentication for Azure NetApp Files   ",
+      "link": "https://azure.microsoft.com/updates?id=573041",
+      "date": "2026-09-29T17:07:55.000Z",
+      "snippet": "Azure NetApp Files now supports Microsoft Entra Kerberos\r\nauthentication for SMB volumes. The capability enables users with hybrid or\r\ncloud-only iden...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69307 Windows USB Audio Class driver (usbaudio.sys) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69307",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-56172 Windows VHD miniport driver Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56172",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-68880 Windows Win32k Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-61930 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61930",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62688 Windows MIDI Service Module Elevation of Privileges Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62688",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62755 Windows DHCP Client Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62755",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50332 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50332",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50400 Windows App Package Installer Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50400",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50357 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50357",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50375 DirectX Graphics Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50375",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-50414 Windows Media Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50414",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-57095 Win32k Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57095",
+      "date": "2026-09-29T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -159,17 +513,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure SQL Managed Instance updates for late-September 2026",
-      "link": "https://azure.microsoft.com/updates?id=571632",
-      "date": "2026-09-28T18:52:10.000Z",
-      "snippet": "In\r\nlate September 2026, the following updates and\r\nenhancements were made to Azure SQL Managed Instance:  \r\n Use\r\n     the flexible memory feature in...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with deployments and deployment plans for an automated staged rollout",
@@ -178,17 +521,6 @@
       "snippet": "This week is all about deployments and deployment plans. Deployments and deployment plans have been introduced recently to provide IT administrators w...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Luxembourg - Azure Extended Zones",
-      "link": "https://azure.microsoft.com/updates?id=572968",
-      "date": "2026-09-28T17:08:48.000Z",
-      "snippet": "We are announcing the general availability of the Luxembourg Azure Extended Zone. Azure Extended Zones are small-footprint extensions of Azure placed ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -296,17 +628,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18",
-      "link": "https://azure.microsoft.com/updates?id=573048",
-      "date": "2026-09-25T18:07:26.000Z",
-      "snippet": "Azure HorizonDB is a fully managed, PostgreSQL-compatible, cloud-native database service designed for scalable, high-performance workloads.Azure Horiz...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "SharePoint AI innovations hit GA, powering new Copilot app and agents",
@@ -354,125 +675,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95274: Improper output encoding in DevTools",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95274",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95275: Incorrect reference resolution in MediaStream",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95275",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95276: Improper input validation in Themes",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95276",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95277: Use after free in Views",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95277",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95278: Missing authorization in WakeLock",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95278",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95279: UI misrepresentation in Omnibox",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95279",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95280: Race condition in V8",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95280",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95281: Buffer overflow in ANGLE",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95281",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-95282: Use after free in Platform",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95282",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -497,57 +699,9 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87612: Type confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87612",
-      "date": "2026-09-25T08:45:31.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "Chromium CVE-2026-87489: Memory corruption in V8",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87489",
       "date": "2026-09-25T08:45:03.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87536: Use after free in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87536",
-      "date": "2026-09-25T08:44:45.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87625: Use after free in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87625",
-      "date": "2026-09-25T08:44:32.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87601: Race condition in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87601",
-      "date": "2026-09-25T08:44:22.000Z",
       "snippet": "Information published.",
       "tags": [
         "Windows",
@@ -574,50 +728,6 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",
-      "link": "https://azure.microsoft.com/updates?id=557117",
-      "date": "2026-09-24T17:51:23.000Z",
-      "snippet": "Microsoft will retire several standalone Azure Communication\r\nServices (ACS) offerings on September 30, 2028. After this date, the affected\r\nservices ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Instant Access for VM restore points",
-      "link": "https://azure.microsoft.com/updates?id=572573",
-      "date": "2026-09-24T16:04:16.000Z",
-      "snippet": "Instant Access for application-consistent restore points on virtual machines (that have Premium v2 or Ultra disks as data disks) is now generally avai...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",
-      "link": "https://azure.microsoft.com/updates?id=572770",
-      "date": "2026-09-23T16:50:05.000Z",
-      "snippet": "Support for PowerShell 7.4 will\r\nend on November 10, 2026, please transition to PowerShell 7.6. Your Azure Function apps will continue to run, but sec...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10  ",
-      "link": "https://azure.microsoft.com/updates?id=572838",
-      "date": "2026-09-23T16:46:49.000Z",
-      "snippet": "Support for .NET\r\n8 and .NET 9 will end on November\r\n10, 2026. Please transition to .NET\r\n10 by that date. Your\r\nAzure Function Apps will continue to ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -665,28 +775,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for Node.js 22 ends on April 30, 2027",
-      "link": "https://azure.microsoft.com/updates?id=572771",
-      "date": "2026-09-22T19:22:34.000Z",
-      "snippet": "Support for Node.js 22 will end on April 30, 2027, please transition to Node.js 24 by that date. Your Azure Function apps will continue to run, but se...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Flex Nodes for AKS",
-      "link": "https://azure.microsoft.com/updates?id=571919",
-      "date": "2026-09-22T18:51:48.000Z",
-      "snippet": "Flex Nodes for AKS is a deployment option for application and platform teams to use hybrid and edge infrastructure as connected worker nodes to an AKS...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Microsoft Purview Increases Auto-Expanding Archive Limit to 3 TB for Mailboxes ",
@@ -731,17 +819,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Sphere OS version 26.09 is now available",
-      "link": "https://azure.microsoft.com/updates?id=572579",
-      "date": "2026-09-21T18:44:49.000Z",
-      "snippet": "Azure Sphere OS version 26.09 is now available in the Retail feed. This release includes updates to the Azure Sphere OS only, with no update to the SD...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Making sure the multi-app kiosk configuration is applied after the installation of the applications",
@@ -764,17 +841,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
-      "link": "https://azure.microsoft.com/updates?id=572214",
-      "date": "2026-09-21T16:58:19.000Z",
-      "snippet": "Today we&#039;re previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deploye...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "New in Edge for developers – Create better components and make your site agent-ready",
@@ -783,17 +849,6 @@
       "snippet": "Welcome back to New in Edge for developers, our recurring roundup of recent web platform updates in Microsoft Edge.\nIn this edition, we&#039;ll look more c...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Functions support for PowerShell 7.6",
-      "link": "https://azure.microsoft.com/updates?id=572219",
-      "date": "2026-09-21T16:55:34.000Z",
-      "snippet": "Azure Functions support for PowerShell 7.6 is\r\nnow generally available.  You can now develop apps using PowerShell 7.6 locally and\r\ndeploy them to Azu...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -806,39 +861,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Foundry Routines in Foundry Agent Service",
-      "link": "https://azure.microsoft.com/updates?id=563536",
-      "date": "2026-09-18T19:10:53.000Z",
-      "snippet": "In public preview, Foundry Agent Service adds Foundry Routines, a native trigger primitive for running published agents automatically. Production agen...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Mdsv4 and Msv4 Series Virtual Machines for SAP",
-      "link": "https://azure.microsoft.com/updates?id=571530",
-      "date": "2026-09-18T17:29:29.000Z",
-      "snippet": "The Mdsv4\r\nand Msv4 Series are memory-optimized virtual machine series built on 6th\r\nGeneration Intel® Xeon® Scalable processors and enhanced with adv...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Enable and disable controls for Microsoft Foundry agents in Agent 365",
-      "link": "https://azure.microsoft.com/updates?id=571826",
-      "date": "2026-09-18T17:24:02.000Z",
-      "snippet": "Microsoft Foundry now exposes enable and disable actions for Foundry agent objects within the Agent 365 governance surface in Microsoft Admin Center, ...",
-      "tags": [
-        "Azure"
       ]
     },
     {
