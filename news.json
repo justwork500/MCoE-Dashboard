@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-09-29T18:24:59.019Z",
-  "count": 131,
+  "lastUpdated": "2026-09-29T22:29:17.065Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Functions v1 hosting model on Azure Container Apps",
+      "link": "https://azure.microsoft.com/updates?id=570800",
+      "date": "2026-09-29T19:41:09.000Z",
+      "snippet": "The Azure Functions v1 hosting model on Azure Container Apps\r\nwill be retired on September 29, 2027. After this date, existing Functions v1\r\napps on A...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series ",
+      "link": "https://azure.microsoft.com/updates?id=572630",
+      "date": "2026-09-29T19:27:09.000Z",
+      "snippet": "The Laosv5 series and Lasv5 storage optimized VMs, based on the 5th Gen AMD EPYC™ processor (Turin), are now generally available.Lasv5 and Laosv5 VMs ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets",
+      "link": "https://azure.microsoft.com/updates?id=571075",
+      "date": "2026-09-29T19:17:59.000Z",
+      "snippet": "Automatic Zone Placement for VM Scale Sets (Public Preview) enables Azure to automatically select the best availability zones for your scale set based...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central",
+      "link": "https://azure.microsoft.com/updates?id=570696",
+      "date": "2026-09-29T19:07:44.000Z",
+      "snippet": "Azure Arc-enabled SQL Server is now\r\navailable in Germany West Central, enabling you to connect SQL Server\r\ninstances to Azure Arc and take advantage ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North",
+      "link": "https://azure.microsoft.com/updates?id=570763",
+      "date": "2026-09-29T19:06:50.000Z",
+      "snippet": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
+      "link": "https://azure.microsoft.com/updates?id=571909",
+      "date": "2026-09-29T18:14:46.000Z",
+      "snippet": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance manag...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
+      "link": "https://azure.microsoft.com/updates?id=571867",
+      "date": "2026-09-29T18:13:31.000Z",
+      "snippet": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database withou...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
+      "link": "https://azure.microsoft.com/updates?id=571904",
+      "date": "2026-09-29T18:11:15.000Z",
+      "snippet": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performan...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure SQL updates for late-September 2026",
+      "link": "https://azure.microsoft.com/updates?id=571643",
+      "date": "2026-09-29T18:05:11.000Z",
+      "snippet": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -124,83 +223,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Microsoft SQL Agent Skills",
-      "link": "https://azure.microsoft.com/updates?id=573003",
-      "date": "2026-09-29T17:31:11.000Z",
-      "snippet": "Microsoft SQL Agent Skills help you get more accurate, product-specific guidance when using AI agents to build, operate, and migrate SQL workloads. Yo...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Long-term retention (LTR) v2 for Azure Database for PostgreSQL",
-      "link": "https://azure.microsoft.com/updates?id=571914",
-      "date": "2026-09-29T17:28:57.000Z",
-      "snippet": "LTR v2 is the next-generation long-term backup solution for Azure Database for PostgreSQL that moves from logical backups (pg_dump/pg_restore) used in...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Microsoft HPC Pack",
-      "link": "https://azure.microsoft.com/updates?id=570046",
-      "date": "2026-09-29T17:26:50.000Z",
-      "snippet": "Microsoft is retiring all versions of HPC Pack. End of\r\nSupport is August 27, 2027. HPC Pack is now entering a one-year retirement\r\nperiod. Microsoft ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure IoT Central will be retired on September 20, 2029",
-      "link": "https://azure.microsoft.com/updates?id=569914",
-      "date": "2026-09-29T17:25:10.000Z",
-      "snippet": "Azure\r\nIoT Central will be retired on September 20, 2029.\r\nYou can continue using Azure IoT Central until the retirement date, but we\r\nrecommend start...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Support for large volume breakthrough mode",
-      "link": "https://azure.microsoft.com/updates?id=573027",
-      "date": "2026-09-29T17:12:40.000Z",
-      "snippet": "Large volume breakthrough mode in Azure NetApp Files enables extreme performance and scalability for demanding HPC and EDA workloads. It supports larg...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Storage with cool access enhancement ",
-      "link": "https://azure.microsoft.com/updates?id=573032",
-      "date": "2026-09-29T17:09:58.000Z",
-      "snippet": "QoS update with cool access enabled on Premium and\r\nUltra service levels improves how Azure NetApp Files balances performance and\r\ncost for mixed hot ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview : Microsoft entra kerberos authentication for Azure NetApp Files   ",
-      "link": "https://azure.microsoft.com/updates?id=573041",
-      "date": "2026-09-29T17:07:55.000Z",
-      "snippet": "Azure NetApp Files now supports Microsoft Entra Kerberos\r\nauthentication for SMB volumes. The capability enables users with hybrid or\r\ncloud-only iden...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
@@ -243,6 +265,18 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880",
       "date": "2026-09-29T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69522 .NET and Visual Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69522",
+      "date": "2026-09-25T14:00:00.000Z",
+      "snippet": "Security Updates table updated provide links to the KB articles and download center updates. Microsoft recommends installing the updates.",
       "tags": [
         "Windows",
         "Azure"
@@ -491,28 +525,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Vector search and vector indexes in Azure SQL ",
-      "link": "https://azure.microsoft.com/updates?id=571800",
-      "date": "2026-09-28T22:07:19.000Z",
-      "snippet": "Vector search and vector indexes are now generally available in Azure SQL Database. Using the CREATE VECTOR INDEX and VECTOR_SEARCH T-SQL capabilities...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure SQL Dev Hub",
-      "link": "https://azure.microsoft.com/updates?id=572998",
-      "date": "2026-09-28T22:06:05.000Z",
-      "snippet": "Azure SQL Dev Hub gives you a central starting point for building applications with Azure SQL, whether you’re developing directly or using AI agents. ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with deployments and deployment plans for an automated staged rollout",
@@ -641,18 +653,6 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
-      "title": "CVE-2026-69522 .NET and Visual Studio Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69522",
-      "date": "2026-09-25T14:00:00.000Z",
-      "snippet": "Security Updates table updated provide links to the KB articles and download center updates. Microsoft recommends installing the updates.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
       "title": "CVE-2026-78510 Microsoft Outlook and Word Remote Code Execution Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78510",
       "date": "2026-09-25T14:00:00.000Z",
@@ -694,18 +694,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-87489: Memory corruption in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87489",
-      "date": "2026-09-25T08:45:03.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
