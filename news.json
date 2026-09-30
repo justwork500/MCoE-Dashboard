@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-09-29T22:29:17.065Z",
+  "lastUpdated": "2026-09-30T01:26:37.317Z",
   "count": 130,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Discover &amp; Add Skills from the skill catalog",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571880",
+      "date": "2026-09-29T23:05:21.000Z",
+      "snippet": "With the Skills catalog in Copilot Studio, makers can discover, reuse and selectively share approved organizational skills instead of recreating the s...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: ExpandedContextIQ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570854",
+      "date": "2026-09-29T23:05:21.000Z",
+      "snippet": "Expand Context IQ so users can discover and select additional agents, skills, and content sources while composing prompts.GA date: November CY2026Prev...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Custom agents + 3P calls",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570853",
+      "date": "2026-09-29T23:05:21.000Z",
+      "snippet": "Enable Work IQ to invoke custom agents and agents that call supported third-party tools.GA date: November CY2026Preview date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-29T19:43:39.000Z",
+      "snippet": "Update 9/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -514,17 +558,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Send availability in Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570665",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "We are bringing back send availability on both iOS and Android. iOS users will now also be able to access more of this feature via keyboard and voiceo...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with deployments and deployment plans for an automated staged rollout",
@@ -675,6 +708,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -785,17 +829,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Granular Conditional Access for Teams meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571879",
-      "date": "2026-09-21T23:04:49.000Z",
-      "snippet": "Granular Conditional Access for Teams meetings gives organizations greater control over access to sensitive meetings. Administrators can apply Conditi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "How to track browser extension installations with Microsoft Defender",
@@ -815,17 +848,6 @@
       "snippet": "This week is all about making sure that the multi-app kiosk configuration is actually applied after the required applications are installed. The order...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-21T16:59:56.000Z",
-      "snippet": "Update 9/16/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1031,17 +1053,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft M365): Copilot Chat can now better match search results from text that appears inside images embedded in Word and PowerPoint files",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570469",
-      "date": "2026-09-10T23:01:27.000Z",
-      "snippet": "Copilot Chat can now better match search results from text that appears inside images embedded in Word and PowerPoint files is user&#039;s working files — ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
       "title": "Introducing TSDude : A new Task Sequence UI",
@@ -1096,17 +1107,6 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Multi-line call history tabs in the Calls app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570962",
-      "date": "2026-09-09T22:36:54.000Z",
-      "snippet": "Multi-line users get a redesigned call history experience that organizes activity by phone line. Call activity is organized into dedicated tabs for ea...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
