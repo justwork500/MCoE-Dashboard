@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-09-30T01:26:37.317Z",
+  "lastUpdated": "2026-09-30T07:03:58.447Z",
   "count": 130,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "MS Entra ID Introduce CSP Protections to Block Unauthorized external Script Injection and Help Prevent XSS Attacks",
+      "link": "https://www.anoopcnair.com/entra-id-csp-protections-script-injection/",
+      "date": "2026-09-30T06:40:50.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -33,17 +44,6 @@
       "snippet": "Enable Work IQ to invoke custom agents and agents that call supported third-party tools.GA date: November CY2026Preview date: October CY2026",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-29T19:43:39.000Z",
-      "snippet": "Update 9/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -99,6 +99,17 @@
       "snippet": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-29T18:51:17.000Z",
+      "snippet": "Update 9/96/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -725,17 +736,6 @@
       "link": "https://andrewstaylor.com/2026/09/25/intune-newsletter-25th-september-2026/",
       "date": "2026-09-25T11:10:43.000Z",
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Security Copilot Included in Microsoft 365 E5 and E7 with Integrated Security Agents",
-      "link": "https://www.anoopcnair.com/security-copilot-microsoft-365-e5-and-e7-with/",
-      "date": "2026-09-25T09:29:22.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
