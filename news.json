@@ -1,7 +1,74 @@
 {
-  "lastUpdated": "2026-09-30T07:03:58.447Z",
+  "lastUpdated": "2026-09-30T13:40:13.755Z",
   "count": 130,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.1.1.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-1-1-0-released/?utm_term=rss",
+      "date": "2026-09-30T12:35:32.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Cybersecurity Awareness Month 2026: 31 Days of Challenges ",
+      "link": "https://blog.admindroid.com/cybersecurity-awareness-month-2026/",
+      "date": "2026-09-30T11:06:53.000Z",
+      "snippet": "October is back, and so is our favorite tradition at AdminDroid: Cybersecurity Awareness Month.🛡️  This is our fifth year celebrating it with a dedic...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Adds New Device Naming Options to Windows Autopilot Device Preparation",
+      "link": "https://www.anoopcnair.com/intune-windows-autopilot-device-preparation/",
+      "date": "2026-09-30T10:49:06.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Upgrade to Windows 11 26H2 using Intune",
+      "link": "https://www.prajwaldesai.com/upgrade-to-windows-11-26h2-using-intune/",
+      "date": "2026-09-30T10:17:35.000Z",
+      "snippet": "In this step-by-step guide, I will show you how to efficiently upgrade to Windows 11 26H2 using Intune. By leveraging the...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Deploy the Windows 11 26H2 Feature Update using Microsoft Intune",
+      "link": "https://www.anoopcnair.com/windows-11-26h2-feature-update-microsoft-intune/",
+      "date": "2026-09-30T08:57:54.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows 11 2026 Update: Version 26H2 Now Available New Features Security and Management Enhancements",
+      "link": "https://www.anoopcnair.com/windows-11-2026-update-version-26h2-now/",
+      "date": "2026-09-30T08:53:33.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -44,6 +111,17 @@
       "snippet": "Enable Work IQ to invoke custom agents and agents that call supported third-party tools.GA date: November CY2026Preview date: October CY2026",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-09-29T19:43:39.000Z",
+      "snippet": "Update 9/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -99,17 +177,6 @@
       "snippet": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-29T18:51:17.000Z",
-      "snippet": "Update 9/96/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -468,17 +535,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Use TWAIN Scanners in Remote Sessions for Windows 365 with Intune",
-      "link": "https://www.anoopcnair.com/use-twain-scanners-in-remote-sessions-intune/",
-      "date": "2026-09-29T09:35:07.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium CVE-2026-91728: Integer overflow",
@@ -610,28 +666,6 @@
       "link": "https://www.prajwaldesai.com/check-onedrive-storage-usage/",
       "date": "2026-09-28T11:32:02.000Z",
       "snippet": "In this guide, I&amp;#8217;ll cover some practical methods to check OneDrive storage usage as an individual user, as an IT administrator,...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "New Apple Settings in the Settings Catalog for iOS/iPadOS and macOS",
-      "link": "https://www.anoopcnair.com/intune-adds-new-apple-settings-catalog-options/",
-      "date": "2026-09-28T09:56:44.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows 11 KB5124010 New Bluetooth File Explorer and Copilot Key Enhancements",
-      "link": "https://www.anoopcnair.com/windows-11-kb5124010-new-bluetooth-file/",
-      "date": "2026-09-28T08:40:23.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
@@ -1243,18 +1277,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Preview Version 3.1.0.112 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/publisher-3-1-0-112/?utm_term=rss",
-      "date": "2026-09-04T17:09:43.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Features Improvements Fixes\nThe post Patch My PC Publisher Previ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Take control of your EWSAllowedAppIDs list before EWS access changes",
@@ -1409,17 +1431,6 @@
       ]
     },
     {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "KB38982839 Security update for SMS Provider and admin service",
-      "link": "https://www.prajwaldesai.com/kb38982839-security-update-for-sms-provider-and-admin-service/",
-      "date": "2026-08-31T18:03:21.000Z",
-      "snippet": "Microsoft has released KB38982839 security update addressing the issues with SMS Provider and administration service. This hotfix is applicable for Co...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Configuring Point-in-time restore in Windows",
@@ -1451,17 +1462,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Teams Limits External Chat for Default onmicrosoft.com Domains",
-      "link": "https://blog.admindroid.com/external-messaging-limit-for-onmicrosoft-com-domains-in-microsoft-teams/",
-      "date": "2026-08-31T10:34:10.000Z",
-      "snippet": "Microsoft is introducing outbound external messaging limits in Teams for organizations using only the default MOERA (onmicrosoft.com) domain. The limi...",
-      "tags": [
-        "Azure"
       ]
     }
   ]
