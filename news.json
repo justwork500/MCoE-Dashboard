@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T01:34:30.001Z",
-  "count": 140,
+  "lastUpdated": "2026-10-01T07:48:08.502Z",
+  "count": 129,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -526,18 +526,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Production Version 3.1.1.0 Released",
-      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-1-1-0-released/?utm_term=rss",
-      "date": "2026-09-30T12:35:32.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Cybersecurity Awareness Month 2026: 31 Days of Challenges ",
@@ -599,17 +587,6 @@
       "link": "https://www.anoopcnair.com/entra-id-csp-protections-script-injection/",
       "date": "2026-09-30T06:40:50.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Settings Catalog updated to support Windows 11, version 26H2",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-settings-catalog-updated-to-support-windows-11/ba-p/4560815",
-      "date": "2026-09-30T01:30:00.000Z",
-      "snippet": "Windows 11, version 26H2 is now available, and Microsoft Intune provides day zero support for validated Windows policy settings in the Settings Catalo...",
       "tags": [
         "Intune"
       ]
@@ -838,18 +815,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Autopilot Device Preparation BitLocker 256 Bit Issue: The 128 Bit Race Is Finally Fixed",
-      "link": "https://patchmypc.com/blog/autopilot-device-preparation-bitlocker-256-bit-issue/?utm_term=rss",
-      "date": "2026-09-28T14:16:24.000Z",
-      "snippet": "This blog explores a new Windows Insider feature aimed at fixing the Autopilot BitLocker 256 bit issue. We show how it delays encryption during OOBE, ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "How to Check OneDrive Storage Usage [3 Best Ways]",
@@ -869,42 +834,6 @@
       "snippet": "If you&amp;#8217;ve clicked Apps &gt; Windows &gt; Create &gt; Enterprise App Catalog app in Intune, you&amp;#8217;ve seen the catalog picker. Search, pick an app, pic...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Faster Win32 App Delivery in Intune with Push Notifications",
-      "link": "https://patchmypc.com/blog/faster-win32-app-delivery-in-intune/?utm_term=rss",
-      "date": "2026-09-27T09:39:48.000Z",
-      "snippet": "Microsoft Intune is improving Win32 app delivery with push notifications. Changes made by administrators or the service can now prompt devices to chec...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Faster Required App Delivery After Autopilot",
-      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/?utm_term=rss",
-      "date": "2026-09-26T13:47:41.000Z",
-      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Preview Version 3.1.0.462 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-462-released/?utm_term=rss",
-      "date": "2026-09-25T20:05:07.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Features Improvements Fixes\nThe post Patch My PC Publisher Previ...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1062,18 +991,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Intune App Inventory From Four Hours to About Five Minutes",
-      "link": "https://patchmypc.com/blog/intune-app-inventory-from-four-hours-to-about-five-minutes/?utm_term=rss",
-      "date": "2026-09-21T15:18:51.000Z",
-      "snippet": "Intune App Inventory no longer has to wait for the regular four hour collection cycle. A new app install can now trigger detection, validation, a fres...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 18th September 2026",
@@ -1129,18 +1046,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Patch My PC Publisher Preview Version 3.1.0.286 Released",
-      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-286-released/?utm_term=rss",
-      "date": "2026-09-16T15:43:21.000Z",
-      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Versio...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Archive Inactive OneDrive and SharePoint Files with Microsoft Purview Retention Policies",
@@ -1193,30 +1098,6 @@
       "snippet": "Microsoft has released KB5129195, an out-of-band (OOB) cumulative update for Windows 11 versions 24H2 and 25H2. Published on September 14, 2026,...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Using Patch My PC Win32 Apps with Autopilot",
-      "link": "https://patchmypc.com/kb/using-patch-my-pc-win32-apps-with-autopilot/?utm_term=rss",
-      "date": "2026-09-12T16:39:09.000Z",
-      "snippet": "Windows Autopilot provisions Windows devices and prepares them for a user with minimal hands-on IT effort. For many organizations, that includes insta...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Defender is On. Intune Says Noncompliant",
-      "link": "https://patchmypc.com/blog/defender-is-on-intune-says-noncompliant/?utm_term=rss",
-      "date": "2026-09-12T07:37:04.000Z",
-      "snippet": "Defender was running. Windows said it was off. Intune could then mark the device noncompliant, and Conditional Access could block the user. Here is ho...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
@@ -1406,18 +1287,6 @@
       "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Autopilot Device Preparation vs Device Association vs Classic Autopilot: What Is the Difference?",
-      "link": "https://patchmypc.com/blog/autopilot-device-preparation-vs-device-association-vs-autopilot/?utm_term=rss",
-      "date": "2026-09-05T18:20:35.000Z",
-      "snippet": "At first glance, Device Association looks almost identical to Classic Autopilot. Both can involve collecting device information, uploading a CSV, and ...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     },
     {
