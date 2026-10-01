@@ -1,7 +1,227 @@
 {
-  "lastUpdated": "2026-09-30T22:37:45.363Z",
-  "count": 129,
+  "lastUpdated": "2026-10-01T01:34:30.001Z",
+  "count": 140,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Development - Page Scripting enters General Availability",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573384",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "The page scripting tool that can be used to record and replay user actions directly in the Business Central web client is moving out of preview to gen...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Quality evaluation - Specify who to evaluate in conversations ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573383",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Participant evaluated&quot;  lets users choose who to evaluate within a conversation transcript for quality evaluation.Users can select Participant evaluat...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Scout",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573382",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "The updated Service application brings Dynamics 365 Customer Service context, actions, and guided workflows into Scout. Customer service teams can wor...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Service tools, skills and plugins are now available for Code",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573381",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "The updated Service application brings Dynamics 365 Customer Service context, actions, and guided workflows into Code. Customer service teams can work...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Copilot and agents - Improve purchase order matching in Payables Agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573380",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature improves PO matching quality in Payables Agent and aligns draft finalization behavior with existing posting controls.\r\nThe agent uses an ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Use specific method for carbon footprint calculation when enabling item tracking",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573379",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature introduces a new calculation method for carbon footprint tracking in sustainability value entries. In addition to the current Average met...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Track your carbon footprint with item journals and item reclassification journals",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573378",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature introduces carbon footprint tracking to Item Journals and Item Reclassification Journals. It adds fields for CO₂e per unit and total CO₂e...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Track your carbon footprint for fixed assets",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573377",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature extends sustainability tracking to fixed assets by introducing fields and logic that capture emissions during acquisition, reclassificati...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Reverse Sustainability Ledger entries transaction",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573376",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Keep your sustainability data accurate by reversing sustainability ledger entries that contain mistakes.\r\nIf you post sustainability transactions that...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainabilty Management - Estimate your carbon footprint in Service Management",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573375",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature extends sustainability tracking to cover Service Management features by displaying carbon footprint values on service documents. Emission...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Use formulas to calculate emissions in purchase documents",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573374",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature introduces formula-based emission calculations on purchase documents and uses the same calculation logic as sustainability journals. It a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Sales: Sales tools, skills and plugin are now available in Copilot Cowork",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573373",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "The updated Sales plugin brings expanded Dynamics 365 Sales context, actions, and guided workflows to Copilot Cowork, building on the native Sales ski...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Copilot and agents - Updates to Agent UI experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573372",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Manage agents more easily by grouping avatars and using a dedicated action to start new tasks.GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: User experiences - Show recently searched in Tell Me",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573371",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Find pages and reports faster by accessing recent searches in Tell Me (Alt+Q).GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Copilot and agents - Manage agent permissions easier",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573370",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Assign additional permissions to agents when they request them.GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: User experiences - Agent actions review notifications on lists",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573369",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Show and manage documents where agents require human interaction by using a new review bar on documents and lists.GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: User experiences - Show recently used in lookups",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573368",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "Business Central now highlights recently used records directly in lookup dialogs. When users open a lookup, the system surfaces records they have rece...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: User experience - Preview images directly in web client",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573367",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "You can open image attachments in the Business Central web client without downloading the images first. Files display in preview mode with an easy to ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Copilot and agents - Review content generated by agents directly on pages",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573366",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This improvement introduces the ability for Business Central users to review and approve content generated by agents directly on the pages where they ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Adapt faster with Power Platform - Map new Dataverse fields in Business Central",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573365",
+      "date": "2026-09-30T23:31:03.000Z",
+      "snippet": "This feature simplifies how administrators keep Business Central and Dataverse aligned as Dataverse schemas evolve. Previously, exposing new or existi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -395,39 +615,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Discover &amp; Add Skills from the skill catalog",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571880",
-      "date": "2026-09-29T23:05:21.000Z",
-      "snippet": "With the Skills catalog in Copilot Studio, makers can discover, reuse and selectively share approved organizational skills instead of recreating the s...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: ExpandedContextIQ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570854",
-      "date": "2026-09-29T23:05:21.000Z",
-      "snippet": "Expand Context IQ so users can discover and select additional agents, skills, and content sources while composing prompts.GA date: November CY2026Prev...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Custom agents + 3P calls",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570853",
-      "date": "2026-09-29T23:05:21.000Z",
-      "snippet": "Enable Work IQ to invoke custom agents and agents that call supported third-party tools.GA date: November CY2026Preview date: October CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
@@ -637,72 +824,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Word: Legal plugins in Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571884",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Legal plugins in Copilot provide purpose-built skills to help legal professionals summarize, draft, review, and redline legal documents. Available in ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Updated performance information in tab hover cards",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571692",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Microsoft Edge is updating tab hover cards to provide clearer information about tab memory usage and memory savings when inactive tabs are discarded. ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection-Auto-labeling scale increase for SharePoint and OneDrive",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571309",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "We are increasing the maximum auto-labeling capacity for SharePoint and OneDrive from 100,000 up to 500,000 files per tenant per day. This helps organ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Prompt gallery for Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571308",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Discover easier ways to use Copilot in OneDrive\r\nThe new Prompt Gallery offers ready-to-use prompts for common file tasks, helping you get started qui...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Clipchamp: Copilot video creation updates",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570963",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Copilot brings agentic video creation to Clipchamp Video Hub. Users can generate, edit, and refine videos from prompts—grounded in explicit documents ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Track costs for non-billable field work",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570857",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Organizations often use the same field teams for both customer work and internal operational work, such as maintenance, inspections, or asset-related ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
