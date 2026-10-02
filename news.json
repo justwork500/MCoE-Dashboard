@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-10-02T16:15:52.196Z",
+  "lastUpdated": "2026-10-02T20:51:23.968Z",
   "count": 128,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters ",
+      "link": "https://azure.microsoft.com/updates?id=571504",
+      "date": "2026-10-02T17:35:21.000Z",
+      "snippet": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer Postgre...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96940 Microsoft Exchange Server Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96940",
+      "date": "2026-10-02T14:00:00.000Z",
+      "snippet": "Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
@@ -91,6 +114,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "EWS Deprecation Is Here – What This Means To You",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
+      "date": "2026-10-01T20:07:06.000Z",
+      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | August - September 2026",
@@ -110,6 +144,17 @@
       "snippet": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Action Required: Upgrade ExchangeOnlineManagement PowerShell Module to Version 3.10.1 or Newer",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/action-required-upgrade-exchangeonlinemanagement-powershell/ba-p/4561418",
+      "date": "2026-10-01T12:50:20.000Z",
+      "snippet": "We have introduced security enhancements to Exchange Online PowerShell authentication in ExchangeOnlineManagement module version 3.10.1 and newer. The...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -659,17 +704,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM ",
-      "link": "https://azure.microsoft.com/updates?id=571810",
-      "date": "2026-09-29T17:52:59.000Z",
-      "snippet": "A new deployment experience for SQL Server on Linux Azure Virtual Machines (VMs) replaces legacy marketplace images with automated script-based provis...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
@@ -702,18 +736,6 @@
       "snippet": "This article is a complete Configuration Manager 2609 upgrade guide that covers all you need to know to update your existing SCCM...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-91728: Integer overflow",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91728",
-      "date": "2026-09-29T08:46:34.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -1418,28 +1440,6 @@
       "snippet": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how th...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939",
-      "date": "2026-09-02T17:31:16.000Z",
-      "snippet": "As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: Obje...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL ",
-      "link": "https://azure.microsoft.com/updates?id=569653",
-      "date": "2026-09-02T16:59:15.000Z",
-      "snippet": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database...",
-      "tags": [
-        "Azure"
       ]
     }
   ]
