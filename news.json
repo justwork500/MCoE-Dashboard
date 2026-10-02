@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-01T07:48:08.502Z",
-  "count": 129,
+  "lastUpdated": "2026-10-01T23:53:24.911Z",
+  "count": 140,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Help your customers get answers and support with Teams Phone Agent",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/help-your-customers-get-answers-and-support-with-teams-phone/ba-p/4560840",
+      "date": "2026-10-01T21:50:26.000Z",
+      "snippet": "Your customers are your number one priority, and you want to be there whenever they call.&amp;nbsp;But customer needs don’t follow a schedule. Questions a...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
+      "date": "2026-10-01T17:03:00.000Z",
+      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",
+      "link": "https://azure.microsoft.com/updates?id=569592",
+      "date": "2026-10-01T17:02:55.000Z",
+      "snippet": "On October 31, 2029, DCsv3 and DCdsv3-series\r\nAzure Linux, Windows and Dedicated Host virtual\r\nmachines will be retired. After that date, they will no...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Enforces Conditional Access on Outlook Attachments with a Dedicated Entra Application ",
+      "link": "https://blog.admindroid.com/microsoft-enforces-conditional-access-to-outlook-attachments/",
+      "date": "2026-10-01T12:27:18.000Z",
+      "snippet": "Microsoft has introduced a separate application configuration for Outlook attachment operations. It brings Conditional Access enforcement to attachmen...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Deploy Windows 11 26H2 Update using SCCM",
+      "link": "https://www.prajwaldesai.com/deploy-windows-11-26h2-update-using-sccm/",
+      "date": "2026-10-01T11:42:55.000Z",
+      "snippet": "In this guide, I&amp;#8217;ll cover the steps to deploy Windows 11 26H2 update using SCCM. I will use Windows Servicing to...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Use Admin Host Info to Display Computer Details on the macOS Login Window using Intune",
+      "link": "https://www.anoopcnair.com/admin-host-info-the-macos-login-window-intune/",
+      "date": "2026-10-01T10:38:49.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -283,20 +349,9 @@
       "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs ",
       "link": "https://azure.microsoft.com/updates?id=572346",
       "date": "2026-09-30T17:07:30.000Z",
-      "snippet": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3,\r\nand Esv3 Azure VM series in public...",
+      "snippet": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3, and\r\nEsv3 Azure VM series in public...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Help your customers get answers and support with Teams Phone Agent",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/help-your-customers-get-answers-and-support-with-teams-phone/ba-p/4560840",
-      "date": "2026-09-30T15:38:55.000Z",
-      "snippet": "Your customers are your number one priority, and you want to be there whenever they call. Questions and appointment changes can arrive during busy cal...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -526,6 +581,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Production Version 3.1.1.0 Released",
+      "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-1-1-0-released/?utm_term=rss",
+      "date": "2026-09-30T12:35:32.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Cybersecurity Awareness Month 2026: 31 Days of Challenges ",
@@ -592,6 +659,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Settings Catalog updated to support Windows 11, version 26H2",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-settings-catalog-updated-to-support-windows-11/ba-p/4560815",
+      "date": "2026-09-30T01:30:00.000Z",
+      "snippet": "Windows 11, version 26H2 is now available, and Microsoft Intune provides day zero support for validated Windows policy settings in the Settings Catalo...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
@@ -605,10 +683,10 @@
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure Functions v1 hosting model on Azure Container Apps",
+      "title": "Retirement: Functions on Azure Container Apps V1 ",
       "link": "https://azure.microsoft.com/updates?id=570800",
       "date": "2026-09-29T19:41:09.000Z",
-      "snippet": "The Azure Functions v1 hosting model on Azure Container Apps\r\nwill be retired on September 29, 2027. After this date, existing Functions v1\r\napps on A...",
+      "snippet": "The Functions on Azure Container Apps (ACA) V1 will be retired on September 29, 2027. After this date, existing Functions on ACA V1 Apps will stop run...",
       "tags": [
         "Azure"
       ]
@@ -724,28 +802,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO) ",
-      "link": "https://azure.microsoft.com/updates?id=571836",
-      "date": "2026-09-29T17:51:34.000Z",
-      "snippet": "Now you can use ALDO to extend SQL Server support to environments that can’t maintain continuous connectivity to Azure. ALDO is designed for operation...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: SQL Server support on Azure Local connected mode ",
-      "link": "https://azure.microsoft.com/updates?id=571841",
-      "date": "2026-09-29T17:50:20.000Z",
-      "snippet": "With SQL Server on Azure Local, you can run SQL Server workloads on Azure Local infrastructure while leveraging Azure services for centralized managem...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability",
@@ -781,17 +837,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Disable Apple Intelligence Report on macOS using Intune Policy",
-      "link": "https://www.anoopcnair.com/apple-intelligence-report-on-macos-intune/",
-      "date": "2026-09-29T10:39:52.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
       "title": "Chromium CVE-2026-91728: Integer overflow",
@@ -815,6 +860,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Device Preparation BitLocker 256 Bit Issue: The 128 Bit Race Is Finally Fixed",
+      "link": "https://patchmypc.com/blog/autopilot-device-preparation-bitlocker-256-bit-issue/?utm_term=rss",
+      "date": "2026-09-28T14:16:24.000Z",
+      "snippet": "This blog explores a new Windows Insider feature aimed at fixing the Autopilot BitLocker 256 bit issue. We show how it delays encryption during OOBE, ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "How to Check OneDrive Storage Usage [3 Best Ways]",
@@ -834,6 +891,42 @@
       "snippet": "If you&amp;#8217;ve clicked Apps &gt; Windows &gt; Create &gt; Enterprise App Catalog app in Intune, you&amp;#8217;ve seen the catalog picker. Search, pick an app, pic...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Faster Win32 App Delivery in Intune with Push Notifications",
+      "link": "https://patchmypc.com/blog/faster-win32-app-delivery-in-intune/?utm_term=rss",
+      "date": "2026-09-27T09:39:48.000Z",
+      "snippet": "Microsoft Intune is improving Win32 app delivery with push notifications. Changes made by administrators or the service can now prompt devices to chec...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Faster Required App Delivery After Autopilot",
+      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/?utm_term=rss",
+      "date": "2026-09-26T13:47:41.000Z",
+      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 3.1.0.462 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-462-released/?utm_term=rss",
+      "date": "2026-09-25T20:05:07.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Features Improvements Fixes\nThe post Patch My PC Publisher Previ...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -991,6 +1084,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Intune App Inventory From Four Hours to About Five Minutes",
+      "link": "https://patchmypc.com/blog/intune-app-inventory-from-four-hours-to-about-five-minutes/?utm_term=rss",
+      "date": "2026-09-21T15:18:51.000Z",
+      "snippet": "Intune App Inventory no longer has to wait for the regular four hour collection cycle. A new app install can now trigger detection, validation, a fres...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 18th September 2026",
@@ -1046,6 +1151,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Patch My PC Publisher Preview Version 3.1.0.286 Released",
+      "link": "https://patchmypc.com/release-notes/preview-release/patch-my-pc-publisher-preview-version-3-1-0-286-released/?utm_term=rss",
+      "date": "2026-09-16T15:43:21.000Z",
+      "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. Improvements Fixes\nThe post Patch My PC Publisher Preview Versio...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Archive Inactive OneDrive and SharePoint Files with Microsoft Purview Retention Policies",
@@ -1098,6 +1215,30 @@
       "snippet": "Microsoft has released KB5129195, an out-of-band (OOB) cumulative update for Windows 11 versions 24H2 and 25H2. Published on September 14, 2026,...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Using Patch My PC Win32 Apps with Autopilot",
+      "link": "https://patchmypc.com/kb/using-patch-my-pc-win32-apps-with-autopilot/?utm_term=rss",
+      "date": "2026-09-12T16:39:09.000Z",
+      "snippet": "Windows Autopilot provisions Windows devices and prepares them for a user with minimal hands-on IT effort. For many organizations, that includes insta...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Defender is On. Intune Says Noncompliant",
+      "link": "https://patchmypc.com/blog/defender-is-on-intune-says-noncompliant/?utm_term=rss",
+      "date": "2026-09-12T07:37:04.000Z",
+      "snippet": "Defender was running. Windows said it was off. Intune could then mark the device noncompliant, and Conditional Access could block the user. Here is ho...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1290,6 +1431,18 @@
       ]
     },
     {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Autopilot Device Preparation vs Device Association vs Classic Autopilot: What Is the Difference?",
+      "link": "https://patchmypc.com/blog/autopilot-device-preparation-vs-device-association-vs-autopilot/?utm_term=rss",
+      "date": "2026-09-05T18:20:35.000Z",
+      "snippet": "At first glance, Device Association looks almost identical to Classic Autopilot. Both can involve collecting device information, uploading a CSV, and ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
       "title": "1PhoneMirror Levels Up: Webcam, Stats, Better Screenshots, and Signed",
@@ -1400,6 +1553,17 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Reader Endpoint for Azure Database for MySQL ",
+      "link": "https://azure.microsoft.com/updates?id=569653",
+      "date": "2026-09-02T16:59:15.000Z",
+      "snippet": "We’re happy to announce the public preview of reader endpoint support to simplify connection management when using multiple replicas in Azure Database...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Exchange 2016/2019: Throttling and Blocking up to the Final Public Update Baseline",
@@ -1408,39 +1572,6 @@
       "snippet": "Several years ago, we announced Throttling and Blocking Email from Persistently Vulnerable Exchange Servers to Exchange Online. Since then, we have be...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Bulk Enrollment for Windows 11 Devices in Intune using Provisioning Package",
-      "link": "https://www.prajwaldesai.com/bulk-enrollment-for-windows-11-devices-in-intune-using-provisioning-package/",
-      "date": "2026-09-02T09:53:41.000Z",
-      "snippet": "This step-by-step guide covers the process of bulk enrollment for Windows 11 devices in Intune using a provisioning package. Organizations can...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Change the Meeting Organizer in Outlook ",
-      "link": "https://blog.admindroid.com/change-meeting-organizer-outlook/",
-      "date": "2026-09-01T13:56:31.000Z",
-      "snippet": "Changing the organizer of a meeting has traditionally been a challenge for Microsoft 365 users. If someone left the organization, changed responsibili...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Flexible Sections just got more predictable and easier to use",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-flexible-sections-just-got-more-predictable-and/ba-p/4548566",
-      "date": "2026-09-01T08:33:57.000Z",
-      "snippet": "Flexible Sections give SharePoint page authors the freedom to build layouts without a strict column structure, resizing, moving, and overlapping web p...",
-      "tags": [
-        "SharePoint"
       ]
     }
   ]
