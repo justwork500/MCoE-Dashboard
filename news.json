@@ -1,7 +1,140 @@
 {
-  "lastUpdated": "2026-10-02T20:51:23.968Z",
-  "count": 128,
+  "lastUpdated": "2026-10-03T10:26:12.792Z",
+  "count": 134,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2025-10502 Heap buffer overflow in ANGLE",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-10502",
+      "date": "2026-10-03T09:05:04.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Onboarding workflow for new team members",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573452",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Help people get started faster by automatically connecting new team members to relevant channels when they join a team. Improve engagement, accelerate...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Third-party synthetic audio and video (deepfake) detection in Microsoft Teams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573451",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Organizations can enhance meeting security with synthetic audio and video (deepfake) detection solutions provided by certified third-party providers. ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Draft, edit and format emails conversationally with Copilot in Outlook",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573280",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "In Outlook, Copilot now works side by side with users to draft, refine, and format emails conversationally, powered by the same agentic capabilities a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Add items to a transaction from the numpad",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573276",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "How it works\r\n​\r\nQuick add reuses the existing numpad on the transaction screen, so there is no new input control to learn and no additional space con...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Impersonation Protection for Teams meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573157",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Impersonation Protection for Teams meetings helps users identify potentially deceptive participants and meeting organizers. When Teams detects a poten...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Modern, refreshed look for embedded model-driven apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571682",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Extends the modern, refreshed look to embedded app experiences so model-driven app content retains consistent Fluent styling and interaction patterns ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Automate optimizations with Scheduling Operations Agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571675",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "This release expands the optimization capabilities of the Scheduling Operations Agent to include the ability to create recurring optimizations on a sc...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Chat: Access to UBB models via the model selector",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571400",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Users will be able to access models that require usage-based billing (UBB) from the model selector in Chat. Tenant admins will need to allocate credit...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Use Dataverse Business Skills in Sales Agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571394",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Business Skills are natural language instructions authored and stored in Microsoft Dataverse that teach Sales Agent how work gets done within a specif...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Commercial Journeys - AI-powered task completion for Microsoft 365 Copilot users",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=561040",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Commercial Journeys helps information workers stay on top of their most important work when browsing in Microsoft Edge. Powered by AI, it proactively ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "Save the Date: Join us October 20 for the OneDrive + Copilot Digital Event",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/save-the-date-join-us-october-20-for-the-onedrive-copilot/ba-p/4556814",
+      "date": "2026-10-02T18:49:44.000Z",
+      "snippet": "Files and photos are at the center of how we work, create, and collaborate. As AI and Copilot transform the way we use content, OneDrive is evolving f...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -61,10 +194,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance and Operations cross-app: Migrate finance and operations environments from Lifecycle Services to Power Platform admin center",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573244",
+      "title": "Microsoft Teams: Start side conversations during meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573156",
       "date": "2026-10-01T23:00:07.000Z",
-      "snippet": "The self-service environment migration feature moves management of an existing finance and operations apps environment from Microsoft Dynamics Lifecyc...",
+      "snippet": "Keep collaboration moving without disrupting the main discussion. Start and continue one-to-one or small-group conversations directly from a meeting t...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -72,10 +205,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Start side conversations during meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573156",
+      "title": "Dynamics 365 Finance and Operations cross-app: Migrate finance and operations environments from Lifecycle Services to Power Platform admin center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573244",
       "date": "2026-10-01T23:00:07.000Z",
-      "snippet": "Keep collaboration moving without disrupting the main discussion. Start and continue one-to-one or small-group conversations directly from a meeting t...",
+      "snippet": "The self-service environment migration feature moves management of an existing finance and operations apps environment from Microsoft Dynamics Lifecyc...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -122,6 +255,17 @@
       "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "What’s new in Copilot in SharePoint: October 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-october-2026/ba-p/4535423",
+      "date": "2026-10-01T17:44:11.000Z",
+      "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint general availability rollout started on September 30 — read the an...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -197,28 +341,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=565216",
       "date": "2026-09-30T23:31:03.000Z",
       "snippet": "Incoming Teams calls don&#039;t wait for a break in your day. Intelligent call delegation provides AI-powered calling assistance so you can focus on the co...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Development - Page Scripting enters General Availability",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573384",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "The page scripting tool that can be used to record and replay user actions directly in the Business Central web client is moving out of preview to gen...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Quality evaluation - Specify who to evaluate in conversations ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573383",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "Participant evaluated&quot;  lets users choose who to evaluate within a conversation transcript for quality evaluation.Users can select Participant evaluat...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -716,18 +838,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69307 Windows USB Audio Class driver (usbaudio.sys) Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69307",
-      "date": "2026-09-29T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Complete Configuration Manager 2609 Upgrade Guide",
@@ -1038,17 +1148,6 @@
       "snippet": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune\r\nOrganizations have spent years refining Windows Autopilot deployments. Profiles, Enrollm...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "Save the Date: Join us October 20 for the OneDrive + Copilot Digital Event",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/save-the-date-join-us-october-20-for-the-onedrive-copilot/ba-p/4556814",
-      "date": "2026-09-16T19:14:46.000Z",
-      "snippet": "Files and photos are at the center of how we work, create, and collaborate. As AI and Copilot transform the way we use content, OneDrive is evolving f...",
-      "tags": [
-        "OneDrive"
       ]
     },
     {
@@ -1407,39 +1506,6 @@
       "snippet": "Every enterprise runs on business processes, but it&#039;s the people that provide judgment, manage exceptions, and often connect systems that were never d...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Introducing SharePoint News and Viva Engage cross-posting",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-sharepoint-news-and-viva-engage-cross-posting/ba-p/4548258",
-      "date": "2026-09-03T10:15:45.000Z",
-      "snippet": "SharePoint helps communicators create rich, engaging stories, announcements or news posts for their organizations. Viva Engage helps those stories tra...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "What&#039;s New in Copilot in SharePoint: September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-september-2026/ba-p/4535422",
-      "date": "2026-09-02T23:26:40.000Z",
-      "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint helps you do more with your content — ask questions, run workflows...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Office Hours | September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-office-hours-september-2026/ba-p/4545699",
-      "date": "2026-09-02T21:55:18.000Z",
-      "snippet": "Get ready for the September 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how th...",
-      "tags": [
-        "OneDrive"
       ]
     }
   ]
