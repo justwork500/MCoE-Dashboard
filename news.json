@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-10-05T01:05:17.240Z",
+  "lastUpdated": "2026-10-05T07:00:30.900Z",
   "count": 129,
   "items": [
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Manage system settings with Endpoint Privilege Management",
+      "link": "https://patchmypc.com/blog/intune-epm-system-settings-network-and-time-sync-elevation/?utm_term=rss",
+      "date": "2026-10-05T06:02:58.000Z",
+      "snippet": "A look at how Intune EPM appears to be moving beyond file elevation with a System Settings experience for Network Settings and Time Sync.\nThe post Man...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -1247,18 +1259,6 @@
       "link": "https://patchmypc.com/kb/using-patch-my-pc-win32-apps-with-autopilot/?utm_term=rss",
       "date": "2026-09-12T16:39:09.000Z",
       "snippet": "Windows Autopilot provisions Windows devices and prepares them for a user with minimal hands-on IT effort. For many organizations, that includes insta...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Defender is On. Intune Says Noncompliant",
-      "link": "https://patchmypc.com/blog/defender-is-on-intune-says-noncompliant/?utm_term=rss",
-      "date": "2026-09-12T07:37:04.000Z",
-      "snippet": "Defender was running. Windows said it was off. Intune could then mark the device noncompliant, and Conditional Access could block the user. Here is ho...",
       "tags": [
         "Intune",
         "Windows"
