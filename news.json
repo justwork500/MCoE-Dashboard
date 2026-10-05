@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T19:19:39.797Z",
-  "count": 128,
+  "lastUpdated": "2026-10-05T01:05:17.240Z",
+  "count": 129,
   "items": [
     {
       "source": "MSRC Security Updates",
@@ -983,6 +983,17 @@
       "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
