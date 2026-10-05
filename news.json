@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-05T15:49:18.678Z",
-  "count": 128,
+  "lastUpdated": "2026-10-05T22:17:16.780Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
+      "date": "2026-10-05T21:19:39.000Z",
+      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions",
+      "link": "https://azure.microsoft.com/updates?id=572940",
+      "date": "2026-10-05T18:51:57.000Z",
+      "snippet": "Azure HorizonDB is expanding to additional Azure regions, giving you greater flexibility to deploy PostgreSQL workloads closer to your applications an...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: SQL Server on Azure Virtual Machines in Azure Bleu ",
+      "link": "https://azure.microsoft.com/updates?id=571499",
+      "date": "2026-10-05T18:12:09.000Z",
+      "snippet": "SQL Server on Azure Virtual Machines is now available in Azure Bleu, enabling you to deploy and manage SQL Server workloads in France&#039;s sovereign clou...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Announcing: Table discovery in OneLake Catalog search",
+      "link": "https://azure.microsoft.com/updates?id=573875",
+      "date": "2026-10-05T17:55:23.000Z",
+      "snippet": "Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual result...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Easily managing Windows App on Windows devices",
+      "link": "https://petervanderwoude.nl/post/easily-managing-windows-app-on-windows-devices/",
+      "date": "2026-10-05T17:45:00.000Z",
+      "snippet": "This week is all about easily managing the Windows App on Windows devices. In the early days, the Windows App was pretty straightforward. There were s...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Backup for PostgreSQL flexible server and elastic cluster (v2)",
+      "link": "https://azure.microsoft.com/updates?id=573425",
+      "date": "2026-10-05T17:44:31.000Z",
+      "snippet": "Azure Backup for PostgreSQL flexible server and elastic cluster (v2) preview brings enterprise-grade long-term retention to PostgreSQL. Backups are ta...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: IPv6 Support for Application Gateway WAF ",
+      "link": "https://azure.microsoft.com/updates?id=573861",
+      "date": "2026-10-05T17:41:41.000Z",
+      "snippet": "Announcing the Public Preview of IPv6 support for Application Gateway WAF.Application Gateway Web Application Firewall (WAF) now supports inspection a...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -348,17 +425,6 @@
       "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint general availability rollout started on September 30 — read the an...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
-      "date": "2026-10-01T17:03:00.000Z",
-      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -824,61 +890,6 @@
       "link": "https://azure.microsoft.com/updates?id=570763",
       "date": "2026-09-29T19:06:50.000Z",
       "snippet": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk ",
-      "link": "https://azure.microsoft.com/updates?id=571909",
-      "date": "2026-09-29T18:14:46.000Z",
-      "snippet": "Ultra Disk support is now available in public preview for Azure Database for PostgreSQL flexible server. You can use Azure’s highest-performance manag...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database",
-      "link": "https://azure.microsoft.com/updates?id=571867",
-      "date": "2026-09-29T18:13:31.000Z",
-      "snippet": "The public preview of Microsoft-managed performance monitoring for Azure SQL Database is now available.  You can now monitor Azure SQL Database withou...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server ",
-      "link": "https://azure.microsoft.com/updates?id=571904",
-      "date": "2026-09-29T18:11:15.000Z",
-      "snippet": "The preview of performance monitoring for SQL Server enabled by Azure Arc is expanding with more flexible ways to explore and visualize your performan...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure SQL updates for late-September 2026",
-      "link": "https://azure.microsoft.com/updates?id=571643",
-      "date": "2026-09-29T18:05:11.000Z",
-      "snippet": "The following updates and enhancements were made to Azure\r\nSQL:   \r\n Scale\r\n     larger workloads on Azure SQL Database Hyperscale Premium series with...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK) ",
-      "link": "https://azure.microsoft.com/updates?id=571783",
-      "date": "2026-09-29T17:57:36.000Z",
-      "snippet": "Azure Database for PostgreSQL Flexible Server now supports cross-tenant customer-managed keys (CMK). You can encrypt your data using keys stored in an...",
       "tags": [
         "Azure"
       ]
