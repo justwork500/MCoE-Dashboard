@@ -1,7 +1,64 @@
 {
-  "lastUpdated": "2026-10-07T12:27:49.627Z",
-  "count": 130,
+  "lastUpdated": "2026-10-07T23:34:48.815Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Anyscale on Azure",
+      "link": "https://azure.microsoft.com/updates?id=573744",
+      "date": "2026-10-07T17:06:00.000Z",
+      "snippet": "Anyscale on Azure is now Generally Available. Anyscale on Azure is a managed platform for running distributed Python workloads on Ray. It deploys dire...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Enabling the Bulk admin role for SQL Server on Linux",
+      "link": "https://azure.microsoft.com/updates?id=573443",
+      "date": "2026-10-07T16:57:04.000Z",
+      "snippet": "Starting with SQL Server 2025 CU9 and SQL Server 2022 CU27, SQL Server on Linux supports the bulkadmin fixed server role and the ADMINISTER BULK OPERA...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69436 Windows State Repository Service Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69436",
+      "date": "2026-10-07T14:00:00.000Z",
+      "snippet": "Updated CVE title. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Sending From Email Aliases – General Availability",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/sending-from-email-aliases-general-availability/ba-p/4562543",
+      "date": "2026-10-07T13:59:20.000Z",
+      "snippet": "Today we are announcing the General Availability (GA) of Sending from Aliases for Exchange Online. This was a highly requested feature that now empowe...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Patch My PC",
+      "icon": "ph-package",
+      "title": "Inside Intune: Faster compliance updates for Windows devices",
+      "link": "https://patchmypc.com/blog/intune-faster-compliance-updates-for-windows-devices/?utm_term=rss",
+      "date": "2026-10-07T12:29:42.000Z",
+      "snippet": "Microsoft has introduced client-driven compliance evaluation for Windows devices. The idea is simple. Instead of waiting for the next scheduled check-...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -23,6 +80,17 @@
       "tags": [
         "Windows",
         "Azure"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Settings Catalog updated to support Windows 11, version 26H2",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-settings-catalog-updated-to-support-windows-11/ba-p/4560815",
+      "date": "2026-10-07T01:15:06.000Z",
+      "snippet": "10.06.26 Update: The Windows security baseline for Windows 11, version 26H2 is now available for all customers in Microsoft Intune. This baseline refl...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -76,72 +144,6 @@
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573278",
       "date": "2026-10-06T22:56:31.000Z",
       "snippet": "Scheduled triggers enable makers to run desktop flows on a recurring schedule directly from the Power Automate automation center, eliminating the need...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Improve mobile offline reliability across network conditions",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573242",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Business value\r\nField service work often happens in environments where network quality changes throughout the day. Technicians may move between connec...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Enhance mobile offline up-sync",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573241",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Business value\r\nTechnicians often complete work in the field while connectivity is limited or intermittent. When offline changes still need to sync, u...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Modernize the mobile offline foundation",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573240",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Business value\r\nField service organizations often depend on mobile offline so technicians can keep working when connectivity is limited or unavailable...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Apps: Modern, refreshed look for the mail app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571681",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Extends the Fluent-based modern, refreshed look for model-driven apps to the mail app, providing consistent controls, spacing, colors, and visual trea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Quality evaluation supports custom Case-like records evaluation",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571301",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Quality evaluation now supports on-demand evaluations for case-like custom entities in public preview. Organizations can extend evaluation capabilitie...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Capture project expenses directly from Field Service Work Orders",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570856",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Technicians can create, update, and submit project-related expenses directly from a Work Order in Field Service web and mobile when the Field Service ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -575,10 +577,21 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Third-party synthetic audio and video (deepfake) detection in Microsoft Teams",
+      "title": "Microsoft Teams: Third-party synthetic audio and video detection in Microsoft Teams",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573451",
       "date": "2026-10-02T22:01:21.000Z",
-      "snippet": "Organizations can enhance meeting security with synthetic audio and video (deepfake) detection solutions provided by certified third-party providers. ...",
+      "snippet": "Organizations can enhance meeting security with synthetic audio and video detection solutions provided by certified third-party providers. Third-party...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Impersonation Protection for Teams meetings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573157",
+      "date": "2026-10-02T22:01:21.000Z",
+      "snippet": "Impersonation Protection for Teams meetings helps users identify potentially deceptive participants and meeting organizers. When Teams detects a poten...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -783,17 +796,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Dv3, Dsv3, Ev3, and Esv3 Azure VMs ",
-      "link": "https://azure.microsoft.com/updates?id=572346",
-      "date": "2026-09-30T17:07:30.000Z",
-      "snippet": "As part of the Microsoft Azure VM lifecycle\r\npolicy, Microsoft is announcing the retirement of the Dv3, Dsv3, Ev3, and\r\nEsv3 Azure VM series in public...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Serve customers with Queues app&#039;s collaborative calling for Microsoft Teams",
@@ -802,18 +804,6 @@
       "snippet": "When teams lack a shared view of customer calls, follow-up can be delayed or missed.\r\nQueues app for Microsoft Teams turns an existing call queue into...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69451 Windows Management Instrumentation Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69451",
-      "date": "2026-09-30T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -857,17 +847,6 @@
       "link": "https://www.prajwaldesai.com/upgrade-to-windows-11-26h2-using-intune/",
       "date": "2026-09-30T10:17:35.000Z",
       "snippet": "In this step-by-step guide, I will show you how to efficiently upgrade to Windows 11 26H2 using Intune. By leveraging the...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Settings Catalog updated to support Windows 11, version 26H2",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-settings-catalog-updated-to-support-windows-11/ba-p/4560815",
-      "date": "2026-09-30T01:30:00.000Z",
-      "snippet": "Windows 11, version 26H2 is now available, and Microsoft Intune provides day zero support for validated Windows policy settings in the Settings Catalo...",
       "tags": [
         "Intune"
       ]
@@ -1209,17 +1188,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention-Upgraded inline protection for Microsoft Entra-managed apps in Edge for Business",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571397",
-      "date": "2026-09-15T23:00:36.000Z",
-      "snippet": "Microsoft Purview is upgrading inline data protection for Microsoft Entra-managed apps in Edge for Business. The experience integrates with a Microsof...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Cross-Tenant Message Recall in Exchange Online",
@@ -1253,18 +1221,6 @@
       ]
     },
     {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Using Patch My PC Win32 Apps with Autopilot",
-      "link": "https://patchmypc.com/kb/using-patch-my-pc-win32-apps-with-autopilot/?utm_term=rss",
-      "date": "2026-09-12T16:39:09.000Z",
-      "snippet": "Windows Autopilot provisions Windows devices and prepares them for a user with minimal hands-on IT effort. For many organizations, that includes insta...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "How to Set Reminders in Microsoft Teams ",
@@ -1273,17 +1229,6 @@
       "snippet": "One of the most&amp;#160;requested features in Microsoft Teams is rolling out now.&amp;#160;I have waited years for this rollout, but before&amp;#160;I get to the...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Right-click to customize the classic ribbon",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570664",
-      "date": "2026-09-11T22:10:10.000Z",
-      "snippet": "You can now customize the classic ribbon in New Outlook for Windows and Outlook on the Web by right-clicking the ribbon and choosing which commands an...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1449,17 +1394,6 @@
       "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
       "date": "2026-09-08T09:34:51.000Z",
       "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Peter van der Woude",
-      "icon": "ph-devices",
-      "title": "Using multiple managed accounts with app protection policies",
-      "link": "https://petervanderwoude.nl/post/using-multiple-managed-accounts-with-app-protection-policies/",
-      "date": "2026-09-07T17:45:00.000Z",
-      "snippet": "This week is all about a recently introduced feature for multiple managed accounts (MMA) with app protection policies. For a long time a big challenge...",
       "tags": [
         "Intune"
       ]
