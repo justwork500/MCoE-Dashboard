@@ -1,7 +1,217 @@
 {
-  "lastUpdated": "2026-10-06T15:56:04.245Z",
-  "count": 122,
+  "lastUpdated": "2026-10-07T12:27:49.627Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Securing AI Agents with Runtime Protection using Microsoft Defender and Intune",
+      "link": "https://www.anoopcnair.com/ai-agents-runtime-protection-defender-intune/",
+      "date": "2026-10-07T09:34:51.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2025-0611 Object corruption in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-0612",
+      "date": "2026-10-07T08:48:07.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Lifecycle Management-Increase in expansion limit for auto-expanding archive beyond 1.5 TB",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573702",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Previously, auto-expanding archive mailbox expansion was supported only up to 1.5 TB, after which mailboxes would become inoperative. Archive mailboxe...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Lifecycle Management-Graph API Support for Archive Mailboxes",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573701",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Access to Archive mailboxes (Main + Auxiliary) through Microsoft Graph. The goal is to give users a single, seamless Archive view, even though Archive...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview:  Permissions audit log improvements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573447",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Automate: Build and visualize desktop flows using Flowchart mode",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573292",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Flowchart mode introduces a new visual authoring experience in Power Automate for desktop that allows makers to create, view, and edit desktop flows u...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Automate: Schedule desktop flows directly with Scheduled Triggers",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573278",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Scheduled triggers enable makers to run desktop flows on a recurring schedule directly from the Power Automate automation center, eliminating the need...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Improve mobile offline reliability across network conditions",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573242",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Business value\r\nField service work often happens in environments where network quality changes throughout the day. Technicians may move between connec...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Enhance mobile offline up-sync",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573241",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Business value\r\nTechnicians often complete work in the field while connectivity is limited or intermittent. When offline changes still need to sync, u...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Modernize the mobile offline foundation",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573240",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Business value\r\nField service organizations often depend on mobile offline so technicians can keep working when connectivity is limited or unavailable...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Modern, refreshed look for the mail app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571681",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Extends the Fluent-based modern, refreshed look for model-driven apps to the mail app, providing consistent controls, spacing, colors, and visual trea...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Quality evaluation supports custom Case-like records evaluation",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571301",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Quality evaluation now supports on-demand evaluations for case-like custom entities in public preview. Organizations can extend evaluation capabilitie...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Capture project expenses directly from Field Service Work Orders",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570856",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Technicians can create, update, and submit project-related expenses directly from a Work Order in Field Service web and mobile when the Field Service ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Pod name dimension in AKS pod platform metrics",
+      "link": "https://azure.microsoft.com/updates?id=570232",
+      "date": "2026-10-06T22:37:54.000Z",
+      "snippet": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\r\nMonitor platform metrics is retiring, and these metrics are t...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to integrate Microsoft Defender/ Sentinel with Microsoft Fabric",
+      "link": "https://jeffreyappel.nl/how-to-integrate-microsoft-defender-sentinel-with-microsoft-fabric/",
+      "date": "2026-10-06T19:09:46.000Z",
+      "snippet": "Since September 23, 2026, the Microsoft Sentinel data lake is no longer a separate onboarding and billing project: it comes integrated with Sentinel f...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure App Service on Azure Stack Hub",
+      "link": "https://azure.microsoft.com/updates?id=568178",
+      "date": "2026-10-06T18:24:43.000Z",
+      "snippet": "Azure App Service on Azure Stack Hub will be retired on September\r\n30, 2029. Starting September 30, 2026, new installations will\r\nno longer be support...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Support for Java 8, 11 and 17 will end on September 1, 2027",
+      "link": "https://azure.microsoft.com/updates?id=568585",
+      "date": "2026-10-06T18:21:59.000Z",
+      "snippet": "On September 1, 2027 support for Java 8, 11 and 17 will end. Your\r\napps that are hosted on App Service will continue to run, but security updates\r\nwil...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Always Encrypted with Intel SGX Enclaves",
+      "link": "https://azure.microsoft.com/updates?id=569236",
+      "date": "2026-10-06T16:42:33.000Z",
+      "snippet": "Always Encrypted with Intel SGX enclaves in Azure SQL Database will retire on October 31, 2027 as support for SGX-enabled DC-series hardware is phased...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: AKS on bare metal now on Ubuntu",
+      "link": "https://azure.microsoft.com/updates?id=573782",
+      "date": "2026-10-06T15:44:06.000Z",
+      "snippet": "Running Kubernetes on-premises often means adding a\r\nvirtualization layer, adapting to unfamiliar infrastructure, or giving up\r\ncontrol over the hardw...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -192,50 +402,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: Advanced Management - Inactive files policy",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573699",
-      "date": "2026-10-05T23:03:05.000Z",
-      "snippet": "SharePoint administrators can use the Inactive files policy in SharePoint Advanced Management to automatically archive files based on when they were l...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Presentation mode for PDFs in the iOS app on iPad",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573697",
-      "date": "2026-10-05T23:03:05.000Z",
-      "snippet": "Microsoft OneDrive is introducing presentation mode in the OneDrive iOS app for users on iPad devices. Users select a new Presentation button in the P...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Add multiple items to a transaction using bulk entry",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573275",
-      "date": "2026-10-05T23:03:05.000Z",
-      "snippet": "Associates can trigger the Bulk add operation from the button grid on the transaction screen in Store Commerce. A drawer-based dialog opens where asso...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Quality evaluation - Recurring conversation evaluations",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573267",
-      "date": "2026-10-05T23:03:05.000Z",
-      "snippet": "Quality Evaluation now supports recurring frequency for conversation evaluations. Previously, only event-based trigger evaluations were supported, mea...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | August - September 2026",
@@ -418,17 +584,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Impersonation Protection for Teams meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573157",
-      "date": "2026-10-02T22:01:21.000Z",
-      "snippet": "Impersonation Protection for Teams meetings helps users identify potentially deceptive participants and meeting organizers. When Teams detects a poten...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Released: September 2026 V2 Exchange Server Security Updates",
@@ -573,28 +728,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Use Admin Host Info to Display Computer Details on the macOS Login Window using Intune",
-      "link": "https://www.anoopcnair.com/admin-host-info-the-macos-login-window-intune/",
-      "date": "2026-10-01T10:38:49.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Intelligent call delegation",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=565216",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "Incoming Teams calls don&#039;t wait for a break in your day. Intelligent call delegation provides AI-powered calling assistance so you can focus on the co...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines ",
@@ -684,18 +817,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69504 Windows NTFS Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69504",
-      "date": "2026-09-30T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Impact of Exchange Online EWS Deprecation on Hybrid Rich Coexistence and Cross-org Sharing",
@@ -760,61 +881,6 @@
       "snippet": "Update 9/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Functions on Azure Container Apps V1 ",
-      "link": "https://azure.microsoft.com/updates?id=570800",
-      "date": "2026-09-29T19:41:09.000Z",
-      "snippet": "The Functions on Azure Container Apps (ACA) V1 will be retired on September 29, 2027. After this date, existing Functions on ACA V1 Apps will stop run...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series ",
-      "link": "https://azure.microsoft.com/updates?id=572630",
-      "date": "2026-09-29T19:27:09.000Z",
-      "snippet": "The Laosv5 series and Lasv5 storage optimized VMs, based on the 5th Gen AMD EPYC™ processor (Turin), are now generally available.Lasv5 and Laosv5 VMs ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets",
-      "link": "https://azure.microsoft.com/updates?id=571075",
-      "date": "2026-09-29T19:17:59.000Z",
-      "snippet": "Automatic Zone Placement for VM Scale Sets (Public Preview) enables Azure to automatically select the best availability zones for your scale set based...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central",
-      "link": "https://azure.microsoft.com/updates?id=570696",
-      "date": "2026-09-29T19:07:44.000Z",
-      "snippet": "Azure Arc-enabled SQL Server is now\r\navailable in Germany West Central, enabling you to connect SQL Server\r\ninstances to Azure Arc and take advantage ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North",
-      "link": "https://azure.microsoft.com/updates?id=570763",
-      "date": "2026-09-29T19:06:50.000Z",
-      "snippet": "Azure Arc-enabled SQL Server is now available in Italy\r\nNorth, enabling you to connect SQL Server instances to Azure Arc and\r\ntake advantage of Azure-...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -962,17 +1028,6 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Add alternate text to images shared from OneDrive and SharePoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571687",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "Improve accessibility by adding alternate text to images shared in Teams from OneDrive and SharePoint, helping users better understand visual contentG...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1154,6 +1209,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention-Upgraded inline protection for Microsoft Entra-managed apps in Edge for Business",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571397",
+      "date": "2026-09-15T23:00:36.000Z",
+      "snippet": "Microsoft Purview is upgrading inline data protection for Microsoft Entra-managed apps in Edge for Business. The experience integrates with a Microsof...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Cross-Tenant Message Recall in Exchange Online",
@@ -1207,6 +1273,17 @@
       "snippet": "One of the most&amp;#160;requested features in Microsoft Teams is rolling out now.&amp;#160;I have waited years for this rollout, but before&amp;#160;I get to the...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Right-click to customize the classic ribbon",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570664",
+      "date": "2026-09-11T22:10:10.000Z",
+      "snippet": "You can now customize the classic ribbon in New Outlook for Windows and Outlook on the Web by right-clicking the ribbon and choosing which commands an...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1319,6 +1396,17 @@
       "snippet": "Discover 12 free Active Directory management tools that help IT admins automate tasks, generate reports, monitor directory health, and perform securit...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Copilot Analytics - Agent value insights in Agent 365 Dashboard",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570847",
+      "date": "2026-09-08T22:57:21.000Z",
+      "snippet": "Customers can now view value insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). These insights help business leaders ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
