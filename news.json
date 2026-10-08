@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-08T02:56:11.198Z",
-  "count": 124,
+  "lastUpdated": "2026-10-08T09:52:00.291Z",
+  "count": 122,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2025-11215 Off by one error in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11215",
+      "date": "2026-10-08T08:51:10.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2025-11219 Use after free in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-11219",
+      "date": "2026-10-08T08:50:46.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -541,18 +565,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-10502 Heap buffer overflow in ANGLE",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-10502",
-      "date": "2026-10-03T09:05:04.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Notes from the field: testing EWSAllowedAppIDs safely",
@@ -626,18 +638,6 @@
       "date": "2026-10-02T17:35:21.000Z",
       "snippet": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer Postgre...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-96940 Microsoft Exchange Server Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96940",
-      "date": "2026-10-02T14:00:00.000Z",
-      "snippet": "Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
@@ -963,17 +963,6 @@
       "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1385,17 +1374,6 @@
       "snippet": "We are pleased to announce expanded Outlook client support for Exchange Server AD FS Modern Authentication.\r\nIn our previous update, we announced broa...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "SQL Query to List Installed Software from Add or Remove Programs for SCCM Clients",
-      "link": "https://www.prajwaldesai.com/sql-query-list-installed-software-from-add-or-remove-programs-for-sccm-clients/",
-      "date": "2026-09-08T09:34:51.000Z",
-      "snippet": "In this post, I will list out some basic queries that can retrieve installed software from Add or remove programs from...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
