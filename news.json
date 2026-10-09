@@ -1,7 +1,172 @@
 {
-  "lastUpdated": "2026-10-08T22:03:34.385Z",
-  "count": 119,
+  "lastUpdated": "2026-10-09T08:59:48.044Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Upcoming visual improvements and a more consistent Outlook experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574115",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "The first updates will focus on visual details, such as icons, spacing and alignment. Users of classic Outlook for Windows will begin seeing refinemen...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Chat for organizers and presenters in structured meetings and webinars on Teams Rooms on Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574107",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "When a Teams Rooms on Android device acts as an organizer, co-organizer, or presenter in a structured meeting or webinar, you have access to the priva...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: AI input widget and content preview in Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574106",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "With this new capability, users of Copilot in SharePoint will be able to view saved and unsaved preview content side by side with chat.  Users will al...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Review financial dimensions when approving expenses on mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573709",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Approvers need access to the financial information behind an expense to make accurate approval decisions without leaving the approval experience. Dyna...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Track mileage expenses using kilometers",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573707",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Organizations operating across different regions need to record mileage expenses using the units of measure appropriate for their employees and local ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: External presenter support for event group chat",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573706",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Event group chat, the private chat for organizers, co-organizers, and presenters in an event or structured meeting, will support external presenters.G...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Event Chat now available for Events optimized for a large audience in GCC",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573625",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "All users in Events larger than 1,000 users or in any Event optimized for a large audience can now chat with one another in a public event chat in GCC...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Streaming switchboard for Network Device Interface (NDI) Sources",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573453",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "For Teams meetings and events, a new streaming switchboard will soon be available to easily manage and send NDI sources out to production software.GA ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Chat in OneNote can create, edit, and refine content",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573446",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Copilot in OneNote can generate new content and directly edit when in edit mode. In this mode you can create, rename, and delete pages, sections, or n...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Planner: Refreshed experience and new capabilities",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573274",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience acr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Cancel packing slips for stocked item requirements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573252",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "This feature supports controlled returns and packing slip cancellations for stocked item requirements originating in Finance and Supply Chain Manageme...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Invite attendees to register",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573250",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "For an event that needs registration, send email invites to the selected people and groups who will be invited to register to the eventGA date: Novemb...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Expanded agent coverage in Agent Dashboard",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573169",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Customers can now view reporting for agents from third-party platforms in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). This...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Audio Overview updates in Copilot Notebooks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570966",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "We&#039;re rolling out new capabilities for Copilot Notebook audio overview that make it easier to navigate longer content with topic-based episodes, new a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+      "link": "https://azure.microsoft.com/updates?id=574430",
+      "date": "2026-10-08T22:51:01.000Z",
+      "snippet": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NA...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -58,6 +223,17 @@
       ]
     },
     {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
+      "date": "2026-10-08T16:15:23.000Z",
+      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Fix Prerequisite Warning for Automatic Client Approval in SCCM",
@@ -76,6 +252,90 @@
       "date": "2026-10-08T14:17:44.000Z",
       "snippet": "Multiparty private offers give Microsoft partners a way to procure third-party cloud and AI solutions for customers through Marketplace. Software comp...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69435 Azure SRE Agent Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69435",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Missing authorization in Azure SRE Agent allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-77900 Azure App Service Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77900",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Missing authentication for critical function in Azure App Service allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83943 Azure API Center Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83943",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Exposure of sensitive information to an unauthorized actor in Azure API Center allows an unauthorized attacker to disclose information over a network....",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83947 Azure Event Grid Spoofing Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83947",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Missing authorization in Azure Event Grid allows an authorized attacker to perform spoofing over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-88131 Microsoft Dataverse Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88131",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Deserialization of untrusted data in Microsoft Dataverse allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-94510 Microsoft Bookings Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-94510",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Authorization bypass through user-controlled key in Microsoft Bookings allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96207 Microsoft Partner Center Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96207",
+      "date": "2026-10-08T14:00:00.000Z",
+      "snippet": "Improper certificate validation in Microsoft Partner Center allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -278,61 +538,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management-Increase in expansion limit for auto-expanding archive beyond 1.5 TB",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573702",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Previously, auto-expanding archive mailbox expansion was supported only up to 1.5 TB, after which mailboxes would become inoperative. Archive mailboxe...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management-Graph API Support for Archive Mailboxes",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573701",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Access to Archive mailboxes (Main + Auxiliary) through Microsoft Graph. The goal is to give users a single, seamless Archive view, even though Archive...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview:  Permissions audit log improvements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573447",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Automate: Build and visualize desktop flows using Flowchart mode",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573292",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Flowchart mode introduces a new visual authoring experience in Power Automate for desktop that allows makers to create, view, and edit desktop flows u...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Automate: Schedule desktop flows directly with Scheduled Triggers",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573278",
-      "date": "2026-10-06T22:56:31.000Z",
-      "snippet": "Scheduled triggers enable makers to run desktop flows on a recurring schedule directly from the Power Automate automation center, eliminating the need...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Pod name dimension in AKS pod platform metrics",
@@ -447,90 +652,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68894 Windows Error Reporting Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68894",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69844 Windows Win32k Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69844",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-72999 Windows USB Hub Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72999",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-73009 Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73009",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-61927 Windows Bind Filter Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61927",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-61936 Windows Defender Firewall Service Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61936",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62698 Microsoft Digest Authentication Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62698",
-      "date": "2026-10-06T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "How to Configure Preservation Lock in Microsoft 365",
@@ -561,17 +682,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
-      "date": "2026-10-05T22:37:30.000Z",
-      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -684,28 +794,6 @@
       "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Third-party synthetic audio and video detection in Microsoft Teams",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573451",
-      "date": "2026-10-02T22:01:21.000Z",
-      "snippet": "Organizations can enhance meeting security with synthetic audio and video detection solutions provided by certified third-party providers. Third-party...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Impersonation Protection for Teams meetings",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573157",
-      "date": "2026-10-02T22:01:21.000Z",
-      "snippet": "Impersonation Protection for Teams meetings helps users identify potentially deceptive participants and meeting organizers. When Teams detects a poten...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1254,6 +1342,18 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Introducing TSDude : A new Task Sequence UI",
+      "link": "https://www.systemcenterdudes.com/introducing-tsdude-a-new-task-sequence-ui/",
+      "date": "2026-09-10T18:28:18.000Z",
+      "snippet": "If there is one thing you can do to your Configuration Manager Task Sequences to streamline imaging, it&amp;#8217;s building them around a UI that sets Ta...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Microsoft 365 Blog",
       "icon": "ph-microsoft-excel-logo",
       "title": "ESPC 2026 is coming to Amsterdam: Bringing Microsoft and the community together",
@@ -1273,6 +1373,18 @@
       "snippet": "Create full-stack business apps through conversation, grounded in your data with app building in Copilot Cowork and Copilot Studio.\nThe post Build app...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Use Robopack Radar to Find and Patch Unmanaged Applications in Intune",
+      "link": "https://www.systemcenterdudes.com/use-robopack-radar-to-find-and-patch-unmanaged-applications-in-intune/",
+      "date": "2026-09-10T14:10:31.000Z",
+      "snippet": "One of the challenges with application management in Microsoft Intune is that not every application installed on a device was deployed by Intune. This...",
+      "tags": [
+        "Intune",
+        "Windows"
       ]
     },
     {
@@ -1328,17 +1440,6 @@
       "snippet": "Discover 12 free Active Directory management tools that help IT admins automate tasks, generate reports, monitor directory health, and perform securit...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Copilot Analytics - Agent value insights in Agent 365 Dashboard",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570847",
-      "date": "2026-09-08T22:57:21.000Z",
-      "snippet": "Customers can now view value insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). These insights help business leaders ...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     }
   ]
