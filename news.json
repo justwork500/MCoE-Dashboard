@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-10-09T15:59:21.141Z",
-  "count": 127,
+  "lastUpdated": "2026-10-10T00:19:37.171Z",
+  "count": 123,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Import task - Public API support",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574365",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Public APIs for the Import tasks capability enable customers and partners to programmatically import tasks from one project into another. Organization...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Sales: Choose the data sources AI-powered Data Enrichment uses, including CRM notes",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574364",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "AI-powered Data Enrichment now lets admins choose which data sources the agent uses to enrich records. Outlook emails, Teams meetings, and the new CRM...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Pro Management portal Analytics &amp; Reports Design Refresh",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574362",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "We are refreshing the way we organize the Analytics &amp;amp; Reports area in the Pro Management portal to make it more user-friendly.GA date: December CY...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Improved Matrix visual performance for large table",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574119",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Business Performance Planning introduce Virtualization to optimizes how the Matrix visual renders large planning datasets. Rather than loading and dis...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Events now support up to 20,000 registrations, making it easier to reach and engage larger audiences at scale",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574110",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Connect with more attendees than ever before with Teams Events, now supporting up to 20,000 registrations for organizers with valid Attendee packs.GA ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Procurement Agent - Customize the Procurement Agent supplier follow-up criteria",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573704",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Organizations often use business-specific data and criteria to determine when suppliers require follow-up on purchase orders. The Procurement Agent wi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Scheduling with Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573220",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Users can now schedule appointments and meetings directly from chat. Simply ask Copilot to create an appointment or schedule a meeting with colleagues...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Discover and use shared plugins in Copilot Studio",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570669",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Copilot Studio now connects to Microsoft&#039;s shared plugin registry, making it easier for makers to discover and use plugins, connectors, and other avai...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Improved SharePoint file experience in file picker in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570442",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Users can more easily work with SharePoint files in Outlook by saving email attachments directly to SharePoint and searching across SharePoint sites f...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
+      "link": "https://azure.microsoft.com/updates?id=570313",
+      "date": "2026-10-09T20:27:17.000Z",
+      "snippet": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
+      "date": "2026-10-09T16:52:45.000Z",
+      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -268,54 +389,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Outlook: Upcoming visual improvements and a more consistent Outlook experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574115",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "The first updates will focus on visual details, such as icons, spacing and alignment. Users of classic Outlook for Windows will begin seeing refinemen...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Chat for organizers and presenters in structured meetings and webinars on Teams Rooms on Android",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574107",
       "date": "2026-10-08T23:04:12.000Z",
       "snippet": "When a Teams Rooms on Android device acts as an organizer, co-organizer, or presenter in a structured meeting or webinar, you have access to the priva...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: AI input widget and content preview in Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574106",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "With this new capability, users of Copilot in SharePoint will be able to view saved and unsaved preview content side by side with chat.  Users will al...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Review financial dimensions when approving expenses on mobile",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573709",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "Approvers need access to the financial information behind an expense to make accurate approval decisions without leaving the approval experience. Dyna...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Track mileage expenses using kilometers",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573707",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "Organizations operating across different regions need to record mileage expenses using the units of measure appropriate for their employees and local ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -334,87 +411,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Event Chat now available for Events optimized for a large audience in GCC",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573625",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "All users in Events larger than 1,000 users or in any Event optimized for a large audience can now chat with one another in a public event chat in GCC...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Streaming switchboard for Network Device Interface (NDI) Sources",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573453",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "For Teams meetings and events, a new streaming switchboard will soon be available to easily manage and send NDI sources out to production software.GA ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Copilot Chat in OneNote can create, edit, and refine content",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573446",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "Copilot in OneNote can generate new content and directly edit when in edit mode. In this mode you can create, rename, and delete pages, sections, or n...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Refreshed experience and new capabilities",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573274",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "Microsoft Planner will be updated with a cleaner, more modern interface, improved navigation, responsive layouts, and a more consistent experience acr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Cancel packing slips for stocked item requirements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573252",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "This feature supports controlled returns and packing slip cancellations for stocked item requirements originating in Finance and Supply Chain Manageme...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Invite attendees to register",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573250",
       "date": "2026-10-08T23:04:12.000Z",
       "snippet": "For an event that needs registration, send email invites to the selected people and groups who will be invited to register to the eventGA date: Novemb...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Expanded agent coverage in Agent Dashboard",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573169",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "Customers can now view reporting for agents from third-party platforms in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics). This...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Audio Overview updates in Copilot Notebooks",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570966",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "We&#039;re rolling out new capabilities for Copilot Notebook audio overview that make it easier to navigate longer content with topic-based episodes, new a...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -428,6 +428,17 @@
       "snippet": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NA...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Sending From Email Aliases – General Availability",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/sending-from-email-aliases-general-availability/ba-p/4562543",
+      "date": "2026-10-08T20:41:04.000Z",
+      "snippet": "Today we are announcing the General Availability (GA) of Sending from Aliases for Exchange Online. This was a highly requested feature that now empowe...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -550,17 +561,6 @@
       "snippet": "Starting with SQL Server 2025 CU9 and SQL Server 2022 CU27, SQL Server on Linux supports the bulkadmin fixed server role and the ADMINISTER BULK OPERA...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Sending From Email Aliases – General Availability",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/sending-from-email-aliases-general-availability/ba-p/4562543",
-      "date": "2026-10-07T13:59:20.000Z",
-      "snippet": "Today we are announcing the General Availability (GA) of Sending from Aliases for Exchange Online. This was a highly requested feature that now empowe...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -697,17 +697,6 @@
       ]
     },
     {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "What&#039;s New in Microsoft Teams | August - September 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438",
-      "date": "2026-10-05T22:37:30.000Z",
-      "snippet": "A quick note before we get into it: What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, March,...",
-      "tags": [
-        "Teams"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure HorizonDB expands to additional regions",
@@ -839,17 +828,6 @@
       "snippet": "Files and photos are at the center of how we work, create, and collaborate. As AI and Copilot transform the way we use content, OneDrive is evolving f...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters ",
-      "link": "https://azure.microsoft.com/updates?id=571504",
-      "date": "2026-10-02T17:35:21.000Z",
-      "snippet": "MVUs are now available for elastic clusters in Azure Database for PostgreSQL. You can upgrade an existing elastic cluster to a supported newer Postgre...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1407,28 +1385,6 @@
       "snippet": "Creating and refining SharePoint pages is becoming more intuitive. Instead of describing where content lives on the page, authors can now simply selec...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Defender XDR Attack Disruption: Automatic Device Isolation Explained",
-      "link": "https://jeffreyappel.nl/microsoft-defender-xdr-attack-disruption-automatic-device-isolation-explained/",
-      "date": "2026-09-09T20:51:45.000Z",
-      "snippet": "Microsoft continues to evolve Automatic Attack Disruption in Microsoft Defender XDR, moving security operations beyond detection toward automatically ...",
-      "tags": [
-        "Defender"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "NOW ON DEMAND | OneDrive Office Hours | August 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/now-on-demand-onedrive-office-hours-august-2026/ba-p/4542927",
-      "date": "2026-09-09T20:51:07.000Z",
-      "snippet": "Get ready for the August 2026 OneDrive Customer Office Hours! This session creates space for open conversation around the latest updates and how they ...",
-      "tags": [
-        "OneDrive"
       ]
     }
   ]
