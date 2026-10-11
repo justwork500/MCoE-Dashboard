@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T10:12:41.831Z",
+  "lastUpdated": "2026-10-11T20:27:20.314Z",
   "count": 117,
   "items": [
     {
@@ -1078,6 +1078,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1306,17 +1317,6 @@
       "snippet": "One of the most&amp;#160;requested features in Microsoft Teams is rolling out now.&amp;#160;I have waited years for this rollout, but before&amp;#160;I get to the...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 11th September 2026",
-      "link": "https://andrewstaylor.com/2026/09/11/intune-newsletter-11th-september-2026/",
-      "date": "2026-09-11T10:59:24.000Z",
-      "snippet": "Friday already, the weeks are flying by, it will be Christmas before we know it!  First though, I&amp;#8217;m flying to Switzerland at the weekend ready f...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
