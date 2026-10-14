@@ -1,7 +1,456 @@
 {
-  "lastUpdated": "2026-10-13T17:02:54.173Z",
-  "count": 117,
+  "lastUpdated": "2026-10-14T00:48:25.028Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Agent chat web part",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575298",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "This is a new web part available for modern page editors in SharePoint. The web part can be configured to use any M365 Copilot agent.GA date: January ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Data Loss Prevention-Admin Units Support for Copilot &amp; Cowork DLP",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575287",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Microsoft Purview Data Loss Prevention is extending Administrative Units support to Microsoft 365 Copilot, Copilot Chat, and Cowork. This enables orga...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574363",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.p...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Visio: Desktop Model Context Protocol (MCP) Server",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574125",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "The Microsoft Visio Desktop MCP Server enables compatible AI clients to connect with the Visio Desktop application to create, read, and update Visio d...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Enable MCP tools for POS returns",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574124",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "This feature provides reusable MCP tools for Store Commerce POS returns. These tools expose Commerce return capabilities as structured actions that cu...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Improved planning writeback performance and flexibility",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574118",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Business performance planning improves the performance and flexibility of writeback from the Matrix visual.\r\nWriteback processing has been optimized t...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Manage dimension security with Microsoft Entra groups",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574117",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Administrators can now assign Microsoft Dataverse group teams backed by Microsoft Entra groups to Business performance planning dimension security gro...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Collaborative comments for planning cubes and dimensions",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574116",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Create and manage contextual discussion threads directly on planning cubes and dimensions. Users can comment on dimension cells, detailed or aggregate...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Manage model-driven app AI features from consolidated settings",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574104",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Consolidated AI settings make it easier for makers and admins to find and manage AI capabilities for model-driven apps across two complementary surfac...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Procurement Agent - Define custom scenarios for agent-generated supplier emails",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573705",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Business end-users and buyers can define and maintain their own outbound follow-up scenarios and use them wherever built-in scenarios are used today:\r...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Copilot Chat available in shared and delegate mailboxes",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573698",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Shared mailbox users and delegates with read and manage (full access) and/or mail folder-level permission will now be able to access Copilot Chat dire...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Pages: Create Power Pages SPA site from the Power Pages studio",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573277",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Quickly get started with modern single-page application (SPA) development by creating a site directly from Power Pages Studio. Continue building and c...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Microsoft IQ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570870",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Provide a unified intelligence layer that helps agents discover, reason over, and use organizational knowledge.GA date: January CY2027Preview date: No...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: REST endpoint tools ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570868",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Enable agents to use supported REST endpoints as tools through governed Work IQ integrations.GA date: November CY2026Preview date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: A2A and MCP elicitation",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570852",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Enable A2A and MCP tasks to request missing information or authorization and then resume.GA date: November CY2026Preview date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: A2A and MCP long running tasks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570851",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Enable durable long-running A2A and MCP tasks with progress tracking, later result retrieval, and cancellation.GA date: November CY2026Preview date: O...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Retrieve",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570673",
+      "date": "2026-10-13T23:01:05.000Z",
+      "snippet": "Enable agents to retrieve relevant Microsoft 365 content and context through Work IQ.GA date: November CY2026Preview date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "2026 October KB5127648 KB5126653 Windows 11 Patch",
+      "link": "https://www.anoopcnair.com/october-kb5127648-kb5126653-windows-11-patch/",
+      "date": "2026-10-13T18:51:51.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: October 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
+      "date": "2026-10-13T18:37:34.000Z",
+      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102849 Microsoft Office Access Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102849",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Heap-based buffer overflow in Microsoft Office Access allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102850 Microsoft Office Access Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102850",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Heap-based buffer overflow in Microsoft Office Access allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-103572 Visual Studio Tools for Applications and SQL Server Management Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-103572",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper control of generation of code (&#039;code injection&#039;) in Visual Studio Tools for Applications and SQL Server Management Studio allows an unauthori...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "ADV260001 ADV260001 Hardening changes for ReFS volumes on removable media",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/ADV260001",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Starting with Windows updates released on and after October 13, 2026, Microsoft is making hardening changes to the [Resilient File System (ReFS)](http...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-105725 Windows Security App Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105725",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Use after free in Windows Security App allows an authorized attacker to elevate privileges locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-105727 Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105727",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper limitation of a pathname to a restricted directory (&#039;path traversal&#039;) in Dynamics Business Central allows an authorized attacker to elevate p...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-105728 Dynamics Business Central Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105728",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper authentication in Dynamics Business Central allows an unauthorized attacker to disclose information over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-108400 HEVC Video Extensions Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108400",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Integer overflow or wraparound in Microsoft Windows Codecs Library allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-108457 Microsoft Windows PDF Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108457",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Out-of-bounds write in Microsoft Windows PDF allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-108468 Windows Installer Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108468",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Use after free in Windows Installer allows an authorized attacker to elevate privileges locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102227 Windows Resilient File System (ReFS) Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102227",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Heap-based buffer overflow in Windows Resilient File System (ReFS) allows an authorized attacker to execute code locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102229 Visual Studio Code Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102229",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper limitation of a pathname to a restricted directory (&#039;path traversal&#039;) in Visual Studio Code allows an authorized attacker to disclose informa...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102231 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102231",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper resolution of path equivalence in Visual Studio Code allows an unauthorized attacker to bypass a security feature locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102232 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102232",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Incorrect authorization in Visual Studio Code allows an unauthorized attacker to bypass a security feature locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102233 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102233",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Missing authorization in Visual Studio Code allows an unauthorized attacker to bypass a security feature locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102234 Visual Studio Code Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102234",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Reliance on untrusted inputs in a security decision in Visual Studio Code allows an unauthorized attacker to bypass a security feature over a network....",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102235 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102235",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper encoding or escaping of output in Visual Studio Code allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102238 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102238",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Improper limitation of a pathname to a restricted directory (&#039;path traversal&#039;) in Visual Studio Code allows an unauthorized attacker to execute code o...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70098 Visual Studio Code Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70098",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Missing authorization in Visual Studio Code allows an unauthorized attacker to execute code over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96956 SQL Server Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96956",
+      "date": "2026-10-13T14:00:00.000Z",
+      "snippet": "Stack-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -16,98 +465,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention-Apply Purview network data security DLP policies to all websites, or all websites except specific cloud apps, through Entra GSA Internet Access integration",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575285",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "With this feature, admins can scope their network data security data loss prevention policies, integrated with Entra GSA Internet Access, to apply to ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection - Apply default SharePoint library labels to data at rest",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575283",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Enables auto‑labeling of existing SharePoint files to match the default sensitivity label configured on their document library. This helps organizatio...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Unify product receipt and item requirement posting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574123",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "This feature posts a purchase order product receipt and the consumption of its linked project item requirement in one transaction. It applies when aut...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Integrate the Sales Development agent with Salesforce",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574105",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Sales Development Agent now integrates with Salesforce, enabling organizations to use SDA with their existing Salesforce CRM. SDA can access leads, ma...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: View files and conversations side by side",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574094",
       "date": "2026-10-12T23:01:05.000Z",
       "snippet": "Review shared files without losing conversation context. When you open a PDF, Markdown, or HTML file from a Teams chat or channel message, the convers...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Import tasks into a project from other projects",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573692",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Currently, to bring tasks from another project into a new project, you must manually enter the task details in the task grid or use schedule APIs. You...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Apps: Model-driven applications in Business Apps in Work IQ  ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571888",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Power Apps model-driven apps are now available as Business Apps in Work IQ. They can be accessed through the Work IQ (Preview) tool in Copilot Studio ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Updating documents in Office ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570871",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Work IQ enables agents to create and edit Microsoft Office documents using organizational context, helping users produce and update content more effic...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Upload",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570850",
-      "date": "2026-10-12T23:01:05.000Z",
-      "snippet": "Enable agents to upload files and content to supported Microsoft 365 destinations.GA date: October CY2026Preview date: October CY2026",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -121,78 +482,6 @@
       "snippet": "This week is all about Sysmon and about enabling Sysmon on the latest version of Windows 11. Sysmon itself is not new, but the direct integration with...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12429 Inappropriate implementation in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12429",
-      "date": "2026-10-12T09:25:18.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12428 Type Confusion in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12428",
-      "date": "2026-10-12T09:24:57.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12727 Inappropriate implementation in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12727",
-      "date": "2026-10-12T09:24:36.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12433 Inappropriate implementation in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12433",
-      "date": "2026-10-12T08:44:52.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12441 Out of bounds read in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12441",
-      "date": "2026-10-12T08:44:28.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2025-12432 Race in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-12432",
-      "date": "2026-10-12T08:44:03.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -218,17 +507,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Events now support up to 20,000 registrations, making it easier to reach and engage larger audiences at scale",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574110",
-      "date": "2026-10-09T22:04:35.000Z",
-      "snippet": "Connect with more attendees than ever before with Teams Events, now supporting up to 20,000 registrations for organizers with valid Attendee packs.GA ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
@@ -236,174 +514,6 @@
       "date": "2026-10-09T20:27:17.000Z",
       "snippet": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62744 Microsoft Windows Media Foundation Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62744",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68875 Windows NTFS Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68875",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68878 Windows Fast FAT Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68878",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69281 Windows License Manager Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69281",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69337 Windows Registry Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69337",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69451 Windows Management Instrumentation Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69451",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69582 Windows Volume Manager Extension Driver Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69582",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69693 Windows Device Association Broker Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69693",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69732 Windows Link Layer Topology Discovery Protocol Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69732",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-72979 Windows DHCP Server Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72979",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-72982 Windows Netlogon Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72982",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-68880 Windows Win32k Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69277 Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69277",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69301 Windows Win32k Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69301",
-      "date": "2026-10-09T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
@@ -620,6 +730,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Modern, refreshed look for the mail app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571681",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Extends the Fluent-based modern, refreshed look for model-driven apps to the mail app, providing consistent controls, spacing, colors, and visual trea...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Retirement: Pod name dimension in AKS pod platform metrics",
@@ -702,17 +823,6 @@
       "title": "Windows 11 26H2 Security Baseline in Microsoft Intune for Enhanced Security and Best Practices",
       "link": "https://www.anoopcnair.com/windows-11-26h2-security-baseline-in-intune/",
       "date": "2026-10-06T11:29:34.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Create a New Windows 11 26H2 Cloud PC using Intune",
-      "link": "https://www.anoopcnair.com/create-a-new-windows-11-26h2-cloud-pc-intune/",
-      "date": "2026-10-06T09:38:44.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
@@ -1089,17 +1199,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1284,17 +1383,6 @@
       "snippet": "The ODBC driver for SQL Server version 18.6.1.1 has known issues wherein the Configuration Manager site installations might fail, and client...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-Tenant Message Recall in Exchange Online",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
-      "date": "2026-09-15T22:23:56.000Z",
-      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
