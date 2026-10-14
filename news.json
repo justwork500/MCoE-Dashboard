@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T00:48:25.028Z",
-  "count": 125,
+  "lastUpdated": "2026-10-14T05:42:29.294Z",
+  "count": 126,
   "items": [
     {
       "source": "Microsoft 365 Roadmap",
@@ -192,23 +192,12 @@
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
-      "title": "2026 October KB5127648 KB5126653 Windows 11 Patch",
+      "title": "October 2026 KB5127648 KB5126653 Windows 11 Patch | 3 Zero-Day Vulnerabilities and 1411 Flaws",
       "link": "https://www.anoopcnair.com/october-kb5127648-kb5126653-windows-11-patch/",
       "date": "2026-10-13T18:51:51.000Z",
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: October 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
-      "date": "2026-10-13T18:37:34.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1199,6 +1188,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1383,6 +1383,17 @@
       "snippet": "The ODBC driver for SQL Server version 18.6.1.1 has known issues wherein the Configuration Manager site installations might fail, and client...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-Tenant Message Recall in Exchange Online",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800",
+      "date": "2026-09-15T22:23:56.000Z",
+      "snippet": "Since we released cloud-based Message Recall in April 2023 (see Cloud-based Message Recall in Exchange Online), we’ve continued to expand where and ho...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
