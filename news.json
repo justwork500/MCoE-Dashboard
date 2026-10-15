@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-15T05:27:58.510Z",
-  "count": 116,
+  "lastUpdated": "2026-10-15T10:11:18.342Z",
+  "count": 121,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "October 2026 KB5127694: High-Severity .NET Framework Security Update Fixes 20 CVEs on Windows 11 26H2",
+      "link": "https://www.anoopcnair.com/kb5127694-high-severity-net-framework-security/",
+      "date": "2026-10-15T09:46:38.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -508,6 +519,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Easily enabling Sysmon in Windows 11",
+      "link": "https://petervanderwoude.nl/post/easily-enabling-sysmon-in-windows-11/",
+      "date": "2026-10-12T17:45:00.000Z",
+      "snippet": "This week is all about Sysmon and about enabling Sysmon on the latest version of Windows 11. Sysmon itself is not new, but the direct integration with...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Windows 11 23H2 Enterprise and Education | End of Security Updates and Upgrade Recommendations",
@@ -675,17 +697,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows App Adds Remote PC Connections for a Unified Remote Access Experience",
-      "link": "https://www.anoopcnair.com/windows-app-adds-remote-pc-connections/",
-      "date": "2026-10-08T10:21:49.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Anyscale on Azure",
@@ -739,6 +750,17 @@
       "snippet": "Beginning September 30, 2027, support for the pod name dimension on the following Azure\r\nMonitor platform metrics is retiring, and these metrics are t...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to integrate Microsoft Defender/ Sentinel with Microsoft Fabric",
+      "link": "https://jeffreyappel.nl/how-to-integrate-microsoft-defender-sentinel-with-microsoft-fabric/",
+      "date": "2026-10-06T19:09:46.000Z",
+      "snippet": "Since September 23, 2026, the Microsoft Sentinel data lake is no longer a separate onboarding and billing project: it comes integrated with Sentinel f...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -827,6 +849,17 @@
       "snippet": "Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual result...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Easily managing Windows App on Windows devices",
+      "link": "https://petervanderwoude.nl/post/easily-managing-windows-app-on-windows-devices/",
+      "date": "2026-10-05T17:45:00.000Z",
+      "snippet": "This week is all about easily managing the Windows App on Windows devices. In the early days, the Windows App was pretty straightforward. There were s...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -1042,6 +1075,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with deployments and deployment plans for an automated staged rollout",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-deployments-and-deployment-plans-for-an-automated-staged-rollout/",
+      "date": "2026-09-28T17:45:00.000Z",
+      "snippet": "This week is all about deployments and deployment plans. Deployments and deployment plans have been introduced recently to provide IT administrators w...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Autopilot Device Preparation BitLocker 256 Bit Issue: The 128 Bit Race Is Finally Fixed",
@@ -1199,6 +1243,28 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to track browser extension installations with Microsoft Defender",
+      "link": "https://jeffreyappel.nl/how-to-track-browser-extension-installations-with-microsoft-defender/",
+      "date": "2026-09-21T21:38:33.000Z",
+      "snippet": "Browser extensions are small pieces of software, but from a security perspective, they can have a surprisingly large impact. From data theft to sessio...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Making sure the multi-app kiosk configuration is applied after the installation of the applications",
+      "link": "https://petervanderwoude.nl/post/making-sure-the-multi-app-kiosk-configuration-is-applied-after-the-installation-of-the-applications/",
+      "date": "2026-09-21T17:45:00.000Z",
+      "snippet": "This week is all about making sure that the multi-app kiosk configuration is actually applied after the required applications are installed. The order...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "New in Edge for developers – Create better components and make your site agent-ready",
@@ -1295,17 +1361,6 @@
       "snippet": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely.\nThe post Intr...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Windows 11 KB5129195 OOB Update Fixes Security Flaw, RDS Issues, and More",
-      "link": "https://www.prajwaldesai.com/windows-11-kb5129195-oob-update/",
-      "date": "2026-09-15T09:24:58.000Z",
-      "snippet": "Microsoft has released KB5129195, an out-of-band (OOB) cumulative update for Windows 11 versions 24H2 and 25H2. Published on September 14, 2026,...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
