@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-10-15T10:11:18.342Z",
-  "count": 121,
+  "lastUpdated": "2026-10-15T14:59:56.436Z",
+  "count": 123,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Entra ID Introduces Individual Security Defaults Protections (Preview) ",
+      "link": "https://blog.admindroid.com/individual-security-defaults-protections-in-microsoft-entra-id/",
+      "date": "2026-10-15T13:27:29.000Z",
+      "snippet": "Microsoft Entra ID Security Defaults currently uses a single toggle to enable or disable all security protections together. Now, Microsoft is introduc...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows 11 Update Causes Remote Desktop Connection Issues for Non-Admin Users Error 0xC000000D",
+      "link": "https://www.anoopcnair.com/windows-11-remote-desktop-connection-issues/",
+      "date": "2026-10-15T11:36:55.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -525,17 +547,6 @@
       "link": "https://petervanderwoude.nl/post/easily-enabling-sysmon-in-windows-11/",
       "date": "2026-10-12T17:45:00.000Z",
       "snippet": "This week is all about Sysmon and about enabling Sysmon on the latest version of Windows 11. Sysmon itself is not new, but the direct integration with...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows 11 23H2 Enterprise and Education | End of Security Updates and Upgrade Recommendations",
-      "link": "https://www.anoopcnair.com/windows-11-23h2-enterprise-and-education-end/",
-      "date": "2026-10-12T07:37:37.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
       ]
@@ -1152,6 +1163,17 @@
       "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
       "tags": [
         "SharePoint"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
