@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-15T22:00:00.621Z",
-  "count": 122,
+  "lastUpdated": "2026-10-16T04:28:07.959Z",
+  "count": 120,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in OneDrive/SharePoint web viewer",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576276",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "We&#039;re enabling PDF annotation for sensitivity-label protected PDFs in OneDrive and SharePoint on the web. With this update, users who have the appropr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Pinch to zoom in on shared screens",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detaile...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Full-screen mode on task grid",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575291",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Task grid full-screen mode enables project managers and team members to expand the task grid to use the available screen space. By minimizing surround...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "SharePoint: Copilot Search in SharePoint and OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573696",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Copilot Search brings AI-powered, natural-language search to SharePoint and OneDrive, combining relevant results, AI-generated summaries with source r...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Facilitator&#039;s enhanced protection skill can alert you to potential scams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573450",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Facilitator can help you spot suspected attempts by people outside your organization to trick you into sharing sensitive information during a meeting....",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Prompt Columns - multiple lines of text output    ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573279",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Prompt columns can now store multilple lines of text as prompt output, enabling longer and detailed AI-generated insights to be stored in your tables....",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Dataverse: Prompt column values in bulk for existing records (backfill)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570865",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Prompt columns can now generate AI values for records that already exist in your table, not just new or updated ones. Makers can choose to apply a pro...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -309,6 +386,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: October 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
+      "date": "2026-10-15T13:24:19.000Z",
+      "snippet": "Update October 15, 2026: We have received reports indicating that installation of October 2026 updates for Windows Server - KB5126646 (Windows Server ...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Windows 11 Update Causes Remote Desktop Connection Issues for Non-Admin Users Error 0xC000000D",
@@ -331,23 +419,23 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Introducing a team knowledge base, curated by Copilot and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/ba-p/4564203",
+      "date": "2026-10-15T01:19:36.000Z",
+      "snippet": "Collaboration is changing as teams of humans and agents now work together to get more done. That’s why we’ve evolved Copilot to empower these human-ag...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Near-real-time detection of malicious QR codes in messages",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576198",
       "date": "2026-10-14T23:01:02.000Z",
       "snippet": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Team...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: PowerPoint Live support for webinars and structured meetings on Teams Rooms on Android",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576195",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Participants joining webinars and structured meetings from Teams Rooms on Android can view and interact with PowerPoint Live presentations. This provi...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -366,76 +454,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Phishing Detection in Teams Messaging",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575288",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Microsoft Teams is introducing AI-powered phishing detection that uses conversation context to identify phishing and social engineering in higher-risk...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): Copilot response personalization - Memory citations",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574111",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "When Copilot Chat uses memory to personalize a response, users can now see what informed the answer. Select Sources beneath the response, then open th...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Admin center - Intelligent insights for meeting quality",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574108",
       "date": "2026-10-14T23:01:02.000Z",
       "snippet": "Gain proactive visibility into meeting quality across your organization with AI-powered insights in the Teams admin center that identify emerging patt...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Quality evaluation - One-Time Evaluation Frequency",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573266",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Quality evaluation plans now support a Once frequency type for both case evaluations and conversation evaluations. When creating an evaluation plan, u...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Planner: Planner Agent in Copilot V2 Improvements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573168",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Planner Agent brings Planner’s intelligent work management directly into Copilot Chat, enabling users to create, update, and manage personal tasks and...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Adaptive Scope evaluation control with recipient and site owner lifecycle status",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572676",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Microsoft Purview Adaptive Scopes will provide administrators with explicit control over lifecycle-state evaluation for recipients and site owners, he...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Pages: Design studio - Enhance OpenID Connect with encrypted token support",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576395",
-      "date": "2026-10-14T22:53:09.000Z",
-      "snippet": "This feature adds support for token-level encryption during authentication, allowing Power Pages to accept encrypted ID tokens in addition to signed t...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -530,39 +552,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: Agent chat web part",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575298",
-      "date": "2026-10-13T23:01:05.000Z",
-      "snippet": "This is a new web part available for modern page editors in SharePoint. The web part can be configured to use any M365 Copilot agent.GA date: January ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Loss Prevention-Admin Units Support for Copilot &amp; Cowork DLP",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575287",
-      "date": "2026-10-13T23:01:05.000Z",
-      "snippet": "Microsoft Purview Data Loss Prevention is extending Administrative Units support to Microsoft 365 Copilot, Copilot Chat, and Cowork. This enables orga...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Information Protection-Auto-labeling for legacy Office files",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574363",
-      "date": "2026-10-13T23:01:05.000Z",
-      "snippet": "Microsoft Purview server-side auto-labeling will support legacy Microsoft Office file formats, including Word (.doc), Excel (.xls), and PowerPoint (.p...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "October 2026 KB5127648 KB5126653 Windows 11 Patch | 3 Zero-Day Vulnerabilities and 1411 Flaws",
@@ -571,17 +560,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: October 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
-      "date": "2026-10-13T18:37:34.000Z",
-      "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1019,17 +997,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Out of the box real time translation on digital channels",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573245",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "With this feature, users get an out-of-the-box solution for translation services, so they don&#039;t need to bring their own web resources. Service represe...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "Serve customers with Queues app&#039;s collaborative calling for Microsoft Teams",
@@ -1188,6 +1155,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1196,6 +1174,17 @@
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571663",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Microsoft Copilot in the Dynamics 365 Field Service mobile app brings conversational AI chat capabilities directly to frontline workers. Once enabled,...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1306,17 +1295,6 @@
       "snippet": "Welcome back to New in Edge for developers, our recurring roundup of recent web platform updates in Microsoft Edge.\nIn this edition, we&#039;ll look more c...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Express face enrollment",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570846",
-      "date": "2026-09-18T22:00:04.000Z",
-      "snippet": "Express face enrollment makes it easier for users to create a face profile in Teams by using their camera during eligible meetings, after they opt in....",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
