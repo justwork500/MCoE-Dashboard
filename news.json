@@ -1,7 +1,227 @@
 {
-  "lastUpdated": "2026-10-16T17:48:36.984Z",
-  "count": 121,
+  "lastUpdated": "2026-10-16T20:22:56.063Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Boost technician productivity - Disable clickthrough on lookup values in forms",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576886",
+      "date": "2026-10-16T19:10:12.000Z",
+      "snippet": "A new option in the lookup control lets you disable clickthrough on the displayed lookup value. When disabled, the lookup value renders as plain text ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable flexibility when determining financial dimension defaults",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576885",
+      "date": "2026-10-16T19:10:11.000Z",
+      "snippet": "Previously, you had limited options for how financial dimensions default. This feature adds functionality and flexibility to default financial dimensi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Optimize resource scheduling - Optimize multiple resources with Scheduling Operations Agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576884",
+      "date": "2026-10-16T19:10:11.000Z",
+      "snippet": "This release expands the optimization capabilities of the Scheduling Operations Agent to include multiple resources. The agent considers the availabil...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - View budget details in left navigation",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576883",
+      "date": "2026-10-16T19:10:10.000Z",
+      "snippet": "This feature enhances the Project Budget management experience by improving visibility, usability, and contextual clarity when working with project bu...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable project resources on general journal entries",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576882",
+      "date": "2026-10-16T19:10:09.000Z",
+      "snippet": "This feature expands the existing general journal functionality for modern projects.\r\nA new capability is added so general journal lines can have an a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Financial Management - Use self-billed invoices",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576881",
+      "date": "2026-10-16T19:10:09.000Z",
+      "snippet": "Business Central offers full support for self‑billed invoices in the purchase process. Buyers can now generate invoices on behalf of a vendor when a s...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Update correction journal usability",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576880",
+      "date": "2026-10-16T19:10:08.000Z",
+      "snippet": "Correcting transactions after they’ve been processed can be a complicated and difficult process. Currently in Project Operations, you must select all ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Show accounting currency with the correct label",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576879",
+      "date": "2026-10-16T19:10:07.000Z",
+      "snippet": "This feature lets different currency units show the actual record for the accounting currency when the unit differs from the base currency. Today the ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use what-if analysis on estimates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576878",
+      "date": "2026-10-16T19:10:06.000Z",
+      "snippet": "This feature introduces a robust what-if analysis capability for estimates that enables you to model scenarios and evaluate their impact on key financ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Customize the task details pane",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576877",
+      "date": "2026-10-16T19:10:06.000Z",
+      "snippet": "In the task grid, when you select the i icon next to a task name, the Task details pane opens so you can enter more information. This pane is part of ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Dataverse: Build your low code hyperscale backend on Dataverse - Build your agentic flows with Dataverse SDK for Python",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576876",
+      "date": "2026-10-16T19:10:05.000Z",
+      "snippet": "The Microsoft Dataverse SDK for Python empowers data scientists and developers to build intelligent, compliant, and scalable agentic flows that integr...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Service representative experiences - Use pinned contacts and queues during consult and transfer",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576875",
+      "date": "2026-10-16T19:10:04.000Z",
+      "snippet": "In the Copilot Service admin center, administrators configure and manage pinned contacts and queues for representatives as follows:\r\n\r\nEnable pins in ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Sustainability Management - Use new APIs in Sustainability for better integration",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576874",
+      "date": "2026-10-16T19:10:04.000Z",
+      "snippet": "The feature introduces four new APIs in the Sustainability area to improve interoperability and enable automated data flows between Business Central a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable subcontractor vendor invoice matching to actuals",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576873",
+      "date": "2026-10-16T19:10:03.000Z",
+      "snippet": "When you enable the Enable subcontractor vendor invoice matching to actuals for Project Operations integrated with ERP setting, you activate this feat...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Supply chain management - Use subcontracting capabilities in production processes",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576872",
+      "date": "2026-10-16T19:10:02.000Z",
+      "snippet": "The standard Dynamics 365 Business Central solution already meets many global needs. We expand that solution to meet local needs by adding capabilitie...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Sales and marketing - Calculate prices for external systems through API",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576871",
+      "date": "2026-10-16T19:10:01.000Z",
+      "snippet": "The new pricing calculation API allows external systems to programmatically retrieve active prices or price quotes directly from Supply Chain Manageme...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Automate: Process mining - Analyze processes using object-centric process mining",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576870",
+      "date": "2026-10-16T19:10:01.000Z",
+      "snippet": "Real business processes rarely flow as a single, linear instance. Events routinely touch several objects of different types at the same time (for exam...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Automate: Process mining - Analyze your processes in the process intelligence experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576869",
+      "date": "2026-10-16T19:10:00.000Z",
+      "snippet": "The process intelligence experience is a modern, flexible workspace designed for comprehensive process analysis. It provides a fully customizable anal...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Automate: Process mining - Create and visualize custom KPIs in the process intelligence experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576868",
+      "date": "2026-10-16T19:09:59.000Z",
+      "snippet": "The process intelligence experience allows flexible metric creation with seamless visualization integration. This feature enables you to define custom...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Warehouse management - Enable precise serial and batch capture in cluster picking",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576867",
+      "date": "2026-10-16T19:09:59.000Z",
+      "snippet": "This feature lets you control how serial and batch numbers are captured during cluster picking for items tracked below the location level in the reser...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -287,94 +507,6 @@
       ]
     },
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Preparing for end of support for CNAME auto-discovery in Windows MDM-only enrollment",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973",
-      "date": "2026-10-16T01:44:00.000Z",
-      "snippet": "Today, some organizations use an&amp;nbsp;EnterpriseEnrollment DNS CNAME record to automatically direct devices to the Microsoft enrollment service during...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: PDF annotation for sensitivity-label protected PDFs in OneDrive/SharePoint web viewer",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576276",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "We&#039;re enabling PDF annotation for sensitivity-label protected PDFs in OneDrive and SharePoint on the web. With this update, users who have the appropr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Pinch to zoom in on shared screens",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detaile...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Full-screen mode on task grid",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575291",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Task grid full-screen mode enables project managers and team members to expand the task grid to use the available screen space. By minimizing surround...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "SharePoint: Copilot Search in SharePoint and OneDrive",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573696",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Copilot Search brings AI-powered, natural-language search to SharePoint and OneDrive, combining relevant results, AI-generated summaries with source r...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Facilitator&#039;s enhanced protection skill can alert you to potential scams",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573450",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Facilitator can help you spot suspected attempts by people outside your organization to trick you into sharing sensitive information during a meeting....",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Apps: Prompt Columns - multiple lines of text output    ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573279",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Prompt columns can now store multilple lines of text as prompt output, enabling longer and detailed AI-generated insights to be stored in your tables....",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Dataverse: Prompt column values in bulk for existing records (backfill)",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570865",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Prompt columns can now generate AI values for records that already exist in your table, not just new or updated ones. Makers can choose to apply a pro...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
@@ -493,39 +625,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Near-real-time detection of malicious QR codes in messages",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576198",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Team...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Loop meeting notes stored in the meeting organizer&#039;s OneDrive",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576194",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "For non-channel Microsoft Teams meetings, collaborative meeting notes, including Loop-powered meeting notes and Facilitator notes, will be stored in t...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Admin center - Intelligent insights for meeting quality",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574108",
-      "date": "2026-10-14T23:01:02.000Z",
-      "snippet": "Gain proactive visibility into meeting quality across your organization with AI-powered insights in the Teams admin center that identify emerging patt...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1177,17 +1276,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1196,17 +1284,6 @@
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Microsoft Copilot in Field Service Mobile app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571663",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Microsoft Copilot in the Dynamics 365 Field Service mobile app brings conversational AI chat capabilities directly to frontline workers. Once enabled,...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
