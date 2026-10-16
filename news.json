@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T04:28:07.959Z",
+  "lastUpdated": "2026-10-16T09:11:56.418Z",
   "count": 120,
   "items": [
     {
@@ -91,6 +91,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "EWS Deprecation Is Here – What This Means To You",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
+      "date": "2026-10-15T18:01:22.000Z",
+      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Standard service endpoint ",
@@ -110,6 +121,17 @@
       "snippet": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availa...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: October 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
+      "date": "2026-10-15T16:36:50.000Z",
+      "snippet": "Update October 15, 2026: We have received reports indicating that installation of October 2026 updates for Windows Server - KB5126646 (Windows Server ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -386,17 +408,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: October 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
-      "date": "2026-10-15T13:24:19.000Z",
-      "snippet": "Update October 15, 2026: We have received reports indicating that installation of October 2026 updates for Windows Server - KB5126646 (Windows Server ...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Windows 11 Update Causes Remote Desktop Connection Issues for Non-Admin Users Error 0xC000000D",
@@ -416,17 +427,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Introducing a team knowledge base, curated by Copilot and agents",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/ba-p/4564203",
-      "date": "2026-10-15T01:19:36.000Z",
-      "snippet": "Collaboration is changing as teams of humans and agents now work together to get more done. That’s why we’ve evolved Copilot to empower these human-ag...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
@@ -505,6 +505,17 @@
       "snippet": "As customers prepare for the final phase of Exchange Web Services (EWS) retirement in Exchange Online, many are asking the same practical question: ho...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Introducing a team knowledge base, curated by Copilot and agents",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-a-team-knowledge-base-curated-by-copilot-and-agents/ba-p/4564203",
+      "date": "2026-10-14T16:17:09.000Z",
+      "snippet": "Collaboration is changing as teams of humans and agents now work together to get more done. That’s why we’ve evolved Copilot to empower these human-ag...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -895,17 +906,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "EWS Deprecation Is Here – What This Means To You",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
-      "date": "2026-10-03T02:04:14.000Z",
-      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
