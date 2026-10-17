@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-16T20:22:56.063Z",
-  "count": 128,
+  "lastUpdated": "2026-10-17T16:24:15.821Z",
+  "count": 123,
   "items": [
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5127648 Update: What’s New in October 2026 Update",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5127648-update/",
+      "date": "2026-10-17T15:41:42.000Z",
+      "snippet": "Microsoft has released the October 2026 Patch Tuesday security update, KB5127648, for Windows 11 versions 24H2, 25H2, and 26H2. The update...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Retires Search-UnifiedAuditLog Cmdlet in Oct 2027",
+      "link": "https://blog.admindroid.com/search-unifiedauditlog-cmdlet-retirement/",
+      "date": "2026-10-17T14:02:02.000Z",
+      "snippet": "Microsoft is retiring the Search-UnifiedAuditLog PowerShell cmdlet on October 15, 2027. Learn what this change means and how to migrate your existing ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Import task - Import at a given hierarchy in the task grid",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576298",
+      "date": "2026-10-16T22:00:35.000Z",
+      "snippet": "This feature gives project managers greater control over where imported tasks are placed within a project plan. From the task grid, a project manager ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Import task - Assign generic resources to task",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576297",
+      "date": "2026-10-16T22:00:35.000Z",
+      "snippet": "This feature gives project managers control over how resource assignments are handled when importing tasks from one project to another. For each impor...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Access updated visuals for row summaries across forms and views",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576178",
+      "date": "2026-10-16T22:00:35.000Z",
+      "snippet": "The row summaries experience has a refreshed layout that makes AI-generated insights more prominent and easier to consume. Improved visual hierarchy (...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva:  Copilot Analytics - Agent 365 reporting availability for Microsoft platform agents",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575292",
+      "date": "2026-10-16T22:00:35.000Z",
+      "snippet": "Customers can now view agent insights in the Agent 365 Dashboard in Microsoft Viva Insights (Copilot Analytics) without an Agent 365 license. Customer...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -58,171 +124,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Financial Management - Use self-billed invoices",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576881",
-      "date": "2026-10-16T19:10:09.000Z",
-      "snippet": "Business Central offers full support for self‑billed invoices in the purchase process. Buyers can now generate invoices on behalf of a vendor when a s...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Update correction journal usability",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576880",
-      "date": "2026-10-16T19:10:08.000Z",
-      "snippet": "Correcting transactions after they’ve been processed can be a complicated and difficult process. Currently in Project Operations, you must select all ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Show accounting currency with the correct label",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576879",
-      "date": "2026-10-16T19:10:07.000Z",
-      "snippet": "This feature lets different currency units show the actual record for the accounting currency when the unit differs from the base currency. Today the ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Use what-if analysis on estimates",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576878",
-      "date": "2026-10-16T19:10:06.000Z",
-      "snippet": "This feature introduces a robust what-if analysis capability for estimates that enables you to model scenarios and evaluate their impact on key financ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Customize the task details pane",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576877",
-      "date": "2026-10-16T19:10:06.000Z",
-      "snippet": "In the task grid, when you select the i icon next to a task name, the Task details pane opens so you can enter more information. This pane is part of ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Dataverse: Build your low code hyperscale backend on Dataverse - Build your agentic flows with Dataverse SDK for Python",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576876",
-      "date": "2026-10-16T19:10:05.000Z",
-      "snippet": "The Microsoft Dataverse SDK for Python empowers data scientists and developers to build intelligent, compliant, and scalable agentic flows that integr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Service representative experiences - Use pinned contacts and queues during consult and transfer",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576875",
-      "date": "2026-10-16T19:10:04.000Z",
-      "snippet": "In the Copilot Service admin center, administrators configure and manage pinned contacts and queues for representatives as follows:\r\n\r\nEnable pins in ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Sustainability Management - Use new APIs in Sustainability for better integration",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576874",
-      "date": "2026-10-16T19:10:04.000Z",
-      "snippet": "The feature introduces four new APIs in the Sustainability area to improve interoperability and enable automated data flows between Business Central a...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Optimize Project Operations - Enable subcontractor vendor invoice matching to actuals",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576873",
-      "date": "2026-10-16T19:10:03.000Z",
-      "snippet": "When you enable the Enable subcontractor vendor invoice matching to actuals for Project Operations integrated with ERP setting, you activate this feat...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Supply chain management - Use subcontracting capabilities in production processes",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576872",
-      "date": "2026-10-16T19:10:02.000Z",
-      "snippet": "The standard Dynamics 365 Business Central solution already meets many global needs. We expand that solution to meet local needs by adding capabilitie...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Supply Chain Management: Sales and marketing - Calculate prices for external systems through API",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576871",
-      "date": "2026-10-16T19:10:01.000Z",
-      "snippet": "The new pricing calculation API allows external systems to programmatically retrieve active prices or price quotes directly from Supply Chain Manageme...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Automate: Process mining - Analyze processes using object-centric process mining",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576870",
-      "date": "2026-10-16T19:10:01.000Z",
-      "snippet": "Real business processes rarely flow as a single, linear instance. Events routinely touch several objects of different types at the same time (for exam...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Automate: Process mining - Analyze your processes in the process intelligence experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576869",
-      "date": "2026-10-16T19:10:00.000Z",
-      "snippet": "The process intelligence experience is a modern, flexible workspace designed for comprehensive process analysis. It provides a fully customizable anal...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Automate: Process mining - Create and visualize custom KPIs in the process intelligence experience",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576868",
-      "date": "2026-10-16T19:09:59.000Z",
-      "snippet": "The process intelligence experience allows flexible metric creation with seamless visualization integration. This feature enables you to define custom...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Supply Chain Management: Warehouse management - Enable precise serial and batch capture in cluster picking",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576867",
-      "date": "2026-10-16T19:09:59.000Z",
-      "snippet": "This feature lets you control how serial and batch numbers are captured during cluster picking for items tracked below the location level in the reser...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
@@ -241,6 +142,138 @@
       "date": "2026-10-16T16:50:27.000Z",
       "snippet": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or s...",
       "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106258: Uninitialized resource",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106258",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106263: Improper input validation",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106263",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106264: Missing authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106264",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106268: Use after free",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106268",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106270: Incorrect authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106270",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106271: Missing authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106271",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106273: Uninitialized resource",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106273",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106274: Incorrect reference resolution",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106274",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106276: UI misrepresentation",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106276",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106278: Use after free",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106278",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-103572 Visual Studio Tools for Applications and SQL Server Management Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-103572",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "Updated the Security Updates table to add download and KB article links for Microsoft Visual Studio. This is an informational change only; the fixed b...",
+      "tags": [
+        "Windows",
         "Azure"
       ]
     },
@@ -353,138 +386,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106289: Missing authorization",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106289",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106291: Use after free",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106291",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106292: Buffer overflow",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106292",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106412: Race condition",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106412",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106293: Type confusion",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106293",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106413: Race condition",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106413",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106294: Incomplete cleanup",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106294",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106415: Information leak",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106415",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106295: Incorrect authorization",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106295",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106416: Code injection",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106416",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106297: Incorrect authorization",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106297",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Microsoft Entra Agent ID Blueprint Registration to Prevent Unauthorized Agent Creation and Permission Issues",
@@ -502,6 +403,28 @@
       "link": "https://andrewstaylor.com/2026/10/16/intune-newsletter-16th-october-2026/",
       "date": "2026-10-16T10:48:18.000Z",
       "snippet": "Conference season is in full swing judging by my LinkedIn feed (I&amp;#8217;m enjoying October at home before travelling to Switzerland and San Francisco ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Pinch to zoom in on shared screens",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
+      "date": "2026-10-15T22:47:30.000Z",
+      "snippet": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detaile...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Preparing for end of support for CNAME auto-discovery in Windows MDM-only enrollment",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973",
+      "date": "2026-10-15T22:05:25.000Z",
+      "snippet": "Today, some organizations use an&amp;nbsp;EnterpriseEnrollment DNS CNAME record to automatically direct devices to the Microsoft enrollment service during...",
       "tags": [
         "Intune"
       ]
@@ -628,6 +551,28 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Near-real-time detection of malicious QR codes in messages",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576198",
+      "date": "2026-10-14T23:01:02.000Z",
+      "snippet": "Microsoft Teams will introduce near-real-time detection of malicious QR codes shared in messages. By analyzing destinations embedded in QR codes, Team...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Loop meeting notes stored in the meeting organizer&#039;s OneDrive",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576194",
+      "date": "2026-10-14T23:01:02.000Z",
+      "snippet": "For non-channel Microsoft Teams meetings, collaborative meeting notes, including Loop-powered meeting notes and Facilitator notes, will be stored in t...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
@@ -747,6 +692,17 @@
       "snippet": "A quick note before we get into it:&amp;nbsp;What&#039;s New in Teams is shifting from a monthly to a quarterly rhythm. You&#039;ll hear from us next in December, M...",
       "tags": [
         "Teams"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Events now support up to 20,000 registrations, making it easier to reach and engage larger audiences at scale",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574110",
+      "date": "2026-10-09T22:04:35.000Z",
+      "snippet": "Connect with more attendees than ever before with Teams Events, now supporting up to 20,000 registrations for organizers with valid Attendee packs.GA ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1276,6 +1232,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1414,28 +1381,6 @@
       "link": "https://www.prajwaldesai.com/sccm-kb39398030-hotfix-for-2603-2509-2503/",
       "date": "2026-09-17T19:48:02.000Z",
       "snippet": "Microsoft has released a new SCCM KB39398030 hotfix for the current branch versions 2603, 2509, and 2503. Installing this update enhances...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Teams Allows Two Users to Share Screens Simultaneously in Meetings",
-      "link": "https://blog.admindroid.com/two-users-can-share-screens-simultaneously-in-teams-meetings/",
-      "date": "2026-09-17T13:25:33.000Z",
-      "snippet": "Microsoft Teams is set to allow two separate users to share their screens simultaneously during a meeting. The feature is expected to roll out from No...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Moving from Windows Autopilot to Windows Autopilot device preparation",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/moving-from-windows-autopilot-to-windows-autopilot-device/ba-p/4557269",
-      "date": "2026-09-16T23:03:15.000Z",
-      "snippet": "By: Maggie Dakeva, Senior Product Manager - Microsoft Intune\r\nOrganizations have spent years refining Windows Autopilot deployments. Profiles, Enrollm...",
       "tags": [
         "Intune"
       ]
