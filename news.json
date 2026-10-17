@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T16:24:15.821Z",
-  "count": 123,
+  "lastUpdated": "2026-10-17T20:58:07.890Z",
+  "count": 122,
   "items": [
     {
       "source": "Prajwal Desai",
@@ -408,6 +408,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Preparing for end of support for CNAME auto-discovery in Windows MDM-only enrollment",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973",
+      "date": "2026-10-16T01:44:00.000Z",
+      "snippet": "Today, some organizations use an&amp;nbsp;EnterpriseEnrollment DNS CNAME record to automatically direct devices to the Microsoft enrollment service during...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Pinch to zoom in on shared screens",
@@ -416,17 +427,6 @@
       "snippet": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detaile...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Preparing for end of support for CNAME auto-discovery in Windows MDM-only enrollment",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973",
-      "date": "2026-10-15T22:05:25.000Z",
-      "snippet": "Today, some organizations use an&amp;nbsp;EnterpriseEnrollment DNS CNAME record to automatically direct devices to the Microsoft enrollment service during...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1370,17 +1370,6 @@
       "link": "https://andrewstaylor.com/2026/09/18/intune-newsletter-18th-september-2026/",
       "date": "2026-09-18T11:08:34.000Z",
       "snippet": "It&amp;#8217;s been a busy week at Workplace Ninja Summit in Baden, was great speaking to SO many of you and a special thanks to the organisers and all of...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "SCCM KB39398030 hotfix for SMS Provider, MP Engine, and DDR processing",
-      "link": "https://www.prajwaldesai.com/sccm-kb39398030-hotfix-for-2603-2509-2503/",
-      "date": "2026-09-17T19:48:02.000Z",
-      "snippet": "Microsoft has released a new SCCM KB39398030 hotfix for the current branch versions 2603, 2509, and 2503. Installing this update enhances...",
       "tags": [
         "Intune"
       ]
