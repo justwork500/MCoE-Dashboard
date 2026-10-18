@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T20:58:07.890Z",
-  "count": 122,
+  "lastUpdated": "2026-10-18T09:34:22.706Z",
+  "count": 123,
   "items": [
     {
       "source": "Prajwal Desai",
@@ -22,6 +22,28 @@
       "snippet": "Microsoft is retiring the Search-UnifiedAuditLog PowerShell cmdlet on October 15, 2027. Learn what this change means and how to migrate your existing ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Released: October 2026 Exchange Server Security Updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
+      "date": "2026-10-17T01:07:04.000Z",
+      "snippet": "Update October 16, 2026: For more information related to installation of October 2026 updates for Windows Server and the possible impact on Exchange S...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Exchange servers may become unstable after installation of October 2026 Windows updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382",
+      "date": "2026-10-17T01:02:06.000Z",
+      "snippet": "Since October 13, 2026 (Microsoft “Patch Tuesday” release cycle), we have seen some reports of customer issues where Exchange Servers become unstable ...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -471,17 +493,6 @@
       "snippet": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availa...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Released: October 2026 Exchange Server Security Updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
-      "date": "2026-10-15T16:36:50.000Z",
-      "snippet": "Update October 15, 2026: We have received reports indicating that installation of October 2026 updates for Windows Server - KB5126646 (Windows Server ...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
