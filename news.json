@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T09:34:22.706Z",
-  "count": 123,
+  "lastUpdated": "2026-10-18T13:33:58.049Z",
+  "count": 121,
   "items": [
     {
       "source": "Prajwal Desai",
@@ -1243,17 +1243,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1372,17 +1361,6 @@
       "snippet": "Welcome back to New in Edge for developers, our recurring roundup of recent web platform updates in Microsoft Edge.\nIn this edition, we&#039;ll look more c...",
       "tags": [
         "Edge"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 18th September 2026",
-      "link": "https://andrewstaylor.com/2026/09/18/intune-newsletter-18th-september-2026/",
-      "date": "2026-09-18T11:08:34.000Z",
-      "snippet": "It&amp;#8217;s been a busy week at Workplace Ninja Summit in Baden, was great speaking to SO many of you and a special thanks to the organisers and all of...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
