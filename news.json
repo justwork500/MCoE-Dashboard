@@ -1,7 +1,74 @@
 {
-  "lastUpdated": "2026-10-19T06:51:03.918Z",
+  "lastUpdated": "2026-10-19T23:21:23.001Z",
   "count": 122,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
+      "link": "https://azure.microsoft.com/updates?id=577165",
+      "date": "2026-10-19T20:23:15.000Z",
+      "snippet": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
+      "link": "https://azure.microsoft.com/updates?id=573917",
+      "date": "2026-10-19T17:55:40.000Z",
+      "snippet": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS re...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Disabling the Get Started app",
+      "link": "https://petervanderwoude.nl/post/disabling-the-get-started-app/",
+      "date": "2026-10-19T17:45:00.000Z",
+      "snippet": "This week is all about the Get Started app in Windows. That app on itself is not something new, but does get a pretty substantial update with Windows ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-80092 Microsoft Identity Web Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80092",
+      "date": "2026-10-19T14:00:00.000Z",
+      "snippet": "Updated the Security Updates table to list Microsoft Identity Web v3 and v4 separately and clarify the affected version ranges. The existing security ...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Ends Support for CNAME Auto-Discovery in Windows MDM-Only Enrollment",
+      "link": "https://www.anoopcnair.com/intune-ends-support-for-cname-auto-discovery/",
+      "date": "2026-10-19T10:34:35.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Windows Web Sign-In now Supports Microsoft Entra Hybrid Joined Devices for Passwordless Authentication",
+      "link": "https://www.anoopcnair.com/windows-web-sign-in-now-supports-entra-hybrid/",
+      "date": "2026-10-19T07:34:17.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -396,18 +463,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-106288: Missing authorization",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106288",
-      "date": "2026-10-16T14:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Microsoft Entra Agent ID Blueprint Registration to Prevent Unauthorized Agent Creation and Permission Issues",
@@ -648,28 +703,6 @@
       "snippet": "Starting November 4, 2026, Microsoft Entra will allow default users without built-in or custom roles to create agent identity blueprints unless admini...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Fixes 1411 Security Vulnerabilities and 3 Zero-Day Vulnerabilities in October 2026 Patch Tuesday",
-      "link": "https://www.anoopcnair.com/microsoft-fixes-1411-security-vulnerabilities/",
-      "date": "2026-10-14T12:56:02.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Manage Windows App Configuration on Windows Devices using Intune",
-      "link": "https://www.anoopcnair.com/windows-app-configuration-on-windows-intune/",
-      "date": "2026-10-14T09:32:08.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -926,28 +959,6 @@
       "snippet": "Since September 23, 2026, the Microsoft Sentinel data lake is no longer a separate onboarding and billing project: it comes integrated with Sentinel f...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure App Service on Azure Stack Hub",
-      "link": "https://azure.microsoft.com/updates?id=568178",
-      "date": "2026-10-06T18:24:43.000Z",
-      "snippet": "Azure App Service on Azure Stack Hub will be retired on September\r\n30, 2029. Starting September 30, 2026, new installations will\r\nno longer be support...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Support for Java 8, 11 and 17 will end on September 1, 2027",
-      "link": "https://azure.microsoft.com/updates?id=568585",
-      "date": "2026-10-06T18:21:59.000Z",
-      "snippet": "On September 1, 2027 support for Java 8, 11 and 17 will end. Your\r\napps that are hosted on App Service will continue to run, but security updates\r\nwil...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1240,17 +1251,6 @@
       "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
