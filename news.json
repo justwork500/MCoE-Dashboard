@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-20T20:53:51.734Z",
+  "lastUpdated": "2026-10-20T23:34:49.487Z",
   "count": 130,
   "items": [
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Exchange servers may become unstable after installation of October 2026 Windows updates",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382",
+      "date": "2026-10-20T19:11:22.000Z",
+      "snippet": "Update October 20, 2026: Added a FAQ to this post.\r\nSince October 13, 2026 (Microsoft “Patch Tuesday” release cycle), we have seen some reports of cus...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -66,6 +77,17 @@
       "snippet": "Your team is gathered in a Teams Room for a project review, but the customer’s invitation is for a Zoom meeting. You want to use the room’s audio, vid...",
       "tags": [
         "Teams"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-10-20T15:55:23.000Z",
+      "snippet": "Update 10/20/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Po...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -362,6 +384,17 @@
       ]
     },
     {
+      "source": "Intune Customer Success",
+      "icon": "ph-devices",
+      "title": "Require Google Workspace authentication on Android Enterprise devices with Microsoft Intune",
+      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/require-google-workspace-authentication-on-android-enterprise/ba-p/4565954",
+      "date": "2026-10-19T19:33:25.000Z",
+      "snippet": "By: Samuel Vara, Software Engineer &amp;amp; Mayur Jadhav, Product Manager | Microsoft Intune\r\nWe’re excited to announce that organizations using Android ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
@@ -469,17 +502,6 @@
       "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014",
       "date": "2026-10-17T01:07:04.000Z",
       "snippet": "Update October 16, 2026: For more information related to installation of October 2026 updates for Windows Server and the possible impact on Exchange S...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Exchange servers may become unstable after installation of October 2026 Windows updates",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382",
-      "date": "2026-10-17T01:02:06.000Z",
-      "snippet": "Since October 13, 2026 (Microsoft “Patch Tuesday” release cycle), we have seen some reports of customer issues where Exchange Servers become unstable ...",
       "tags": [
         "Exchange"
       ]
@@ -1218,17 +1240,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-09-29T19:43:39.000Z",
-      "snippet": "Update 9/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Complete Configuration Manager 2609 Upgrade Guide",
@@ -1328,17 +1339,6 @@
       "snippet": "Today we announced the new Copilot app,&amp;nbsp;bringing together how people assist, delegate, build, and automate work in one experience powered by&amp;nbsp...",
       "tags": [
         "SharePoint"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25T12:07:25.000Z",
-      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
