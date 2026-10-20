@@ -1,7 +1,168 @@
 {
-  "lastUpdated": "2026-10-20T12:50:07.558Z",
-  "count": 72,
+  "lastUpdated": "2026-10-20T20:53:51.734Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Disable VNet peering route",
+      "link": "https://azure.microsoft.com/updates?id=576242",
+      "date": "2026-10-20T18:55:47.000Z",
+      "snippet": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtua...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Just Got a Major Upgrade: New Copilot Capabilities, Simpler Sharing, and Smarter Photos",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-just-got-a-major-upgrade-new-copilot-capabilities/ba-p/4565995",
+      "date": "2026-10-20T17:43:27.000Z",
+      "snippet": "Files have always been at the heart of how we work. They&#039;re where we create, collaborate, and share ideas. And now, with Copilot and agents, they&#039;re t...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
+      "link": "https://azure.microsoft.com/updates?id=577156",
+      "date": "2026-10-20T16:57:35.000Z",
+      "snippet": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Pre...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM",
+      "link": "https://azure.microsoft.com/updates?id=577130",
+      "date": "2026-10-20T16:55:59.000Z",
+      "snippet": "Azure Application Gateway now supports keyless TLS\r\ntermination using certificates whose private keys stay in Azure Key Vault\r\nManaged HSM. Each TLS h...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor",
+      "link": "https://azure.microsoft.com/updates?id=575329",
+      "date": "2026-10-20T16:54:24.000Z",
+      "snippet": "Advanced platform metrics for Azure Monitor are now generally available. Advanced platform metrics provide finer-grained signals that help customers m...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Cross-Platform Meeting Connect: Great in-room meeting experiences across Teams and Zoom",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/cross-platform-meeting-connect-great-in-room-meeting-experiences/ba-p/4564608",
+      "date": "2026-10-20T16:42:10.000Z",
+      "snippet": "Your team is gathered in a Teams Room for a project review, but the customer’s invitation is for a Zoom meeting. You want to use the room’s audio, vid...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96913 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96913",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70074 Windows DNS Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70074",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83839 Windows Hyper-V Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83839",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83782 Windows Shell Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83782",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102204 Windows Subsystem for Linux Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102204",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated CVE to relect that this vulnerability is in the Windows Subsystem for Linux product.  Microsoft recommends that customer using this product sh...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70337 Microsoft PowerShell Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-62913 Microsoft Exchange Server Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62913",
+      "date": "2026-10-20T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "HTMD Intune Expert Training Coaching Mentoring Program | 30% Diwali Special OFF",
+      "link": "https://www.anoopcnair.com/htmd-intune-expert-training-diwali-special-30/",
+      "date": "2026-10-20T13:43:01.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -25,14 +186,190 @@
       ]
     },
     {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Require Google Workspace authentication on Android Enterprise devices with Microsoft Intune",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/require-google-workspace-authentication-on-android-enterprise/ba-p/4565954",
-      "date": "2026-10-19T19:33:25.000Z",
-      "snippet": "By: Samuel Vara, Software Engineer &amp;amp; Mayur Jadhav, Product Manager | Microsoft Intune\r\nWe’re excited to announce that organizations using Android ...",
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: AI Interpreter for Teams Events",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576711",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "AI Interpreter for Events brings real-time, AI-powered audio interpretation to Teams Town Halls and Webinars, helping global audiences follow events i...",
       "tags": [
-        "Intune"
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Enhanced Microsoft Copilot in Viva Engage",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576709",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Introducing the Enhanced Microsoft 365 Copilot Experience in Viva Engage!\r\nPowered by Engage MCP, this enhanced experience takes Copilot in Engage bey...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365 app: Inventory - Update Repair",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576286",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Update Repair helps admins identify Windows devices with Microsoft 365 Apps that are out of date or experiencing update issues. In the Microsoft 365 A...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Complete zero-effort tasks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576278",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Zero-effort task completion enables project managers and team members to mark tasks as complete even when no effort was planned or recorded. This capa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Copilot Studio: Computer Use for web browsing on GitHub Copilot Harness",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576272",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Enable Microsoft Copilot Studio agents to browse and interact with websites as a native capability powered by the GitHub Copilot Harness. Using natura...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Expanded Markdown support in Microsoft Teams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576199",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Microsoft Teams is expanding Markdown support in the compose box, giving you more ways to structure and format messages using familiar Markdown syntax...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Ecommerce - [US] Match Shopify tax lines to tax jurisdictions",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574128",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Business Value\r\nReduce repetitive tax setup when you import Shopify orders that contain multiple United States tax jurisdictions. Shopify Tax Matching...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Dataverse: Add users without licenses to activity recipient fields",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574121",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Enable active Microsoft Entra users without Dataverse or Power Apps licenses as activity recipients. Created user records remain disabled and do not g...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Set slide size in a modern task pane",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573150",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Change slide size in PowerPoint from a modern task pane that keeps you in the flow of editing with real-time slide changes. Choose common slide sizes ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Set slide size in a modern PowerPoint pane",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573149",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Change slide size in PowerPoint from a modern task pane that keeps you in the flow of editing with real-time slide changes. Choose common slide sizes ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Support for sensitive documents protected with Microsoft Purview Information Protection (MPIP) ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571305",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Unblock users from upload files with Microsoft Purview Information Protection (MPIP) sensitivity labels to Copilot Studio agents deployed on the M365 ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Human in the loop",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570672",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Allow agents and agent flows to pause for human input or approval before continuing.GA date: January CY2027Preview date: November CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Agent Policy Governance",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570652",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Provide administrators with policy-based controls for governing agents and their capabilities at scale.GA date: January CY2027Preview date: November C...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Real Time Transcripts",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570651",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Enable applications and agents to access Microsoft Teams meeting transcripts in real time for assistance and insights.GA date: November CY2026Preview ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Audio announcement for recording and transcription",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=559609",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Admins can enable a policy that\r\nplays an audio announcement when recording or transcription starts. This can be\r\napplied tenant-wide or to specific g...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
+      "link": "https://azure.microsoft.com/updates?id=577165",
+      "date": "2026-10-19T20:23:15.000Z",
+      "snippet": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
+      "link": "https://azure.microsoft.com/updates?id=573917",
+      "date": "2026-10-19T17:55:40.000Z",
+      "snippet": "Azure DNS now provides DNS based load balancing by seamless\r\nintegration with Azure Traffic Manager. Customers can directly associate an\r\nAzure DNS re...",
+      "tags": [
+        "Azure"
       ]
     },
     {
@@ -55,6 +392,30 @@
       "snippet": "Change management is an important part of how we improve Exchange Online. Some changes to the service can affect existing mail flow, and the key to mi...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-80092 Microsoft Identity Web Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80092",
+      "date": "2026-10-19T14:00:00.000Z",
+      "snippet": "Updated the Security Updates table to list Microsoft Identity Web v3 and v4 separately and clarify the affected version ranges. The existing security ...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70197 .NET Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197",
+      "date": "2026-10-19T14:00:00.000Z",
+      "snippet": "Microsoft is aware that the vulnerability for which this CVE was assigned has not been addressed.  We are working to prepare and test a complete mitig...",
+      "tags": [
+        "Windows",
+        "Azure"
       ]
     },
     {
@@ -124,6 +485,160 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
+      "link": "https://azure.microsoft.com/updates?id=576556",
+      "date": "2026-10-16T16:59:02.000Z",
+      "snippet": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: External key management for Azure Key Vault Managed HSM",
+      "link": "https://azure.microsoft.com/updates?id=574296",
+      "date": "2026-10-16T16:50:27.000Z",
+      "snippet": "External key management for Azure Key Vault Managed HSM is now generally available in all Azure public regions. For organizations with regulatory or s...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106258: Uninitialized resource",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106258",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106263: Improper input validation",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106263",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106264: Missing authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106264",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106268: Use after free",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106268",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106270: Incorrect authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106270",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106271: Missing authorization",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106271",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106273: Uninitialized resource",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106273",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106274: Incorrect reference resolution",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106274",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106276: UI misrepresentation",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106276",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium CVE-2026-106278: Use after free",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-106278",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-103572 Visual Studio Tools for Applications and SQL Server Management Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-103572",
+      "date": "2026-10-16T14:00:00.000Z",
+      "snippet": "Updated the Security Updates table to add download and KB article links for Microsoft Visual Studio. This is an informational change only; the fixed b...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Microsoft Entra Agent ID Blueprint Registration to Prevent Unauthorized Agent Creation and Permission Issues",
@@ -157,6 +672,17 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
+      "link": "https://azure.microsoft.com/updates?id=576542",
+      "date": "2026-10-15T19:05:18.000Z",
+      "snippet": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant us...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "EWS Deprecation Is Here – What This Means To You",
@@ -165,6 +691,28 @@
       "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Standard service endpoint ",
+      "link": "https://azure.microsoft.com/updates?id=571025",
+      "date": "2026-10-15T17:39:51.000Z",
+      "snippet": "Standard service endpoint, a\r\nnew capability in the Azure Private Link family, provides a scalable and secure\r\napproach for connecting Azure IaaS work...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Availabile: Automatic zone balance for Virtual Machine Scale Sets",
+      "link": "https://azure.microsoft.com/updates?id=576334",
+      "date": "2026-10-15T16:54:20.000Z",
+      "snippet": "Automatic zone balance for Virtual Machine Scale Sets is now generally available. This feature continuously monitors scale sets deployed across availa...",
+      "tags": [
+        "Azure"
       ]
     },
     {
@@ -212,14 +760,25 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows 11 Update Causes Remote Desktop Connection Issues for Non-Admin Users Error 0xC000000D",
-      "link": "https://www.anoopcnair.com/windows-11-remote-desktop-connection-issues/",
-      "date": "2026-10-15T11:36:55.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Cloud HSM hardware audit logging",
+      "link": "https://azure.microsoft.com/updates?id=576377",
+      "date": "2026-10-14T19:17:47.000Z",
+      "snippet": "Hardware Audit Logging for Azure Cloud HSM provides hardware-generated audit records for supported HSM management operations, helping organizations st...",
       "tags": [
-        "Intune"
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Site Recovery Support for Azure ARC-enabled Windows VMWare/Physical servers",
+      "link": "https://azure.microsoft.com/updates?id=576214",
+      "date": "2026-10-14T19:13:31.000Z",
+      "snippet": "Azure Site Recovery (ASR) now supports disaster recovery for Azure ARC-enabled Windows VMWare virtual machines and on-premise physical servers. Custom...",
+      "tags": [
+        "Azure"
       ]
     },
     {
@@ -301,6 +860,17 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
+      "link": "https://azure.microsoft.com/updates?id=570313",
+      "date": "2026-10-09T20:27:17.000Z",
+      "snippet": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 9th October 2026",
@@ -324,6 +894,17 @@
       ]
     },
     {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
+      "link": "https://azure.microsoft.com/updates?id=574430",
+      "date": "2026-10-08T22:51:01.000Z",
+      "snippet": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NA...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Sending From Email Aliases – General Availability",
@@ -332,6 +913,61 @@
       "snippet": "Today we are announcing the General Availability (GA) of Sending from Aliases for Exchange Online. This was a highly requested feature that now empowe...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in East US 3 ",
+      "link": "https://azure.microsoft.com/updates?id=573691",
+      "date": "2026-10-08T19:56:31.000Z",
+      "snippet": "Now you can deploy Azure Database for PostgreSQL flexible server in the East US 3 Azure region.  Learn more.",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Microsoft Dev Box will be retired on September 18, 2028",
+      "link": "https://azure.microsoft.com/updates?id=567933",
+      "date": "2026-10-08T18:23:25.000Z",
+      "snippet": "Microsoft Dev Box will\r\nretire on September 18, 2028. Beginning on September 14, 2026,\r\nMicrosoft Dev Box will begin the closing-down process. After r...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
+      "link": "https://azure.microsoft.com/updates?id=567934",
+      "date": "2026-10-08T18:20:34.000Z",
+      "snippet": "Azure Deployment\r\nEnvironments will retire on February 22, 2027. Beginning on September\r\n14, 2026, Azure Deployment Environments will begin the closin...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Exceptions in WAF for Azure Application Gateway and Azure Front Door",
+      "link": "https://azure.microsoft.com/updates?id=574343",
+      "date": "2026-10-08T17:29:30.000Z",
+      "snippet": "Announcing the general availability of exceptions\r\nfor Web Application Firewall on Azure Application Gateway and Azure Front Door.Azure Web\r\nApplicati...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Microsoft Agent 365 integration with Azure API Management",
+      "link": "https://azure.microsoft.com/updates?id=574204",
+      "date": "2026-10-08T17:24:34.000Z",
+      "snippet": "The integration between Microsoft Agent 365 and Azure API Management is now available in public preview, helping organizations connect centralized gov...",
+      "tags": [
+        "Azure"
       ]
     },
     {
@@ -604,6 +1240,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Send availability in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570665",
+      "date": "2026-09-28T22:58:08.000Z",
+      "snippet": "We are bringing back send availability on both iOS and Android. iOS users will now also be able to access more of this feature via keyboard and voiceo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with deployments and deployment plans for an automated staged rollout",
@@ -725,6 +1372,17 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": " Outlook: Duplicate events in Outlook mobile apps",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570666",
+      "date": "2026-09-23T22:59:12.000Z",
+      "snippet": "We are adding the ability to duplicate an event. Simply go to the event details and select &quot;duplicate event&quot;GA date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
