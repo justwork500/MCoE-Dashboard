@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-10-20T23:34:49.487Z",
-  "count": 130,
+  "lastUpdated": "2026-10-21T13:14:24.081Z",
+  "count": 128,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "New Windows 365 Cloud-Native Deployment Guidance | Simplifying Security and Device Management with Zero Trust",
+      "link": "https://www.anoopcnair.com/windows-365-cloud-native-deployment-guidance/",
+      "date": "2026-10-21T10:48:06.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview: Endpoint Data Loss Prevention-View-only access to device onboarding with the View-Only Device Management role",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577187",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Microsoft Purview Data Loss Prevention is introducing more granular, role-based access to the Devices page under Settings → Device Onboarding. Previou...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Organize and merge PDF files in the built-in PDF reader",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577186",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Users can organize and merge PDF files in the Microsoft Edge built-in PDF reader. They can select pages to extract, delete, rotate, or reorder, and sa...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Dataverse: Enable semantic data understanding for agentic use",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577185",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Give AI agents and Copilot a true understanding of your business data — not just raw schema — so they can answer questions accurately with less manual...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Manage intraday operations with AI agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577184",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Intraday Agent is an autonomous AI agent that helps manage intraday operational scenarios. The following are its high‑level capabilities.\r\nIntraday qu...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Power Platform governance and administration: Multi-grader comparison",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577183",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Multi-grader comparison enables makers to compare the results of multiple graders applied to the same evaluation.\r\nThe experience highlights agreement...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Simplify the creation of recurring expenses",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577182",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "This feature enables employees to automatically generate expense entries for predictable, repeatable business expenses (for example, monthly mobile bi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Default meeting templates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576609",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Default meeting templates enable IT admins to automatically apply their organization’s preferred meeting settings whenever users schedule a Teams meet...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Teams Meeting Options",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575293",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "When you add a Teams meeting to an event in Outlook for Mac, the join link and dial-in details now appear in the invite while you&#039;re still writing it....",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Data mirroring to Microsoft Fabric",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574126",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Connect Business Central to Microsoft Fabric to make business data available for analytics, reporting, and data integration.\r\nChoose the Business Cent...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
@@ -221,142 +331,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Enhanced Microsoft Copilot in Viva Engage",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576709",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Introducing the Enhanced Microsoft 365 Copilot Experience in Viva Engage!\r\nPowered by Engage MCP, this enhanced experience takes Copilot in Engage bey...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 app: Inventory - Update Repair",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576286",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Update Repair helps admins identify Windows devices with Microsoft 365 Apps that are out of date or experiencing update issues. In the Microsoft 365 A...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Complete zero-effort tasks",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576278",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Zero-effort task completion enables project managers and team members to mark tasks as complete even when no effort was planned or recorded. This capa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Copilot Studio: Computer Use for web browsing on GitHub Copilot Harness",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576272",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Enable Microsoft Copilot Studio agents to browse and interact with websites as a native capability powered by the GitHub Copilot Harness. Using natura...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Expanded Markdown support in Microsoft Teams",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576199",
       "date": "2026-10-19T23:15:15.000Z",
       "snippet": "Microsoft Teams is expanding Markdown support in the compose box, giving you more ways to structure and format messages using familiar Markdown syntax...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Ecommerce - [US] Match Shopify tax lines to tax jurisdictions",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574128",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Business Value\r\nReduce repetitive tax setup when you import Shopify orders that contain multiple United States tax jurisdictions. Shopify Tax Matching...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Dataverse: Add users without licenses to activity recipient fields",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574121",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Enable active Microsoft Entra users without Dataverse or Power Apps licenses as activity recipients. Created user records remain disabled and do not g...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "PowerPoint: Set slide size in a modern task pane",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573150",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Change slide size in PowerPoint from a modern task pane that keeps you in the flow of editing with real-time slide changes. Choose common slide sizes ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "PowerPoint: Set slide size in a modern PowerPoint pane",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573149",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Change slide size in PowerPoint from a modern task pane that keeps you in the flow of editing with real-time slide changes. Choose common slide sizes ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Support for sensitive documents protected with Microsoft Purview Information Protection (MPIP) ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571305",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Unblock users from upload files with Microsoft Purview Information Protection (MPIP) sensitivity labels to Copilot Studio agents deployed on the M365 ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Human in the loop",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570672",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Allow agents and agent flows to pause for human input or approval before continuing.GA date: January CY2027Preview date: November CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Agent Policy Governance",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570652",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Provide administrators with policy-based controls for governing agents and their capabilities at scale.GA date: January CY2027Preview date: November C...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Real Time Transcripts",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570651",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Enable applications and agents to access Microsoft Teams meeting transcripts in real time for assistance and insights.GA date: November CY2026Preview ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -658,17 +636,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Entra Agent ID Blueprint Registration to Prevent Unauthorized Agent Creation and Permission Issues",
-      "link": "https://www.anoopcnair.com/microsoft-entra-agent-id-blueprint-registration/",
-      "date": "2026-10-16T11:07:08.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1253,10 +1220,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Outlook: Send availability in Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570665",
+      "title": "Word: Legal plugins in Copilot",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571884",
       "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "We are bringing back send availability on both iOS and Android. iOS users will now also be able to access more of this feature via keyboard and voiceo...",
+      "snippet": "Legal plugins in Copilot provide purpose-built skills to help legal professionals summarize, draft, review, and redline legal documents. Available in ...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -1342,6 +1309,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "date": "2026-09-25T12:07:25.000Z",
+      "snippet": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 25th September 2026",
@@ -1350,6 +1328,17 @@
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft 365 Apps: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
+      "date": "2026-09-24T22:58:55.000Z",
+      "snippet": "Cloud Update is expanding rollback options for devices on Monthly Enterprise Channel. Administrators will be able to roll back devices to a release fr...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1372,17 +1361,6 @@
       "snippet": "Microsoft has released Security Updates (SUs) for vulnerabilities found in:\r\n\r\nExchange Server Subscription Edition (SE)\r\nExchange Server 2019\r\nExchan...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": " Outlook: Duplicate events in Outlook mobile apps",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570666",
-      "date": "2026-09-23T22:59:12.000Z",
-      "snippet": "We are adding the ability to duplicate an event. Simply go to the event details and select &quot;duplicate event&quot;GA date: October CY2026",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
