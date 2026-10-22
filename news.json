@@ -1,7 +1,194 @@
 {
-  "lastUpdated": "2026-10-21T21:40:02.247Z",
-  "count": 125,
+  "lastUpdated": "2026-10-22T00:13:46.101Z",
+  "count": 130,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Making Microsoft Teams more responsive, reliable, and ready for work",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/making-microsoft-teams-more-responsive-reliable-and-ready-for/ba-p/4564205",
+      "date": "2026-10-21T23:59:29.000Z",
+      "snippet": "By: Ihor Lukyanenko, Harsh Nagaonkar, Vishal Ratna and Suprem Gupta&amp;nbsp;\r\n&amp;nbsp;Every day, people rely on Microsoft Teams to connect with colleagues,...",
+      "tags": [
+        "Teams"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Glint - Teams notification customization",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577175",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Viva Glint admins can now customize the Microsoft Teams notifications sent for surveys. Admins can edit the title, message, and button label in each s...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Restrict task assignments to project team members",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576296",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "This feature strengthens assignment governance by limiting the resources displayed in the Assigned to column to members of the current project team. P...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Use Dataverse custom APIs in generative pages",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576284",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Makers can have a generative page call a Dataverse custom API to run server-side business logic, such as approving an order, recalculating a price, or...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Monitor generative pages with out-of-the-box Application Insights telemetry ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576282",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Admins and developers can monitor published generative pages with Application Insights. When an administrator configures Application Insights data exp...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Form fill assistance supports more field types",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575296",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "We’re expanding form fill assistance in model-driven applications in Power Apps to support lookup, rich text, and multi-select choice fields, helping ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Apps: Form fill assistance in apps can provide suggestions for existing values",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575295",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "We’re expanding form fill assistance in model-driven applications in Power Apps to suggest updates to fields that already contain values—not just empt...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Support Approver Comments for Expense Reports in Expense Management Mobile app",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573708",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Approvers using the Expense Management Mobile App currently have limited options to provide context when approving or rejecting expense reports. Appro...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): Sales Development Agent is now available ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573700",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Autonomous agent that researches, qualifies, engages with leads, scaling sales capacity 24/7.More info: aka.ms/SDA-Public-DocsGA date: January CY2027P...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Edge: Simplified Energy Saver",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573291",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Energy saver, formerly known as efficiency mode, will have new defaults and different setting options. Edge will now support and recommend users to us...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Finance - Use batch totals for payment journals",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573264",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "The Batch Total field on the Payment Journal page enhances payment processing by enabling you to work with and review a cumulative total for a payment...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Finance - Use approvals with fixed asset journals",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573263",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Organizations can use approval workflows with Fixed Asset Journals, which gives them the same level of control and oversight for fixed assets that&#039;s a...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Expense Agent - Use Expense Manager role center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573261",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "The Expense Manager Role Center is updated to provide a more focused and efficient experience for managing vendor and expense-related activities. The ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Expense Agent - Add an interim approver when you submit an expense report",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573260",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "This feature introduces support for a simple interim approval scenario for expense reports. When someone submits an expense report, organizations can ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Expense Agent - Create expense reports per trip automatically",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573257",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Expense Agent can automatically create expense reports based on identified business trips. You just need to configure the feature on the Expense Agent...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Keep Project Staffing and Field Service Scheduling Aligned",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570864",
+      "date": "2026-10-21T23:02:10.000Z",
+      "snippet": "Deliver consistent scheduling outcomes across Dynamics 365 Project Operations and Field Service, regardless of where scheduling begins. When a project...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive Just Got a Major Upgrade: New Copilot Capabilities, Simpler Sharing, and Smarter Photos",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-just-got-a-major-upgrade-new-copilot-capabilities/ba-p/4565995",
+      "date": "2026-10-21T22:09:52.000Z",
+      "snippet": "Files have always been at the heart of how we work. They&#039;re where we create, collaborate, and share ideas. And now, with Copilot and agents, they&#039;re t...",
+      "tags": [
+        "OneDrive"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -107,105 +294,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Endpoint Data Loss Prevention-View-only access to device onboarding with the View-Only Device Management role",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577187",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Microsoft Purview Data Loss Prevention is introducing more granular, role-based access to the Devices page under Settings → Device Onboarding. Previou...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Organize and merge PDF files in the built-in PDF reader",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577186",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Users can organize and merge PDF files in the Microsoft Edge built-in PDF reader. They can select pages to extract, delete, rotate, or reorder, and sa...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Dataverse: Enable semantic data understanding for agentic use",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577185",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Give AI agents and Copilot a true understanding of your business data — not just raw schema — so they can answer questions accurately with less manual...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Manage intraday operations with AI agent",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577184",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Intraday Agent is an autonomous AI agent that helps manage intraday operational scenarios. The following are its high‑level capabilities.\r\nIntraday qu...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Power Platform governance and administration: Multi-grader comparison",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577183",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Multi-grader comparison enables makers to compare the results of multiple graders applied to the same evaluation.\r\nThe experience highlights agreement...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Simplify the creation of recurring expenses",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577182",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "This feature enables employees to automatically generate expense entries for predictable, repeatable business expenses (for example, monthly mobile bi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Default meeting templates",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576609",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Default meeting templates enable IT admins to automatically apply their organization’s preferred meeting settings whenever users schedule a Teams meet...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Outlook: Teams Meeting Options",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575293",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "When you add a Teams meeting to an event in Outlook for Mac, the join link and dial-in details now appear in the invite while you&#039;re still writing it....",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Data mirroring to Microsoft Fabric",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574126",
-      "date": "2026-10-20T23:00:34.000Z",
-      "snippet": "Connect Business Central to Microsoft Fabric to make business data available for analytics, reporting, and data integration.\r\nChoose the Business Cent...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Exchange servers may become unstable after installation of October 2026 Windows updates",
@@ -225,17 +313,6 @@
       "snippet": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtua...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "OneDrive Blog (MS)",
-      "icon": "ph-cloud-arrow-up",
-      "title": "OneDrive Just Got a Major Upgrade: New Copilot Capabilities, Simpler Sharing, and Smarter Photos",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-just-got-a-major-upgrade-new-copilot-capabilities/ba-p/4565995",
-      "date": "2026-10-20T17:43:27.000Z",
-      "snippet": "Files have always been at the heart of how we work. They&#039;re where we create, collaborate, and share ideas. And now, with Copilot and agents, they&#039;re t...",
-      "tags": [
-        "OneDrive"
       ]
     },
     {
@@ -1229,17 +1306,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Word: Legal plugins in Copilot",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571884",
-      "date": "2026-09-28T22:58:08.000Z",
-      "snippet": "Legal plugins in Copilot provide purpose-built skills to help legal professionals summarize, draft, review, and redline legal documents. Available in ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with deployments and deployment plans for an automated staged rollout",
@@ -1339,17 +1405,6 @@
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 Apps: Cloud Update - Extended rollback support for Monthly Enterprise Channel",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572673",
-      "date": "2026-09-24T22:58:55.000Z",
-      "snippet": "Cloud Update is expanding rollback options for devices on Monthly Enterprise Channel. Administrators will be able to roll back devices to a release fr...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
