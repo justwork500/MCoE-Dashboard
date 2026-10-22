@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T00:13:46.101Z",
-  "count": 130,
+  "lastUpdated": "2026-10-22T04:48:57.064Z",
+  "count": 131,
   "items": [
     {
       "source": "Teams Blog (MS)",
@@ -190,6 +190,17 @@
       ]
     },
     {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Exchange Online EWS application stopped working? Do this.",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-online-ews-application-stopped-working-do-this/ba-p/4566215",
+      "date": "2026-10-21T17:42:20.000Z",
+      "snippet": "As we have been announcing, Exchange Web Services (EWS) protocol is being turned off in Exchange Online. This protocol is used by various applications...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
@@ -220,6 +231,17 @@
       "snippet": "Microsoft has introduced a new link-sharing experience for each file and folder in SharePoint and OneDrive with hero link. This persistent link reflec...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "EWS Deprecation Is Here – What This Means To You",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
+      "date": "2026-10-21T15:07:04.000Z",
+      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -779,17 +801,6 @@
       "snippet": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant us...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "EWS Deprecation Is Here – What This Means To You",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
-      "date": "2026-10-15T18:01:22.000Z",
-      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
