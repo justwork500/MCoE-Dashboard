@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-10-22T14:48:41.866Z",
-  "count": 132,
+  "lastUpdated": "2026-10-22T19:00:19.066Z",
+  "count": 134,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage",
+      "link": "https://azure.microsoft.com/updates?id=577618",
+      "date": "2026-10-22T18:01:00.000Z",
+      "snippet": "ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Export Windows Feature Update Reports from Intune",
+      "link": "https://www.prajwaldesai.com/export-windows-feature-update-reports-from-intune/",
+      "date": "2026-10-22T15:14:24.000Z",
+      "snippet": "In this guide, I will show you how to generate and export Windows feature update reports from Intune. These reports are...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
@@ -11,6 +33,17 @@
       "snippet": "If you work with Microsoft Defender, you probably know the Microsoft Defender Monthly News on the Microsoft Tech Community. Every month it summarizes ...",
       "tags": [
         "Defender"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Publish rich and interactive content with HTML pages in SharePoint",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/publish-rich-and-interactive-content-with-html-pages-in/ba-p/4565918",
+      "date": "2026-10-22T10:03:12.000Z",
+      "snippet": "We&#039;re excited to share that you can now create HTML pages in SharePoint. Describe what you want and let Copilot build it for you, or upload an HTML fi...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -1054,17 +1087,6 @@
       "link": "https://azure.microsoft.com/updates?id=567933",
       "date": "2026-10-08T18:23:25.000Z",
       "snippet": "Microsoft Dev Box will\r\nretire on September 18, 2028. Beginning on September 14, 2026,\r\nMicrosoft Dev Box will begin the closing-down process. After r...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure Deployment Environments will be retired on February 22, 2027",
-      "link": "https://azure.microsoft.com/updates?id=567934",
-      "date": "2026-10-08T18:20:34.000Z",
-      "snippet": "Azure Deployment\r\nEnvironments will retire on February 22, 2027. Beginning on September\r\n14, 2026, Azure Deployment Environments will begin the closin...",
       "tags": [
         "Azure"
       ]
