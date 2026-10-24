@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T00:57:03.671Z",
+  "lastUpdated": "2026-10-24T05:22:32.025Z",
   "count": 135,
   "items": [
     {
@@ -291,6 +291,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Publish rich and interactive content with HTML pages in SharePoint",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/publish-rich-and-interactive-content-with-html-pages-in/ba-p/4565918",
+      "date": "2026-10-22T16:56:43.000Z",
+      "snippet": "We&#039;re excited to share that you can now create HTML pages in SharePoint. Describe what you want and let Copilot build it for you, or upload an HTML fi...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
       "title": "Export Windows Feature Update Reports from Intune",
@@ -406,17 +417,6 @@
       "snippet": "If you work with Microsoft Defender, you probably know the Microsoft Defender Monthly News on the Microsoft Tech Community. Every month it summarizes ...",
       "tags": [
         "Defender"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "Publish rich and interactive content with HTML pages in SharePoint",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/publish-rich-and-interactive-content-with-html-pages-in/ba-p/4565918",
-      "date": "2026-10-22T10:03:12.000Z",
-      "snippet": "We&#039;re excited to share that you can now create HTML pages in SharePoint. Describe what you want and let Copilot build it for you, or upload an HTML fi...",
-      "tags": [
-        "SharePoint"
       ]
     },
     {
