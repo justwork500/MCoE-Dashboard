@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T21:43:06.233Z",
-  "count": 134,
+  "lastUpdated": "2026-10-24T23:45:06.089Z",
+  "count": 133,
   "items": [
     {
       "source": "Teams Blog (MS)",
@@ -1491,17 +1491,6 @@
       "link": "https://andrewstaylor.com/2026/09/25/intune-newsletter-25th-september-2026/",
       "date": "2026-09-25T11:10:43.000Z",
       "snippet": "Happy Friday, it&amp;#8217;s time for your favourite Intune news!  Quite an international feel this week, you may notice from a few of the more strange UR...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Intune Customer Success",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune and Apple OS 27: New settings, support, and platform changes",
-      "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-os-27-new-settings-support-and/ba-p/4559764",
-      "date": "2026-09-24T22:48:40.000Z",
-      "snippet": "With Apple&#039;s release of OS 27, we’ve been working hard to ensure that Microsoft Intune provides support for Apple’s latest operating systems (OS) so t...",
       "tags": [
         "Intune"
       ]
