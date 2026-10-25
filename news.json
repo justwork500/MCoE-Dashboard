@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-25T16:39:11.670Z",
+  "lastUpdated": "2026-10-25T19:15:48.135Z",
   "count": 130,
   "items": [
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70197 .NET and Visual Studio Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197",
+      "date": "2026-10-25T14:00:00.000Z",
+      "snippet": "Updated product information in the Software Update table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-102870 ASP.NET Core Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102870",
+      "date": "2026-10-25T14:00:00.000Z",
+      "snippet": "Updated product information in the Software Update table. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-114148 ASP.NET Core Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-114148",
+      "date": "2026-10-25T14:00:00.000Z",
+      "snippet": "Incorrect default permissions in ASP.NET Core allows an authorized attacker to elevate privileges locally.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-111497 Google: CVE-2026-111497 Buffer overflow vulnerability in the Brotli decoder",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497",
+      "date": "2026-10-25T14:00:00.000Z",
+      "snippet": "Out-of-bounds write in .NET allows an unauthorized attacker to elevate privileges over a network.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
@@ -662,54 +710,6 @@
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96913",
       "date": "2026-10-20T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70074 Windows DNS Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70074",
-      "date": "2026-10-20T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-83839 Windows Hyper-V Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83839",
-      "date": "2026-10-20T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-83782 Windows Shell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83782",
-      "date": "2026-10-20T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-102204 Windows Subsystem for Linux Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102204",
-      "date": "2026-10-20T14:00:00.000Z",
-      "snippet": "Updated CVE to relect that this vulnerability is in the Windows Subsystem for Linux product.  Microsoft recommends that customer using this product sh...",
       "tags": [
         "Windows",
         "Azure"
