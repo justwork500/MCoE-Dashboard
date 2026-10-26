@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-10-26T08:07:46.861Z",
-  "count": 130,
+  "lastUpdated": "2026-10-26T15:09:53.945Z",
+  "count": 129,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Managing Windows 11 STIG Audits in Intune Security Baselines to Elevate Endpoint Security",
+      "link": "https://www.anoopcnair.com/windows-11-stig-audits-in-intune-security/",
+      "date": "2026-10-26T13:32:05.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune Adds Unlimited Apple VPP App Licenses to Simplify App Deployment",
+      "link": "https://www.anoopcnair.com/intune-adds-unlimited-apple-vpp-app-licenses/",
+      "date": "2026-10-26T11:22:30.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Microsoft Intune New Device Management Page Replaces Old Interface by Default for All Administrators",
+      "link": "https://www.anoopcnair.com/microsoft-intune-new-device-management-page/",
+      "date": "2026-10-26T10:34:49.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
@@ -716,17 +749,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "HTMD Intune Expert Training Coaching Mentoring Program | 30% Diwali Special OFF",
-      "link": "https://www.anoopcnair.com/htmd-intune-expert-training-diwali-special-30/",
-      "date": "2026-10-20T13:43:01.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Key Controls to Secure Microsoft Teams Meetings",
@@ -735,17 +757,6 @@
       "snippet": "Protect confidential discussions and information discussed during Microsoft Teams meetings with built-in security controls. From sensitive content det...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Entra Security Defaults Adds Individual Controls for MFA and Authentication Protection",
-      "link": "https://www.anoopcnair.com/microsoft-entra-security-defaults-adds-individu/",
-      "date": "2026-10-20T10:10:02.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -801,17 +812,6 @@
       "snippet": "Change management is an important part of how we improve Exchange Online. Some changes to the service can affect existing mail flow, and the key to mi...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Ends Support for CNAME Auto-Discovery in Windows MDM-Only Enrollment",
-      "link": "https://www.anoopcnair.com/intune-ends-support-for-cname-auto-discovery/",
-      "date": "2026-10-19T10:34:35.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1445,18 +1445,6 @@
       "link": "https://patchmypc.com/blog/faster-win32-app-delivery-in-intune/?utm_term=rss",
       "date": "2026-09-27T09:39:48.000Z",
       "snippet": "Microsoft Intune is improving Win32 app delivery with push notifications. Changes made by administrators or the service can now prompt devices to chec...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Faster Required App Delivery After Autopilot",
-      "link": "https://patchmypc.com/blog/autopilot-required-apps-no-longer-need-to-wait-60-minutes/?utm_term=rss",
-      "date": "2026-09-26T13:47:41.000Z",
-      "snippet": "Required Win32 apps sometimes waited 60 minutes after Autopilot ESP completed. IME 1.103.101.0 introduces a FirstSync registry watcher that detects ES...",
       "tags": [
         "Intune",
         "Windows"
