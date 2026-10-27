@@ -1,7 +1,101 @@
 {
-  "lastUpdated": "2026-10-27T15:42:42.589Z",
+  "lastUpdated": "2026-10-27T20:15:17.443Z",
   "count": 126,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry",
+      "link": "https://azure.microsoft.com/updates?id=577260",
+      "date": "2026-10-27T17:19:43.000Z",
+      "snippet": "Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies ",
+      "link": "https://azure.microsoft.com/updates?id=578153",
+      "date": "2026-10-27T16:58:04.000Z",
+      "snippet": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF po...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70277 Windows Fast FAT File System Driver Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70277",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70161 .NET Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70161",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-70007 .NET Framework Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70007",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96225 .NET Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96225",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69473 Windows Kernel Elevation of Privilege Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69473",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69284 Windows DCOM Server Elevation of Privilege Vulnerability",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69284",
+      "date": "2026-10-27T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -499,78 +593,6 @@
       "snippet": "In this guide, I will show you how to generate and export Windows feature update reports from Intune. These reports are...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-105014 Azure Pipelines Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105014",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Improper neutralization of special elements used in a command (&#039;command injection&#039;) in Azure Pipelines allows an unauthorized attacker to execute code...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-108456 Azure AI Foundry Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108456",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Server-side request forgery (ssrf) in Azure AI Foundry allows an authorized attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-97785 AAD App Proxy Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97785",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Improper authentication in AAD App Proxy allows an unauthorized attacker to elevate privileges over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-96185 Microsoft Exchange Online Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96185",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Stack-based buffer overflow in Microsoft Exchange Online allows an authorized attacker to execute code over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-83938 Azure Kubernetes Configuration Service Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83938",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Missing authentication for critical function in Azure Kubernetes Configuration Service allows an unauthorized attacker to elevate privileges over a ne...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-110063 VM Inspector for Azure Virtual Machines Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-110063",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Improper link resolution before file access (&#039;link following&#039;) in VM Inspector for Azure Virtual Machines allows an unauthorized attacker to elevate p...",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -1081,17 +1103,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters",
-      "link": "https://azure.microsoft.com/updates?id=570313",
-      "date": "2026-10-09T20:27:17.000Z",
-      "snippet": "The Azure Key Vault Secrets Provider Extension for Azure Arc-enabled Kubernetes will be retired on October 9, 2027.Customers currently using the exten...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 9th October 2026",
@@ -1112,17 +1123,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS",
-      "link": "https://azure.microsoft.com/updates?id=574430",
-      "date": "2026-10-08T22:51:01.000Z",
-      "snippet": "AKS will now provision and manage a StandardV2 NAT Gateway\r\nfor clusters using an AKS-managed virtual network.StandardV2 is now the default managed NA...",
-      "tags": [
-        "Azure"
       ]
     },
     {
