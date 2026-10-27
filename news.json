@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-27T09:56:54.507Z",
-  "count": 125,
+  "lastUpdated": "2026-10-27T15:42:42.589Z",
+  "count": 126,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Conditional Access Policy Plans in Microsoft Entra ID (Preview)",
+      "link": "https://blog.admindroid.com/conditional-access-policy-plans-in-microsoft-entra-id/",
+      "date": "2026-10-27T12:02:21.000Z",
+      "snippet": "Microsoft introduces Conditional Access policy plans in public preview to help admins configure shared targeting once and manage different security re...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
@@ -191,6 +202,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Publish: The next steps for Viva Amplify and centralized corporate communications",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-publish-the-next-steps-for-viva-amplify-and/ba-p/4564204",
+      "date": "2026-10-26T19:50:12.000Z",
+      "snippet": "By: Sarah Mathurin and Kripal Kavi\r\nCorporate communicators need more than a place to publish updates. They need a connected workspace to create compe...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Getting started with AI agent runtime protection",
@@ -199,6 +221,17 @@
       "snippet": "This week is all about AI agent runtime protection in Defender for Endpoint. As more AI agents become available on Windows devices, they are also beco...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "EWS Deprecation Is Here – What This Means To You",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
+      "date": "2026-10-26T18:17:26.000Z",
+      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -626,17 +659,6 @@
       "snippet": "Microsoft has introduced a new link-sharing experience for each file and folder in SharePoint and OneDrive with hero link. This persistent link reflec...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "EWS Deprecation Is Here – What This Means To You",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
-      "date": "2026-10-21T15:07:04.000Z",
-      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -1337,17 +1359,6 @@
       "tags": [
         "Intune",
         "Windows"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Cybersecurity Awareness Month 2026: 31 Days of Challenges ",
-      "link": "https://blog.admindroid.com/cybersecurity-awareness-month-2026/",
-      "date": "2026-09-30T11:06:53.000Z",
-      "snippet": "October is back, and so is our favorite tradition at AdminDroid: Cybersecurity Awareness Month.🛡️  This is our fifth year celebrating it with a dedic...",
-      "tags": [
-        "Azure"
       ]
     },
     {
