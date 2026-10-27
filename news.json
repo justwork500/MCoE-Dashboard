@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-27T04:26:30.224Z",
-  "count": 127,
+  "lastUpdated": "2026-10-27T09:56:54.507Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Teams Blog (MS)",
+      "icon": "ph-microsoft-teams",
+      "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408",
+      "date": "2026-10-26T23:42:14.000Z",
+      "snippet": "GitHub can now bring repository updates into a channel, group chat, or private chat. When an update needs action, reply to the notification and @menti...",
+      "tags": [
+        "Teams"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -191,17 +202,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "EWS Deprecation Is Here – What This Means To You",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
-      "date": "2026-10-26T18:17:26.000Z",
-      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
@@ -387,17 +387,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Teams Blog (MS)",
-      "icon": "ph-microsoft-teams",
-      "title": "Turn GitHub notifications into code with GitHub Copilot in Microsoft Teams",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-github-notifications-into-code-with-github-copilot-in/ba-p/4566408",
-      "date": "2026-10-23T23:39:10.000Z",
-      "snippet": "GitHub can now bring repository updates into a channel, group chat, or private chat. When an update needs action, reply to the notification and @menti...",
-      "tags": [
-        "Teams"
       ]
     },
     {
@@ -637,6 +626,17 @@
       "snippet": "Microsoft has introduced a new link-sharing experience for each file and folder in SharePoint and OneDrive with hero link. This persistent link reflec...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "EWS Deprecation Is Here – What This Means To You",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431",
+      "date": "2026-10-21T15:07:04.000Z",
+      "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
+      "tags": [
+        "Exchange"
       ]
     },
     {
@@ -1404,29 +1404,6 @@
       "snippet": "In this guide, I&amp;#8217;ll cover some practical methods to check OneDrive storage usage as an individual user, as an IT administrator,...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSEndpointMgr",
-      "icon": "ph-devices",
-      "title": "What’s in the Microsoft Enterprise App Catalog? Finding Out with PowerShell and Microsoft Graph",
-      "link": "https://msendpointmgr.com/2026/09/27/whats-in-the-enterprise-app-catalog/",
-      "date": "2026-09-27T09:45:07.000Z",
-      "snippet": "If you&amp;#8217;ve clicked Apps &gt; Windows &gt; Create &gt; Enterprise App Catalog app in Intune, you&amp;#8217;ve seen the catalog picker. Search, pick an app, pic...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Faster Win32 App Delivery in Intune with Push Notifications",
-      "link": "https://patchmypc.com/blog/faster-win32-app-delivery-in-intune/?utm_term=rss",
-      "date": "2026-09-27T09:39:48.000Z",
-      "snippet": "Microsoft Intune is improving Win32 app delivery with push notifications. Changes made by administrators or the service can now prompt devices to chec...",
-      "tags": [
-        "Intune",
-        "Windows"
       ]
     }
   ]
