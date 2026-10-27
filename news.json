@@ -1,7 +1,172 @@
 {
-  "lastUpdated": "2026-10-26T20:28:03.841Z",
-  "count": 131,
+  "lastUpdated": "2026-10-26T23:59:44.037Z",
+  "count": 127,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Pages: First Class Support for Connector APIs in Power Pages",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577897",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Native connectors support through Power Pages will allow organizations to securely connect their websites/portals directly to enterprise systems such ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Expand localization in LATAM countries for Argentina",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577891",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "With the release of Argentina, we are finalizing the LATAM expansion. Out-of-the-box localization is now available for 14 countries in the region thro...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Sustainability: Restate previously calculated emissions",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577890",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Organizations can recalculate previously calculated emissions using a new restatement capability in Dynamics 365 Sustainability. Users can create a ne...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Configure actions on task grid",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577866",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "This feature extends Task Grid View Templates so administrators can configure both task columns and the visibility of supported task-grid actions in o...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Optimized Customer data entities",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577865",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Dynamics 365 Finance introduces a set of optimized customer data entities that provide more focused options for integrating customer information. Inst...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Excel: Get and transform data with Copilot in Excel",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577745",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Get your data ready, just by asking. Describe the data you need and how you want it prepared, and the new get data skill handles the rest. It can conn...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): App Blocks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577743",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "App Blocks enables M365 Copilot Chat users to turn their requests and data into rich, interactive experiences directly within the conversation, includ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Support trade counter sales in POS",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577404",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Trade Counter POS is a collection of capabilities for Dynamics 365 Commerce Point of Sale. Businesses can adopt the capabilities individually to suppo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Excel: Edit with Copilot in Excel on iPhone",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577177",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Edit with Copilot makes it easier to edit and transform your Excel workbooks on your phone using natural language. Copilot can continue working on you...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Workflow to automatically add tag members to relevant channels",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577174",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Associate channels with a tag so members are automatically added to those channels when they join the tag. This helps teams keep channel membership in...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): SharePoint Site Builder",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576708",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "This feature enables users to easily create new SharePoint sites with Copilot. Users can review and confirm a clear site plan before Copilot builds th...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Boost contact center efficiency with real-time streaming analytics ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576605",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Real-time streaming analytics is built into the new supervisor application. An advanced streaming engine keeps metrics up to date with near-instant up...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Outlook: Multiple Intune Accounts in Outlook for Android",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576270",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Multiple MAM (Mobile Application Management) Intune Accounts will now be supported in Outlook for Android. Only one MDM (Mobile Device Management) acc...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "PowerPoint: Clear view-only messaging",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=571198",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "When you open a presentation you don&#039;t have permission to edit, PowerPoint now shows a clear &quot;Viewing Only&quot; message bar. It explains that the file is ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender for Endpoint: Beyond default telemetry with Custom Data Collection Rules",
+      "link": "https://jeffreyappel.nl/microsoft-defender-for-endpoint-beyond-default-telemetry-with-custom-data-collection-rules/",
+      "date": "2026-10-26T21:20:16.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) is one of the most widely deployed endpoint detection and response platforms in enterprise environments. It prov...",
+      "tags": [
+        "Defender"
+      ]
+    },
     {
       "source": "Patch My PC",
       "icon": "ph-package",
@@ -50,6 +215,18 @@
     {
       "source": "MSRC Security Updates",
       "icon": "ph-shield-warning",
+      "title": "CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338",
+      "date": "2026-10-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
       "title": "CVE-2026-83519 Windows Error Reporting Remote Code Execution Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83519",
       "date": "2026-10-26T14:00:00.000Z",
@@ -76,6 +253,54 @@
       "icon": "ph-shield-warning",
       "title": "CVE-2026-69923 Windows AI Elevation of Privilege Vulnerability",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69923",
+      "date": "2026-10-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96311 Windows Network List Service Tampering Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96311",
+      "date": "2026-10-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-69926 Desktop Window Manager Elevation of Privilege Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69926",
+      "date": "2026-10-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-105728 Dynamics Business Central Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105728",
+      "date": "2026-10-26T14:00:00.000Z",
+      "snippet": "Updated an acknowledgement. This is an informational change only.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-96234 .NET Information Disclosure Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96234",
       "date": "2026-10-26T14:00:00.000Z",
       "snippet": "Updated an acknowledgement. This is an informational change only.",
       "tags": [
@@ -173,226 +398,6 @@
       "snippet": "GitHub can now bring repository updates into a channel, group chat, or private chat. When an update needs action, reply to the notification and @menti...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Apps: Model-driven apps - Use row summaries in US Government clouds",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576279",
-      "date": "2026-10-23T23:10:38.000Z",
-      "snippet": "Row summaries are expanding to supported US Government clouds, giving users in regulated environments access to AI-generated insights that help them u...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Unified routing - Use overflow actions to protect customer experience for direct inward calls",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576607",
-      "date": "2026-10-23T23:10:36.000Z",
-      "snippet": "Overflow for direct inward dialing leverages conversation orchestration to detect key direct inward dialing-related events—such as the representative ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policies on email attachments",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577796",
-      "date": "2026-10-23T23:10:35.000Z",
-      "snippet": "This feature extends governance capabilities to evaluate email attachments, closing a critical gap where sensitive or non-compliant information may ex...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Manage policy strictness to enforce governance policies",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577798",
-      "date": "2026-10-23T23:10:34.000Z",
-      "snippet": "This feature introduces policy strictness control, enabling organizations to define how rigorously each governance policy evaluates and flags potentia...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Sales: Lead management - Personalize outreach emails generated by Sales Qualification Agent",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578077",
-      "date": "2026-10-23T22:46:12.000Z",
-      "snippet": "Define outreach scenario/goal in natural language.\r\nChoose desired call-to-action to drive next steps.\r\nProvide subject line guidance: fixed suggestio...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Sales: Lead management - Deploy multiple Sales Qualification Agents in a single environment",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578076",
-      "date": "2026-10-23T22:46:11.000Z",
-      "snippet": "Segment-specific qualification: Each agent operates with its own ideal customer profile, knowledge sources, templates, and consent settings, ensuring ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578075",
-      "date": "2026-10-23T22:46:11.000Z",
-      "snippet": "The enhanced screen recording capability offers greater flexibility and control, enabling organizations to manage recording behavior with more precisi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Enable enhanced screen recording controls for admins",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578074",
-      "date": "2026-10-23T22:46:10.000Z",
-      "snippet": "The enhanced screen recording capability offers greater flexibility and control, enabling organizations to manage recording behavior with more precisi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Workforce engagement management - Manage overnight shifts as a single continuous schedule",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578073",
-      "date": "2026-10-23T22:46:09.000Z",
-      "snippet": "Supervisors can now create and manage overnight shifts that span across midnight while maintaining a single continuous shift experience. Shift plans s...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Insights - Journeys: Elevate customer experiences - Boost productivity with flexible views and search in segments",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578072",
-      "date": "2026-10-23T22:46:09.000Z",
-      "snippet": "Customize your view: choose a Contact or Lead view from the new view picker to define which columns appear in the segment members table.\r\nAlign export...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Pages: Administration and governance - Configure site analytics and server logging",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578071",
-      "date": "2026-10-23T22:46:07.000Z",
-      "snippet": "Gain insights into your Power Pages site with integrated telemetry and analytics. Use Application Insights to monitor page views, form interactions, s...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Modify and override submitted evaluations",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578070",
-      "date": "2026-10-23T22:46:06.000Z",
-      "snippet": "This feature enables Quality Managers to edit and override evaluation results even after they are marked as completed or expired. While completed eval...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: IVR capabilities - Equip voice agents with custom voice",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578069",
-      "date": "2026-10-23T22:46:04.000Z",
-      "snippet": "Secure a voice talent that will represent the voice of your brand. After obtaining explicit consent, gaining Limited Access approval through Microsoft...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Copilot and agents - Envision and design AI agents in Business Central",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578068",
-      "date": "2026-10-23T22:46:03.000Z",
-      "snippet": "AI agents in Business Central\r\nBusiness Central introduces AI agents to help users automate repetitive tasks and make business processes more intellig...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Workforce engagement management - Enforce governance policy",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578067",
-      "date": "2026-10-23T22:46:02.000Z",
-      "snippet": "Create and enforce policies that prevent risky or noncompliant customer communications.\r\nGovernance policy checks serve as configurable safeguards tha...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Digital commerce - Streamline multioutlet access for B2B web storefronts",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578066",
-      "date": "2026-10-23T22:46:01.000Z",
-      "snippet": "The multioutlet B2B web storefront introduces a unified sign-in system that allows buyers to access all their associated organizations and outlets usi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Copilot and agents - Run multiple Sales Order Agents per company with smarter item matching, relevance filtering, and streamlined setup",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578065",
-      "date": "2026-10-23T22:45:59.000Z",
-      "snippet": "You can now configure and run multiple Sales Order Agent instances in a single company. Each instance operates independently with its own mailbox, fol...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Copilot and AI innovation - Resolve customer emails autonomously with AI",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578064",
-      "date": "2026-10-23T22:45:57.000Z",
-      "snippet": "Autonomous email resolution delivers end-to-end handling of customer emails without manual intervention or default case creation. When an email arrive...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Supply Chain Management: Planning - Protect confirmed CTP dates with Planning Optimization",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578063",
-      "date": "2026-10-23T22:45:56.000Z",
-      "snippet": "Planning Optimization is the new high-performance planning engine for Dynamics 365 Supply Chain Management. With this feature, Planning Optimization n...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Power Pages: Administration and governance - Manage external authentication providers with granular controls",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578062",
-      "date": "2026-10-23T22:45:54.000Z",
-      "snippet": "Power Pages now lets you manage external authentication providers with environment-level governance controls and optional site-level exceptions. You c...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -547,30 +552,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-96251 Microsoft PowerShell Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96251",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Corrected Fixed Build Number and Download links in the Security Updates table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-96303 Microsoft PowerShell Security Feature Bypass Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96303",
-      "date": "2026-10-22T14:00:00.000Z",
-      "snippet": "Corrected Fixed Build Number and Download links in the Security Updates table. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Defender Monthly News – October 2026",
@@ -655,42 +636,6 @@
       "date": "2026-10-21T15:14:02.000Z",
       "snippet": "Microsoft has introduced a new link-sharing experience for each file and folder in SharePoint and OneDrive with hero link. This persistent link reflec...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-61359 Windows Storage Elevation of Privilege Vulnerability",
-      "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61359",
-      "date": "2026-10-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-97783 Microsoft Office SharePoint Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97783",
-      "date": "2026-10-21T14:00:00.000Z",
-      "snippet": "The vulnerability associated with this CVE was fixed in July, however was inadvertently not included with that release.  Microsoft recommends updating...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-83709 Windows NTLM Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83709",
-      "date": "2026-10-21T14:00:00.000Z",
-      "snippet": "Updated an acknowledgement. This is an informational change only.",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
@@ -791,6 +736,17 @@
       "snippet": "Protect confidential discussions and information discussed during Microsoft Teams meetings with built-in security controls. From sensitive content det...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Expanded Markdown support in Microsoft Teams",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576199",
+      "date": "2026-10-19T23:15:15.000Z",
+      "snippet": "Microsoft Teams is expanding Markdown support in the compose box, giving you more ways to structure and format messages using familiar Markdown syntax...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
