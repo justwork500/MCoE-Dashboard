@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-27T23:47:38.856Z",
-  "count": 120,
+  "lastUpdated": "2026-10-28T10:01:29.601Z",
+  "count": 121,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "How to Block Sensitive Information Types in Microsoft 365 Copilot Prompts ",
+      "link": "https://blog.admindroid.com/block-sensitive-information-types-in-microsoft-365-copilot-prompts/",
+      "date": "2026-10-28T06:06:27.000Z",
+      "snippet": "Sensitive information entered in Copilot prompts, such as credit card numbers, bank account details, etc., can pose security risks. Microsoft Purview ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -246,7 +257,7 @@
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
-      "title": "Conditional Access Policy Plans in Microsoft Entra ID (Preview)",
+      "title": "Conditional Access Policy Plans in Microsoft Entra ID",
       "link": "https://blog.admindroid.com/conditional-access-policy-plans-in-microsoft-entra-id/",
       "date": "2026-10-27T12:02:21.000Z",
       "snippet": "Microsoft introduces Conditional Access policy plans in public preview to help admins configure shared targeting once and manage different security re...",
@@ -297,6 +308,17 @@
       "tags": [
         "Intune",
         "Windows"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Publish: The next steps for Viva Amplify and centralized corporate communications",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-publish-the-next-steps-for-viva-amplify-and/ba-p/4564204",
+      "date": "2026-10-26T19:50:12.000Z",
+      "snippet": "By: Sarah Mathurin and Kripal Kavi\r\nCorporate communicators need more than a place to publish updates. They need a connected workspace to create compe...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -1237,17 +1259,6 @@
       "snippet": "We have introduced security enhancements to Exchange Online PowerShell authentication in ExchangeOnlineManagement module version 3.10.1 and newer. The...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Microsoft Enforces Conditional Access on Outlook Attachments with a Dedicated Entra Application ",
-      "link": "https://blog.admindroid.com/microsoft-enforces-conditional-access-to-outlook-attachments/",
-      "date": "2026-10-01T12:27:18.000Z",
-      "snippet": "Microsoft has introduced a separate application configuration for Outlook attachment operations. It brings Conditional Access enforcement to attachmen...",
-      "tags": [
-        "Azure"
       ]
     },
     {
