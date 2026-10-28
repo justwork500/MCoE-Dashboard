@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-28T10:01:29.601Z",
-  "count": 121,
+  "lastUpdated": "2026-10-28T16:36:37.983Z",
+  "count": 119,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -1335,29 +1335,6 @@
       "link": "https://petervanderwoude.nl/post/getting-started-with-deployments-and-deployment-plans-for-an-automated-staged-rollout/",
       "date": "2026-09-28T17:45:00.000Z",
       "snippet": "This week is all about deployments and deployment plans. Deployments and deployment plans have been introduced recently to provide IT administrators w...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Autopilot Device Preparation BitLocker 256 Bit Issue: The 128 Bit Race Is Finally Fixed",
-      "link": "https://patchmypc.com/blog/autopilot-device-preparation-bitlocker-256-bit-issue/?utm_term=rss",
-      "date": "2026-09-28T14:16:24.000Z",
-      "snippet": "This blog explores a new Windows Insider feature aimed at fixing the Autopilot BitLocker 256 bit issue. We show how it delays encryption during OOBE, ...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "How to Check OneDrive Storage Usage [3 Best Ways]",
-      "link": "https://www.prajwaldesai.com/check-onedrive-storage-usage/",
-      "date": "2026-09-28T11:32:02.000Z",
-      "snippet": "In this guide, I&amp;#8217;ll cover some practical methods to check OneDrive storage usage as an individual user, as an IT administrator,...",
       "tags": [
         "Intune"
       ]
