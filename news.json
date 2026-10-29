@@ -1,11 +1,33 @@
 {
-  "lastUpdated": "2026-10-29T19:39:56.957Z",
-  "count": 126,
+  "lastUpdated": "2026-10-29T23:35:28.010Z",
+  "count": 128,
   "items": [
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: HTTP DDoS Ruleset for Azure Front Door Premium WAF",
+      "title": "[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations",
+      "link": "https://azure.microsoft.com/updates?id=578850",
+      "date": "2026-10-29T21:19:52.000Z",
+      "snippet": "Large OS Disk Encryption (LOSDE) is now generally available for Azure Confidential VM migration scenarios. Organizations can move larger, production-s...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-10-29T18:00:55.000Z",
+      "snippet": "Update 10/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Po...",
+      "tags": [
+        "Exchange"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF",
       "link": "https://azure.microsoft.com/updates?id=578681",
       "date": "2026-10-29T17:09:49.000Z",
       "snippet": "Announcing the general\r\navailability of the HTTP DDoS ruleset for Azure Web Application Firewall (WAF)\r\non Azure Front Door Premium. HTTP-layer DDoS a...",
@@ -22,6 +44,17 @@
       "snippet": "Azure MCP Server 3.0 is now generally available, expanding how AI agents and developer tools interact with Azure through the open Model Context Protoc...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Defender ATP Blog (MS)",
+      "icon": "ph-shield-check",
+      "title": "Defending Linux in the age of AI-operated attacks",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-linux-in-the-age-of-ai-operated-attacks/ba-p/4557210",
+      "date": "2026-10-29T16:00:00.000Z",
+      "snippet": "Linux supports cloud services, containers, developer environments, business-critical applications, and a growing share of AI infrastructure. That make...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -56,6 +89,17 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint Showcase: Refreshed SharePoint mobile app",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-refreshed-sharepoint-mobile-app/ba-p/4535415",
+      "date": "2026-10-29T13:00:00.000Z",
+      "snippet": "Your sites, files, news, and people, together in the redesigned SharePoint mobile app.\r\nWork does not always happen while you are sitting at your desk...",
+      "tags": [
+        "SharePoint"
       ]
     },
     {
@@ -850,17 +894,6 @@
       ]
     },
     {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-10-20T15:55:23.000Z",
-      "snippet": "Update 10/20/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Po...",
-      "tags": [
-        "Exchange"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Key Controls to Secure Microsoft Teams Meetings",
@@ -968,17 +1001,6 @@
       "snippet": "Update October 16, 2026: For more information related to installation of October 2026 updates for Windows Server and the possible impact on Exchange S...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Azure Databricks Private network gateway",
-      "link": "https://azure.microsoft.com/updates?id=576556",
-      "date": "2026-10-16T16:59:02.000Z",
-      "snippet": "Private network gateway for Azure Databricks is\r\nnow in Public Preview, enabling serverless compute to connect to resources in\r\nyour virtual network (...",
-      "tags": [
-        "Azure"
       ]
     },
     {
