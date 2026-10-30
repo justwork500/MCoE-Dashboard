@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-10-29T23:35:28.010Z",
-  "count": 128,
+  "lastUpdated": "2026-10-30T09:37:50.631Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Enable fulfillment optimization in Dynamics 365 Supply Chain Management",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577894",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Distributed order management (DOM) can now optimize fulfillment for standard sales orders in Dynamics 365 Supply Chain Management. Previously, DOM was...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Supply Chain Management: Check margins when overriding prices in Unified pricing management",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577867",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Price override allows sales representatives to adjust the preset price of a product during a transaction—typically for business purposes such as custo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Enhance positive pay file generation through batch processing",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577858",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "This feature improves the scalability and performance of positive pay file generation by enabling the process to run as a background batch job. Organi...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot Studio: Copilot studio cost controls in MAC",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577834",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "We’re expanding cost management for Microsoft Copilot Studio into the Microsoft 365 admin center. This gives administrators a more centralized way to ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Sustainability: Enhance external sustainability reporting",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577744",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "This feature delivers enhancements to the external reporting experience with an improved standards and assessments structure and enhanced search capab...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Viva: Network analytics enhancements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576274",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Network analytics updates are rolling out in Microsoft Viva Engage, giving corporate communicators and network admins more flexibility to analyze acti...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Contact Center Intelligence:  Biometric authentication",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575280",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Voice biometric authentication delivers business value by reducing fraud and agent operating costs in contact centers. Voice-based verification improv...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Customer Service: Shared analytics foundation for historical reporting",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574114",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Dynamics 365 Customer Service provides out-of-the-box historical reporting built on a shared analytics foundation: a scalable, open, and AI-ready data...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: Expense Agent - Create expenses from credit card feeds",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573256",
+      "date": "2026-10-29T23:01:00.000Z",
+      "snippet": "Expense Agent now supports creating expenses from imported credit card transaction feeds or automatically reconcile with them if the expense was creat...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -92,17 +191,6 @@
       ]
     },
     {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "SharePoint Showcase: Refreshed SharePoint mobile app",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-showcase-refreshed-sharepoint-mobile-app/ba-p/4535415",
-      "date": "2026-10-29T13:00:00.000Z",
-      "snippet": "Your sites, files, news, and people, together in the redesigned SharePoint mobile app.\r\nWork does not always happen while you are sitting at your desk...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "How to Redirect SharePoint Site Creation Requests to an Approved Page ",
@@ -123,105 +211,6 @@
       "tags": [
         "Windows",
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Analyze project plans with what-if scenarios",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577864",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "What if scenario modeling enables you to simulate changes to a project plan and evaluate their impact before committing to them. Available for both Pr...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Use bullseye routing with user groups to orchestrate conversations",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576606",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Bullseye routing with user groups enables a tiered assignment strategy that automatically expands the pool of eligible representatives as conversation...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Contact Center AI: Insights and quality ",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575290",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Gain visibility into AI interactions, conversation trends, and customer  engagement​\r\n\r\nMeasure self-service effectiveness through containment, escala...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Contact Center Intelligence: Universal connector for self-service omnichannel agents",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575278",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Bring Microsoft AI to the contact center platform of your choice with the Universal Connector. Organizations can now integrate Microsoft self-service ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Contact Center Intelligence: Tools",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575274",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Tools are building blocks that let your agent interact with external systems. Tools expand what your agent can do, and your agent can perform various ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Reroute conversations to the right queue automatically",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575272",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Service representatives can reroute a live voice or messaging conversation when they realize they aren&#039;t the right person to help. The representative ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Contact Center: Historical analytics",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574113",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Contact Center historical analytics provides out-of-box historical reporting for Dynamics 365 Contact Center, built on a shared analytics foundation. ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Customer Service: Shared analytics for historical reporting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=574112",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "Dynamics 365 Customer Service provides out-of-the-box historical reporting built on a shared analytics foundation: a scalable, open, and AI-ready data...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Expense Agent mobile app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573265",
-      "date": "2026-10-28T23:04:31.000Z",
-      "snippet": "The Expense Agent mobile app for Dynamics 365 Business Central extends expense capture to iOS and Android mobile devices by enabling employees to subm...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -519,6 +508,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Decline a call with a message on Mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577176",
+      "date": "2026-10-27T23:05:02.000Z",
+      "snippet": "Users can quickly decline an incoming Teams call and send a predefined message to the caller at the same time. From the incoming call screen, users ca...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
@@ -549,17 +549,6 @@
       "snippet": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF po...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The AI advantage your company can keep",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -905,17 +894,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Copilot Studio: Computer Use for web browsing on Microsoft Copilot Harness",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576272",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "Enable Microsoft Copilot Studio agents to browse and interact with websites as a native capability powered by the Microsoft Copilot harness. Using nat...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
@@ -1171,6 +1149,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: External presenter support for event group chat",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573706",
+      "date": "2026-10-08T23:04:12.000Z",
+      "snippet": "Event group chat, the private chat for organizers, co-organizers, and presenters in an event or structured meeting, will support external presenters.G...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Sending From Email Aliases – General Availability",
@@ -1190,17 +1179,6 @@
       "snippet": "In this post, I will explain how to resolve the prerequisite warning for automatic client approval in SCCM. The warning &amp;#8220;Insecure...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-      "date": "2026-10-08T15:00:00.000Z",
-      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1370,28 +1348,6 @@
       "snippet": "In this guide, I&amp;#8217;ll cover the steps to deploy Windows 11 26H2 update using SCCM. I will use Windows Servicing to...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Field Service: Preserve actual booking End Time when completion is recorded later",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573239",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "Business value\r\nTechnicians do not always record booking completion at the moment work ends. They may update the booking later because of connectivity...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Updated placement of the Create or upload button for Web",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=572683",
-      "date": "2026-09-30T23:31:03.000Z",
-      "snippet": "OneDrive for the web is updating the placement of the Create or upload button to provide a more consistent file experience across OneDrive and SharePo...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
