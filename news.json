@@ -1,7 +1,258 @@
 {
-  "lastUpdated": "2026-10-31T12:21:08.766Z",
-  "count": 125,
+  "lastUpdated": "2026-10-31T20:33:25.602Z",
+  "count": 124,
   "items": [
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Windows 11 KB5127936 Preview Update for versions 26H2 and 25H2",
+      "link": "https://www.prajwaldesai.com/windows-11-kb5127936-preview-for-26h2-25h2/",
+      "date": "2026-10-31T19:45:02.000Z",
+      "snippet": "Microsoft has released the optional preview update KB5127936 for Windows 11 versions 26H2 and 25H2, updating the OS builds 26300.9818 and...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118304 Improper input validation in SVG",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118304",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118313 Use after free in Video",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118313",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118311 Memory corruption in Media",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118311",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118317 Memory corruption in HTML",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118317",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118315 Improper input validation in SVG",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118315",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118312 Memory corruption in Paint",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118312",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118316 Improper input validation in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118316",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118318 Improper access control in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118318",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118308 Use after free in SVG",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118308",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118310 Improper input validation in Views",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118310",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118305 Memory corruption in Turbolev",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118305",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118307 Use after free in Paint",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118307",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118306 Memory corruption in FileSystem",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118306",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118319 Memory corruption in Skia",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118319",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118322 Memory corruption in ANGLE",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118322",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118328 Improper input validation in WebRTC",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118328",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118327 Memory corruption in Media",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118327",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118332 Improper input validation in Compositing",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118332",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "Chromium: CVE-2026-118320 Memory corruption in V8",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118320",
+      "date": "2026-10-31T14:00:00.000Z",
+      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-111497 Google: CVE-2026-111497 Buffer overflow vulnerability in the Brotli decoder",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497",
+      "date": "2026-10-31T08:13:53.000Z",
+      "snippet": "Information published.",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
     {
       "source": "MSEndpointMgr",
       "icon": "ph-devices",
@@ -99,42 +350,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-70125 Microsoft Office Outlook Remote Code Execution Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70125",
-      "date": "2026-10-30T14:00:00.000Z",
-      "snippet": "Updated one or more CVSS scores for the affected products. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-118147 Visual Studio Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118147",
-      "date": "2026-10-30T14:00:00.000Z",
-      "snippet": "Improper certificate validation in Visual Studio allows an unauthorized attacker to perform spoofing over a network.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-69446 Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69446",
-      "date": "2026-10-30T14:00:00.000Z",
-      "snippet": "Corrected CVE by adding the assigning CNA. This is an informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
       ]
     },
     {
@@ -281,18 +496,6 @@
       ]
     },
     {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-88078 Microsoft Edge (Chromium-based) Spoofing Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88078",
-      "date": "2026-10-29T14:00:00.000Z",
-      "snippet": "CWE added. Informational change only.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Microsoft Intune Introduces Bulk eSIM Activation and Removal for Corporate-Owned Android Devices",
@@ -322,18 +525,6 @@
       "date": "2026-10-29T09:04:24.000Z",
       "snippet": "SharePoint introduces a new site creation experience that allows admins to redirect users to a custom URL when they try to create a new site. The dest...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-19175 Use after free in Payments",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-19175",
-      "date": "2026-10-29T00:06:22.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
@@ -401,186 +592,6 @@
       "date": "2026-10-28T16:23:43.000Z",
       "snippet": "Private offers through Microsoft Marketplace help you optimize your spending power with pricing and terms aligned to your organization’s needs, includ...",
       "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62740 Windows Imaging Component Information Disclosure Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62740",
-      "date": "2026-10-28T14:00:00.000Z",
-      "snippet": "Added supported editions of Microsoft Office to the Security Updates table because they are affected by this vulnerability. Microsoft recommends that ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "CVE-2026-62877 Windows Win32k Elevation of Privilege Vulnerability",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62877",
-      "date": "2026-10-28T14:00:00.000Z",
-      "snippet": "Added supported editions of Microsoft Office to the Security Updates table because they are affected by this vulnerability. Microsoft recommends that ...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78904 Type confusion in ANGLE",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78904",
-      "date": "2026-10-28T08:42:41.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78903 Incomplete cleanup in SiteIsolation",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78903",
-      "date": "2026-10-28T08:42:37.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78901 Race condition in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78901",
-      "date": "2026-10-28T08:42:32.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78900 Improper input validation in Media",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78900",
-      "date": "2026-10-28T08:42:28.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78899 Use after free in V8",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78899",
-      "date": "2026-10-28T08:42:23.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78898 Incorrect authorization in Downloads",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78898",
-      "date": "2026-10-28T08:42:18.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78897 Missing authorization in BrowserTag",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78897",
-      "date": "2026-10-28T08:42:12.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78896 Information leak in StorageAccessAPI",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78896",
-      "date": "2026-10-28T08:42:08.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78895 Information leak in Paint",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78895",
-      "date": "2026-10-28T08:42:03.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78894 Race condition in Payments",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78894",
-      "date": "2026-10-28T08:41:58.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78893 Information leak in QUIC",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78893",
-      "date": "2026-10-28T08:41:53.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78892 Incorrect authorization in Chromoting",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78892",
-      "date": "2026-10-28T08:41:48.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium: CVE-2026-78891 Buffer overflow in WebRTC",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78891",
-      "date": "2026-10-28T08:41:43.000Z",
-      "snippet": "Information published.",
-      "tags": [
-        "Windows",
         "Azure"
       ]
     },
@@ -1381,28 +1392,6 @@
       "snippet": "Your customers are your number one priority, and you want to be there whenever they call.&amp;nbsp;But customer needs don’t follow a schedule. Questions a...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "SharePoint Blog (MS)",
-      "icon": "ph-browsers",
-      "title": "What’s new in Copilot in SharePoint: October 2026",
-      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/what-s-new-in-copilot-in-sharepoint-october-2026/ba-p/4535423",
-      "date": "2026-10-01T17:44:11.000Z",
-      "snippet": "Your monthly roundup of what&#039;s new in Copilot in SharePoint.\r\nCopilot in SharePoint general availability rollout started on September 30 — read the an...",
-      "tags": [
-        "SharePoint"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Action Required: Upgrade ExchangeOnlineManagement PowerShell Module to Version 3.10.1 or Newer",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/action-required-upgrade-exchangeonlinemanagement-powershell/ba-p/4561418",
-      "date": "2026-10-01T12:50:20.000Z",
-      "snippet": "We have introduced security enhancements to Exchange Online PowerShell authentication in ExchangeOnlineManagement module version 3.10.1 and newer. The...",
-      "tags": [
-        "Exchange"
       ]
     }
   ]
