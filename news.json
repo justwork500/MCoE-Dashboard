@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T06:03:51.715Z",
-  "count": 126,
+  "lastUpdated": "2026-10-31T12:21:08.766Z",
+  "count": 125,
   "items": [
     {
       "source": "MSEndpointMgr",
@@ -1403,17 +1403,6 @@
       "snippet": "We have introduced security enhancements to Exchange Online PowerShell authentication in ExchangeOnlineManagement module version 3.10.1 and newer. The...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Prajwal Desai",
-      "icon": "ph-devices",
-      "title": "Deploy Windows 11 26H2 Update using SCCM",
-      "link": "https://www.prajwaldesai.com/deploy-windows-11-26h2-update-using-sccm/",
-      "date": "2026-10-01T11:42:55.000Z",
-      "snippet": "In this guide, I&amp;#8217;ll cover the steps to deploy Windows 11 26H2 update using SCCM. I will use Windows Servicing to...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
