@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-01T09:43:15.466Z",
-  "count": 121,
+  "lastUpdated": "2026-11-01T16:24:49.316Z",
+  "count": 120,
   "items": [
     {
       "source": "AdminDroid (Entra/M365)",
@@ -1348,17 +1348,6 @@
       "snippet": "Files and photos are at the center of how we work, create, and collaborate. As AI and Copilot transform the way we use content, OneDrive is evolving f...",
       "tags": [
         "OneDrive"
-      ]
-    },
-    {
-      "source": "Andrew Taylor",
-      "icon": "ph-devices",
-      "title": "Intune Newsletter – 2nd October 2026",
-      "link": "https://andrewstaylor.com/2026/10/02/intune-newsletter-2nd-october-2026/",
-      "date": "2026-10-02T10:57:52.000Z",
-      "snippet": "It&amp;#8217;s 26H2 week so get ready for even more Copilot, I know you were all definitely looking forward to that appearing in File Explorer!  The quest...",
-      "tags": [
-        "Intune"
       ]
     }
   ]
