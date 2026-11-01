@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-31T23:44:30.730Z",
-  "count": 123,
+  "lastUpdated": "2026-11-01T09:43:15.466Z",
+  "count": 121,
   "items": [
+    {
+      "source": "AdminDroid (Entra/M365)",
+      "icon": "ph-shield-check",
+      "title": "Cybersecurity Awareness Month 2026: Behind the Challenges",
+      "link": "https://blog.admindroid.com/cybersecurity-awareness-month-2026-recap/",
+      "date": "2026-11-01T05:25:00.000Z",
+      "snippet": "We’re signing off on AdminDroid’s&amp;#160;Cybersecurity Awareness Month 2026 series! &amp;#160; It&amp;#8217;s been a month of taking on new challenges that put ...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "Prajwal Desai",
       "icon": "ph-devices",
@@ -640,17 +651,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The AI advantage your company can keep",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Conditional Access Policy Plans in Microsoft Entra ID",
@@ -1170,17 +1170,6 @@
       ]
     },
     {
-      "source": "AdminDroid (Entra/M365)",
-      "icon": "ph-shield-check",
-      "title": "Hidden Privilege Risks of Nested Groups in Active Directory  ",
-      "link": "https://blog.admindroid.com/hidden-privilege-risks-in-active-directory-nested-groups/",
-      "date": "2026-10-13T13:59:30.000Z",
-      "snippet": "In Active Directory, complex nested groups can make it difficult to track how users inherit permissions across multiple layers, creating blind spots t...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Peter van der Woude",
       "icon": "ph-devices",
       "title": "Easily enabling Sysmon in Windows 11",
@@ -1256,17 +1245,6 @@
       "snippet": "In this post, I will explain how to resolve the prerequisite warning for automatic client approval in SCCM. The warning &amp;#8220;Insecure...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-      "date": "2026-10-08T15:00:00.000Z",
-      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
