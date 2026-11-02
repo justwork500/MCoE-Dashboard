@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-11-02T11:55:48.388Z",
-  "count": 118,
+  "lastUpdated": "2026-11-02T21:16:16.333Z",
+  "count": 119,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate",
+      "link": "https://azure.microsoft.com/updates?id=577975",
+      "date": "2026-11-02T19:37:11.000Z",
+      "snippet": "Azure\r\nMigrate now supports discovery and assessment for network-attached storage,\r\nallowing customers and partners to plan migrations of Dell PowerSc...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: OT security in Microsoft Defender for IoT",
+      "link": "https://azure.microsoft.com/updates?id=576255",
+      "date": "2026-11-02T19:22:28.000Z",
+      "snippet": "This is the formal notice that Microsoft plans to deprecate the operational technology (OT) security component of Microsoft Defender for IoT. The serv...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Change from virtual network integration to a private endpoint capable network configuration in Azure Database for PostgreSQL flexible server  ",
+      "link": "https://azure.microsoft.com/updates?id=574541",
+      "date": "2026-11-02T19:20:33.000Z",
+      "snippet": "You now have greater flexibility in network design for Azure Database for PostgreSQL Flexible Server workloads. Now you can change existing VNet-integ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "Retirement: Azure Fluid Relay",
+      "link": "https://azure.microsoft.com/updates?id=570498",
+      "date": "2026-11-02T19:01:41.000Z",
+      "snippet": "On February 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Configuring Windows Ready Print driver ranking",
+      "link": "https://petervanderwoude.nl/post/configuring-windows-ready-print-driver-ranking/",
+      "date": "2026-11-02T18:45:00.000Z",
+      "snippet": "This week is all about Windows Ready Print driver ranking. Driver ranking on itself is not something new, but it is getting more attention with Window...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Storage Actions adds automatic task updates, execution controls, and case-sensitive matching",
+      "link": "https://azure.microsoft.com/updates?id=578628",
+      "date": "2026-11-02T18:34:01.000Z",
+      "snippet": "Azure Storage Actions is introducing three enhancements to simplify task management and give you more control over automated data operations across Az...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Restart databases in Azure SQL DB via the Azure portal ",
+      "link": "https://azure.microsoft.com/updates?id=577992",
+      "date": "2026-11-02T18:02:48.000Z",
+      "snippet": "You can now restart or fail over databases directly from the Azure portal, including single databases, Hyperscale databases, and databases in elastic ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Geo-Replication on partitioned namespaces for Azure Service Bus Premium",
+      "link": "https://azure.microsoft.com/updates?id=579021",
+      "date": "2026-11-02T18:00:51.000Z",
+      "snippet": "Geo-Replication on partitioned namespaces for\r\nAzure Service Bus Premium is now generally available. You can now combine the\r\nthroughput benefits of p...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Azure Site Recovery for Azure Local",
+      "link": "https://azure.microsoft.com/updates?id=579111",
+      "date": "2026-11-02T17:49:48.000Z",
+      "snippet": "Azure Site Recovery support for Azure Local is now generally available, making enterprise-grade disaster recovery simpler, accessible, easier to setup...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -784,17 +883,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage",
-      "link": "https://azure.microsoft.com/updates?id=577618",
-      "date": "2026-10-22T18:01:00.000Z",
-      "snippet": "ABFS Vectored Read helps compatible analytics engines reduce request overhead for selective reads in Azure Data Lake Storage. By combining nearby file...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "Publish rich and interactive content with HTML pages in SharePoint",
@@ -861,28 +949,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra",
-      "link": "https://azure.microsoft.com/updates?id=577273",
-      "date": "2026-10-21T17:38:32.000Z",
-      "snippet": "What and whyStarting October 30, 2026, Microsoft Entra ID will make the Choose Your Own Telephony Provider experience available. This feature enables ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Cosmos DB Safe Key Rotation",
-      "link": "https://azure.microsoft.com/updates?id=576716",
-      "date": "2026-10-21T17:13:16.000Z",
-      "snippet": "Safe Key Rotation for Azure Cosmos DB is now generally available. You can view timestamp metadata showing when each account key was last used, helping...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Hero Link in SharePoint and OneDrive",
@@ -902,50 +968,6 @@
       "snippet": "Update October 20, 2026: Added a FAQ to this post.\r\nSince October 13, 2026 (Microsoft “Patch Tuesday” release cycle), we have seen some reports of cus...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Disable VNet peering route",
-      "link": "https://azure.microsoft.com/updates?id=576242",
-      "date": "2026-10-20T18:55:47.000Z",
-      "snippet": "Announcing\r\nthe public preview of disable VNet peering route, a route-table capability that\r\ngives you more control over traffic between peered virtua...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF",
-      "link": "https://azure.microsoft.com/updates?id=577156",
-      "date": "2026-10-20T16:57:35.000Z",
-      "snippet": "Announcing the general availability of the service tag match\r\ncondition for Azure Web Application Firewall (WAF) custom rules on Azure Front\r\nDoor Pre...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM",
-      "link": "https://azure.microsoft.com/updates?id=577130",
-      "date": "2026-10-20T16:55:59.000Z",
-      "snippet": "Azure Application Gateway now supports keyless TLS\r\ntermination using certificates whose private keys stay in Azure Key Vault\r\nManaged HSM. Each TLS h...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Advanced platform metrics for Azure Monitor",
-      "link": "https://azure.microsoft.com/updates?id=575329",
-      "date": "2026-10-20T16:54:24.000Z",
-      "snippet": "Advanced platform metrics for Azure Monitor are now generally available. Advanced platform metrics provide finer-grained signals that help customers m...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -979,17 +1001,6 @@
       "snippet": "AI Interpreter for Events brings real-time, AI-powered audio interpretation to Teams Town Halls and Webinars, helping global audiences follow events i...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Metrics usage insights for Azure Monitor workspace",
-      "link": "https://azure.microsoft.com/updates?id=577165",
-      "date": "2026-10-19T20:23:15.000Z",
-      "snippet": "Metrics usage insights is now generally available, giving you greater visibility into what’s driving metrics usage across your Azure Monitor workspace...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1181,6 +1192,18 @@
       ]
     },
     {
+      "source": "Systems Center Dudes",
+      "icon": "ph-desktop",
+      "title": "Intune Tips and Tricks – 2026 Edition",
+      "link": "https://www.systemcenterdudes.com/intune-tips-and-tricks-2026-edition/",
+      "date": "2026-10-10T17:57:46.000Z",
+      "snippet": "Microsoft Intune has come a long way over the past few years. Today, it can manage nearly every aspect of Windows, macOS, iOS, Android, and Microsoft ...",
+      "tags": [
+        "Intune",
+        "Windows"
+      ]
+    },
+    {
       "source": "Teams Blog (MS)",
       "icon": "ph-microsoft-teams",
       "title": "What&#039;s New in Microsoft Teams | August - September 2026",
@@ -1311,18 +1334,6 @@
       "link": "https://patchmypc.com/blog/manage-system-settings-epm-endpoint-privilege-management/?utm_term=rss",
       "date": "2026-10-05T06:02:58.000Z",
       "snippet": "A look at how Intune EPM appears to be moving beyond file elevation with a System Settings experience for Network Settings and Time Sync.\nThe post Man...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Intune Can Now Bypass Windows Update Group Policy",
-      "link": "https://patchmypc.com/blog/ignore-windows-update-group-policy-intune/?utm_term=rss",
-      "date": "2026-10-03T18:31:31.000Z",
-      "snippet": "Windows Update now has its own Group Policy bypass. On supported Windows 11 builds, IgnoreWindowsUpdateGroupPolicies can skip the Windows Update GPO r...",
       "tags": [
         "Intune",
         "Windows"
