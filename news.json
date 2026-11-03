@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-11-03T18:02:20.353Z",
-  "count": 116,
+  "lastUpdated": "2026-11-03T23:17:47.075Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: JWT validation for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576382",
+      "date": "2026-11-03T21:17:08.000Z",
+      "snippet": "Application Gateway for Containers now supports centralized\r\nJSON Web Token validation through the AuthPolicy custom resource. Teams can\r\nvalidate a t...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: MCP gateway for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576388",
+      "date": "2026-11-03T21:16:36.000Z",
+      "snippet": "Application Gateway for Containers now supports Model\r\nContext Protocol routing through the new MCPRoute custom resource. Platform\r\nteams can publish ...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Private ingress for Application Gateway for Containers",
+      "link": "https://azure.microsoft.com/updates?id=576393",
+      "date": "2026-11-03T21:15:46.000Z",
+      "snippet": "Application\r\nGateway for Containers now supports private frontends that are reachable only\r\nthrough approved Azure Private Link private endpoints. Thi...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Advanced capacity insights are now available in Azure Storage Discovery",
+      "link": "https://azure.microsoft.com/updates?id=578655",
+      "date": "2026-11-03T20:20:29.000Z",
+      "snippet": "Advanced capacity insights are now available for preview in Azure Storage Discovery. Storage Discovery now provides greater visibility into storage us...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Prajwal Desai",
+      "icon": "ph-devices",
+      "title": "Configure SCCM Preferred Management Points for Clients",
+      "link": "https://www.prajwaldesai.com/sccm-preferred-management-points/",
+      "date": "2026-11-03T19:19:56.000Z",
+      "snippet": "In this post, I will demonstrate how to configure SCCM preferred management points for your clients. When you enable the option...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[In preview] Public Preview: Extend immutability for PITR backups for Azure SQL Database and Azure SQL Managed Instance",
+      "link": "https://azure.microsoft.com/updates?id=579305",
+      "date": "2026-11-03T18:36:12.000Z",
+      "snippet": "With this enhancement, you have the ability to lock your retention to the configured PITR retention, beyond the default 7 days of immutable backups th...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: Enhanced Azure Site Recovery support for VMSS Flex",
+      "link": "https://azure.microsoft.com/updates?id=578926",
+      "date": "2026-11-03T18:32:01.000Z",
+      "snippet": "Azure Site Recovery now offers an enhanced disaster recovery experience for virtual machines in Virtual Machine Scale Sets with flexible orchestration...",
+      "tags": [
+        "Azure"
+      ]
+    },
     {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
@@ -198,6 +275,17 @@
       "snippet": "On February 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue ...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Configuring Windows Ready Print driver ranking",
+      "link": "https://petervanderwoude.nl/post/configuring-windows-ready-print-driver-ranking/",
+      "date": "2026-11-02T18:45:00.000Z",
+      "snippet": "This week is all about Windows Ready Print driver ranking. Driver ranking on itself is not something new, but it is getting more attention with Window...",
+      "tags": [
+        "Intune"
       ]
     },
     {
@@ -739,56 +827,12 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Marketplace private offer enhancements ",
-      "link": "https://azure.microsoft.com/updates?id=576547",
-      "date": "2026-10-28T16:23:43.000Z",
-      "snippet": "Private offers through Microsoft Marketplace help you optimize your spending power with pricing and terms aligned to your organization’s needs, includ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "How to Block Sensitive Information Types in Microsoft 365 Copilot Prompts ",
       "link": "https://blog.admindroid.com/block-sensitive-information-types-in-microsoft-365-copilot-prompts/",
       "date": "2026-10-28T06:06:27.000Z",
       "snippet": "Sensitive information entered in Copilot prompts, such as credit card numbers, bank account details, etc., can pose security risks. Microsoft Purview ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription",
-      "link": "https://azure.microsoft.com/updates?id=578358",
-      "date": "2026-10-27T21:16:52.000Z",
-      "snippet": "Higher Azure Storage account resource quotas are now generally available, supporting up to 1,000 storage accounts with standard endpoints per region, ...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry",
-      "link": "https://azure.microsoft.com/updates?id=577260",
-      "date": "2026-10-27T17:19:43.000Z",
-      "snippet": "Microsoft Foundry now brings Claude models into Azure Cost Management alongside the rest of your Foundry spend, generally available. Until now, Claude...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Azure Front Door profile and route level WAF policies ",
-      "link": "https://azure.microsoft.com/updates?id=578153",
-      "date": "2026-10-27T16:58:04.000Z",
-      "snippet": "Announcing the general availability of profile and route\r\nlevel policies for Azure Web Application Firewall (WAF) on Azure Front Door\r\nPremium. WAF po...",
       "tags": [
         "Azure"
       ]
@@ -838,6 +882,17 @@
       ]
     },
     {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Microsoft Defender for Endpoint: Beyond default telemetry with Custom Data Collection Rules",
+      "link": "https://jeffreyappel.nl/microsoft-defender-for-endpoint-beyond-default-telemetry-with-custom-data-collection-rules/",
+      "date": "2026-10-26T21:20:16.000Z",
+      "snippet": "Microsoft Defender for Endpoint (MDE) is one of the most widely deployed endpoint detection and response platforms in enterprise environments. It prov...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Intune STIG Audit: What Happens After You Click Create",
@@ -861,6 +916,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Getting started with AI agent runtime protection",
+      "link": "https://petervanderwoude.nl/post/getting-started-with-ai-agent-runtime-protection/",
+      "date": "2026-10-26T18:45:00.000Z",
+      "snippet": "This week is all about AI agent runtime protection in Defender for Endpoint. As more AI agents become available on Windows devices, they are also beco...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "EWS Deprecation Is Here – What This Means To You",
@@ -872,17 +938,6 @@
       ]
     },
     {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Network Watcher VNet flow logs filtering",
-      "link": "https://azure.microsoft.com/updates?id=577782",
-      "date": "2026-10-26T16:02:05.000Z",
-      "snippet": "Azure Network Watcher VNet flow logs filtering is now generally available, enabling you to control which\r\nnetwork traffic flows are logged based on sp...",
-      "tags": [
-        "Azure"
-      ]
-    },
-    {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
       "title": "Managing Windows 11 STIG Audits in Intune Security Baselines to Elevate Endpoint Security",
@@ -891,17 +946,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup",
-      "link": "https://azure.microsoft.com/updates?id=577963",
-      "date": "2026-10-23T19:21:07.000Z",
-      "snippet": "Azure Backup now supports Item-Level Recovery (ILR) for Azure virtual machines using Premium SSD v2 and Ultra disks with both 512 byte and 4KB logical...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -935,6 +979,17 @@
       "snippet": "In this guide, I will show you how to generate and export Windows feature update reports from Intune. These reports are...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "Defender Monthly News – October 2026",
+      "link": "https://jeffreyappel.nl/defender-monthly-news-october-2026/",
+      "date": "2026-10-22T10:37:48.000Z",
+      "snippet": "If you work with Microsoft Defender, you probably know the Microsoft Defender Monthly News on the Microsoft Tech Community. Every month it summarizes ...",
+      "tags": [
+        "Defender"
       ]
     },
     {
@@ -1021,6 +1076,17 @@
       "link": "https://techcommunity.microsoft.com/t5/intune-customer-success/require-google-workspace-authentication-on-android-enterprise/ba-p/4565954",
       "date": "2026-10-19T19:33:25.000Z",
       "snippet": "By: Samuel Vara, Software Engineer &amp;amp; Mayur Jadhav, Product Manager | Microsoft Intune\r\nWe’re excited to announce that organizations using Android ...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Disabling the Get Started app",
+      "link": "https://petervanderwoude.nl/post/disabling-the-get-started-app/",
+      "date": "2026-10-19T17:45:00.000Z",
+      "snippet": "This week is all about the Get Started app in Windows. That app on itself is not something new, but does get a pretty substantial update with Windows ...",
       "tags": [
         "Intune"
       ]
@@ -1170,6 +1236,17 @@
       ]
     },
     {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Easily enabling Sysmon in Windows 11",
+      "link": "https://petervanderwoude.nl/post/easily-enabling-sysmon-in-windows-11/",
+      "date": "2026-10-12T17:45:00.000Z",
+      "snippet": "This week is all about Sysmon and about enabling Sysmon on the latest version of Windows 11. Sysmon itself is not new, but the direct integration with...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
       "source": "Systems Center Dudes",
       "icon": "ph-desktop",
       "title": "Intune Tips and Tricks – 2026 Edition",
@@ -1292,6 +1369,28 @@
       "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
       "tags": [
         "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Jeffrey Appel",
+      "icon": "ph-shield-check",
+      "title": "How to integrate Microsoft Defender/ Sentinel with Microsoft Fabric",
+      "link": "https://jeffreyappel.nl/how-to-integrate-microsoft-defender-sentinel-with-microsoft-fabric/",
+      "date": "2026-10-06T19:09:46.000Z",
+      "snippet": "Since September 23, 2026, the Microsoft Sentinel data lake is no longer a separate onboarding and billing project: it comes integrated with Sentinel f...",
+      "tags": [
+        "Defender"
+      ]
+    },
+    {
+      "source": "Peter van der Woude",
+      "icon": "ph-devices",
+      "title": "Easily managing Windows App on Windows devices",
+      "link": "https://petervanderwoude.nl/post/easily-managing-windows-app-on-windows-devices/",
+      "date": "2026-10-05T17:45:00.000Z",
+      "snippet": "This week is all about easily managing the Windows App on Windows devices. In the early days, the Windows App was pretty straightforward. There were s...",
+      "tags": [
+        "Intune"
       ]
     },
     {
