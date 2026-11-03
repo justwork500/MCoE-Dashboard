@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-11-02T21:16:16.333Z",
-  "count": 119,
+  "lastUpdated": "2026-11-03T02:59:13.453Z",
+  "count": 122,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Sales: Autonomously generate quotes and drive sales with Sales Development Agent",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578898",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Sales Development Agent (SDA) can take leads from qualified opportunities to closed deals.\r\nKey capabilities include:\r\n\r\nGenerating quotes through D36...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Intelligent call recap for call queue calls on Mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578871",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Calling reps and supervisor leads can access intelligent call recap for call queue calls directly from the Queues app on Mobile. After a call, users c...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Automatic recording indicator for call queue calls on Mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578867",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "For call queue calls that are automatically recorded by the organization, Teams on Mobile will clearly indicate that recording and transcription have ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Manage call groups on Mobile",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578860",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Users can create and manage their call group directly from Teams on Mobile. They can add or remove members, configure how the group should ring, and c...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "OneDrive: Respond to access requests directly in the Share dialog",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578856",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Review and respond to access requests inside the Share dialog. When people request access to a file, folder, or library, anyone who can share it will ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Support What-If Analysis for multiple budget versions",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577872",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "This is for Project Operations Core and Integrated to ERP.\r\nEnable project managers to compare multiple budget versions and select the most suitable b...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Enable multiple baselines for a project",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573693",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Multiple Baselines enables project managers to capture and maintain multiple snapshots of a project plan, providing a historical record of project exe...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Business Central: USA - Manually upload 1099 forms to the IRIS",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573624",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "The FIRE system will effectively be retired at the end of 2026, and IRIS will be the only electronic filing channel starting January 1, 2027.\r\nUsers i...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Field Service: Use AI recommendations for mobile offline profile configuration",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573243",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "Business value\r\nMobile offline profile design can affect first sync, ongoing sync cost, app responsiveness, and reliability. Administrators and makers...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): New Microsoft 365 Copilot usage reports for Copilot Search, Connectors, and Agents for US Government customers",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573170",
+      "date": "2026-11-03T00:14:11.000Z",
+      "snippet": "We are introducing new Microsoft 365 Copilot usage reports for Copilot Search, Copilot Connectors, and Copilot Agents for US Government customers acro...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Edge Dev Blog",
+      "icon": "ph-app-window",
+      "title": "Client-side threat detection: how Scareware blocker uncovered malicious notification abuse",
+      "link": "https://blogs.windows.com/msedgedev/2026/11/02/client-side-threat-detection-how-scareware-blocker-uncovered-malicious-notification-abuse/",
+      "date": "2026-11-02T22:05:53.000Z",
+      "snippet": "Website notifications were designed to help us stay informed. They can alert you to a new message, remind you of an upcoming event, or share an import...",
+      "tags": [
+        "Edge"
+      ]
+    },
     {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
@@ -377,54 +498,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft 365: Frontier expands to public previews in Teams, Outlook, OneDrive, and SharePoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578225",
-      "date": "2026-10-30T22:08:34.000Z",
-      "snippet": "Frontier is expanding to bring eligible public preview features across Microsoft 365 into one program. Users enrolled in Frontier can get eligible pre...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
       "title": "Microsoft Teams: Activity in other accounts and orgs improvements",
       "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577901",
       "date": "2026-10-30T22:08:34.000Z",
       "snippet": "Stay up-to-date with what&#039;s happening in your other accounts and organizations with the &#039;Activity in Other Accounts and Orgs&#039; panel. Preview and open ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): [Education] Create multi-week unit plans with Teach",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577392",
-      "date": "2026-10-30T22:08:34.000Z",
-      "snippet": "Educators can use Teach in Microsoft 365 Copilot to create structured unit plans that span multiple lessons or weeks. They can customize the plan comp...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Sustainability Management - Add EUDR certification information",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573251",
-      "date": "2026-10-30T22:08:34.000Z",
-      "snippet": "Record EUDR certification information for items under the EU Deforestation Regulation. Different lots of the same item can carry different certificate...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Edge: Select Password from the context menu",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570662",
-      "date": "2026-10-30T22:08:34.000Z",
-      "snippet": "Users can now manually access saved credentials when password suggestions don&#039;t appear automatically. When a user right-clicks a recognized username o...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -482,61 +559,6 @@
       "snippet": "Welcome back and to those at MMS, I hope it was great fun.  Next week I&amp;#8217;m off to Experts Live Switzerland, hopefully I&amp;#8217;ll see some of you ...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Supply Chain Management: Enable fulfillment optimization in Dynamics 365 Supply Chain Management",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577894",
-      "date": "2026-10-29T23:01:00.000Z",
-      "snippet": "Distributed order management (DOM) can now optimize fulfillment for standard sales orders in Dynamics 365 Supply Chain Management. Previously, DOM was...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Supply Chain Management: Check margins when overriding prices in Unified pricing management",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577867",
-      "date": "2026-10-29T23:01:00.000Z",
-      "snippet": "Price override allows sales representatives to adjust the preset price of a product during a transaction—typically for business purposes such as custo...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance: Enhance positive pay file generation through batch processing",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577858",
-      "date": "2026-10-29T23:01:00.000Z",
-      "snippet": "This feature improves the scalability and performance of positive pay file generation by enabling the process to run as a background batch job. Organi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot Studio: Copilot studio cost controls in MAC",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577834",
-      "date": "2026-10-29T23:01:00.000Z",
-      "snippet": "We’re expanding cost management for Microsoft Copilot Studio into the Microsoft 365 admin center. This gives administrators a more centralized way to ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Sustainability: Enhance external sustainability reporting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577744",
-      "date": "2026-10-29T23:01:00.000Z",
-      "snippet": "This feature delivers enhancements to the external reporting experience with an improved standards and assessments structure and enhanced search capab...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -772,6 +794,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Boost contact center efficiency with real-time streaming analytics ",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576605",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Real-time streaming analytics is built into the new supervisor application. An advanced streaming engine keeps metrics up to date with near-instant up...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Jeffrey Appel",
       "icon": "ph-shield-check",
       "title": "Microsoft Defender for Endpoint: Beyond default telemetry with Custom Data Collection Rules",
@@ -960,6 +993,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Default meeting templates",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576609",
+      "date": "2026-10-20T23:00:34.000Z",
+      "snippet": "Default meeting templates enable IT admins to automatically apply their organization’s preferred meeting settings whenever users schedule a Teams meet...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Exchange servers may become unstable after installation of October 2026 Windows updates",
@@ -990,17 +1034,6 @@
       "snippet": "Protect confidential discussions and information discussed during Microsoft Teams meetings with built-in security controls. From sensitive content det...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: AI Interpreter for Teams Events",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576711",
-      "date": "2026-10-19T23:15:15.000Z",
-      "snippet": "AI Interpreter for Events brings real-time, AI-powered audio interpretation to Teams Town Halls and Webinars, helping global audiences follow events i...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1238,17 +1271,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Event Chat now available for Events optimized for a large audience in GCC, GCC High and DoD",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573625",
-      "date": "2026-10-08T23:04:12.000Z",
-      "snippet": "All users in Events larger than 1,000 users or in any Event optimized for a large audience can now chat with one another in a public event chat in GCC...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Exchange Blog (MS)",
       "icon": "ph-envelope-simple",
       "title": "Sending From Email Aliases – General Availability",
@@ -1303,6 +1325,17 @@
       "snippet": "10.06.26 Update: The Windows security baseline for Windows 11, version 26H2 is now available for all customers in Microsoft Intune. This baseline refl...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Purview:  Permissions audit log improvements",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573447",
+      "date": "2026-10-06T22:56:31.000Z",
+      "snippet": "Improving permission checks when users access the Microsoft Purview portal. Enhanced audit logs will provide clearer visibility into role and scoped-r...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
