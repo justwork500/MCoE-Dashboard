@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-11-05T04:40:11.746Z",
-  "count": 124,
+  "lastUpdated": "2026-11-05T12:44:39.952Z",
+  "count": 125,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Configure Microsoft AutoUpdate for Windows App on macOS Devices using Intune",
+      "link": "https://www.anoopcnair.com/autoupdate-for-windows-app-macos-devices-intune/",
+      "date": "2026-11-05T10:34:39.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Control Google AI Mode Content Sharing and Protect Company Data using Intune Policy",
+      "link": "https://www.anoopcnair.com/google-ai-mode-content-sharing-and-using-intune/",
+      "date": "2026-11-05T09:28:14.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -110,6 +132,28 @@
       "snippet": "Azure Firewall now supports application rules in IPv6\r\nPublic Preview, enabling layer 7 filtering for IPv6 HTTP and HTTPS traffic. The\r\nenhancement ex...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "SharePoint and OneDrive at Microsoft Ignite 2026: What to Expect",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/sharepoint-and-onedrive-at-microsoft-ignite-2026-what-to-expect/ba-p/4570019",
+      "date": "2026-11-04T17:15:00.000Z",
+      "snippet": "Microsoft Ignite returns November 17–20, 2026, at Moscone Center in San Francisco and online. SharePoint and OneDrive are the knowledge platform for C...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
+      "source": "OneDrive Blog (MS)",
+      "icon": "ph-cloud-arrow-up",
+      "title": "OneDrive and SharePoint at Microsoft Ignite 2026: What to Expect",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/onedrive-and-sharepoint-at-microsoft-ignite-2026-what-to-expect/ba-p/4570020",
+      "date": "2026-11-04T17:15:00.000Z",
+      "snippet": "Microsoft Ignite returns November 17–20, 2026, at Moscone Center in San Francisco and online. OneDrive and SharePoint are the knowledge platform for C...",
+      "tags": [
+        "OneDrive"
       ]
     },
     {
@@ -499,6 +543,17 @@
       ]
     },
     {
+      "source": "SharePoint Blog (MS)",
+      "icon": "ph-browsers",
+      "title": "Introducing SharePoint tools in Work IQ",
+      "link": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/introducing-sharepoint-tools-in-work-iq/ba-p/4569917",
+      "date": "2026-11-03T18:59:59.000Z",
+      "snippet": "Today, SharePoint tools in Work IQ enter public preview, helping agents complete more SharePoint work with higher success rates and fewer tokens. The ...",
+      "tags": [
+        "SharePoint"
+      ]
+    },
+    {
       "source": "Azure Updates",
       "icon": "ph-arrows-clockwise",
       "title": "[In preview] Public Preview: Extend immutability for PITR backups for Azure SQL Database and Azure SQL Managed Instance",
@@ -785,17 +840,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Introduces Bulk eSIM Activation and Removal for Corporate-Owned Android Devices",
-      "link": "https://www.anoopcnair.com/intune-introduces-bulk-esim-activation-android/",
-      "date": "2026-10-29T13:30:54.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "SharePoint Blog (MS)",
       "icon": "ph-browsers",
       "title": "SharePoint Showcase: Refreshed SharePoint mobile app",
@@ -860,17 +904,6 @@
       "snippet": "Sensitive information entered in Copilot prompts, such as credit card numbers, bank account details, etc., can pose security risks. Microsoft Purview ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The AI advantage your company can keep",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -949,17 +982,6 @@
       "snippet": "The deprecation of EWS in Exchange Online starts today. This is a multi-step process, years in the making, and this post has lots of important informa...",
       "tags": [
         "Exchange"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Managing Windows 11 STIG Audits in Intune Security Baselines to Elevate Endpoint Security",
-      "link": "https://www.anoopcnair.com/windows-11-stig-audits-in-intune-security/",
-      "date": "2026-10-26T13:32:05.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
       ]
     },
     {
@@ -1304,17 +1326,6 @@
       "snippet": "In this post, I will explain how to resolve the prerequisite warning for automatic client approval in SCCM. The warning &amp;#8220;Insecure...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-      "date": "2026-10-08T15:00:00.000Z",
-      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
