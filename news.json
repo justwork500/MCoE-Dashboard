@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-11-05T12:44:39.952Z",
+  "lastUpdated": "2026-11-05T20:17:55.485Z",
   "count": 125,
   "items": [
+    {
+      "source": "Azure Updates",
+      "icon": "ph-arrows-clockwise",
+      "title": "[Launched] Generally Available: WAF Insights for Azure Application Gateway",
+      "link": "https://azure.microsoft.com/updates?id=579280",
+      "date": "2026-11-05T17:11:31.000Z",
+      "snippet": "WAF Insights for Azure Application Gateway Web Application Firewall (WAF) is now generally available. WAF Insights is a built-in experience in the WAF...",
+      "tags": [
+        "Azure"
+      ]
+    },
+    {
+      "source": "Edge Dev Blog",
+      "icon": "ph-app-window",
+      "title": "Discover more of what matters, every time you open a new tab in Microsoft Edge",
+      "link": "https://blogs.windows.com/msedgedev/2026/11/05/discover-more-of-what-matters-every-time-you-open-a-new-tab-in-microsoft-edge/",
+      "date": "2026-11-05T16:56:07.000Z",
+      "snippet": "A new browser tab is full of possibilities. It can be the start of something you set out to do—or a chance to discover something you didn&#039;t know. As t...",
+      "tags": [
+        "Edge"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -658,7 +680,7 @@
       "title": "Retirement: Azure Fluid Relay",
       "link": "https://azure.microsoft.com/updates?id=570498",
       "date": "2026-11-02T19:01:41.000Z",
-      "snippet": "On February 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue ...",
+      "snippet": "On June 2, 2027, we will retire Azure Fluid Relay. After this date, Azure Fluid Relay will reach end of availability, and workloads that continue to d...",
       "tags": [
         "Azure"
       ]
@@ -760,17 +782,6 @@
       "snippet": "GitHub empowers any team to become builders in Microsoft Teams. Customer support teams are using GitHub to turn customer feedback from Teams channels ...",
       "tags": [
         "Teams"
-      ]
-    },
-    {
-      "source": "Azure Updates",
-      "icon": "ph-arrows-clockwise",
-      "title": "[In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL ",
-      "link": "https://azure.microsoft.com/updates?id=577491",
-      "date": "2026-10-30T17:16:27.000Z",
-      "snippet": "With database-level managed identity in Azure SQL Database, you can use a user-assigned managed identity for each database to query files in Azure Blo...",
-      "tags": [
-        "Azure"
       ]
     },
     {
@@ -1394,17 +1405,6 @@
       "snippet": "Business value\r\nField service organizations often depend on mobile offline so technicians can keep working when connectivity is limited or unavailable...",
       "tags": [
         "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Jeffrey Appel",
-      "icon": "ph-shield-check",
-      "title": "How to integrate Microsoft Defender/ Sentinel with Microsoft Fabric",
-      "link": "https://jeffreyappel.nl/how-to-integrate-microsoft-defender-sentinel-with-microsoft-fabric/",
-      "date": "2026-10-06T19:09:46.000Z",
-      "snippet": "Since September 23, 2026, the Microsoft Sentinel data lake is no longer a separate onboarding and billing project: it comes integrated with Sentinel f...",
-      "tags": [
-        "Defender"
       ]
     }
   ]
