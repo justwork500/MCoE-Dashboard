@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T15:32:04.466Z",
-  "count": 131,
+  "lastUpdated": "2026-11-06T21:03:47.809Z",
+  "count": 133,
   "items": [
     {
       "source": "Anoop C Nair",
@@ -1028,6 +1028,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "The AI advantage your company can keep",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
+      "date": "2026-10-27T16:00:00.000Z",
+      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Conditional Access Policy Plans in Microsoft Entra ID",
@@ -1458,6 +1469,17 @@
       "snippet": "In this post, I will explain how to resolve the prerequisite warning for automatic client approval in SCCM. The warning &amp;#8220;Insecure...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Blog",
+      "icon": "ph-microsoft-excel-logo",
+      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
+      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
+      "date": "2026-10-08T15:00:00.000Z",
+      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
