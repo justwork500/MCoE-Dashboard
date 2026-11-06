@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-11-06T07:54:12.120Z",
-  "count": 133,
+  "lastUpdated": "2026-11-06T15:32:04.466Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Enable Auto-Deprovisioning for Windows 365 Reserve Cloud PCs using Microsoft Intune",
+      "link": "https://www.anoopcnair.com/auto-deprovisioning-for-windows-365-intune/",
+      "date": "2026-11-06T12:57:19.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Andrew Taylor",
+      "icon": "ph-devices",
+      "title": "Intune Newsletter – 6th November 2026",
+      "link": "https://andrewstaylor.com/2026/11/06/intune-newsletter-6th-november-2026/",
+      "date": "2026-11-06T12:17:39.000Z",
+      "snippet": "Welcome to the first of this new look Intune newsletter in its new home at admin.news Lots of exciting content this week and hopefully you like the ne...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Deploy Google Chrome Process Isolation to Stop Data Tampering using Intune",
+      "link": "https://www.anoopcnair.com/google-chrome-process-isolation-using-intune/",
+      "date": "2026-11-06T10:30:02.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
+    {
+      "source": "Anoop C Nair",
+      "icon": "ph-devices",
+      "title": "Resolve Intune and Group Policy Conflicts using MDMWinsOverGP",
+      "link": "https://www.anoopcnair.com/intune-and-group-policy-conflicts-mdmwinsovergp/",
+      "date": "2026-11-06T09:29:47.000Z",
+      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
+      "tags": [
+        "Intune"
+      ]
+    },
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
@@ -708,17 +752,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Microsoft Intune Disables Legacy User Settings Policy Creation in Cloud PC Settings",
-      "link": "https://www.anoopcnair.com/intune-disables-legacy-user-settings-creation/",
-      "date": "2026-11-03T11:32:07.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "OneDrive Blog (MS)",
       "icon": "ph-cloud-arrow-up",
       "title": "OneDrive Just Got a Major Upgrade: New Copilot Capabilities, Simpler Sharing, and Smarter Photos",
@@ -884,28 +917,6 @@
       ]
     },
     {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Windows 11 KB5127936 Update: 41 Fixes and Improvements for 25H2 and 26H2",
-      "link": "https://www.anoopcnair.com/windows-11-kb5127936-update-41-25h2-and-26h2/",
-      "date": "2026-10-30T14:10:01.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
-      "source": "Anoop C Nair",
-      "icon": "ph-devices",
-      "title": "Intune New Elevation System Settings Policy in EPM to Enable Network Changes Without Admin Privileges",
-      "link": "https://www.anoopcnair.com/intune-elevation-system-settings-policy-in-epm/",
-      "date": "2026-10-30T12:21:52.000Z",
-      "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
-      "tags": [
-        "Intune"
-      ]
-    },
-    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 30th October 2026",
@@ -1014,17 +1025,6 @@
       "snippet": "Sensitive information entered in Copilot prompts, such as credit card numbers, bank account details, etc., can pose security risks. Microsoft Purview ...",
       "tags": [
         "Azure"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The AI advantage your company can keep",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1461,35 +1461,12 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-      "date": "2026-10-08T15:00:00.000Z",
-      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Patch My PC",
       "icon": "ph-package",
       "title": "Patch My PC Publisher Production Version 3.1.4.0 Released",
       "link": "https://patchmypc.com/release-notes/production-release/patch-my-pc-publisher-production-version-3-1-4-0-released/?utm_term=rss",
       "date": "2026-10-08T13:37:57.000Z",
       "snippet": "This release contains a variety of features, improvements, and fixes, as noted below. This will be made available via the self-update channel over the...",
-      "tags": [
-        "Intune",
-        "Windows"
-      ]
-    },
-    {
-      "source": "Patch My PC",
-      "icon": "ph-package",
-      "title": "Inside Intune: Faster compliance updates for Windows devices",
-      "link": "https://patchmypc.com/blog/intune-faster-compliance-updates-for-windows-devices/?utm_term=rss",
-      "date": "2026-10-07T12:29:42.000Z",
-      "snippet": "Microsoft has introduced client-driven compliance evaluation for Windows devices. The idea is simple. Instead of waiting for the next scheduled check-...",
       "tags": [
         "Intune",
         "Windows"
