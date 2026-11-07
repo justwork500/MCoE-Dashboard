@@ -1,7 +1,162 @@
 {
-  "lastUpdated": "2026-11-06T21:03:47.809Z",
-  "count": 133,
+  "lastUpdated": "2026-11-07T06:45:38.801Z",
+  "count": 131,
   "items": [
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Set invoice limits for time and material billing",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578904",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Customers often issue a purchase order that sets how much they&#039;ll accept on each invoice for a time and material engagement. Until now, Dynamics 365 P...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Segmentation of recordings and transcripts in Contact Center",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578901",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Enterprise customers, particularly in regulated industries and large distributed contact center environments operating across multiple business units,...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Project Operations: Deprecate transaction origins",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578900",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Dynamics 365 Project Operations streamlines transaction processing by replacing separate transaction origin records with direct source document refere...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Human Resources: Streamline the preboarding experience",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578897",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Business value\r\nPreboarding gives candidates a clear, consistent way to complete requirements before their first day. HR teams can reduce manual follo...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Finance: Merge bank account financial dimensions when generating vouchers from bank reconciliation rules",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577856",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "When vouchers are generated through bank reconciliation rules, financial dimensions from the selected bank account are merged with the financial dimen...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Release commerce orders from POS to the warehouse",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576302",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Business Value\r\nFor trade counter and call center operations, orders often need to reach the warehouse quickly so that picking and fulfillment activit...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Improve order capture workflows in Store Commerce",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576301",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Business value\r\nEvery friction point in order capture adds time to each transaction and increases the risk of downstream errors. Context that has no f...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Label printing in Store Commerce",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576300",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "This feature provides label printing in Store Commerce. Store associates print labels in the store, either on demand or from a label print request sen...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Commerce: Commerce MCP Tools for POS Shift and Cash Management",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576299",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "This feature provides reusable Model Context Protocol (MCP) tools for Store Commerce shift and cash management, exposing Commerce capabilities as stru...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Execute (Recipes)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570866",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Enable agents to execute reusable Work IQ recipes that coordinate supported tools and actions.GA date: November CY2026Preview date: October CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Work IQ: Federated connectors",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=570670",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Enable Work IQ to use federated connectors for governed access to additional enterprise data sources.GA date: November CY2026Preview date: October CY2...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Facilitator follow-up mode",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=566523",
+      "date": "2026-11-06T23:04:41.000Z",
+      "snippet": "Chat naturally with Facilitator without tagging it each time.GA date: December CY2026",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "MSRC Security Updates",
+      "icon": "ph-shield-warning",
+      "title": "CVE-2026-83844 Windows Paint Remote Code Execution Vulnerability",
+      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83844",
+      "date": "2026-11-06T16:00:00.000Z",
+      "snippet": "To comprehensively address the vulnerability identified by this CVE, Microsoft has released a new version of Paint with build version number 11.2609.4...",
+      "tags": [
+        "Windows",
+        "Azure"
+      ]
+    },
+    {
+      "source": "Exchange Blog (MS)",
+      "icon": "ph-envelope-simple",
+      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
+      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
+      "date": "2026-11-06T15:17:58.000Z",
+      "snippet": "Update 11/6/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Pol...",
+      "tags": [
+        "Exchange"
+      ]
+    },
     {
       "source": "Anoop C Nair",
       "icon": "ph-devices",
@@ -44,204 +199,6 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "OneDrive: Command-line tool for the OneDrive sync app",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578910",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "A new command-line tool, odcli, lets OneDrive users, IT admins and support engineers check and manage the OneDrive sync app from the command line. Com...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Project Operations: Invoice usability enhancements",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578905",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "When billing teams review an invoice, they need to see where it stands, which transactions it includes, and what&#039;s still waiting to be billed. When th...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance: Table edit with Microsoft Power BI filters and slicers",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578876",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "The table edit visual now responds to filters and slicers applied within the Microsoft Power BI report. When users filter the report using a slicer or...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance: Faster cube data loading with optimized dataflows",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578874",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Business performance planning introduces an optimized dataflow capability designed to improve the performance of loading data into planning cubes.\r\nTh...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Finance: Faster cube data loading with optimized dataflows",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578873",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "The Matrix visual now provides clearer control over how zero and blank values are handled during planning.\r\nUsers can explicitly save 0 as a planning ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Work IQ: Memory capabilities expand to agents",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578869",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "A new Work IQ MCP path, /memory/me/coreMemories, gives authorized agents access to a user’s memory profile. This profile enables agents to provide mor...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Viva: Insights and Copilot Analytics in GCC and GCC High",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578868",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "We are expanding the availability of Viva Insights and Copilot Analytics capabilities in Microsoft 365 Government Community Cloud (GCC, or GCC-M) and ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365 Copilot (Microsoft 365): Accounting skills",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578864",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Streamline corporate accounting work\r\nNew accounting capabilities in Excel and Cowork help accountants spend less time on repetitive, manual tasks in ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Specify contacts on orders and quotations in POS",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577748",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "In B2B commerce, the company is the customer of record, but the individuals who place orders, make deposits, and collect goods can vary from transacti...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft 365: [Education] Microsoft Learning Zone - Improve Lesson Insights",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577544",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "See where your class is struggling and which students need support, with lesson-level results for every student. Aggregated responses show the mistake...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Unified Pricing Management - Attribute-based margin thresholds and tiers for approvals and reporting",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577415",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Pricing managers can set margin controls that match how the business actually sells, instead of one threshold for everything. Each product, channel an...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Unified Pricing Management - Set prices per price unit for low-value items",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577413",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Businesses that sell small, low-value items, such as fasteners, electronic components or packaging, can maintain prices more easily and accurately, wi...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Unified Pricing Management - Require manager approval for price overrides and manual discounts that exceed margin limits",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577412",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Retailers can protect their profitability without slowing down store operations. Sales associates can still adjust prices to close a sale. Any change ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Unified Pricing Management - View item margins on carts and orders in POS and APIs",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577410",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Store associates and other selling channels can now see margins while they sell. This helps them make better pricing decisions and avoid unprofitable ...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Show ATP and transfer lead time in Dynamics 365 Commerce inventory lookup",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577406",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Store and trade-counter associates often need to source items from another store or warehouse and tell the customer when the item will arrive. This fe...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Commerce: Tap to Pay on Android using Adyen connector",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577402",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Business Value\r\nTap to Pay on Android empowers sales associates with mobility, enabling them to accept payments directly on over-the-counter Android d...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Purview: Data Lifecycle Management-Enable version trimming for data covered by retention policies in OneDrive and SharePoint",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=575284",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Let tenants trim file-version bloat created by retention, without breaking compliance promises. SharePoint/compliance admins at large, regulated enter...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Dynamics 365 Business Central: Expense Agent - specify when receipts must contain a VAT number",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=573611",
-      "date": "2026-11-05T23:59:28.000Z",
-      "snippet": "Help ensure expense receipts include required company VAT information by applying your organization’s receipt validation rules. Expense Agent can chec...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
@@ -297,6 +254,17 @@
       "snippet": "Hello - Here is the new HTMD Blog Article for you. Enjoy reading it. \nSubscribe to YouTube Channel https://www.youtube.com/c/AnoopCNairSCCM?sub_confir...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Teams: Multiple screen shares\r\nin Teams Rooms on Windows",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=579184",
+      "date": "2026-11-04T23:59:50.000Z",
+      "snippet": "You can now view up to two shared screens side by side during meetings, reducing interruptions from screen hand-offs. Participants can switch between ...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -586,18 +554,6 @@
       "icon": "ph-shield-warning",
       "title": "Chromium CVE-2026-76026: Memory corruption",
       "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76026",
-      "date": "2026-11-04T16:00:00.000Z",
-      "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
-      "tags": [
-        "Windows",
-        "Azure"
-      ]
-    },
-    {
-      "source": "MSRC Security Updates",
-      "icon": "ph-shield-warning",
-      "title": "Chromium CVE-2026-76027: Memory corruption",
-      "link": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-76027",
       "date": "2026-11-04T16:00:00.000Z",
       "snippet": "This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Relea...",
       "tags": [
@@ -897,10 +853,10 @@
     {
       "source": "Microsoft 365 Roadmap",
       "icon": "ph-map-trifold",
-      "title": "Microsoft Copilot (Microsoft 365): [Education] Create multi-week unit plans with Teach",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577392",
+      "title": "Microsoft 365: Frontier expands to public previews in Teams, Outlook, OneDrive, and SharePoint",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=578225",
       "date": "2026-10-30T22:08:34.000Z",
-      "snippet": "Educators can use Teach in Microsoft 365 Copilot to create structured unit plans that span multiple lessons or weeks. They can customize the plan comp...",
+      "snippet": "Frontier is expanding to bring eligible public preview features across Microsoft 365 into one program. Users enrolled in Frontier can get eligible pre...",
       "tags": [
         "Microsoft 365 Apps"
       ]
@@ -925,17 +881,6 @@
       "snippet": "Welcome back and to those at MMS, I hope it was great fun.  Next week I&amp;#8217;m off to Experts Live Switzerland, hopefully I&amp;#8217;ll see some of you ...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Exchange Blog (MS)",
-      "icon": "ph-envelope-simple",
-      "title": "Cross-tenant Free/Busy, MailTips, and Calendar Sharing are moving to Cross-Tenant Access Policy",
-      "link": "https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169",
-      "date": "2026-10-29T18:00:55.000Z",
-      "snippet": "Update 10/29/2026: This blog post discusses a feature that is not yet fully available. Please see&amp;nbsp;The rollout schedule for Cross-Tenant Access Po...",
-      "tags": [
-        "Exchange"
       ]
     },
     {
@@ -980,6 +925,17 @@
       "snippet": "SharePoint introduces a new site creation experience that allows admins to redirect users to a custom URL when they try to create a new site. The dest...",
       "tags": [
         "Azure"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Use bullseye routing with user groups to orchestrate conversations",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576606",
+      "date": "2026-10-28T23:04:31.000Z",
+      "snippet": "Bullseye routing with user groups enables a tiered assignment strategy that automatically expands the pool of eligible representatives as conversation...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1028,17 +984,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "The AI advantage your company can keep",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-      "date": "2026-10-27T16:00:00.000Z",
-      "snippet": "New research across more than 200 enterprises looks at how shared knowledge can help companies coordinate their agents—and turn lessons from their wor...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "AdminDroid (Entra/M365)",
       "icon": "ph-shield-check",
       "title": "Conditional Access Policy Plans in Microsoft Entra ID",
@@ -1058,6 +1003,28 @@
       "snippet": "GitHub can now bring repository updates into a channel, group chat, or private chat. When an update needs action, reply to the notification and @menti...",
       "tags": [
         "Teams"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Microsoft Copilot (Microsoft 365): App Blocks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577743",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "App Blocks enables M365 Copilot Chat users to turn their requests and data into rich, interactive experiences directly within the conversation, includ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Excel: Edit with Copilot in Excel on iPhone",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577177",
+      "date": "2026-10-26T23:15:50.000Z",
+      "snippet": "Edit with Copilot makes it easier to edit and transform your Excel workbooks on your phone using natural language. Copilot can continue working on you...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1117,6 +1084,17 @@
       ]
     },
     {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Unified routing - Use overflow actions to protect customer experience for direct inward calls",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576607",
+      "date": "2026-10-23T23:10:36.000Z",
+      "snippet": "Overflow for direct inward dialing leverages conversation orchestration to detect key direct inward dialing-related events—such as the representative ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
       "source": "Andrew Taylor",
       "icon": "ph-devices",
       "title": "Intune Newsletter – 23rd October 2026",
@@ -1125,6 +1103,28 @@
       "snippet": "What a week it has been for the IT world between a PHP CVE which hit most of the internet to a certificate secured by the number 4 (or not secured), I...",
       "tags": [
         "Intune"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Dynamics 365 Contact Center: Unified routing - Orchestrate conversation distribution with natural language playbooks",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577788",
+      "date": "2026-10-22T23:45:24.000Z",
+      "snippet": "Conversation orchestration in Dynamics 365 Contact Center keeps every conversation actively managed throughout its lifecycle, from initiation through ...",
+      "tags": [
+        "Microsoft 365 Apps"
+      ]
+    },
+    {
+      "source": "Microsoft 365 Roadmap",
+      "icon": "ph-map-trifold",
+      "title": "Power Pages: SDK (Software Development Kit)",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=577419",
+      "date": "2026-10-22T22:58:40.000Z",
+      "snippet": "Build native mobile applications or kiosks using Power Pages as the backend foundation with support for authentication, authorization, APIs, data acce...",
+      "tags": [
+        "Microsoft 365 Apps"
       ]
     },
     {
@@ -1315,17 +1315,6 @@
       ]
     },
     {
-      "source": "Microsoft 365 Roadmap",
-      "icon": "ph-map-trifold",
-      "title": "Microsoft Teams: Pinch to zoom in on shared screens",
-      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=576193",
-      "date": "2026-10-15T22:47:30.000Z",
-      "snippet": "Get a closer look at shared content in Teams calls and meetings with pinch-to-zoom using your touchpad. Quickly zoom in to make small text and detaile...",
-      "tags": [
-        "Microsoft 365 Apps"
-      ]
-    },
-    {
       "source": "Edge Dev Blog",
       "icon": "ph-app-window",
       "title": "Faster protection, fewer interruptions: How Microsoft Edge is rethinking updates",
@@ -1469,17 +1458,6 @@
       "snippet": "In this post, I will explain how to resolve the prerequisite warning for automatic client approval in SCCM. The warning &amp;#8220;Insecure...",
       "tags": [
         "Intune"
-      ]
-    },
-    {
-      "source": "Microsoft 365 Blog",
-      "icon": "ph-microsoft-excel-logo",
-      "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-      "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-      "date": "2026-10-08T15:00:00.000Z",
-      "snippet": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find...",
-      "tags": [
-        "Microsoft 365 Apps"
       ]
     },
     {
